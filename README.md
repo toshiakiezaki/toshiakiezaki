@@ -9,3 +9,14 @@
 - :office: I'm currently working at Pismo as a Engineering Manager
 - :house: I'm from Brazil, and willing to live abroad sometime in the future
 - :hourglass_flowing_sand: I have been working with software development since 2006
+- :family_man_woman_boy_boy: I like to play with my kid in the spare time and to watch series and movies with my wife
+- :video_game: I also like to play video games, focusing on RPG, which one of my favorites is the Final Fantasy franchise
+- :books: I am focusing my skills to Java, Kubernetes and AWS, and also expending some time improving other languages, like Golang and Flutter
+
+### $ stats_
+
+[![Toshiaki Ezaki's Github Stats](https://github-readme-stats.vercel.app/api?username=toshiakiezaki&theme=codeSTACKr&show_icons=true)](https://github.com/gb8may/github-readme-stats)
+
+### $ languages_
+
+[![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/ricardoSabinolrs/github-readme-stats)
