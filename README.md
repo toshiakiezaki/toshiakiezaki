@@ -15,8 +15,8 @@
 
 ### $ stats_
 
-[![Toshiaki Ezaki's Github Stats](https://github-readme-stats.vercel.app/api?username=toshiakiezaki&theme=codeSTACKr&show_icons=true)](https://github.com/gb8may/github-readme-stats)
+![Toshiaki Ezaki's Github Stats](https://github-readme-stats.vercel.app/api?username=toshiakiezaki&theme=codeSTACKr&show_icons=true)
 
 ### $ languages_
 
-[![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/gb8may/github-readme-stats)
+![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)
