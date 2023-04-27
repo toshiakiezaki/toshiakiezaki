@@ -6,7 +6,7 @@
 
 ### $ whoami_
 
-- :office: I'm currently working at Pismo as a Engineering Manager
+- :computer: I'm currently working at Pismo as a Engineering Manager
 - :house: I'm from Brazil, and willing to live abroad sometime in the future
 - :hourglass_flowing_sand: I have been working with software development since 2006
 - :family_man_woman_boy_boy: I like to play with my kid in the spare time and to watch series and movies with my wife
@@ -19,4 +19,4 @@
 
 ### $ languages_
 
-[![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/ricardoSabinolrs/github-readme-stats)
+[![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/gb8may/github-readme-stats)
