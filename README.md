@@ -6,12 +6,12 @@
 
 ### $ whoami_
 
-- :computer: I'm currently working at Pismo as a Engineering Manager
+- :computer: I'm currently working at Pismo as an Engineering Manager
 - :house: I'm from Brazil, and willing to live abroad sometime in the future
 - :hourglass_flowing_sand: I have been working with software development since 2006
-- :family_man_woman_boy_boy: I like to play with my kid in the spare time and to watch series and movies with my wife
-- :video_game: I also like to play video games, focusing on RPG, which one of my favorites is the Final Fantasy franchise
-- :books: I am focusing my skills to Java, Kubernetes and AWS, and also expending some time improving other languages, like Golang and Flutter
+- :family_man_woman_boy_boy: I like to play with my kids in my spare time and watch series and movies with my wife
+- :video_game: I also like to play video games, focusing on RPG, and one of my favorites is the Final Fantasy franchise
+- :books: I am focusing my skills on Java, Kubernetes, and AWS, and also spending some time improving other languages, like Golang and Flutter
 
 ### $ stats_
 
