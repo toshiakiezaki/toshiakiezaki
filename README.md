@@ -13,10 +13,12 @@
 - :video_game: I also like to play video games, focusing on RPG, and one of my favorites is the Final Fantasy franchise
 - :books: I am focusing my skills on Java, Kubernetes, and AWS, and also spending some time improving other languages, like Golang and Flutter
 
-### $ stats_
+### $ stats_[^1]
 
 ![Toshiaki Ezaki's Github Stats](https://github-readme-stats.vercel.app/api?username=toshiakiezaki&theme=codeSTACKr&show_icons=true)
 
-### $ languages_
+### $ languages_[^1]
 
 ![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)
+
+[^1]: Showing data only from public repositories
