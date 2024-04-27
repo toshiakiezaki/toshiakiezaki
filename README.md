@@ -15,10 +15,15 @@
 
 ### $ stats_[^1]
 
-![Toshiaki Ezaki's Github Stats](https://github-readme-stats.vercel.app/api?username=toshiakiezaki&theme=codeSTACKr&show_icons=true)
+<a href="https://github.com/daniellaera">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=toshiakiezaki&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr"/>
+</a>
 
-### $ languages_[^1]
+### $ dailyquote_
 
-![Toshiaki Ezaki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)
+<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+
+<p>- Pema Chodron</p>
 
 [^1]: Showing data only from public repositories
