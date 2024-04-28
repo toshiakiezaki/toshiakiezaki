@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>Unknown</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
