@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is done in the world is done by hope.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>Martin Luther</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
