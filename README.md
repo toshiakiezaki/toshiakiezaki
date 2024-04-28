@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>Samuel Butler</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
