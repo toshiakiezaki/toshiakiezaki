@@ -1,0 +1,38 @@
+name: Dynamic daily quotes
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  get-office-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config pull.rebase false
+          git config --global user.name "Toshiaki Ezaki"
+          git config --global user.email "toshiaki.ezaki@gmail.com"
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Update daily quote
+        run: go run main.go
+
+      - name: Add to git repo
+        run: |
+          git pull
+          git add .
+          git commit -m "Automatically updated updated with new Office quote"
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GIT_ACCESS_TOKEN }}
