@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must create our own world or we will die from inaction.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>Robert Greene</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
