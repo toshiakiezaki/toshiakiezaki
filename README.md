@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>Unknown</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
