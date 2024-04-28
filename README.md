@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Pema Chodron</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
