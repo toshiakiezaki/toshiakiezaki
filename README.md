@@ -22,8 +22,10 @@
 
 ### $ dailyquote_
 
+<!-- dailyquote:start -->
 <p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
 
 <p>- Pema Chodron</p>
+<!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
