@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be calm is the highest achievement of the self.</p>
+<p>The salvation of the world lies in the human heart.</p>
 
-<p>Zen Proverb</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
