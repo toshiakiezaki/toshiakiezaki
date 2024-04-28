@@ -30,7 +30,7 @@ jobs:
         run: |
           git pull
           git add .
-          git commit -m "Automatically updated updated with new Office quote"
+          git commit -m "Automatically updated with new Office quote"
 
       - name: Push
         uses: ad-m/github-push-action@master
