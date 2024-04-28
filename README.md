@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds are always feared by lesser minds.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>Dan Brown</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
