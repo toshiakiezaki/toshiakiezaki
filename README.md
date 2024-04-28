@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>St. Jerome</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
