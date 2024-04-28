@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The salvation of the world lies in the human heart.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>Vaclav Havel</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
