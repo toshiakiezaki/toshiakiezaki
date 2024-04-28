@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Desire for the fruits of work must never be your motive in working.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>Bhagavad Gita</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
