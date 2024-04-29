@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If they wrote it to make money, don't read it.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>Naval Ravikant</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
