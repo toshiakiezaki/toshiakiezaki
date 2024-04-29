@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>an action committed in anger is an action doomed to failure. </p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>Genghis Khan</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
