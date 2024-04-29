@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>Not all those who wander are lost.</p>
 
-<p>Charles Swindoll</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
