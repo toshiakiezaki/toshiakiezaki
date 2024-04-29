@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you let your head get too big, it'll break your neck.</p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>Elvis Presley</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
