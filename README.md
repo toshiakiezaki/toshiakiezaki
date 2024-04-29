@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>The best fighter is never angry.</p>
 
-<p>Alan Watts</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
