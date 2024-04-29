@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>Joyce Meyer</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
