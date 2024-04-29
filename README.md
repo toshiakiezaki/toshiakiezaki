@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being wrong brings the opportunity for growth.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Mark Manson</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
