@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
