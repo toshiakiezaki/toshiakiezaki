@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>Wayne Gretzky</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
