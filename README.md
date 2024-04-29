@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you give, the more comes back to you.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>Napoleon Hill</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
