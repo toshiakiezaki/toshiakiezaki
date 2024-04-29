@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>Unknown</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
