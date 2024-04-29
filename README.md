@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
 
-<p>Gilbert Chesterton</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
