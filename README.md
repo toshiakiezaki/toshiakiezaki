@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>Isaac Newton</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
