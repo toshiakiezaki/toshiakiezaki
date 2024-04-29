@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>Earl Nightingale</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
