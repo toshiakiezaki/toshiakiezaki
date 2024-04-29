@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Zig Ziglar</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
