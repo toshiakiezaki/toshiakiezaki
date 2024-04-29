@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all those who wander are lost.</p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
