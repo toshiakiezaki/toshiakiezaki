@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>James Allen</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
