@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you decide to do, make sure it makes you happy.</p>
+<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
 
-<p>Paulo Coelho</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
