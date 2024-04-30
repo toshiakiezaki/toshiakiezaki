@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>Rumi</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
