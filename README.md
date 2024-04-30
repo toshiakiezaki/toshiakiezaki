@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are possessed by nothing possess everything.</p>
+<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
