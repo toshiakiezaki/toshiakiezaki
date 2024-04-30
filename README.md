@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>Zhuangzi</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
