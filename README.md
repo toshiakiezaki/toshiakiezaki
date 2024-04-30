@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>Walt Whitman</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
