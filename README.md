@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is trying things to see if they work.</p>
+<p>Do not stop thinking of life as an adventure.</p>
 
-<p>Ray Bradbury</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
