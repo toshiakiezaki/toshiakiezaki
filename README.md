@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
