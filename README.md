@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>Bob Proctor</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
