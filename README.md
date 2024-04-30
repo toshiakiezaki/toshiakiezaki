@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>Steve Maraboli</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
