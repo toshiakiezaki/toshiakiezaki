@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
