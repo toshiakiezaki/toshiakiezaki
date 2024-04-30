@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not stop thinking of life as an adventure.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
