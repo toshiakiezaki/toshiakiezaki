@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>Audrey Hepburn</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
