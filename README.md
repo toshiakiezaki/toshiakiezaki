@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>Eckhart Tolle</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
