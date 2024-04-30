@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>Steve Jobs</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
