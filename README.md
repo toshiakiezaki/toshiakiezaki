@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</p>
+<p>Life is trying things to see if they work.</p>
 
 <p>Ray Bradbury</p>
 <!-- dailyquote:end -->
