@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>Maxime Lagace</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
