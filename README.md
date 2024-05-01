@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
