@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>Mae West</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
