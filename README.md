@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>Sun Tzu</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
