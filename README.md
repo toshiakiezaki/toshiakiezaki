@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Goodness is the only investment that never fails.</p>
+<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
 
-<p>Henry David Thoreau</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
