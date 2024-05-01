@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>Don't wait for the right opportunity: create it.</p>
 
-<p>Elon Musk</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
