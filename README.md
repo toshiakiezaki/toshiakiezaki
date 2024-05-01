@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without the confidence, nothing can be accomplished.</p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
