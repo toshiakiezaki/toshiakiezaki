@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The art of being happy lies in the power of extracting happiness from common things.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
