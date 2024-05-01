@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>Chinese Proverb</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
