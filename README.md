@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We suffer more often in imagination than in reality.  </p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>Seneca</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
