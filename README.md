@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've made a mistake, it's better just to laugh at it.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Zen Proverb</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
