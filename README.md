@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>If you tell the truth, you don't have to remember anything.</p>
 
-<p>Leo Tolstoy</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
