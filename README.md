@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>Mark Twain</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
