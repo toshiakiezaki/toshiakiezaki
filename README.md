@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>Simon Sinek</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
