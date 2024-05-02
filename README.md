@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quiet people have the loudest minds.</p>
+<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
 
-<p>Stephen Hawking</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
