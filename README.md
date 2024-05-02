@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
