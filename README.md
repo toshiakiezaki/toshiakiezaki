@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The prettiest eyes have cried the most.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>Unknown</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
