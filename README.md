@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the past steal your present.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>Cherralea Morgen</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
