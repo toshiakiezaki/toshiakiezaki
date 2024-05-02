@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is not fatal, but failure to change might be.</p>
+<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
 
-<p>John Wooden</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
