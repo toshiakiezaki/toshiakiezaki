@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't what you do, but how you do it.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
 <p>John Wooden</p>
 <!-- dailyquote:end -->
