@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>Christopher Reeve</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
