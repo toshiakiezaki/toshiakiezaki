@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>Eric Hoffer</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
