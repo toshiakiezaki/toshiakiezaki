@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
 
-<p>Zig Ziglar</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
