@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't criticize what you can't understand. </p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>Bob Dylan</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
