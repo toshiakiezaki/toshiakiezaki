@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>Mother Teresa</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
