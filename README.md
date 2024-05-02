@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>Og Mandino</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
