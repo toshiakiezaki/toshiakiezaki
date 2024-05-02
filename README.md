@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
 
-<p>Roy T. Bennett</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
