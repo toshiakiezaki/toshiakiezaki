@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a series of choices and all we can do is make them.</p>
+<p>We lie the loudest when we lie to ourselves.</p>
 
-<p>Kamal Ravikant</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
