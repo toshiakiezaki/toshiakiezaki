@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>Bruce Lee</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
