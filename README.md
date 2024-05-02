@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Desire is suffering.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>Naval Ravikant</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
