@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not seek. I find.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>Pablo Picasso</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
