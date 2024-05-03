@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>Robin Sharma</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
