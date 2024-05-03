@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>Aristotle</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
