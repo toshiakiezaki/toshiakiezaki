@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Constantly think about how you could be doing things better.</p>
+<p>Most of us will do anything to avoid facing ourselves.</p>
 
-<p>Elon Musk</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
