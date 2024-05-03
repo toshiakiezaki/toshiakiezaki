@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>Og Mandino</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
