@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
 
-<p>Dr. Seuss</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
