@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is patience.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>Isaac Newton</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
