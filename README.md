@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners don't Quit. That's why they Win.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Unknown</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
