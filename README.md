@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
