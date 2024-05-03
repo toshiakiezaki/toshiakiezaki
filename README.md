@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>Lolly Daskal</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
