@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is done in the world is done by hope.</p>
+<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
 
-<p>Martin Luther</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
