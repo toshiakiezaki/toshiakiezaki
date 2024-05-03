@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>Audrey Hepburn</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
