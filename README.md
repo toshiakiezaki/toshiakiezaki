@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
