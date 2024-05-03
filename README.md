@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
 
-<p>Josh Waitzkin</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
