@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>Ronald Reagan</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
