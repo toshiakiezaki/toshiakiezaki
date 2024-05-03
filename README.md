@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place success comes before work is in the dictionary.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>Vince Lombardi</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
