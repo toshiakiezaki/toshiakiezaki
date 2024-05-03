@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all here for some special reason.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>Robin Sharma</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
