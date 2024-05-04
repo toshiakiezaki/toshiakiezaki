@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
+<p>The sun is new each day.</p>
 
-<p>Lolly Daskal</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
