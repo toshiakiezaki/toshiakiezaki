@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>The final mystery is oneself.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
