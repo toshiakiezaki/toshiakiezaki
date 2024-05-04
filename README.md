@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love the life you live, live the life you love.</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>Bob Marley</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
