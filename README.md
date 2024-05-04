@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>Pema Chodron</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
