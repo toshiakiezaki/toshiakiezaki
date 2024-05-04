@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>Criss Jami</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
