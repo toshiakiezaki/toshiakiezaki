@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your dream has to be bigger than your fear.</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>Steve Harvey</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
