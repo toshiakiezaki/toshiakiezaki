@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>Zig Ziglar</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
