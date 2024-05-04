@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>Vincent van Gogh</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
