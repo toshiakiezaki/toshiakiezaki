@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Roy T. Bennett</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
