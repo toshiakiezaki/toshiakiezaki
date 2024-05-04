@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>Dan Millman</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
