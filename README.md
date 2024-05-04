@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>Brian Tracy</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
