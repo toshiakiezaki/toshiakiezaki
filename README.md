@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
+<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
