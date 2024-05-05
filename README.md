@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>Denis Waitley</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
