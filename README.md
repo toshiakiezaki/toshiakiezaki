@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>Eckhart Tolle</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
