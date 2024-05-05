@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Henry Ford</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
