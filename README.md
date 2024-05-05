@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
 
-<p>Dogen</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
