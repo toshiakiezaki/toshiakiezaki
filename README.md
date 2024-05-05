@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</p>
 
-<p>Unknown</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
