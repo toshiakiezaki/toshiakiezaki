@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows how to wait need make no concessions.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>Sigmund Freud</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
