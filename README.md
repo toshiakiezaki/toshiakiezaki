@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Maxime Lagace</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
