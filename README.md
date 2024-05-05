@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
 
-<p>James Allen</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
