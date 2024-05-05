@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>A leader is one who knows the way, goes the way, and shows the way.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
