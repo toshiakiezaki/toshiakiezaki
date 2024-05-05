@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>Brian Tracy</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
