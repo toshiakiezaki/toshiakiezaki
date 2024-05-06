@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The river that flows in you also flows in me.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>Kabir</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
