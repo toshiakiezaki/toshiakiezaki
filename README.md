@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>John Wooden</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
