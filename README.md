@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something new, you have to stop doing something old.</p>
+<p>Unless you change how you are, you will always have what you got.</p>
 
-<p>Peter Drucker</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
