@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</p>
+<p>The less people know, the more stubbornly they know it.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
