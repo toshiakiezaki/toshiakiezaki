@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>Estee Lauder</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
