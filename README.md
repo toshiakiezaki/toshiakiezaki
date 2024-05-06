@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
 
-<p>Michael Jordan</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
