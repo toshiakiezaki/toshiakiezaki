@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>Rumi</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
