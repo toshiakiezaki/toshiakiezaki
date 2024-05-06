@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
 
-<p>Simon Sinek</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
