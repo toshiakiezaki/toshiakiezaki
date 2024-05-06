@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>Enjoy every minute of life. Never second-guess life.</p>
 
-<p>Bruce Lee</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
