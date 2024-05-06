@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The farther backward you can look, the farther forward you are likely to see.</p>
+<p>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</p>
 
-<p>Winston Churchill</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
