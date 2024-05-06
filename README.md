@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more acquaintances you have, the less you know them.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>Chinese Proverb</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
