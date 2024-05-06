@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>Bob Proctor</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
