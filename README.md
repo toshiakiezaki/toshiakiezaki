@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>Seneca</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
