@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be polite to all, but intimate with few.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>Thomas Jefferson</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
