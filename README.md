@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less people know, the more stubbornly they know it.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>Osho</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
