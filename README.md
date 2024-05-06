@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do anything, but let it produce joy.</p>
+<p>Change is inevitable but personal growth is a choice.</p>
 
-<p>Walt Whitman</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
