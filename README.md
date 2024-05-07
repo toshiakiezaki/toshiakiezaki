@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature loves to hide.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>Heraclitus</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
