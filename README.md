@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination means nothing without doing.  </p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>Charlie Chaplin</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
