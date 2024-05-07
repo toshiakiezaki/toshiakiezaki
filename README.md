@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>Kabir</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
