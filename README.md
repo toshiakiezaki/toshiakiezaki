@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
 
-<p>Thomas Edison</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
