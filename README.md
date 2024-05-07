@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time heals what reason cannot.  </p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>Seneca</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
