@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>Nature loves to hide.</p>
 
-<p>Pema Chodron</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
