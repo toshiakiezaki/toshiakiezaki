@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
 <p>Lao Tzu</p>
 <!-- dailyquote:end -->
