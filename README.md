@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>Lao Tzu</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
