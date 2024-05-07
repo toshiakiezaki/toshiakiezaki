@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
