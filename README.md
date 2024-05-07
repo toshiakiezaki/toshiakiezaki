@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
 
-<p>Brian Tracy</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
