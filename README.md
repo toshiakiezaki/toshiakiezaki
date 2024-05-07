@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>Time heals what reason cannot.  </p>
 
-<p>A.A. Milne</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
