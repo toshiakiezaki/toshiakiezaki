@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>Wayne Gretzky</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
