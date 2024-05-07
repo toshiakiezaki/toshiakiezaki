@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>I live by letting things happen.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
