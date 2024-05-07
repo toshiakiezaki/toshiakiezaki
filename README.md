@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>Michael Jordan</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
