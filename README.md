@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>William Faulkner</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
