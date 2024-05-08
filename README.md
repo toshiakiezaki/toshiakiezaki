@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True it is, we only hate those whom we do not know.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>Andrew Carnegie</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
