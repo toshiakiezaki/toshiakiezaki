@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
