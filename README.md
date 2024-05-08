@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>Every failure brings with it the seed of an equivalent success.</p>
 
-<p>Wayne Dyer</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
