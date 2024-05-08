@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
