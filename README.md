@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>Mary Engelbreit</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
