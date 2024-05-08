@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>Criss Jami</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
