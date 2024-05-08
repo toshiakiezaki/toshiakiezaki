@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>Sun Tzu</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
