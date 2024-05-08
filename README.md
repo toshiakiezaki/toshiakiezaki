@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>Epictetus</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
