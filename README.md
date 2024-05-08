@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>Earl Nightingale</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
