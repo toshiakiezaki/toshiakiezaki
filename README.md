@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
 
 <p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
