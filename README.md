@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>Dan Millman</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
