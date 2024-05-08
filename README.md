@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>Lolly Daskal</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
