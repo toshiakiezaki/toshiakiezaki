@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day is an opportunity to a make a new happy ending.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>Jonathan Swift</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
