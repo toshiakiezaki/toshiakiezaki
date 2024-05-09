@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>Difficult roads often lead to beautiful destinations.</p>
 
-<p>D. H. Lawrence</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
