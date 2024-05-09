@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>Unknown</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
