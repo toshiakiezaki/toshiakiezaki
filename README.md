@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is often safer to be in chains than to be free. </p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>Franz Kafka</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
