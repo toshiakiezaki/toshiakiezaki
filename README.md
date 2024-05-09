@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>Open your mind before your mouth.</p>
 
-<p>Vidal Sassoon</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
