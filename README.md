@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
