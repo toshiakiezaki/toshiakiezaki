@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Criss Jami</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
