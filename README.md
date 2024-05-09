@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone you admire was once a beginner.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>Jack Butcher</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
