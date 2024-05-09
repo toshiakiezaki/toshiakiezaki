@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember, today is the tomorrow you worried about yesterday.</p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>Dale Carnegie</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
