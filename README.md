@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>Colin Powell</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
