@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Andrew Carnegie</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
