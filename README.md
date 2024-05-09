@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't make things happen then things will happen to you.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>Robert Collier</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
