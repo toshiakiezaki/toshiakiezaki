@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness depends on your mindset and attitude.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>Roy T. Bennett</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
