@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>Unknown</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
