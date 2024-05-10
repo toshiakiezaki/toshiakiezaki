@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>Steve Maraboli</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
