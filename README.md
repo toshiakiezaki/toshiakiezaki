@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
 
-<p>Alexander Pope</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
