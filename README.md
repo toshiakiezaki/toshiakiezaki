@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no greater agony than bearing an untold story inside you.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>Maya Angelou</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
