@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
 
-<p>Earl Nightingale</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
