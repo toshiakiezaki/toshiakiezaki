@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that irritates us about others.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>Carl Jung</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
