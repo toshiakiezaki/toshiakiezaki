@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>Alexander Pope</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
