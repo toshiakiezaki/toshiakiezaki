@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>The essence of the Way is detachment.</p>
 
-<p>Zig Ziglar</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
