@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>Success is the progressive realization of a worthy goal or ideal.</p>
 
-<p>Deepak Chopra</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
