@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
