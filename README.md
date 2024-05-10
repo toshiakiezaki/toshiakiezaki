@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
+<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
 
-<p>Gustave Flaubert</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
