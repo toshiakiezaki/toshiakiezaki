@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>Socrates</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
