@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>Ayn Rand</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
