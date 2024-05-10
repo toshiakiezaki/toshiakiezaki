@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
 
-<p>George Eliot</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
