@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Still your waters.</p>
 
-<p>Dan Millman</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
