@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
