@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The essence of the Way is detachment.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Bodhidharma</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
