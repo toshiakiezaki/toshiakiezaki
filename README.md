@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>Aristotle</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
