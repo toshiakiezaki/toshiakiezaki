@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has no limitations except the ones you make.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>Les Brown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
