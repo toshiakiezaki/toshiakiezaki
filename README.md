@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>Life has no limitations except the ones you make.</p>
 
-<p>Roy T. Bennett</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
