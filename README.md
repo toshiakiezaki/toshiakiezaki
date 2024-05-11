@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence breeds beauty.  </p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>Estee Lauder</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
