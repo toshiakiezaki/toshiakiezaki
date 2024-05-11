@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>Lolly Daskal</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
