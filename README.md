@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do every act of your life as if it were your last.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>Marcus Aurelius</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
