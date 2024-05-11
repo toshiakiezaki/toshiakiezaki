@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
 
-<p>Mae West</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
