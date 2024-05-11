@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Dalai Lama</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
