@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
