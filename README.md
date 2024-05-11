@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>Gustave Flaubert</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
