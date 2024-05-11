@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
