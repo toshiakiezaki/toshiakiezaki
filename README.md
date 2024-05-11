@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In life you need either inspiration or desperation.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>Tony Robbins</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
