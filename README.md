@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>Josh Waitzkin</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
