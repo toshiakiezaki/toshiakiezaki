@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>Chinese Proverb</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
