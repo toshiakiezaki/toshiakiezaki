@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Celestine Chua</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
