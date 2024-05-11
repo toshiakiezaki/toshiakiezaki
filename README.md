@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before anything else, preparation is the key to success.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
