@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>Roy T. Bennett</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
