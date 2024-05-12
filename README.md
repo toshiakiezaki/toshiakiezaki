@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not doing it is certainly the best way to not getting it.  </p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>Wayne Gretzky</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
