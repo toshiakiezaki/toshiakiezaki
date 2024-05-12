@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Thomas Jefferson</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
