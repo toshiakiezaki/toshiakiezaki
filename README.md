@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>Unknown</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
