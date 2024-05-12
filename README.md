@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>Deepak Chopra</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
