@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>Genghis Khan</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
