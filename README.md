@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>You're never too old for anything.</p>
 
-<p>D. H. Lawrence</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
