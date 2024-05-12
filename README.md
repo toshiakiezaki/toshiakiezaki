@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absence makes the heart grow fonder.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
