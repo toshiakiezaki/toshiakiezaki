@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>Richard Bach</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
