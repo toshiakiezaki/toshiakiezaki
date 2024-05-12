@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>The finish line is just the beginning of a whole new race.</p>
 
-<p>George Bernard Shaw</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
