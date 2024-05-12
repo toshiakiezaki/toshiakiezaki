@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conquer the devils with a little thing called love.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>Bob Marley</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
