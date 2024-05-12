@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>Mary Engelbreit</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
