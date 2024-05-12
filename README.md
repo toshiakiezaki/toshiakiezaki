@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>Unknown</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
