@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>Kabir</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
