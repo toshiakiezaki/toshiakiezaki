@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>Dalai Lama</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
