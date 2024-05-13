@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best answer to anger is silence.</p>
+<p>The only lost cause is one we give up on before we enter the struggle.</p>
 
-<p>Marcus Aurelius</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
