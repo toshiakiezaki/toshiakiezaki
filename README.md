@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only lost cause is one we give up on before we enter the struggle.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>Vaclav Havel</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
