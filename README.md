@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
