@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>Aristotle</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
