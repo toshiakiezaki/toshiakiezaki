@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every blessing ignored becomes a curse.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>Paulo Coelho</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
