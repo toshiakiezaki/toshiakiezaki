@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
