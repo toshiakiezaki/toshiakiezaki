@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>Buddha</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
