@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>Rumi</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
