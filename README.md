@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>Steve Jobs</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
