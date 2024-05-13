@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>Kamal Ravikant</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
