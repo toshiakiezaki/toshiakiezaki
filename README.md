@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>Ralph Marston</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
