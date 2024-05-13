@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do to others what you would not like them to do to you. </p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>Confucius</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
