@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
+<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
 
-<p>Dan Millman</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
