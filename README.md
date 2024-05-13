@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When your intuition is strong, follow it.</p>
+<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
 
-<p>Lolly Daskal</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
