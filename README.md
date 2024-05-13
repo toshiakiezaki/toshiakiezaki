@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With the new day comes new strength and new thoughts.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
