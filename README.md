@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Desire is suffering.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>Naval Ravikant</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
