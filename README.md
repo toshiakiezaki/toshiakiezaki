@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
 <p>Steve Maraboli</p>
 <!-- dailyquote:end -->
