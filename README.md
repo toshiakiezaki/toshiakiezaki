@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
