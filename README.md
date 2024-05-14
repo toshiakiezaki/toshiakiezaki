@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
 
-<p>W. Clement Stone</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
