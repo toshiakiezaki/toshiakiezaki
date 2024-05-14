@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>The man who removes a mountain begins by carrying away small stones.</p>
 
-<p>Michael Jordan</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
