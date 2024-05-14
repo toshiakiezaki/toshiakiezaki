@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not seek. I find.</p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>Pablo Picasso</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
