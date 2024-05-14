@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must learn to live together as brothers or perish together as fools.</p>
+<p>We win by helping each other win.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
