@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>Zig Ziglar</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
