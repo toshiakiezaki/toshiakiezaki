@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're on earth. There's no cure for that.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>Samuel Beckett</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
