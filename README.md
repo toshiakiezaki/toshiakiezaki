@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failing is another stepping stone to greatness.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>Oprah Winfrey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
