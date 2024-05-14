@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>Kamal Ravikant</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
