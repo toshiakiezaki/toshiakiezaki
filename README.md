@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
 
-<p>Confucius</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
