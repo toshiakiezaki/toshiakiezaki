@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>James Allen</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
