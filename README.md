@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>Jack Kerouac</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
