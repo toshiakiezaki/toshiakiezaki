@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people do what unsuccessful people are not willing to do.</p>
+<p>May you live all the days of your life.</p>
 
-<p>Jim Rohn</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
