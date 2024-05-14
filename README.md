@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We win by helping each other win.</p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>Jack Butcher</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
