@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>Kahlil Gibran</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
