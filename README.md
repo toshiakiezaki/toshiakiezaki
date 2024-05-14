@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Associate with people who are likely to improve you.  </p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>Seneca</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
