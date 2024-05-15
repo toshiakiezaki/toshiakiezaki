@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to discover what another has discovered before.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>Christopher Columbus</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
