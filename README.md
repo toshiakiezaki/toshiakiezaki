@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
+<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
 
-<p>Ayn Rand</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
