@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change your thoughts and you change your world.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
