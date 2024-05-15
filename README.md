@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>Bob Marley</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
