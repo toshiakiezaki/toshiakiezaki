@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>The past has no power over the present moment. </p>
 
-<p>Tony Robbins</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
