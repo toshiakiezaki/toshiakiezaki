@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a long lesson in humility. </p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>James Matthew Barrie</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
