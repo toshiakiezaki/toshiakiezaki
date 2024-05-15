@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we dwell on is who we become.</p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>Oprah Winfrey</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
