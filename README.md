@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't imagine it, you can't have it.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>Toni Morrison</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
