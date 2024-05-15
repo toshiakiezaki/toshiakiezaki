@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>The key to success is action.</p>
 
-<p>Marilyn Monroe</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
