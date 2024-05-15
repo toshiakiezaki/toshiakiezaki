@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The past has no power over the present moment. </p>
+<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
 
-<p>Eckhart Tolle</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
