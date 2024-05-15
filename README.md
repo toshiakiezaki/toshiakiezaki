@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are people who have money and people who are rich.</p>
+<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
 
-<p>Coco Chanel</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
