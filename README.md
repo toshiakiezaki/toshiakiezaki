@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A loving heart is the truest wisdom.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>Charles Dickens</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
