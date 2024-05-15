@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
+<p>Lack of emotion causes lack of progress and lack of motivation.</p>
 
-<p>George Bernard Shaw</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
