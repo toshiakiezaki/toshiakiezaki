@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your mind your own business.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>Jack Butcher</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
