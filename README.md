@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
 
-<p>Vincent van Gogh</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
