@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Brian Tracy</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
