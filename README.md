@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you seek is seeking you.</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>Rumi</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
