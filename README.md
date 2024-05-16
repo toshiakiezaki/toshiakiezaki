@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>Unknown</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
