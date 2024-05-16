@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
 
-<p>Wayne Dyer</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
