@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
