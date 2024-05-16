@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
+<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
 
-<p>Unknown</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
