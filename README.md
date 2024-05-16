@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>Og Mandino</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
