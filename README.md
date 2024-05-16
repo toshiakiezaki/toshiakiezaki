@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Make your mind your own business.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
