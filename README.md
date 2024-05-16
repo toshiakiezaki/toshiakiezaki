@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
