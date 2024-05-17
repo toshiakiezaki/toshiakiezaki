@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>What do we live for if not to make life less difficult for each other?</p>
 
-<p>Criss Jami</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
