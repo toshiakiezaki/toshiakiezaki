@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>Helen Keller</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
