@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Nelson Mandela</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
