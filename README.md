@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
