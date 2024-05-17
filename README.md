@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope is a waking dream.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>Aristotle</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
