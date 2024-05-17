@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>Margaret Mead</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
