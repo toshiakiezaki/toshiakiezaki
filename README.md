@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for if not to make life less difficult for each other?</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>T.S. Eliot</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
