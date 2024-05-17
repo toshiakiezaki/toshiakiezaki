@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>Aristotle</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
