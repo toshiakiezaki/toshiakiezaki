@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are what you believe in. You become that which you believe you can become.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>Bhagavad Gita</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
