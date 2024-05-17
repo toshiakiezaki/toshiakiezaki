@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>Oprah Winfrey</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
