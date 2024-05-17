@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't learn to do, but learn in doing.</p>
+<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
 
-<p>Samuel Butler</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
