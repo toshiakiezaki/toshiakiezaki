@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>Robert Greene</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
