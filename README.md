@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
