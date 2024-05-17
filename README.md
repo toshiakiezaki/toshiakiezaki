@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>William Faulkner</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
