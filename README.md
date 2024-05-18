@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>Robert Frost</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
