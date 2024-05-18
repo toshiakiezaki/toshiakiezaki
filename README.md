@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>James Cameron</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
