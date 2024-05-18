@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>Talk does not cook rice.</p>
 
-<p>Bob Marley</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
