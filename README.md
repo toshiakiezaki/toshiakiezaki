@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Most people get ahead during the time that others waste.</p>
 
-<p>Brian Tracy</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
