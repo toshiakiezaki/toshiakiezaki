@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best answer to anger is silence.</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>Marcus Aurelius</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
