@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We make a living by what we get, but we make a life by what we give.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>Unknown</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
