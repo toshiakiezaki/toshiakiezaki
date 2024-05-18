@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
