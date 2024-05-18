@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>Celestine Chua</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
