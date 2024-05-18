@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>Tony Robbins</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
