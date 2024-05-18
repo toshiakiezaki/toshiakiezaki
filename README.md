@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Maxime Lagace</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
