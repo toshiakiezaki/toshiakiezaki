@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
 
-<p>Oscar Wilde</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
