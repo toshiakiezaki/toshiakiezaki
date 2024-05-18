@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
 
-<p>Dale Carnegie</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
