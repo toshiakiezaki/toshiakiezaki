@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people get ahead during the time that others waste.</p>
+<p>The scariest monsters are the ones that lurk within our souls.</p>
 
-<p>Henry Ford</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
