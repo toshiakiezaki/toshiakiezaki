@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>Pema Chodron</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
