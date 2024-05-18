@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>Roy T. Bennett</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
