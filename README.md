@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>T.S. Eliot</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
