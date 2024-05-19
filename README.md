@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
 
-<p>Kabir</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
