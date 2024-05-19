@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
 
-<p>Ayn Rand</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
