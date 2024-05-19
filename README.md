@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>Ray Bradbury</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
