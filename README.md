@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>Mother Teresa</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
