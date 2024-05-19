@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>Do something worth remembering.</p>
 
-<p>Chinese Proverb</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
