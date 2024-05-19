@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace with your inner turmoil.</p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
