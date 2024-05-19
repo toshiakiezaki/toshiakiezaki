@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Make peace with your inner turmoil.</p>
 
-<p>Elbert Hubbard</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
