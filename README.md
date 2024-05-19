@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do something worth remembering.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>Elvis Presley</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
