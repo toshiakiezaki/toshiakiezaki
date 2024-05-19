@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>We lie the loudest when we lie to ourselves.</p>
 
-<p>Naval Ravikant</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
