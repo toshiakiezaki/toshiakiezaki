@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>Learning never exhausts the mind. </p>
 
-<p>Dan Millman</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
