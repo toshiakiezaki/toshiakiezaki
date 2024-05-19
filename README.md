@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>Great things are not done by impulse, but by a series of small things brought together.</p>
 
-<p>Napoleon Hill</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
