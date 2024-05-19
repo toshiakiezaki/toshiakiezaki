@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>Robin Williams</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
