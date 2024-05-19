@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>Steve Maraboli</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
