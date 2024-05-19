@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>Zig Ziglar</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
