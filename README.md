@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>Peace begins with a smile.</p>
 
-<p>Elon Musk</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
