@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ability is a poor man's wealth.</p>
+<p>You win more from losing than winning.</p>
 
-<p>John Wooden</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
