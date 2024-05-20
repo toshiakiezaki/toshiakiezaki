@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is doing now what you are going to be happy with later on.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>Joyce Meyer</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
