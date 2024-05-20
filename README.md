@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>Winston Churchill</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
