@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intense love does not measure, it just gives.</p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>Mother Teresa</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
