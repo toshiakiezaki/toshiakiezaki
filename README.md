@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>Vincent van Gogh</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
