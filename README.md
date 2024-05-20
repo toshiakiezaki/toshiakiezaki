@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens, always be yourself.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>Dale Carnegie</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
