@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You win more from losing than winning.</p>
+<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
 
-<p>Morgan Wootten</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
