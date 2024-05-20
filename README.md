@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
 
-<p>Aristotle</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
