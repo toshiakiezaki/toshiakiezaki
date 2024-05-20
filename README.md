@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>Enlightenment is intimacy with all things.</p>
 
-<p>Sun Tzu</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
