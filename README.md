@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enlightenment is intimacy with all things.</p>
+<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
 
-<p>Dogen</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
