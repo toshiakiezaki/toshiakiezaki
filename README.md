@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When your intuition is strong, follow it.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Lolly Daskal</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
