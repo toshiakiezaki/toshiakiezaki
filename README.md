@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole is greater than the sum of its parts.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>Aristotle</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
