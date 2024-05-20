@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>An intelligent person hires people who are more intelligent than he is.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
