@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>Gustave Flaubert</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
