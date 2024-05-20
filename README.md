@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
