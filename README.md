@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>Alan Watts</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
