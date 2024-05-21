@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>Ming-Dao Deng</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
