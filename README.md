@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
