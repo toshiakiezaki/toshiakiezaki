@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
-<p>Henry David Thoreau</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
