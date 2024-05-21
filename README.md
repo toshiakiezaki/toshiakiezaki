@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>Elon Musk</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
