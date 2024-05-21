@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
 
-<p>Unknown</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
