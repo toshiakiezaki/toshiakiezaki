@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>Thomas Jefferson</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
