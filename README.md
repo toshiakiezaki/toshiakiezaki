@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>Deepak Chopra</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
