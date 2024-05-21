@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>Unknown</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
