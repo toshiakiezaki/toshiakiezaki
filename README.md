@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>Richard Bach</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
