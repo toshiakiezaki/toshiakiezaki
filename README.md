@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
 
-<p>Lao Tzu</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
