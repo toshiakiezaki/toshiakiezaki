@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
+<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
 
-<p>John Wooden</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
