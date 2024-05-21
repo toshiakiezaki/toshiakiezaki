@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
