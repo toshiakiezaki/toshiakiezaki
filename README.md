@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
