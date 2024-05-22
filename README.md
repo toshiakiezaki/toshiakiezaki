@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>Confucius</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
