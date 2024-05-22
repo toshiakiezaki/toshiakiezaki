@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>Buddha</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
