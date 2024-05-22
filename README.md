@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>Kenneth Branagh</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
