@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul is neither born, and nor does it die.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>Bhagavad Gita</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
