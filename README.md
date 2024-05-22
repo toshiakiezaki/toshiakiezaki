@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>The soul is neither born, and nor does it die.</p>
 
-<p>Dogen</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
