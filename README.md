@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>Truth is like most opinions - best unexpressed.</p>
 
-<p>Peter Drucker</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
