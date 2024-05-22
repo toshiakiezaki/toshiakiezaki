@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is worthwhile in itself.</p>
+<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
 
-<p>Amelia Earhart</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
