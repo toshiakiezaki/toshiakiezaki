@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>Earl Nightingale</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
