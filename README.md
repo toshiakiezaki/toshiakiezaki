@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Eckhart Tolle</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
