@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Leo Tolstoy</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
