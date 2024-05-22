@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can suffer the pain of change or suffer remaining the way you are.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>Joyce Meyer</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
