@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
+<p>We have more possibilities available in each moment than we realize.</p>
 
-<p>Benjamin Mays</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
