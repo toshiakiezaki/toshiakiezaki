@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
 
-<p>Robin Sharma</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
