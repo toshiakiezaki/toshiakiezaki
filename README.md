@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Oscar Wilde</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
