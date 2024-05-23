@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Richard Bach</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
