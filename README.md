@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>Henry David Thoreau</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
