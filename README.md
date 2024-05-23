@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only be afraid of what you think you know.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
