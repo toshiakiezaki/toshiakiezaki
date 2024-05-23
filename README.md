@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>Thomas Jefferson</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
