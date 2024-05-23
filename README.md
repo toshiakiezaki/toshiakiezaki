@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friends ask you questions; enemies question you.</p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>Criss Jami</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
