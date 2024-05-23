@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
