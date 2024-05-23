@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
 
-<p>George Bernard Shaw</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
