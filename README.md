@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
 
-<p>Spencer Johnson</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
