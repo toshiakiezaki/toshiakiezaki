@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>Lolly Daskal</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
