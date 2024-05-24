@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>Marcus Aurelius</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
