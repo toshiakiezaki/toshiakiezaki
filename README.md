@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>Ayn Rand</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
