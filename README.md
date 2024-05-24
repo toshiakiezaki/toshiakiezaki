@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
 <p>Lolly Daskal</p>
 <!-- dailyquote:end -->
