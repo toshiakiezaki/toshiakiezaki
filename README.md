@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>Perfectionism is simply putting a limit on your future.</p>
 
-<p>Will Rogers</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
