@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>Chinese Proverb</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
