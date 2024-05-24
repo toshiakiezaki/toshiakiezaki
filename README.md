@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>Kamal Ravikant</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
