@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>Zhuangzi</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
