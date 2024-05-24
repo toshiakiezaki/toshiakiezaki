@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be polite to all, but intimate with few.</p>
+<p>Progress is limited by your ability to change your mind.</p>
 
-<p>Thomas Jefferson</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
