@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the highway to success.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>Og Mandino</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
