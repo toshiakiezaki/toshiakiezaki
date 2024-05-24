@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>Dogen</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
