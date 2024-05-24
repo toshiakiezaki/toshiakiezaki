@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Betty White</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
