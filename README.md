@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>Failure is the highway to success.</p>
 
-<p>Unknown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
