@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
+<p>Before preparing to improve the world, first look around your own home three times. </p>
 
-<p>Og Mandino</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
