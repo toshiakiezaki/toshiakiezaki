@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress is limited by your ability to change your mind.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>Jack Butcher</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
