@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tall oaks grow from little acorns.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Andrew Carnegie</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
