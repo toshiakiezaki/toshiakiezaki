@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>Plato</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
