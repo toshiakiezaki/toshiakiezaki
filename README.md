@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the average of the five people you spend the most time with.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>Jim Rohn</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
