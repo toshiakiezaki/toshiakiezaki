@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>Yoko Ono</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
