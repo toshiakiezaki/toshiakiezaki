@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>Lao Tzu</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
