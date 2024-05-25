@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>Earl Nightingale</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
