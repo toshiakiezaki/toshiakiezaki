@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
