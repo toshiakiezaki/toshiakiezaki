@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>Jim Rohn</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
