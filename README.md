@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>Charles Swindoll</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
