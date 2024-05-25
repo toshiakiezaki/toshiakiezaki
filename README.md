@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>Tony Robbins</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
