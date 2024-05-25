@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothes thoughts wear.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>Samuel Beckett</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
