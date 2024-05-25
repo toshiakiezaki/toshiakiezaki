@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing good ever comes of violence.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>Martin Luther</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
