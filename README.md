@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>Eric Hoffer</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
