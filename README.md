@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
 
-<p>Oprah Winfrey</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
