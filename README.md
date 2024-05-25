@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>Deepak Chopra</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
