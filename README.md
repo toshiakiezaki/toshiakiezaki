@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you change what you believe, you change what you do.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>Spencer Johnson</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
