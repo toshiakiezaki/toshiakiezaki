@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
 
-<p>George Bernard Shaw</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
