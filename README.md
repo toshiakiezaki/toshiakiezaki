@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
