@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>Barack Obama</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
