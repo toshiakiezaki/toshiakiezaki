@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>Wherever you are, and whatever you do, be in love.</p>
 
-<p>Conrad Hilton</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
