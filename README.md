@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Roy T. Bennett</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
