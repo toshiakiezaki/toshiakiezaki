@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
