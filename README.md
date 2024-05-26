@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>The best way to predict the future is to create it.</p>
 
-<p>Bhagavad Gita</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
