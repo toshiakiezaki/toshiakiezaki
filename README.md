@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
