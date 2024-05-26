@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man sees in the world what he carries in his heart.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
