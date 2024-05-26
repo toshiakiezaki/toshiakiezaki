@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Dan Millman</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
