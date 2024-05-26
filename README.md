@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
 
-<p>Brian Tracy</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
