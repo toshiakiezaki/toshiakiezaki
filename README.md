@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wherever you are, and whatever you do, be in love.</p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>Rumi</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
