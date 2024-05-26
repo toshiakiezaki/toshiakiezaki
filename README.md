@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>A man sees in the world what he carries in his heart.</p>
 
-<p>Confucius</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
