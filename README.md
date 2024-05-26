@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The decisions of our past are the architects of our present.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>Dan Brown</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
