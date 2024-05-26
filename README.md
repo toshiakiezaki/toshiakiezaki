@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>George Eliot</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
