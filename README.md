@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>Lolly Daskal</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
