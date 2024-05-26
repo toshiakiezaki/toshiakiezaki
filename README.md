@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>Eckhart Tolle</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
