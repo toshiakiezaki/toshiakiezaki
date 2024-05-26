@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>Euripides</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
