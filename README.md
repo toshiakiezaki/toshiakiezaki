@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>Chinese Proverb</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
