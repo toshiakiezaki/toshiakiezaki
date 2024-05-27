@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is nothing but a collective hunch.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>Lily Tomlin</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
