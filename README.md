@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can live without money, but I cannot live without love.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>Judy Garland</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
