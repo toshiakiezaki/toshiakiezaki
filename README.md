@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>Andrew Carnegie</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
