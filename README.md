@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>Dan Brown</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
