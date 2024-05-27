@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>Bodhidharma</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
