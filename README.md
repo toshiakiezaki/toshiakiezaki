@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Forgive those who have hurt you.</p>
 
-<p>Babe Ruth</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
