@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>Brian Tracy</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
