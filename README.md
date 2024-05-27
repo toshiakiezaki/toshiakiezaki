@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>Chinese Proverb</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
