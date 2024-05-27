@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
+<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
 
-<p>Celestine Chua</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
