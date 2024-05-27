@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive those who have hurt you.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Les Brown</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
