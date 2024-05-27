@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Vincent van Gogh</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
