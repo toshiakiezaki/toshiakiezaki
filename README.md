@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>Osho</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
