@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
