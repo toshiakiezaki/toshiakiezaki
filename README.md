@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Unknown</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
