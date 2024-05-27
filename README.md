@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
