@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The prettiest eyes have cried the most.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>Unknown</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
