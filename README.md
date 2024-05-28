@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>Earl Nightingale</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
