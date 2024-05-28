@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>Dan Brown</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
