@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>Carol Burnett</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
