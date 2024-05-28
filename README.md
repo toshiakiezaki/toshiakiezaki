@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>Zen Proverb</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
