@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
 
-<p>James Allen</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
