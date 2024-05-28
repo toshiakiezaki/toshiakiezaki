@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>Tony Robbins</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
