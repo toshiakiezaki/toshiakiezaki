@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All power is from within and therefore under our control.</p>
+<p>The energy of the mind is the essence of life.</p>
 
-<p>Robert Collier</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
