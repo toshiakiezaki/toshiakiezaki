@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>Bhagavad Gita</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
