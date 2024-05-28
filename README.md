@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
 
-<p>Wayne Dyer</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
