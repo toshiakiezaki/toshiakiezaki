@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>George Washington</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
