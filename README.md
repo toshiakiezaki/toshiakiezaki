@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The energy of the mind is the essence of life.</p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>Aristotle</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
