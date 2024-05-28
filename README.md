@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>Charles Spurgeon</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
