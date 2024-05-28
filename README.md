@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to keep breaking your heart until it opens.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>Rumi</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
