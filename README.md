@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Debt is the slavery of the free.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>Publilius Syrus</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
