@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>Deepak Chopra</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
