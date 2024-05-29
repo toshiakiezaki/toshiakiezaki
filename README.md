@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>Kamal Ravikant</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
