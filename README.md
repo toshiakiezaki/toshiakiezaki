@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Do not look for a sanctuary in anyone except your self.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
