@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>Criss Jami</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
