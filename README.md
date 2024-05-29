@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>W. Clement Stone</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
