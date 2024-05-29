@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>Success is achieved and maintained by those who try and keep trying. </p>
 
-<p>Jim Rohn</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
