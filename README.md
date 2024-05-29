@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
