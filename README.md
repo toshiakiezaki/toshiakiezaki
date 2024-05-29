@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>Simon Sinek</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
