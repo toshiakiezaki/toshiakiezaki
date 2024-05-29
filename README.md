@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>Christopher Reeve</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
