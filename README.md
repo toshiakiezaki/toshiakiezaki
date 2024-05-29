@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every blessing ignored becomes a curse.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>Paulo Coelho</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
