@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
