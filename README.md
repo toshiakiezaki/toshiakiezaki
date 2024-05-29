@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Buddha</p>
+<p>George Addair</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
