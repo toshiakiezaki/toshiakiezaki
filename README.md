@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>Steve Jobs</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
