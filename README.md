@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>George Addair</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
