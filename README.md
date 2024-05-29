@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>Roy T. Bennett</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
