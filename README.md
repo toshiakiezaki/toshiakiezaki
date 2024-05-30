@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a journey, not a destination.</p>
+<p>If you have only one smile in you give it to the people you love.</p>
 
-<p>Dan Millman</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
