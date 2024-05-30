@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>Estee Lauder</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
