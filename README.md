@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>Epictetus</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
