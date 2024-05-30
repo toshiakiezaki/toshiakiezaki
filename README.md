@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>Life is a journey, not a destination.</p>
 
-<p>Deepak Chopra</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
