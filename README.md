@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have only one smile in you give it to the people you love.</p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>Maya Angelou</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
