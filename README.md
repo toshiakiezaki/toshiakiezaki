@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Euripides</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
