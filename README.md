@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>Yanni</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
