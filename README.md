@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>Unknown</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
