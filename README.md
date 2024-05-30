@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>Confucius</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
