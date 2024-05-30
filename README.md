@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>The harder the conflict, the greater the triumph. </p>
 
-<p>Leo Tolstoy</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
