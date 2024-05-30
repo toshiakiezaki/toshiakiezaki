@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
