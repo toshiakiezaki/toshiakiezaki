@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>Spencer Johnson</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
