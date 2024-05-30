@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>Steve Harvey</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
