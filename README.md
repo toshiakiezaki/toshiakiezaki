@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best answer to anger is silence.</p>
+<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
 
-<p>Marcus Aurelius</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
