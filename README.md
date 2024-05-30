@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Pema Chodron</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
