@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words, once they are printed, have a life of their own.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>Carol Burnett</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
