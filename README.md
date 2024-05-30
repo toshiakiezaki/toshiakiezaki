@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of who we are is what we do with what we have.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>Vince Lombardi</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
