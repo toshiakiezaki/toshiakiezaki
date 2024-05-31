@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>Roy T. Bennett</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
