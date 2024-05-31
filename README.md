@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the educated are free.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>Epictetus</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
