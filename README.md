@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
