@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
 
-<p>Andrew Carnegie</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
