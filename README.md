@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>Peter Drucker</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
