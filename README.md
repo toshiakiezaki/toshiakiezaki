@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living life in style also means living a life of balance.</p>
+<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
 
-<p>Jim Rohn</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
