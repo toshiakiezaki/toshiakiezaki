@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the smallest person can change the course of the future.</p>
+<p>Only the educated are free.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
