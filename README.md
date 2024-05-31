@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>Kamal Ravikant</p>
+<p>Cherie Gilderbloom</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
