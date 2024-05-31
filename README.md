@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>In order to carry a positive action, we must develop here a positive vision.</p>
 
-<p>Spencer Johnson</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
