@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>Amelia Earhart</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
