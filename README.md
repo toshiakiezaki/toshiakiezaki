@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, like the soul, never returns once it is gone.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>Publilius Syrus</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
