@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>Vidal Sassoon</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
