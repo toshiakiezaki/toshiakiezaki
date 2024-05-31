@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>Richard Bach</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
