@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>Marcus Aurelius</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
