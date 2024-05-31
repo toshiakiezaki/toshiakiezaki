@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>Henry David Thoreau</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
