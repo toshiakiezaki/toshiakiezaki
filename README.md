@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What loneliness is more lonely than distrust?</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>George Eliot</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
