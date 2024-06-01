@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Use your smile to change the world but don't let the world change your smile.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>Unknown</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
