@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What loneliness is more lonely than distrust?</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>George Eliot</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
