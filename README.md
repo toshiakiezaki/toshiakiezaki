@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best dreams happen when you're awake.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>Cherie Gilderbloom</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
