@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A minute's success pays the failure of years.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Robert Browning</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
