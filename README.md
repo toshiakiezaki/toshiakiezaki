@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people fail in life because they major in minor things.</p>
+<p>Remember we're all in this alone.</p>
 
-<p>Tony Robbins</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
