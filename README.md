@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>Christopher Columbus</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
