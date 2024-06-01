@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lead the people, walk behind them.</p>
+<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
 
-<p>Lao Tzu</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
