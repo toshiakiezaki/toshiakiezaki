@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Show up even when you don't want to show up.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>Steve Harvey</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
