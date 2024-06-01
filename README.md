@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
 
-<p>Bob Marley</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
