@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>The only reason to be alive is to enjoy it.</p>
 
-<p>Ayn Rand</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
