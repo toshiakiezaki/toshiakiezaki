@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>Harry S. Truman</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
