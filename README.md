@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only reason to be alive is to enjoy it.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Rita Mae Brown</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
