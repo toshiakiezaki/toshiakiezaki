@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
