@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>Lolly Daskal</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
