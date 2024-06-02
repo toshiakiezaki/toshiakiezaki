@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is simply what our feelings do to us.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>Honore de Balzac</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
