@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more I want to get something done, the less I call it work.</p>
+<p>Peace begins with a smile.</p>
 
-<p>Richard Bach</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
