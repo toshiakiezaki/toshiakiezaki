@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All wealth is the product of labor.</p>
+<p>Learning is a gift, even when pain is your teacher.</p>
 
-<p>John Locke</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
