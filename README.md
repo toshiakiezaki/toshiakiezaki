@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The reward of suffering is experience.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>Harry S. Truman</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
