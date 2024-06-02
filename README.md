@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>Michael Jordan</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
