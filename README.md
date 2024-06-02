@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>Oprah Winfrey</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
