@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>Sydney Smith</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
