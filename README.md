@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>Kamal Ravikant</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
