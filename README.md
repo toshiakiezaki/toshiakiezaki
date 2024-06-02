@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Alfred Adler</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
