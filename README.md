@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only real obstacle in your path to a fulfilling life.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>Les Brown</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
