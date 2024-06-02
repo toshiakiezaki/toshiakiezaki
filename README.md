@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>Aristophanes</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
