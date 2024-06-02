@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>Walt Whitman</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
