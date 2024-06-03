@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Richard Bach</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
