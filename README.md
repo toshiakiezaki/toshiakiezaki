@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>James Allen</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
