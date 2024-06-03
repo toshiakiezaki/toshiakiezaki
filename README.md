@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>So long as we are being remembered, we remain alive.</p>
+<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
