@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>Colin Powell</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
