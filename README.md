@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
