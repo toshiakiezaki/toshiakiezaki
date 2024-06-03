@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Marcus Aurelius</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
