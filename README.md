@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>John Lennon</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
