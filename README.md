@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is peace even in the storm.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Vincent van Gogh</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
