@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>Confucius</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
