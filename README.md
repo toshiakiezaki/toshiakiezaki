@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>Roy T. Bennett</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
