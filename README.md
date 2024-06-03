@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normal is the average of deviance.</p>
+<p>All we have to decide is what to do with the time that is given to us.</p>
 
-<p>Rita Mae Brown</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
