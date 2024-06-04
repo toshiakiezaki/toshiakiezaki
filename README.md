@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>Albert Einstein</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
