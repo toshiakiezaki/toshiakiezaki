@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become what we believe.</p>
+<p>There is nothing more frightful than ignorance in action.</p>
 
-<p>Lolly Daskal</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
