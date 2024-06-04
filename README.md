@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
+<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
 
-<p>Unknown</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
