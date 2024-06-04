@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
