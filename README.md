@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>Miguel de Cervantes</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
