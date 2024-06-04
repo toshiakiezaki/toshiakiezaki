@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
 <p>Bruce Lee</p>
 <!-- dailyquote:end -->
