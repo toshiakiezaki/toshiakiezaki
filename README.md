@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>A leader is one who knows the way, goes the way, and shows the way.</p>
 
-<p>Coco Chanel</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
