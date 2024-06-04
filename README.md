@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>Bruce Lee</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
