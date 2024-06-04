@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>Jim Rohn</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
