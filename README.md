@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>Mother Teresa</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
