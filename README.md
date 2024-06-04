@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>We become what we believe.</p>
 
-<p>Rita Mae Brown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
