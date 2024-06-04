@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
