@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Against the assault of laughter nothing can stand.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>Mark Twain</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
