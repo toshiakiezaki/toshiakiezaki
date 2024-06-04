@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>Vince Lombardi</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
