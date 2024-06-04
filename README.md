@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think and wonder, wonder and think.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>Dr. Seuss</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
