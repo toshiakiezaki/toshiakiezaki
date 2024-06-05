@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>Abraham Lincoln</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
