@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sun shines upon good and bad alike.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
