@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
