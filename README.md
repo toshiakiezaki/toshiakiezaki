@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only difference between success and failure is the ability to take action.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
