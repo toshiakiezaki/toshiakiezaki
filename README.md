@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is one long process of getting tired.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>Samuel Butler</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
