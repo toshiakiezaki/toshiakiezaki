@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>Leadership is solving problems</p>
 
-<p>Audrey Hepburn</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
