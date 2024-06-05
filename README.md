@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
 
-<p>Michael Jordan</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
