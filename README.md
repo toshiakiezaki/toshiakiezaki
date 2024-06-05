@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>Leo Tolstoy</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
