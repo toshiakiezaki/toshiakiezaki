@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are shaped and fashioned by what we love.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
