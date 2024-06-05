@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
 <p>Tony Robbins</p>
 <!-- dailyquote:end -->
