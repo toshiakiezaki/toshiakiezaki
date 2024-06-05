@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leadership is solving problems</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>Colin Powell</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
