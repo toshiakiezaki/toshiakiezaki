@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Celestine Chua</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
