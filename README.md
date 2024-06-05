@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody's life is either rewarding or an example.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>Tony Robbins</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
