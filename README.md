@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>Kahlil Gibran</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
