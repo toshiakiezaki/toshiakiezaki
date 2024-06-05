@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
