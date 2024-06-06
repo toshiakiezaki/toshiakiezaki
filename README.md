@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>Henry Ford</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
