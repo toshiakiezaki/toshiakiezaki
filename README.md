@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
 
-<p>Elvis Presley</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
