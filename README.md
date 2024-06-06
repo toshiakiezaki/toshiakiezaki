@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>Alfred Adler</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
