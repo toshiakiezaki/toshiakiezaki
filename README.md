@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing new in the world is the history you do not know.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>Harry S. Truman</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
