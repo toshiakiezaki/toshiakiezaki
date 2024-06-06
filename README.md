@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Mother Teresa</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
