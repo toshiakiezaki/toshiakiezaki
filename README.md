@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>Zen Proverb</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
