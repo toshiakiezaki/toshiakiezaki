@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>Brian Tracy</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
