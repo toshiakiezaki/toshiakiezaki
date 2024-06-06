@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not how much money you make, it's how much money you keep.</p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
