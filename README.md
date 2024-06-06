@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>Les Brown</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
