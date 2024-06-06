@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
 
-<p>Orison Swett Marden</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
