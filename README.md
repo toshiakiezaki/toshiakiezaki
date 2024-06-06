@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</p>
 
-<p>Charles Dickens</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
