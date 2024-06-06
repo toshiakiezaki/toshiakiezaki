@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
+<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
 
-<p>Andrew Carnegie</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
