@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>Beverly Sills</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
