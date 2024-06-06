@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>Epictetus</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
