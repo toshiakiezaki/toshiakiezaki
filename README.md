@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>Jim Rohn</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
