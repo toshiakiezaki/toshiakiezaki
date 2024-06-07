@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>Marcus Aurelius</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
