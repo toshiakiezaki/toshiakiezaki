@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can hurt you without your consent.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
