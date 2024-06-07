@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can see through others only when we can see through ourselves.</p>
+<p>When one door closes another door opens. </p>
 
-<p>Bruce Lee</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
