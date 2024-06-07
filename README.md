@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>No one can hurt you without your consent.</p>
 
-<p>Eckhart Tolle</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
