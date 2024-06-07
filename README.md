@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>Wayne Dyer</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
