@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
