@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each problem has a positive side.</p>
+<p>FOCUS - Follow One Course Until Successful</p>
 
-<p>Og Mandino</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
