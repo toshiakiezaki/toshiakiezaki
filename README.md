@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>Charles Darwin</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
