@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For all evils there are two remedies - time and silence.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Alexandre Dumas</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
