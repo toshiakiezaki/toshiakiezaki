@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>Audrey Hepburn</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
