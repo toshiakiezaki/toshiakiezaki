@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When one door closes another door opens. </p>
+<p>Death smiles at us all. All we can do is smile back.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
