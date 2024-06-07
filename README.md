@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>Og Mandino</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
