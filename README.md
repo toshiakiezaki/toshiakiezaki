@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>FOCUS - Follow One Course Until Successful</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
