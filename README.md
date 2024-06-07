@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remain calm. Be kind.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>Colin Powell</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
