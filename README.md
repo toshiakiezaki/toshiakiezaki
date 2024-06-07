@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>Unknown</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
