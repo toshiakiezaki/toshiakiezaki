@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>Be fascinated instead of frustrated.</p>
 
-<p>Brian Tracy</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
