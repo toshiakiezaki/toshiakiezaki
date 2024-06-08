@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
