@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>Roy T. Bennett</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
