@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>Roy T. Bennett</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
