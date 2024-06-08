@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
 
-<p>Virginia Woolf</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
