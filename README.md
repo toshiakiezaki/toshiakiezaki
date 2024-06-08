@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
