@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Josh Waitzkin</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
