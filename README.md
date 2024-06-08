@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man's worth is no greater than his ambitions.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Marcus Aurelius</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
