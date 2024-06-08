@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>Criss Jami</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
