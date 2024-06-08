@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>Unknown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
