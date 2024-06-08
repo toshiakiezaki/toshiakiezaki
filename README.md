@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
+<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
 
-<p>Wayne Dyer</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
