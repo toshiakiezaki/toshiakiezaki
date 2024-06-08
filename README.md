@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't know who is important to you until you actually lose them.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
