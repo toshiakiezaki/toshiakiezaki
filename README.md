@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the touchstones of our characters.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>Henry David Thoreau</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
