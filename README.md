@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>Steve Jobs</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
