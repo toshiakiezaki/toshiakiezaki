@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first principle of success is desire.</p>
+<p>Like it or not, this moment is all we really have to work with.</p>
 
-<p>Robert Collier</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
