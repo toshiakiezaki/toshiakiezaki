@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
