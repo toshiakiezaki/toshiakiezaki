@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>Criss Jami</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
