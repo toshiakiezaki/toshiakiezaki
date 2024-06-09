@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
