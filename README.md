@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>Dan Millman</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
