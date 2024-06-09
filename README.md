@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Bhagavad Gita</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
