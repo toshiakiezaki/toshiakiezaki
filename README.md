@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>Unknown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
