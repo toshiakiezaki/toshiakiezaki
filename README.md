@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Zig Ziglar</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
