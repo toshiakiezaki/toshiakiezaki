@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
 
-<p>Epictetus</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
