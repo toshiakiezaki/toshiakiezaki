@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Denis Waitley</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
