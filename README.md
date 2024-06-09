@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who wishes to fight must first count the cost.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>Sun Tzu</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
