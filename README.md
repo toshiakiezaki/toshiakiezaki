@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest miracle is to be alive.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
