@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>Lolly Daskal</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
