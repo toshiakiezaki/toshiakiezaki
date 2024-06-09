@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>Excellence is not an exception, it is a prevailing attitude.</p>
 
-<p>Richard Bach</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
