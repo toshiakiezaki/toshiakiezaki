@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Quitter never wins - and - a Winner never quits.</p>
+<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
 
-<p>Napoleon Hill</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
