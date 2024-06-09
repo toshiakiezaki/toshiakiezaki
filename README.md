@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>Colin Powell</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
