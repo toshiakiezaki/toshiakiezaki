@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>Richard Bach</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
