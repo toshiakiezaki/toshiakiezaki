@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>Henry Ford</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
