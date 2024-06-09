@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only be afraid of what you think you know.</p>
+<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
