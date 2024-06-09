@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Vincent van Gogh</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
