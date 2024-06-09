@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+<p>There is no path to Happiness. Happiness is the path.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
