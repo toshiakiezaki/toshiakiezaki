@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can bring you peace but yourself.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>Dale Carnegie</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
