@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to discover what another has discovered before.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>Christopher Columbus</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
