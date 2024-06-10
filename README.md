@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
