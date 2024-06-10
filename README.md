@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who has ever made anything of importance was disciplined.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>Andrew Hendrixson</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
