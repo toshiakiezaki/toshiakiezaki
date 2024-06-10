@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>Andrew Carnegie</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
