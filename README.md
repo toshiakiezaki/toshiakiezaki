@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Steve Maraboli</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
