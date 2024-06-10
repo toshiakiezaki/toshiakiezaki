@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
