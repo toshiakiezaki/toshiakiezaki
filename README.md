@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're responsible for everything that happens to us.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Yanni</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
