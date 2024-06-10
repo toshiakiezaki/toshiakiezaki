@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>Jim Rohn</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
