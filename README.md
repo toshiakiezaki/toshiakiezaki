@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>Oprah Winfrey</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
