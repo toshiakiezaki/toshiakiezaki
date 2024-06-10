@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>Brian Tracy</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
