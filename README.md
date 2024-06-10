@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
 
-<p>Sigmund Freud</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
