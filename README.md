@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>Jack Butcher</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
