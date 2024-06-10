@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>Zig Ziglar</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
