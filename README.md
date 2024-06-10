@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great discovery was ever made without a bold guess. </p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>Isaac Newton</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
