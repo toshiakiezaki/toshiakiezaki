@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>Charles Dickens</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
