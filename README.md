@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>Emily Dickinson</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
