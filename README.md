@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>Eric Hoffer</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
