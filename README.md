@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To belittle, you have to be little.</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>Kahlil Gibran</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
