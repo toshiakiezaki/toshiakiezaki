@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>Huang Po</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
