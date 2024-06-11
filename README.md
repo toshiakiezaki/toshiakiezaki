@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
