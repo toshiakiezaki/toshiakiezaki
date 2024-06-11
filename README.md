@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
