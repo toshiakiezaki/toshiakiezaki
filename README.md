@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Herbert Hoover</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
