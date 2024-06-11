@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>Kenneth Branagh</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
