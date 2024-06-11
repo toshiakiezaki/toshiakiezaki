@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
+<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
 
-<p>Steve Maraboli</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
