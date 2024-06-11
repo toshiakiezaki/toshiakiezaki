@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>Paulo Coelho</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
