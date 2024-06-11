@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
