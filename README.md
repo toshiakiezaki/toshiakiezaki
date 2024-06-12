@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>Roy T. Bennett</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
