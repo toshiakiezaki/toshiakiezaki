@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>Rita Mae Brown</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
