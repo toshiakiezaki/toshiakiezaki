@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that irritates us about others.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>Carl Jung</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
