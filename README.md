@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is far easier to start something than it is to finish it.</p>
+<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
 
-<p>Amelia Earhart</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
