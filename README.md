@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>Judy Garland</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
