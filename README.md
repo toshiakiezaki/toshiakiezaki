@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>Kahlil Gibran</p>
+<p>Andrew Hendrixson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
