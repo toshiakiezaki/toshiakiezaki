@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The temptation to give up is strongest just before victory.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Zen Proverb</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
