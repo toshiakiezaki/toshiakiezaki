@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>Sun Tzu</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
