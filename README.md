@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>Be curious, not judgmental.</p>
 
-<p>Jim Rohn</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
