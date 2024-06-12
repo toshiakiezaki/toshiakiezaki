@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
