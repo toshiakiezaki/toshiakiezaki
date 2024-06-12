@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Criss Jami</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
