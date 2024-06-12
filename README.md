@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>Audrey Hepburn</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
