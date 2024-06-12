@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is the offspring of silence and meditation.</p>
+<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
 
-<p>Isaac Newton</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
