@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is an iceberg.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>Unknown</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
