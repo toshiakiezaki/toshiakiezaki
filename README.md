@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Success is an iceberg.</p>
 
-<p>Stephen Hawking</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
