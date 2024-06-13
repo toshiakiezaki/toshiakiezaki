@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>Celestine Chua</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
