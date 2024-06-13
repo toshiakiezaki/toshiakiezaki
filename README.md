@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>Robin Sharma</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
