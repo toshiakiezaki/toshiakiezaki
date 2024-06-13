@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is too important to be taken seriously.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>Oscar Wilde</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
