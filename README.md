@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Vision is the art of seeing things invisible.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>Jonathan Swift</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
