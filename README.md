@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
 
-<p>Maya Angelou</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
