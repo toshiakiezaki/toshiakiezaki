@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>Victims recite problems, leaders provide solutions.</p>
 
-<p>Napoleon Hill</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
