@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't set your own goals by what other people make important.</p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>Lolly Daskal</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
