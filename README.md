@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>Ralph Marston</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
