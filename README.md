@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The salvation of the world lies in the human heart.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>Vaclav Havel</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
