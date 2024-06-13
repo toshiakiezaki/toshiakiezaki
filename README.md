@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>George Washington</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
