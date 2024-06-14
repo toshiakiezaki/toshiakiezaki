@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>Josh Waitzkin</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
