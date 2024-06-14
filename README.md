@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>George Bernard Shaw</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
