@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The impossible can always be broken down into possibilities.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>Unknown</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
