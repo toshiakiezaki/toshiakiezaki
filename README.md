@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>Steve Harvey</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
