@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>Seneca</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
