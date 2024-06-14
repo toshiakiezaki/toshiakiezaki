@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
 
-<p>Eric Hoffer</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
