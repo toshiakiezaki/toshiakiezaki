@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you decide to do, make sure it makes you happy.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>Paulo Coelho</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
