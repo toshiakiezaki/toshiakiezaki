@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no sadder sight than a young pessimist.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>Mark Twain</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
