@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life would be tragic if it weren't funny.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Stephen Hawking</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
