@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to be looked over than overlooked.</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>Mae West</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
