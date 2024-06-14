@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By perseverance the snail reached the ark.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>Charles Spurgeon</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
