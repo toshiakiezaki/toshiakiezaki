@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All I can do is be me, whoever that is.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>Bob Dylan</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
