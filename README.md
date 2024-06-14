@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
