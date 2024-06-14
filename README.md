@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A path is made by walking on it.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>Zhuangzi</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
