@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
+<p>Everything that irritates us about others.</p>
 
-<p>Wayne Dyer</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
