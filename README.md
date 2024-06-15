@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Andrew Carnegie</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
