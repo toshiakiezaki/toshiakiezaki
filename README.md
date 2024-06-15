@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is about creating value.</p>
+<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
 
-<p>Candice Carpenter</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
