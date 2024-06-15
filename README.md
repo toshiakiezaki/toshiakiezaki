@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that irritates us about others.</p>
+<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
 
-<p>Carl Jung</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
