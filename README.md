@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspiration exists, but it has to find you working.</p>
+<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
 
-<p>Pablo Picasso</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
