@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>Abraham Lincoln</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
