@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>Jonathan Swift</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
