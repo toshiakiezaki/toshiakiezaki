@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>Zen Proverb</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
