@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Get busy living, or get busy dying.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>Stephen King</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
