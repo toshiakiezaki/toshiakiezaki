@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>Paulo Coelho</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
