@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>Albus Dumbledore</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
