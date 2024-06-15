@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way of success is the way of continuous pursuit of knowledge.</p>
+<p>Success is about creating value.</p>
 
-<p>Napoleon Hill</p>
+<p>Candice Carpenter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
