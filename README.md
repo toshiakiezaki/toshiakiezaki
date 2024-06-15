@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>Carl Jung</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
