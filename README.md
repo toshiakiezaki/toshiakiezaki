@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>Confidence is the greatest friend.</p>
 
-<p>Barack Obama</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
