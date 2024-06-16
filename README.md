@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>John Eliot</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
