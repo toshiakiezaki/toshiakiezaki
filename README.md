@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A loving heart is the truest wisdom.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>Charles Dickens</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
