@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is in your own heart.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
