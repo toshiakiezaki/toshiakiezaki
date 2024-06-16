@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>Kahlil Gibran</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
