@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With the new day comes new strength and new thoughts.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
