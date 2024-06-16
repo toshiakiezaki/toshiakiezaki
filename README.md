@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>Joan Rivers</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
