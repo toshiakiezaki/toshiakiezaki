@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't tell big dreams to small minded people.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Steve Harvey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
