@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot change anything unless we accept it.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Carl Jung</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
