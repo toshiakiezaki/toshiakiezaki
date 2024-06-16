@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>Everything is in your own heart.</p>
 
-<p>Charles Spurgeon</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
