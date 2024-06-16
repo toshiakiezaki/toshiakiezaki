@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
