@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before anything else, preparation is the key to success.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
