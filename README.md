@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>Roy T. Bennett</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
