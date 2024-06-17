@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
 
-<p>Zig Ziglar</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
