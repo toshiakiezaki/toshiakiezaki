@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>Isaac Newton</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
