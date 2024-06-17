@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>Yanni</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
