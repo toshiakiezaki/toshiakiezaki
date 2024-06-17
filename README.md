@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
