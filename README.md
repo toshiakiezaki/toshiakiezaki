@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>Create with the heart; build with the mind.</p>
 
-<p>Charlie Chaplin</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
