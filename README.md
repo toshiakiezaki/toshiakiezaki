@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>Unknown</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
