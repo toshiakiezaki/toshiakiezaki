@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>Deepak Chopra</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
