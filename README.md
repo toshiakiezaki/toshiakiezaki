@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Criss Jami</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
