@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>Jim Rohn</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
