@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion is born deaf and dumb.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Honore de Balzac</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
