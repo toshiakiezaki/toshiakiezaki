@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>Paulo Coelho</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
