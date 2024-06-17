@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
 
-<p>Herman Melville</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
