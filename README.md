@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Create with the heart; build with the mind.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>Criss Jami</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
