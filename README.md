@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>Isaac Newton</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
