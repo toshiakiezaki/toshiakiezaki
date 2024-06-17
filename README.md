@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To some degree, you control your life by controlling your time.</p>
+<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
 
-<p>Conrad Hilton</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
