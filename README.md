@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>Confucius</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
