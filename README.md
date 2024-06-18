@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a constant series of opportunities.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>Ming-Dao Deng</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
