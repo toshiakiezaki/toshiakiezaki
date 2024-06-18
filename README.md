@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
 
-<p>Naval Ravikant</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
