@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>Norman Vincent Peale</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
