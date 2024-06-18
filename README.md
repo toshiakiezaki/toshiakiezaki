@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you look for perfection, you'll never be content.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>Leo Tolstoy</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
