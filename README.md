@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Naval Ravikant</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
