@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>T.S. Eliot</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
