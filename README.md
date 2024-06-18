@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>Roy T. Bennett</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
