@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why fit in when you were born to stand out?</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>Dr. Seuss</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
