@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
 
-<p>Chinese Proverb</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
