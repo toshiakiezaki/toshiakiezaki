@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>Woody Allen</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
