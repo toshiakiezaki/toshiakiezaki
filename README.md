@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Aristotle</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
