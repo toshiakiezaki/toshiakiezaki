@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the touchstones of our characters.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>Henry David Thoreau</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
