@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
+<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
 
-<p>Kabir</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
