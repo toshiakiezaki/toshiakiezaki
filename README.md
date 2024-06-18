@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>Be yourself; everyone else is already taken.</p>
 
-<p>Joyce Meyer</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
