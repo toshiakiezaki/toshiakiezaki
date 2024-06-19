@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>Alexander Pope</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
