@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all born ignorant, but one must work hard to remain stupid.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>Benjamin Franklin</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
