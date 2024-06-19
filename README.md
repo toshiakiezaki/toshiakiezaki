@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise learn many things from their enemies.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>Aristophanes</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
