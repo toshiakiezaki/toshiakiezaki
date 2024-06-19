@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>Carl Jung</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
