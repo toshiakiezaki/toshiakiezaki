@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honor is the foundation of courage.</p>
+<p>Life is love and love is life.</p>
 
-<p>Amelia Earhart</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
