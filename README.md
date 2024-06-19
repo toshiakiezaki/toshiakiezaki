@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>Will Rogers</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
