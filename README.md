@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heal the past, live the present, dream the future.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>Mary Engelbreit</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
