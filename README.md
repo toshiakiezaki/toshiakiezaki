@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>Helen Keller</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
