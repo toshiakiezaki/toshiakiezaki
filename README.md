@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Older men declare war. But it is youth that must fight and die.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>Herbert Hoover</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
