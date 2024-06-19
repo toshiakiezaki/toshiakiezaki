@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>Abraham Lincoln</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
