@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No snowflake ever falls in the wrong place.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Zen Proverb</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
