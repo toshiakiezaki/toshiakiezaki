@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An un-examined life is not worth living.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>Socrates</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
