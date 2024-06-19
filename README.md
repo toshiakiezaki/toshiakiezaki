@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>George Eliot</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
