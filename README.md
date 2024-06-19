@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
