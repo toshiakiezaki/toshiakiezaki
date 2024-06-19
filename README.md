@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fishing is much more than fish.</p>
+<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
 
-<p>Herbert Hoover</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
