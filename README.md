@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>We are all born ignorant, but one must work hard to remain stupid.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
