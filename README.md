@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>Not engaging in ignorance is wisdom. </p>
 
-<p>Ming-Dao Deng</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
