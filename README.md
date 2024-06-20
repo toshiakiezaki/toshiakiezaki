@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
 
-<p>Dalai Lama</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
