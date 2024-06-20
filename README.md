@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>Criss Jami</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
