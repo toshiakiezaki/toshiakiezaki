@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We build too many walls and not enough bridges.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Isaac Newton</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
