@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
