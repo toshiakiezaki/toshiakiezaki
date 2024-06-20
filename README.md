@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more one judges, the less one loves.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>Honore de Balzac</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
