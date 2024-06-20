@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
