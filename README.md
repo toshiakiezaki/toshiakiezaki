@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>Walt Whitman</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
