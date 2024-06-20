@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
+<p>The more one judges, the less one loves.</p>
 
-<p>Tony Robbins</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
