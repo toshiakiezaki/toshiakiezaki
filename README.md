@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus is a matter of deciding what things you're not going to do.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>John Carmack</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
