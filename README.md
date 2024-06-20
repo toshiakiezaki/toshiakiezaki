@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>George Bernard Shaw</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
