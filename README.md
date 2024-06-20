@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wish it were easier, wish you were better.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>Jim Rohn</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
