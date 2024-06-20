@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
