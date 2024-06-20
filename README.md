@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>Albert Einstein</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
