@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
+<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
 
-<p>Criss Jami</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
