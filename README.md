@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>Estee Lauder</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
