@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>Voltaire</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
