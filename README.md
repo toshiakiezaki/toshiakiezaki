@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
+<p>Hope is a waking dream.</p>
 
-<p>W. Clement Stone</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
