@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no shortcuts to any place worth going. </p>
+<p>Wit is educated insolence.</p>
 
-<p>Beverly Sills</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
