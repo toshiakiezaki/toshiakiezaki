@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>Betty White</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
