@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>George Washington</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
