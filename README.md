@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who has overcome his fears will truly be free.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>Aristotle</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
