@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Naval Ravikant</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
