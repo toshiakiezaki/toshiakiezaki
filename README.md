@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>Voltaire</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
