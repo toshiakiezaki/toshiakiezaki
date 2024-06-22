@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Joyce Meyer</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
