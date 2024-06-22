@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
 
-<p>Rumi</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
