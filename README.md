@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He that can have patience can have what he will.</p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>Benjamin Franklin</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
