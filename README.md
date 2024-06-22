@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Force has no place where there is need of skill. </p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>Herodotus</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
