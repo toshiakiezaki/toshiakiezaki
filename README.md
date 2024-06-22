@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>Socrates</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
