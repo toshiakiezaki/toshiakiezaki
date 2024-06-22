@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>Courage Is a Love Affair with the Unknown</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
