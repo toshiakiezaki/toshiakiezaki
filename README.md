@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>Marcus Aurelius</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
