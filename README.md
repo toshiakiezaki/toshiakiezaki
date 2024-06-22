@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>Celestine Chua</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
