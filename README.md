@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>Zen Proverb</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
