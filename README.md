@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is exact correspondence with reality. </p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
