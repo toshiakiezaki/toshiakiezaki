@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They who have conquered doubt and fear have conquered failure.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>James Allen</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
