@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>He that can have patience can have what he will.</p>
 
-<p>Maya Angelou</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
