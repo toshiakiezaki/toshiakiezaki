@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>Truth is exact correspondence with reality. </p>
 
-<p>Gilbert Chesterton</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
