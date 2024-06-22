@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a consequence and must not be a goal.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>Gustave Flaubert</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
