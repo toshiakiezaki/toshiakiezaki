@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
+<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
