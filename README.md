@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
 
-<p>Osho</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
