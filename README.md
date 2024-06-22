@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Zig Ziglar</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
