@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>Naval Ravikant</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
