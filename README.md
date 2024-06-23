@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>Talk does not cook rice.</p>
 
-<p>Gary Keller</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
