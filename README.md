@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
+<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
 
-<p>John Tukey</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
