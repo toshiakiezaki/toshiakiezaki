@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk does not cook rice.</p>
+<p>Nothing has more strength than dire necessity.</p>
 
-<p>Chinese Proverb</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
