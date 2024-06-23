@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
+<p>I would rather die on my feet than live on my knees.</p>
 
-<p>Pablo Picasso</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
