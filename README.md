@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather die on my feet than live on my knees.</p>
+<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
 
-<p>Euripides</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
