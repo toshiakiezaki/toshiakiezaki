@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
 
-<p>Thomas Jefferson</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
