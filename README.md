@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
