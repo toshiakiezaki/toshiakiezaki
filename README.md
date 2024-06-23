@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>Socrates</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
