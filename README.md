@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>Napoleon Hill</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
