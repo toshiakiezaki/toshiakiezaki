@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
 
-<p>Napoleon Hill</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
