@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>Deepak Chopra</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
