@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>Euripides</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
