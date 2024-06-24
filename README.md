@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
