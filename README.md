@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>The real meditation is how you live your life.</p>
 
-<p>Tony Robbins</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
