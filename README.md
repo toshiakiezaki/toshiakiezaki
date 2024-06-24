@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</p>
+<p>Conscience is a man's compass. </p>
 
-<p>Sonia Ricotti</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
