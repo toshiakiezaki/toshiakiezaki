@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The healthiest response to life is joy.</p>
+<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
 
-<p>Deepak Chopra</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
