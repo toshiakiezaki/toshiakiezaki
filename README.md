@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be fascinated instead of frustrated.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
 <p>Jim Rohn</p>
 <!-- dailyquote:end -->
