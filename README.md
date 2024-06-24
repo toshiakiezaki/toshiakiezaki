@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>Zig Ziglar</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
