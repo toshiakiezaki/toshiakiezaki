@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must cultivate our garden. </p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>Voltaire</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
