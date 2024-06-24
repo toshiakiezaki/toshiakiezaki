@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>The healthiest response to life is joy.</p>
 
-<p>Dan Brown</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
