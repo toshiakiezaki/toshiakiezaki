@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take interest and even delight in doing the small things well.</p>
+<p>We must cultivate our garden. </p>
 
-<p>Jim Rohn</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
