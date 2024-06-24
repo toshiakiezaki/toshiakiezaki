@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>Albus Dumbledore</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
