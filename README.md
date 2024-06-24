@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a man's compass. </p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Vincent van Gogh</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
