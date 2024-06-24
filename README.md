@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>Richard Bach</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
