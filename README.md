@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not stop thinking of life as an adventure.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
