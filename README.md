@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>Buddha</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
