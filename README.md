@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>Be where your enemy is not.</p>
 
-<p>Dogen</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
