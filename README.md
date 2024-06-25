@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>Silence is sometimes the best answer.</p>
 
-<p>Henry Ford</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
