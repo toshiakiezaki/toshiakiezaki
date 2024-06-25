@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>Socrates</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
