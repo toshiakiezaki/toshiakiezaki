@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
