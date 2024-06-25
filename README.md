@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
