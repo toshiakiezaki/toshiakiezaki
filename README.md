@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>Vince Lombardi</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
