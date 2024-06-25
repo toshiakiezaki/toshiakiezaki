@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
+<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
 
-<p>Aristotle</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
