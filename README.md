@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Maxime Lagace</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
