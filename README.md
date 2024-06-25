@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you chase two rabbits, you catch none.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>Confucius</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
