@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
