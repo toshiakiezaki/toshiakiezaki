@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>Unknown</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
