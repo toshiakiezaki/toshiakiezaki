@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change yourself - you are in control.</p>
+<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
