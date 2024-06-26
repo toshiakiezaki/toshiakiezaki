@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>Chinese Proverb</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
