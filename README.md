@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ponder and deliberate before you make a move.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>Sun Tzu</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
