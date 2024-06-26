@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Begin now to be what you will be hereafter.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>St. Jerome</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
