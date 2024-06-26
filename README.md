@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>Aristotle</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
