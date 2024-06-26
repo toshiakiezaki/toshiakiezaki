@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>Andrew Carnegie</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
