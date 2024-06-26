@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
