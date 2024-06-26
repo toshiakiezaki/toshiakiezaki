@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>When you make a choice, you change the future.</p>
 
-<p>Dogen</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
