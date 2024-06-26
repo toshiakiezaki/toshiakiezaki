@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
