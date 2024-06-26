@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do anything, but let it produce joy.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>Walt Whitman</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
