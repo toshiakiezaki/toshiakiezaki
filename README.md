@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Eric Hoffer</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
