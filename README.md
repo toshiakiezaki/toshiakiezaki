@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
