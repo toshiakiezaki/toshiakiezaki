@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
 
-<p>Tony Robbins</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
