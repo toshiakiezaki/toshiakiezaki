@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>Emily Dickinson</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
