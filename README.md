@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man's character is his fate.</p>
+<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
 
-<p>Heraclitus</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
