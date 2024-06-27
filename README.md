@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>Michael Jordan</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
