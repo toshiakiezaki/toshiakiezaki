@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>Vaclav Havel</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
