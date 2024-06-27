@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>Celestine Chua</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
