@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We forge the chains we wear in life.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Charles Dickens</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
