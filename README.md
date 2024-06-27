@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>Tony Robbins</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
