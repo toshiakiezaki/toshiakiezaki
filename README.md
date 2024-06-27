@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>Thomas Edison</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
