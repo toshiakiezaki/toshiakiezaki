@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
