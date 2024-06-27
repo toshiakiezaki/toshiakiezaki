@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>Voltaire</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
