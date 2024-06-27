@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
 <p>Steve Harvey</p>
 <!-- dailyquote:end -->
