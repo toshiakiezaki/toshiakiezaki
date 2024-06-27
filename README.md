@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>Man's character is his fate.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
