@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>Leo Tolstoy</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
