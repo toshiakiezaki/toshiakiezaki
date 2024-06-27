@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>Bette Midler</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
