@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>Jim Rohn</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
