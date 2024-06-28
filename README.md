@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give more than you think you can, trusting that you are richer than you think.</p>
+<p>Better to light a candle than to curse the darkness. </p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
