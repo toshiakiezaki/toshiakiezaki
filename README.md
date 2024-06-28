@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>Confucius</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
