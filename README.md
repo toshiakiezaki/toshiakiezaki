@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we dwell on is who we become.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
