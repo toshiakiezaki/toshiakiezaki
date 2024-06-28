@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
 
-<p>Buddha</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
