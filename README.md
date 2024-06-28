@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace by avoiding life.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>Virginia Woolf</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
