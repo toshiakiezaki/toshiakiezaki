@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go as far as you can see and you will see further.  </p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>Zig Ziglar</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
