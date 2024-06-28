@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>Zig Ziglar</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
