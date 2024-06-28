@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>Jack Butcher</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
