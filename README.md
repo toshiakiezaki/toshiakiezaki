@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Carol Burnett</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
