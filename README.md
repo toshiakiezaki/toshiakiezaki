@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>Wayne Dyer</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
