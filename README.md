@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
