@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to light a candle than to curse the darkness. </p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>Chinese Proverb</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
