@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>Celestine Chua</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
