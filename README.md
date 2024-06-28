@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
