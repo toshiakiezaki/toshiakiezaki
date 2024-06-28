@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>What we dwell on is who we become.</p>
 
-<p>Seneca</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
