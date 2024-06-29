@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>Rumi</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
