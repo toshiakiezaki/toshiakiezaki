@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>Dogen</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
