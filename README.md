@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
+<p>The question is not what you look at, but what you see.</p>
 
-<p>Kamal Ravikant</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
