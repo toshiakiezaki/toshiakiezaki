@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>St. Jerome</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
