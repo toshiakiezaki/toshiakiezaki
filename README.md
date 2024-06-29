@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Ronald Reagan</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
