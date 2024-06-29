@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus is a matter of deciding what things you're not going to do.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>John Carmack</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
