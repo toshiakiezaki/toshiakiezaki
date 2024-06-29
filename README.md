@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>Amelia Earhart</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
