@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
 
-<p>Yoko Ono</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
