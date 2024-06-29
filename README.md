@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>Brian Tracy</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
