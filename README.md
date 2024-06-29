@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>Mary Engelbreit</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
