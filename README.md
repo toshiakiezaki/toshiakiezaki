@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The question is not what you look at, but what you see.</p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>Henry David Thoreau</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
