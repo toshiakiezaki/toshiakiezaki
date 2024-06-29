@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>Unknown</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
