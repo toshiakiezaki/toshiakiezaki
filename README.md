@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first principle of success is desire.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>Robert Collier</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
