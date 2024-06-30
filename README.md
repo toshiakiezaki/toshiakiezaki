@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>Thomas Jefferson</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
