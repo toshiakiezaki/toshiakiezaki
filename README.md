@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest fears lie in anticipation.</p>
+<p>The world doesn't owe you anything. It was here first.</p>
 
-<p>Honore de Balzac</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
