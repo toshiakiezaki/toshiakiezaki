@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whenever people agree with me I always feel I must be wrong.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>Oscar Wilde</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
