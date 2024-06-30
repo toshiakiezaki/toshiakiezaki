@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When something is important enough, you do it even if the odds are not in your favor.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Elon Musk</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
