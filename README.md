@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>Whenever people agree with me I always feel I must be wrong.</p>
 
-<p>Yanni</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
