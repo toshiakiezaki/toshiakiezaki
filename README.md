@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk does not cook rice.</p>
+<p>The way out is in.</p>
 
-<p>Chinese Proverb</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
