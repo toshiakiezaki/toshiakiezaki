@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world doesn't owe you anything. It was here first.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>Mark Twain</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
