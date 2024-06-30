@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
