@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
