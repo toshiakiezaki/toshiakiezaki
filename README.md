@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
 <p>Dalai Lama</p>
 <!-- dailyquote:end -->
