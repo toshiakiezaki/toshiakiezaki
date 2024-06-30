@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
