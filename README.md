@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</p>
 
-<p>Gustave Flaubert</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
