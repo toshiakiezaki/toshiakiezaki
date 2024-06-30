@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless you change how you are, you will always have what you got.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
 <p>Jim Rohn</p>
 <!-- dailyquote:end -->
