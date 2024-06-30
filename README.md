@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you try to impress, the more peaceful you can be.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>Maxime Lagace</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
