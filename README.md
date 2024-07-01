@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Sometimes adversity is what you need to face in order to become successful.</p>
 
-<p>Henry Ford</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
