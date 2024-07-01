@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
