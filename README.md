@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>A man is literally what he thinks.</p>
 
-<p>Denis Waitley</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
