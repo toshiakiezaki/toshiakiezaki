@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>William James</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
