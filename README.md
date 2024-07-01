@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when I fall do I get up again.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>Vincent van Gogh</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
