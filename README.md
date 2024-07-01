@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>Dogen</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
