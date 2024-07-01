@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste not fresh tears over old griefs.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>Euripides</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
