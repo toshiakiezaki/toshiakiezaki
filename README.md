@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The least deviation from truth will be multiplied later.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Aristotle</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
