@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>Chinese Proverb</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
