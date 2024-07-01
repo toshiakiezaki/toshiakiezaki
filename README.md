@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see yourself as prosperous, you will be.</p>
+<p>Waste not fresh tears over old griefs.</p>
 
-<p>Robert Collier</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
