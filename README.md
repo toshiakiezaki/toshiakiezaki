@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes adversity is what you need to face in order to become successful.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>Zig Ziglar</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
