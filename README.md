@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>True love stories never have endings.</p>
 
-<p>Charles Swindoll</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
