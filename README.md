@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
 
-<p>Steve Maraboli</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
