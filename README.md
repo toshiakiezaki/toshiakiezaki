@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
 
-<p>Zhuangzi</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
