@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, but verify.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>Ronald Reagan</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
