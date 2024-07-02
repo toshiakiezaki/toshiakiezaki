@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>Dr. Seuss</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
