@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>D. H. Lawrence</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
