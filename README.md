@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>Josh Waitzkin</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
