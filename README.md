@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
