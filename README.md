@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human happiness and moral duty are inseparably connected. </p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>George Washington</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
