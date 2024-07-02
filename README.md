@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With self-discipline, almost anything is possible.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
