@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>Ayn Rand</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
