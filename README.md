@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the behavior of others destroy your inner peace.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
 <p>Dalai Lama</p>
 <!-- dailyquote:end -->
