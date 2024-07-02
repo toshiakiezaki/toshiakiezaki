@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>Zen Proverb</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
