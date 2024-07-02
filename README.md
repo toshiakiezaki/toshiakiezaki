@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failing is another stepping stone to greatness.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
