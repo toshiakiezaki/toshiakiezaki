@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Marcus Aurelius</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
