@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>Human happiness and moral duty are inseparably connected. </p>
 
-<p>Harry S. Truman</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
