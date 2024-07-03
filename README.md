@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
 
-<p>Robin Sharma</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
