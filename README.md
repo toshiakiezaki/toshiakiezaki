@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>John Wooden</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
