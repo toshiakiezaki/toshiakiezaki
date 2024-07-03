@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who leaves the game wins it.</p>
+<p>Time heals what reason cannot.  </p>
 
-<p>Nicolas Chamfort</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
