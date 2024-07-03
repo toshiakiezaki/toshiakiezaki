@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity comes when you continually push forward.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>Sonia Ricotti</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
