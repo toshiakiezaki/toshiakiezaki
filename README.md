@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time heals what reason cannot.  </p>
+<p>Avoiding failure is to avoid progress.</p>
 
-<p>Seneca</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
