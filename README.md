@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Steve Harvey</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
