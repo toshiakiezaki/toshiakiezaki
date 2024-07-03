@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspiration exists, but it has to find you working.</p>
+<p>By words the mind is winged.</p>
 
-<p>Pablo Picasso</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
