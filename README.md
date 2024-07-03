@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>A clear conscience is the sure sign of a bad memory.</p>
 
-<p>Dr. Seuss</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
