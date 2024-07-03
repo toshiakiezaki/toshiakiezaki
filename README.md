@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Epictetus</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
