@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>Jack London</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
