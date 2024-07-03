@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>Robin Sharma</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
