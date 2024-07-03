@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Dan Millman</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
