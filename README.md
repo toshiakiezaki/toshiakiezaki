@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>Mark Twain</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
