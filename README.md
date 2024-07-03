@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>Everything is created twice, first in the mind and then in reality.</p>
 
-<p>Simon Sinek</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
