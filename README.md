@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>Steve Harvey</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
