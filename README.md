@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
