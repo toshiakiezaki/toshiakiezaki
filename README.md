@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By words the mind is winged.</p>
+<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
 
-<p>Aristophanes</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
