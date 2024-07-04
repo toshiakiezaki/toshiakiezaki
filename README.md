@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>Eckhart Tolle</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
