@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>Zen Proverb</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
