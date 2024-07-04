@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>Roy T. Bennett</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
