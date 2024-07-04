@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be confident, not certain.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
