@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>Walt Disney</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
