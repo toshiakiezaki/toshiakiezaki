@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>You can't go forward and backwards at the same time.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
