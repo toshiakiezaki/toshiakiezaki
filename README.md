@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>The only way round is through.</p>
 
-<p>Dan Brown</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
