@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Deepak Chopra</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
