@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't go forward and backwards at the same time.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>Steve Harvey</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
