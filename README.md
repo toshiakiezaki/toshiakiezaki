@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't learn to do, but learn in doing.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>Samuel Butler</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
