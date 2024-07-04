@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>Chinese Proverb</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
