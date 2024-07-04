@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>Genghis Khan</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
