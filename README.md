@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't criticize what you can't understand. </p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
-<p>Bob Dylan</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
