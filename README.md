@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>Marilyn Monroe</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
