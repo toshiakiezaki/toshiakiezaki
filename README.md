@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Roy T. Bennett</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
