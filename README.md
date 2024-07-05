@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
 
-<p>Mark Twain</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
