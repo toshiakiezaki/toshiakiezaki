@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the root is strong, the fruit is sweet.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>Bob Marley</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
