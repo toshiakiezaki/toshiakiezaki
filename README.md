@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't tell big dreams to small minded people.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>Steve Harvey</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
