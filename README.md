@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Teachers open the door. You enter by yourself. </p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>Chinese Proverb</p>
+<p>Carl Bard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
