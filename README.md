@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>Teachers open the door. You enter by yourself. </p>
 
-<p>Tony Robbins</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
