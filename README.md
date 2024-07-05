@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>Paulo Coelho</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
