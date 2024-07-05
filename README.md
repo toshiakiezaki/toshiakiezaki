@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try all things, hold fast that which is good.</p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>John Locke</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
