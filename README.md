@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whoever is happy will make others happy too.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>Anne Frank</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
