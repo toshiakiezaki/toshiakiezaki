@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
 
-<p>Thomas Edison</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
