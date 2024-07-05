@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>Unknown</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
