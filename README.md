@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination is more important than knowledge.</p>
+<p>When the root is strong, the fruit is sweet.</p>
 
-<p>Albert Einstein</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
