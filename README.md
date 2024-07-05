@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>Carl Bard</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
