@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>Seneca</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
