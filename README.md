@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>Life is love and love is life.</p>
 
-<p>Bruce Lee</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
