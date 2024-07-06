@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
