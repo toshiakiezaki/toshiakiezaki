@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>Oprah Winfrey</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
