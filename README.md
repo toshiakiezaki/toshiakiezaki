@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience never fears midnight knocking.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>Chinese Proverb</p>
+<p>David Brinkley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
