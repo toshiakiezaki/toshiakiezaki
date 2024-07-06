@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
 
-<p>Alan Watts</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
