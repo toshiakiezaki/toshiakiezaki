@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>Plato</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
