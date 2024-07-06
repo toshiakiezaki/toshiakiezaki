@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the dancer and you are the dance.</p>
+<p>Be royal in your own fashion: act like a king to be treated like one.</p>
 
-<p>Eckhart Tolle</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
