@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day passes whether you participate or not.</p>
+<p>Make your mind your own business.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
