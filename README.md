@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>Only the educated are free.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
