@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>Alexander Pope</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
