@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>Criss Jami</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
