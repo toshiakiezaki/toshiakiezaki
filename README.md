@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
 
-<p>Brian Tracy</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
