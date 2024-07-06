@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>Aristophanes</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
