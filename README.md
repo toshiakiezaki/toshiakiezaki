@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The least deviation from truth will be multiplied later.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>Aristotle</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
