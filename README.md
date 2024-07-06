@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your mind your own business.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Jack Butcher</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
