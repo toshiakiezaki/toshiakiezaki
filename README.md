@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the educated are free.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Epictetus</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
