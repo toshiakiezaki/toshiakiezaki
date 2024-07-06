@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conquer the devils with a little thing called love.</p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Bob Marley</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
