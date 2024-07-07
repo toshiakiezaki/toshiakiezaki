@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>Criss Jami</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
