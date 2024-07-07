@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Publilius Syrus</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
