@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where violence reigns, reason is weak.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>Nicolas Chamfort</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
