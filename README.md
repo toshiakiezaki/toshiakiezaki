@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Know your gifts and share them.</p>
 
-<p>Seneca</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
