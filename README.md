@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
