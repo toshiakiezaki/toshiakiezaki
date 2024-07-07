@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man invented language to satisfy his deep need to complain.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>Lily Tomlin</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
