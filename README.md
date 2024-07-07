@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>Leo Tolstoy</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
