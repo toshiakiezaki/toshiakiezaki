@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Napoleon Hill</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
