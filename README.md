@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>Leo Tolstoy</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
