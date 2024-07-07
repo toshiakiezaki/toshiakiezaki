@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>Charles Darwin</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
