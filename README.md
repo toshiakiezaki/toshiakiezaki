@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every limit is a beginning as well as an ending.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>George Eliot</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
