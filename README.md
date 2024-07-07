@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>John Lennon</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
