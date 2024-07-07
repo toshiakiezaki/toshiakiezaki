@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you stop questioning, you stop learning.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>Lolly Daskal</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
