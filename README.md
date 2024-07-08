@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>Roy T. Bennett</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
