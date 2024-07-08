@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is found in unlikely places.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
