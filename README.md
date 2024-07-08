@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world makes way for the man who knows where he is going.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
