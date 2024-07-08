@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do the best you can. No one can do more than that.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>John Wooden</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
