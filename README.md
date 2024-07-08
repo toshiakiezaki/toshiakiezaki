@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>Dan Millman</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
