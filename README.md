@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>Margaret Mead</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
