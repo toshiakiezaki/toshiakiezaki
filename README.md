@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living life in style also means living a life of balance.</p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>Jim Rohn</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
