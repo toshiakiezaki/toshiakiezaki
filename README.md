@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
