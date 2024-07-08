@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Courage is found in unlikely places.</p>
 
-<p>Alexandre Dumas</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
