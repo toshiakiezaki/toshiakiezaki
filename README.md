@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't get in life what you want; you get in life what you are.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>Les Brown</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
