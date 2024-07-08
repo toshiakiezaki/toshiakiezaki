@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>Gilbert Chesterton</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
