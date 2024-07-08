@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>Joyce Meyer</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
