@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>Dalai Lama</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
