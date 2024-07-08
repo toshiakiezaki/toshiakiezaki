@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>Peter Drucker</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
