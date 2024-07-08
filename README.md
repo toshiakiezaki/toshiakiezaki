@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Joan Rivers</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
