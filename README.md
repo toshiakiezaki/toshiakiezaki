@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
 
-<p>Plato</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
