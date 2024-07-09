@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>Dan Millman</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
