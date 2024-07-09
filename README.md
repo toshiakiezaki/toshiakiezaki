@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
