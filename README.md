@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>Joyce Meyer</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
