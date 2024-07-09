@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </p>
 
-<p>Lin Yutang</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
