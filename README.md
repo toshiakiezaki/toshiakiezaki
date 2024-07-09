@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
 
-<p>Stephen Hawking</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
