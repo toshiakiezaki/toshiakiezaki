@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to lose than to win.  </p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>Wayne Gretzky</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
