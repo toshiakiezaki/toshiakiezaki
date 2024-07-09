@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>Osho</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
