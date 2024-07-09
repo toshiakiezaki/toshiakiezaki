@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>Dan Millman</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
