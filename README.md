@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>Intelligence is the ability to adapt to change.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
