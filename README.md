@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>Charles Swindoll</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
