@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</p>
 
-<p>Charles Dickens</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
