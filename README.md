@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>Sun Tzu</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
