@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
 
-<p>Zig Ziglar</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
