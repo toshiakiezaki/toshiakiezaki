@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Alone we can do so little; together we can do so much.</p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Helen Keller</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
