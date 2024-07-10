@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In spite of everything, I shall rise again.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>Vincent van Gogh</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
