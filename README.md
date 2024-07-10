@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>In spite of everything, I shall rise again.</p>
 
-<p>Unknown</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
