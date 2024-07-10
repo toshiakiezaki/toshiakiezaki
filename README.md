@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>Brian Tracy</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
