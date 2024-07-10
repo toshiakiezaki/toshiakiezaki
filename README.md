@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is the signature of civilizations. </p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>Beverly Sills</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
