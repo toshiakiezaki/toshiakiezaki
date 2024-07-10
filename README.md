@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>Simon Sinek</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
