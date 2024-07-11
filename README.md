@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>You can calculate the worth of a man by the number of his enemies.</p>
 
-<p>Eric Hoffer</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
