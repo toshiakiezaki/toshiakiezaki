@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>Kahlil Gibran</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
