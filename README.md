@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
 
-<p>Bodhidharma</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
