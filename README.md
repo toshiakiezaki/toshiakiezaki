@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>Kilian Jornet</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
