@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>Lao Tzu</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
