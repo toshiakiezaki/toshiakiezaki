@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>Whenever people agree with me I always feel I must be wrong.</p>
 
-<p>Helen Keller</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
