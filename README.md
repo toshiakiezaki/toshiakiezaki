@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>Gustave Flaubert</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
