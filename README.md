@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>Will Rogers</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
