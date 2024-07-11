@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>When the time is gone, you can never get it back.</p>
 
-<p>Epictetus</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
