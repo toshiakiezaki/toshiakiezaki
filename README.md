@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something new, you have to stop doing something old.</p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>Peter Drucker</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
