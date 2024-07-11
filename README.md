@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>Those who look for the bad in people will surely find it.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
