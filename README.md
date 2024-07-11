@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whenever people agree with me I always feel I must be wrong.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>Oscar Wilde</p>
+<p>Kilian Jornet</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
