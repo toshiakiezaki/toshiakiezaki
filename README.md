@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
