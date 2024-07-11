@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who leaves the game wins it.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
