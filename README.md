@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who look for the bad in people will surely find it.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>Abraham Lincoln</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
