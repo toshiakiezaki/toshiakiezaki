@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Aim for the moon. If you miss, you may hit a star.</p>
+<p>All know the way; few actually walk it. </p>
 
-<p>W. Clement Stone</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
