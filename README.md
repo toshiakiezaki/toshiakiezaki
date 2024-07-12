@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
+<p>The attempt to escape from pain, is what creates more pain.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
