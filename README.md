@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
