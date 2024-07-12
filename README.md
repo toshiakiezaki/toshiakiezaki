@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>Jim Rohn</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
