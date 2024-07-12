@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The decisions of our past are the architects of our present.</p>
+<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
 
-<p>Dan Brown</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
