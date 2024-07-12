@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To a mind that is still, the entire universe surrenders.</p>
+<p>Normal is the average of deviance.</p>
 
-<p>Zhuangzi</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
