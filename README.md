@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normal is the average of deviance.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>Rita Mae Brown</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
