@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
