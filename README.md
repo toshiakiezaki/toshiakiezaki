@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>Albus Dumbledore</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
