@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste no more time arguing about what a good man should be. Be one.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>Marcus Aurelius</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
