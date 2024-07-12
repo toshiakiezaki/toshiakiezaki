@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
+<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
 
-<p>Huang Po</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
