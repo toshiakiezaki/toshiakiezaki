@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
 
-<p>Elbert Hubbard</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
