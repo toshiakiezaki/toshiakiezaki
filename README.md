@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>Gabor Mate</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
