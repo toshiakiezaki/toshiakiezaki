@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>Sydney Smith</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
