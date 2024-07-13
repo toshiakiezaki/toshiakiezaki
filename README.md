@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your outlook on life that counts.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Betty White</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
