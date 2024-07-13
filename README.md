@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>Jack Kerouac</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
