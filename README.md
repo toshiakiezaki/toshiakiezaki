@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
