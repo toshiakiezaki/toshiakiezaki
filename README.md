@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Older men declare war. But it is youth that must fight and die.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>Herbert Hoover</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
