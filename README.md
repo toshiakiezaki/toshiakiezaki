@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>Joyce Meyer</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
