@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>Bhagavad Gita</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
