@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>Elon Musk</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
