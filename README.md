@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Chinese Proverb</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
