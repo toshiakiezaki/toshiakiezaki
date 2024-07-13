@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It always seems impossible until it's done.</p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>Nelson Mandela</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
