@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>Wayne Dyer</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
