@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do one thing every day that scares you.</p>
+<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
