@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>Tony Robbins</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
