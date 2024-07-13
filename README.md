@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>It always seems impossible until it's done.</p>
 
-<p>Bruce Lee</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
