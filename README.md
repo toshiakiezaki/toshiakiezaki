@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The destiny of man is in his own soul. </p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>Herodotus</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
