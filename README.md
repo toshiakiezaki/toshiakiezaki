@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a constant series of opportunities.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
