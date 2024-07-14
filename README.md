@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Ayn Rand</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
