@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>Epictetus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
