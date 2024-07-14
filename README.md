@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>Chinese Proverb</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
