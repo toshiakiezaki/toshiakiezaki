@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>Maxime Lagace</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
