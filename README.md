@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We think too much and feel too little.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>Charlie Chaplin</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
