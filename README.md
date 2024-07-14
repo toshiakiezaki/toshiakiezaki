@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more people you help become successful the more successful you become.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>Steve Harvey</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
