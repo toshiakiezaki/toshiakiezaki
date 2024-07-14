@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>Lao Tzu</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
