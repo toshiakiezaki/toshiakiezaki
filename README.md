@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the noise of others opinions drown out your inner voice.</p>
+<p>All know the way; few actually walk it. </p>
 
-<p>Steve Jobs</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
