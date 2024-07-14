@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
+<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
 
-<p>Woody Allen</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
