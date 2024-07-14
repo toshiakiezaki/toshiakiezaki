@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>Eckhart Tolle</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
