@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
+<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
 
-<p>Nelson Mandela</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
