@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
+<p>The key to success is action.</p>
 
-<p>Jim Rohn</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
