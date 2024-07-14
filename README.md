@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>Lolly Daskal</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
