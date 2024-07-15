@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in your moments of decision that your destiny is shaped.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Tony Robbins</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
