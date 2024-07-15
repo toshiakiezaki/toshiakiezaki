@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All know the way; few actually walk it. </p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>Bodhidharma</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
