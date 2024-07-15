@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
