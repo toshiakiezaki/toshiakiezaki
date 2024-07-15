@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
 
-<p>Oprah Winfrey</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
