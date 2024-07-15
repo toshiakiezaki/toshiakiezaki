@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>Oscar Wilde</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
