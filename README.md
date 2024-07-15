@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Penny Saved is a Penny Earned</p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>Benjamin Franklin</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
