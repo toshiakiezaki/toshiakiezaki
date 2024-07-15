@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
 
-<p>Colin Powell</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
