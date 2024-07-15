@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the expression of one's values.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Ayn Rand</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
