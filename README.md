@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>Steve Harvey</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
