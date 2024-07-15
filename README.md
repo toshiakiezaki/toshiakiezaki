@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
 
-<p>Alexander Pope</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
