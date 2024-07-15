@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>Michael Jordan</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
