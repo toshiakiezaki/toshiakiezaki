@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>Estee Lauder</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
