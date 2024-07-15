@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
+<p>It is in your moments of decision that your destiny is shaped.</p>
 
-<p>Andrew Carnegie</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
