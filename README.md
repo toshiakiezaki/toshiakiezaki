@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let each man exercise the art he knows.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>Aristophanes</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
