@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Small men think they are small; great men never know they are great. </p>
+<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
 
-<p>Chinese Proverb</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
