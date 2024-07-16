@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
 
-<p>Criss Jami</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
