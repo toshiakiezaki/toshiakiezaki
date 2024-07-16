@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cleverness is not wisdom.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>Euripides</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
