@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your dream has to be bigger than your fear.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>Steve Harvey</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
