@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>Andrew Carnegie</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
