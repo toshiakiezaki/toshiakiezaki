@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>Adi Da Samraj</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
