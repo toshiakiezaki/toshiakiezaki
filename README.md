@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>Epictetus</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
