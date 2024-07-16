@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>Criss Jami</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
