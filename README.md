@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>Mark Manson</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
