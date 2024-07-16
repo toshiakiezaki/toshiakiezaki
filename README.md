@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>Osho</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
