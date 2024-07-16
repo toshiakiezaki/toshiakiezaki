@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>Voltaire</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
