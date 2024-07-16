@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Cleverness is not wisdom.</p>
 
-<p>Earl Nightingale</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
