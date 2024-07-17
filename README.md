@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Alone we can do so little; together we can do so much.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>Helen Keller</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
