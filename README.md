@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
