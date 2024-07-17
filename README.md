@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
 
-<p>James Allen</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
