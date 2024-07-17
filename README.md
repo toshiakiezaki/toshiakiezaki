@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>Eric Hoffer</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
