@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you done it, it ain't bragging.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>Walt Whitman</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
