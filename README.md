@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
