@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>James Cameron</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
