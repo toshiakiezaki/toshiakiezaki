@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Og Mandino</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
