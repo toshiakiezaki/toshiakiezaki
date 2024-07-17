@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
+<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
 
-<p>Jonathan Swift</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
