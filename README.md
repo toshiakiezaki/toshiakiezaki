@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Betty White</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
