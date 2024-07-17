@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wealth is of the heart, not of the purse.</p>
+<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
 
-<p>Og Mandino</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
