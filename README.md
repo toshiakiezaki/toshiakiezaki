@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>Nelson Mandela</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
