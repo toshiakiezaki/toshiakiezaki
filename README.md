@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your dream has to be bigger than your fear.</p>
+<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
 
-<p>Steve Harvey</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
