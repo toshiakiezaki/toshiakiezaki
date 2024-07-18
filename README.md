@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>A needle is not sharp at both ends. </p>
 
-<p>Aristotle</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
