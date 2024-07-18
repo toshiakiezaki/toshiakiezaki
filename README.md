@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good by stealth, and blush to find it fame.</p>
+<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
 
-<p>Alexander Pope</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
