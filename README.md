@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>Mark Twain</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
