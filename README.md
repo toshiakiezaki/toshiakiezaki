@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>The golden opportunity you are seeking is within yourself.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
