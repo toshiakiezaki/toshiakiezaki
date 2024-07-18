@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Gary Keller</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
