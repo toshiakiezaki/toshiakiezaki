@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>Tony Robbins</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
