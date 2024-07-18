@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>Thomas Jefferson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
