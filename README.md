@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
