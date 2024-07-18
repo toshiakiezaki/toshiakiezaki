@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a man's compass. </p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>Vincent van Gogh</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
