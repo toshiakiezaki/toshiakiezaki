@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>Roy T. Bennett</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
