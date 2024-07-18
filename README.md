@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A needle is not sharp at both ends. </p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>Chinese Proverb</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
