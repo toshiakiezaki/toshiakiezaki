@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of who we are is what we do with what we have.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>Vince Lombardi</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
