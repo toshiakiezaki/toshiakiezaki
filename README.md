@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend major time on minor things.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>Jim Rohn</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
