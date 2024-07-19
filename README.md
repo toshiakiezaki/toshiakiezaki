@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>Dale Carnegie</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
