@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>Paulo Coelho</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
