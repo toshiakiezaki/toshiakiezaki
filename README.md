@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>Estee Lauder</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
