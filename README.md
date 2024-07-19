@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>Children are our greatest natural resource.</p>
 
-<p>Laurence J. Peter</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
