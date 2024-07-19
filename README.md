@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let anyone define you. You define yourself.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>Billie Jean King</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
