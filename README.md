@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are interpersonal relationship problems.</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>Alfred Adler</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
