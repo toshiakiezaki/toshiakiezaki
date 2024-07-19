@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your stand today. On this spot. On this day.</p>
+<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
