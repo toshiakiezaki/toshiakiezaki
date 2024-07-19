@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>Rita Mae Brown</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
