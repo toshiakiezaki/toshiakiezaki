@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
