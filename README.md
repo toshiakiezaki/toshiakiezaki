@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>Jim Rohn</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
