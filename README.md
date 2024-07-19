@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>Margaret Mead</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
