@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always try to be a little kinder than necessary.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>James Matthew Barrie</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
