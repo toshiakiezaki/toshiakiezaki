@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
 
-<p>Seneca</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
