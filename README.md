@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>Roy T. Bennett</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
