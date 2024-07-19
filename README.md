@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We ordinary people must forge our own beauty.</p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
