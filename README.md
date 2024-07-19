@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>Dalai Lama</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
