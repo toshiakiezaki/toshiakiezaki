@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Dan Millman</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
