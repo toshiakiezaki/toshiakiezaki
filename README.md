@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is worthwhile in itself.</p>
+<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
 
-<p>Amelia Earhart</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
