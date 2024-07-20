@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
