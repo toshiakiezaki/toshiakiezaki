@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>The future is the worst thing about the present.</p>
 
-<p>Ralph Marston</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
