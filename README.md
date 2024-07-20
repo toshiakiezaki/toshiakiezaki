@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have as much laughter as you have faith.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>Martin Luther</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
