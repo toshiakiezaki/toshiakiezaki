@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>Napoleon Hill</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
