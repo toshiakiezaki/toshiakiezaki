@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>Meister Eckhart</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
