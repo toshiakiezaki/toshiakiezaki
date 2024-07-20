@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>Lao Tzu</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
