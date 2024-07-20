@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All leaders are readers.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>Jim Rohn</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
