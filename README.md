@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>Gary Keller</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
