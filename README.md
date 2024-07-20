@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</p>
 
-<p>Maxime Lagace</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
