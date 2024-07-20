@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>Paulo Coelho</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
