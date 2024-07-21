@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Woody Allen</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
