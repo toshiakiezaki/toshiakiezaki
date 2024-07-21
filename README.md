@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>The sun is new each day.</p>
 
-<p>Stephen King</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
