@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>Vaclav Havel</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
