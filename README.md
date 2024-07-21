@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>Nelson Mandela</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
