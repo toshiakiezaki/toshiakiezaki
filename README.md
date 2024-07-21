@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>Unknown</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
