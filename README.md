@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>Jack Butcher</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
