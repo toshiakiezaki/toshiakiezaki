@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>Harry S. Truman</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
