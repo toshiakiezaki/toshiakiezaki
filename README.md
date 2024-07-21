@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>Napoleon Hill</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
