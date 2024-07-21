@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chop your own wood and it will warm you twice. </p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>Henry Ford</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
