@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a consequence and must not be a goal.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>Gustave Flaubert</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
