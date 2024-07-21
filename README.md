@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more acquaintances you have, the less you know them.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Chinese Proverb</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
