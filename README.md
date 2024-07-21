@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>Dalai Lama</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
