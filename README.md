@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>Gary Keller</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
