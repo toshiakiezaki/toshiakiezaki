@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time heals what reason cannot.  </p>
+<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
 
-<p>Seneca</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
