@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conflict cannot survive without your participation. </p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Wayne Dyer</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
