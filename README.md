@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There exists only the present instant; a Now which always and without end is itself new.</p>
+<p>Nothing brings down walls as surely as acceptance.</p>
 
-<p>Meister Eckhart</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
