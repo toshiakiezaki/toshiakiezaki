@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>It's your outlook on life that counts.</p>
 
-<p>Jack Kerouac</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
