@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>Happiness is only real when shared.</p>
 
-<p>Brian Tracy</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
