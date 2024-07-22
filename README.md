@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
 
-<p>Mae West</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
