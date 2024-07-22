@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing brings down walls as surely as acceptance.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>Deepak Chopra</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
