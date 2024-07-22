@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Seneca</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
