@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep others in suspense, cultivate an air of unpredictability.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>Robert Greene</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
