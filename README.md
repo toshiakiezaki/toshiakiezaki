@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know the rules well, so you can break them effectively.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>Dalai Lama</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
