@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Albus Dumbledore</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
