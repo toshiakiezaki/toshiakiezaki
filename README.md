@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>Maya Angelou</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
