@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can, you should, and if you're brave enough to start, you will.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Stephen King</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
