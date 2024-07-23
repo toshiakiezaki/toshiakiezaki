@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work harder on yourself than you do on your job.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>Jim Rohn</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
