@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>Dogen</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
