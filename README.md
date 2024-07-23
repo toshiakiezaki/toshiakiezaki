@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>Les Brown</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
