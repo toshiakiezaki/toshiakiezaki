@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>Mark Manson</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
