@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>Earl Nightingale</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
