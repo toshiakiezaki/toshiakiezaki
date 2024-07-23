@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>William James</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
