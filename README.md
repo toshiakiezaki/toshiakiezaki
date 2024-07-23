@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>Albus Dumbledore</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
