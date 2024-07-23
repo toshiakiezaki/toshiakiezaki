@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
