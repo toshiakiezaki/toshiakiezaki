@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
 
-<p>Rumi</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
