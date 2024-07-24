@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>Every moment is a fresh beginning.</p>
 
-<p>Mark Twain</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
