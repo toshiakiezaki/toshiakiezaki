@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>Someday death will take us to another star.</p>
 
-<p>Eckhart Tolle</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
