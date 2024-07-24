@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>Mark Twain</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
