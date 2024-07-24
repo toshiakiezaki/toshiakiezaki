@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
+<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
 
-<p>Ralph Marston</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
