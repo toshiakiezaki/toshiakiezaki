@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>Lao Tzu</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
