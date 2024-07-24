@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to lose than to win.  </p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>Wayne Gretzky</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
