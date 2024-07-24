@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every moment is a fresh beginning.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>T.S. Eliot</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
