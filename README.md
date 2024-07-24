@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>Jim Rohn</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
