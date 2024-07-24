@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>Lao Tzu</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
