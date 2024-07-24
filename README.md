@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
+<p>If you tell the truth, you don't have to remember anything.</p>
 
-<p>Heraclitus</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
