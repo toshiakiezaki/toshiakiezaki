@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Alone we can do so little; together we can do so much.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>Helen Keller</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
