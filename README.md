@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Someday death will take us to another star.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Vincent van Gogh</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
