@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>Chinese Proverb</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
