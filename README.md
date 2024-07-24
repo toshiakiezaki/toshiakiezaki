@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>Brian Tracy</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
