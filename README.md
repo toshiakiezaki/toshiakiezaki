@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more acquaintances you have, the less you know them.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>Chinese Proverb</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
