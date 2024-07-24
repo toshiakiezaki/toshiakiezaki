@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>Spencer Johnson</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
