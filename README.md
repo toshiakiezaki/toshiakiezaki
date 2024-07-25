@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
