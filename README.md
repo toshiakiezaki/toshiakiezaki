@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>Steve Harvey</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
