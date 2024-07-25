@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being entirely honest with oneself is a good exercise.</p>
+<p>Absence makes the heart grow fonder.</p>
 
-<p>Sigmund Freud</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
