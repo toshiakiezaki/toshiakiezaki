@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love never keeps a man from pursuing his destiny.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>Paulo Coelho</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
