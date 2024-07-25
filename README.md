@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who look for the bad in people will surely find it.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>Abraham Lincoln</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
