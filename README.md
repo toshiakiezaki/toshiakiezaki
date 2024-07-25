@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
 
-<p>Zen Proverb</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
