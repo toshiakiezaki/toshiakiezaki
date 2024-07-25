@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>Carl Jung</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
