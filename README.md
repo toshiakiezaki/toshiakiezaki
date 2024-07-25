@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>Charles Dickens</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
