@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever happens always happens on time.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
-<p>Zen Proverb</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
