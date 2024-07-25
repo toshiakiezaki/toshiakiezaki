@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can change your mind, you can change your life.</p>
+<p>Love never keeps a man from pursuing his destiny.</p>
 
-<p>William James</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
