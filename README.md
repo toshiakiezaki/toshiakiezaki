@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>Robert Greene</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
