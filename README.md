@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>Maya Angelou</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
