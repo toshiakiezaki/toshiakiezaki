@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Receive without complaint, Work with fate.</p>
+<p>Everything is created twice, first in the mind and then in reality.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
