@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absence makes the heart grow fonder.</p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
