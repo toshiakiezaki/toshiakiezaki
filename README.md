@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
 
-<p>Meister Eckhart</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
