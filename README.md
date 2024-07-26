@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>Bob Dylan</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
