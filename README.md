@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>Desire is suffering.</p>
 
-<p>Kabir</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
