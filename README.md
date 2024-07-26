@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot change anything unless we accept it.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>Carl Jung</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
