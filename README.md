@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
+<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
 
-<p>Kabir</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
