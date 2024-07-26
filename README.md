@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>Yanni</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
