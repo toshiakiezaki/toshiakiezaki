@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>Deepak Chopra</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
