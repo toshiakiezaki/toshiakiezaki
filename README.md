@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>Who you are is always right.</p>
 
-<p>Dr. Seuss</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
