@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every blessing ignored becomes a curse.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Paulo Coelho</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
