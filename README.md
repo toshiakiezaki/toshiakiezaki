@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
