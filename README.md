@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>Vincent van Gogh</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
