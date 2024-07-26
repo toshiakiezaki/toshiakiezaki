@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't what you do, but how you do it.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>John Wooden</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
