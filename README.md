@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All I can do is be me, whoever that is.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>Bob Dylan</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
