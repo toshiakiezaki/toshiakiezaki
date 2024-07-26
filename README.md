@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>Bhagavad Gita</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
