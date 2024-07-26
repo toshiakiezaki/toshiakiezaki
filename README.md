@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>Henry David Thoreau</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
