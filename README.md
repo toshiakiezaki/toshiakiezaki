@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>Wayne Dyer</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
