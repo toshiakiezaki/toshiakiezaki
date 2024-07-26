@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>Anita Krizzan</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
