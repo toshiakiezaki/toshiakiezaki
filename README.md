@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is always right.</p>
+<p>You don't have to be great to start, but you have to start to be great.  </p>
 
-<p>Ming-Dao Deng</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
