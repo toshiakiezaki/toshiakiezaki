@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
+<p>Every moment is a fresh beginning.</p>
 
-<p>Deepak Chopra</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
