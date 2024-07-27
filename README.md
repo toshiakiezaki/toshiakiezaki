@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>Chinese Proverb</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
