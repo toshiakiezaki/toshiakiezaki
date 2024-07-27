@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can see through others only when we can see through ourselves.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>Bruce Lee</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
