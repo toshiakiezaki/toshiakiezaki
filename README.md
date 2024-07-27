@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who is untrue to his own cause cannot command the respect of others.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>Albert Einstein</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
