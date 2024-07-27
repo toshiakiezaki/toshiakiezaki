@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
 
-<p>Pema Chodron</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
