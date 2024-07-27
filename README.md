@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every moment is a fresh beginning.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>T.S. Eliot</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
