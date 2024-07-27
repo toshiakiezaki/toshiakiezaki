@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your spirit is the true shield.</p>
+<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
