@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Aim for the moon. If you miss, you may hit a star.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>W. Clement Stone</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
