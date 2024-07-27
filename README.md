@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>Criss Jami</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
