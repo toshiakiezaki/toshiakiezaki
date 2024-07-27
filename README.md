@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When people are free to do as they please, they usually imitate each other.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>Eric Hoffer</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
