@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>Leo Tolstoy</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
