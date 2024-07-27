@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
+<p>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</p>
 
-<p>Epictetus</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
