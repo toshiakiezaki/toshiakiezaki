@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>Zig Ziglar</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
