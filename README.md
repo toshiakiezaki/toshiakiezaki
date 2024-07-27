@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By perseverance the snail reached the ark.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>Charles Spurgeon</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
