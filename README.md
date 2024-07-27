@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is ours to be spent, not to be saved. </p>
+<p>Your spirit is the true shield.</p>
 
-<p>D. H. Lawrence</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
