@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Joyce Meyer</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
