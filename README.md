@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has the name of life, but in reality it is death.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>Heraclitus</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
