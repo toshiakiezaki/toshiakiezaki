@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>Marilyn Monroe</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
