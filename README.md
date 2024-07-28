@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
