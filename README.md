@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>Sydney Smith</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
