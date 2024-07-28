@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
 
-<p>Deepak Chopra</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
