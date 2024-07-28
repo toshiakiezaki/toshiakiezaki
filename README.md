@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Martin Luther</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
