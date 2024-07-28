@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>Confucius</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
