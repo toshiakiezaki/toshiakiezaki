@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>Lao Tzu</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
