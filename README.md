@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Albus Dumbledore</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
