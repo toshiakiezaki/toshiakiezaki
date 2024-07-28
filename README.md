@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
 
-<p>Roy T. Bennett</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
