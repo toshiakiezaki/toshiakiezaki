@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are possessed by nothing possess everything.</p>
+<p>No man is happy unless he believes he is.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
