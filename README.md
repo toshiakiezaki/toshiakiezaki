@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>Amelia Earhart</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
