@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>Zen Proverb</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
