@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
 
-<p>Steve Harvey</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
