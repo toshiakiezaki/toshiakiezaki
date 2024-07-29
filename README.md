@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>Albert Einstein</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
