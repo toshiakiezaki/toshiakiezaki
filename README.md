@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
 
-<p>George Bernard Shaw</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
