@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>Henry David Thoreau</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
