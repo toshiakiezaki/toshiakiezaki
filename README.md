@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is happy unless he believes he is.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>Publilius Syrus</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
