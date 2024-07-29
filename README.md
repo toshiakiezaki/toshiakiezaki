@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>Lao Tzu</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
