@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
