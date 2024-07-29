@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By seeking and blundering we learn.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
