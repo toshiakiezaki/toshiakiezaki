@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>Zig Ziglar</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
