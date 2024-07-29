@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can see it in your mind, you can hold it in your mind.</p>
+<p>Boldness makes even the smallest animal dangerous.</p>
 
-<p>Steve Harvey</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
