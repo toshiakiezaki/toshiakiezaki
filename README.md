@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
 
-<p>Vincent van Gogh</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
