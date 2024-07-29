@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>Roy T. Bennett</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
