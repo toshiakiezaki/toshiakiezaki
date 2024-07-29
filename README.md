@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>Celestine Chua</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
