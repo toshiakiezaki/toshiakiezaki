@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>Naval Ravikant</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
