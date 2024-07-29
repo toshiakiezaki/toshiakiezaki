@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>Criss Jami</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
