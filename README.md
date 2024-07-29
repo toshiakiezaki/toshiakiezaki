@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>Robert Greene</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
