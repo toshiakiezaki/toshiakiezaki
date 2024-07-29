@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
 
-<p>Thomas Jefferson</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
