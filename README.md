@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>Every poem should remind the reader that they are going to die.</p>
 
-<p>Maxime Lagace</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
