@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>Unknown</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
