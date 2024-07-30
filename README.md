@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>Michael Jordan</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
