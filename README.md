@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
