@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a man's compass. </p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>Vincent van Gogh</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
