@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
