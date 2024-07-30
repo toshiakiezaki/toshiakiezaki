@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Eric Hoffer</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
