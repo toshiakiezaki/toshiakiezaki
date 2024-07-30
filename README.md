@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>There is no path to Happiness. Happiness is the path.</p>
 
-<p>Zen Proverb</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
