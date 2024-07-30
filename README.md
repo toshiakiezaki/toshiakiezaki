@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>Roy T. Bennett</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
