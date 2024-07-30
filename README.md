@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>Ayn Rand</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
