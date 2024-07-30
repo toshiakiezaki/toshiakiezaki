@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is one long process of getting tired.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>Samuel Butler</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
