@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>Dan Millman</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
