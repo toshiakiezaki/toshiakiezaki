@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you run the day or the day runs you.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>Jim Rohn</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
