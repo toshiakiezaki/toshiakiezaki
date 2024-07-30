@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single most powerful asset we all have is our mind.</p>
+<p>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
