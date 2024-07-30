@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
+<p>All has not been said and never will be.</p>
 
-<p>Rumi</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
