@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
