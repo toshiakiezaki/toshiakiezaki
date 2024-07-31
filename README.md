@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
