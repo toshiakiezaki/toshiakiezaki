@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>Charles Dickens</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
