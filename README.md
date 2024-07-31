@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
