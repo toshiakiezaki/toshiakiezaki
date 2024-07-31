@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We ordinary people must forge our own beauty.</p>
+<p>Progress is limited by your ability to change your mind.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
