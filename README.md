@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
+<p>Nothing brings down walls as surely as acceptance.</p>
 
-<p>Kamal Ravikant</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
