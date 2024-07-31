@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>Samuel Butler</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
