@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>Sigmund Freud</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
