@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>Brian Tracy</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
