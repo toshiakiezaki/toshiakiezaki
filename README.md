@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are possessed by nothing possess everything.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
