@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>John Lennon</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
