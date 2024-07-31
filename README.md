@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
