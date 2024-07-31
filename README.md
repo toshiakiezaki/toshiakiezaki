@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>We ordinary people must forge our own beauty.</p>
 
-<p>Dan Millman</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
