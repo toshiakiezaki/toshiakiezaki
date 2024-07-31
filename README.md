@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Unknown</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
