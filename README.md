@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.</p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
