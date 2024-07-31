@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
