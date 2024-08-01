@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination means nothing without doing.  </p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>Charlie Chaplin</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
