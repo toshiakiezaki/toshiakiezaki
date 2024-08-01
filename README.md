@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>Woody Allen</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
