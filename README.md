@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you love life, don't waste time, for time is what life is made up of. </p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>Bruce Lee</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
