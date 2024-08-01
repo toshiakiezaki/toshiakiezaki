@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
