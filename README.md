@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
