@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Elon Musk</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
