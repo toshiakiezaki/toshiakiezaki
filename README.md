@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>Peter Drucker</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
