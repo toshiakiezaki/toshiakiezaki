@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Robin Sharma</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
