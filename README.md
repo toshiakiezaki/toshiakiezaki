@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Comedy = tragedy + time.</p>
+<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
 
-<p>Carol Burnett</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
