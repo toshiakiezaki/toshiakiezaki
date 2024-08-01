@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Kenneth Branagh</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
