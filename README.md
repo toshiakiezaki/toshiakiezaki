@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
