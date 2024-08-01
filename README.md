@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>Ralph Marston</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
