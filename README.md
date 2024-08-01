@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>Simon Sinek</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
