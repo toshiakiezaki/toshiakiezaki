@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
 
-<p>Peter A. Cohen</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
