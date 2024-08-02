@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>Thomas Jefferson</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
