@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>Leo Tolstoy</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
