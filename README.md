@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single most powerful asset we all have is our mind.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
