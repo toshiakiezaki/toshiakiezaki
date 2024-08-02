@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>Henry Ford</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
