@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
+<p>When you make a choice, you change the future.</p>
 
 <p>Deepak Chopra</p>
 <!-- dailyquote:end -->
