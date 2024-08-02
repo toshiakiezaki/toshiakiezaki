@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
