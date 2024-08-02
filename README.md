@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
