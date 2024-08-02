@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you make a choice, you change the future.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>Deepak Chopra</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
