@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The essence of the Way is detachment.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>Bodhidharma</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
