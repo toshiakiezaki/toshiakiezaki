@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
 
-<p>Lao Tzu</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
