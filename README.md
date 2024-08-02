@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
 
-<p>Henry Ford</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
