@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>Colin Powell</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
