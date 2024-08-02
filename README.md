@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ponder and deliberate before you make a move.</p>
+<p>Make your life a mission - not an intermission.</p>
 
-<p>Sun Tzu</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
