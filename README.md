@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>Lolly Daskal</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
