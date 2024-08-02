@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>Helen Keller</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
