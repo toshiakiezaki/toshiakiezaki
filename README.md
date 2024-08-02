@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>Deepak Chopra</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
