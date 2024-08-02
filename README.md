@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>Laurence J. Peter</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
