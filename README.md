@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
