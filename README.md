@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>What people need and what they want may be very different.</p>
 
-<p>Oprah Winfrey</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
