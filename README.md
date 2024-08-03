@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
-<p>St. Jerome</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
