@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A thing must be loved before it is lovable.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Gilbert Chesterton</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
