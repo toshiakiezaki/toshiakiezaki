@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make improvements, not excuses. Seek respect, not attention.</p>
+<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
 
-<p>Roy T. Bennett</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
