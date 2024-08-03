@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>Eckhart Tolle</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
