@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'd rather welcome change than cling to the past.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
