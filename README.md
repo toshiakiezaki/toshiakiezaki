@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>Elon Musk</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
