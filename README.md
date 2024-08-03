@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
 
-<p>Les Brown</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
