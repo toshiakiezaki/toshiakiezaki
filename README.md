@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I persist long enough I will win.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>Og Mandino</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
