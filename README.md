@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>A.A. Milne</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
