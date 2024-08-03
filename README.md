@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>Napoleon Hill</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
