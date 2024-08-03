@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth comes at the point of resistance.</p>
+<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
 
-<p>Josh Waitzkin</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
