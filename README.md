@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people need and what they want may be very different.</p>
+<p>Experience is simply the name we give our mistakes. </p>
 
-<p>Elbert Hubbard</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
