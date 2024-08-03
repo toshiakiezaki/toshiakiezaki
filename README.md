@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>Jiddu Krishnamurti</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
