@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Unknown</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
