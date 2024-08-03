@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We love the things we love for what they are.</p>
+<p>I'd rather welcome change than cling to the past.</p>
 
-<p>Robert Frost</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
