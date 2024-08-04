@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>David Brinkley</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
