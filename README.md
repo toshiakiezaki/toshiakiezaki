@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others and give something back.</p>
+<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
