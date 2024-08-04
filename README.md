@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>Elvis Presley</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
