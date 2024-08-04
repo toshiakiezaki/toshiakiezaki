@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
