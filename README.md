@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>Elbert Hubbard</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
