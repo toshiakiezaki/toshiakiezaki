@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
 <p>Elvis Presley</p>
 <!-- dailyquote:end -->
