@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>Joyce Meyer</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
