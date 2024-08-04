@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Celestine Chua</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
