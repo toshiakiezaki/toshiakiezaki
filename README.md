@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>Mae West</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
