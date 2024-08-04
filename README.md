@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>Roy T. Bennett</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
