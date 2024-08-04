@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Paulo Coelho</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
