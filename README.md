@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>Most people fail in life because they major in minor things.</p>
 
-<p>Robert Frost</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
