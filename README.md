@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
 
-<p>Osho</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
