@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is simply what our feelings do to us.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>Honore de Balzac</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
