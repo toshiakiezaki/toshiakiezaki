@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>Naval Ravikant</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
