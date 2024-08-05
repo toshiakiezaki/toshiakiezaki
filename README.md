@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder the conflict, the greater the triumph. </p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>George Washington</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
