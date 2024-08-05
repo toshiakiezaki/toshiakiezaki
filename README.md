@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
+<p>It's always to soon to quit!</p>
 
-<p>Steve Jobs</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
