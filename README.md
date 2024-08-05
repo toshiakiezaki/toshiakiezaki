@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>Deepak Chopra</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
