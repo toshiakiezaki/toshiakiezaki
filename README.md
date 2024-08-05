@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>It is ignorance that causes most mistakes.</p>
 
-<p>Albert Einstein</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
