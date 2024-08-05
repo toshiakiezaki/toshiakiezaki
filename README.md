@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>Mother Teresa</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
