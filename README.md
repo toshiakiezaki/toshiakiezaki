@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>Leo Tolstoy</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
