@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>Mother Teresa</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
