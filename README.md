@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>Dogen</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
