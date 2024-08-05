@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Abraham Lincoln</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
