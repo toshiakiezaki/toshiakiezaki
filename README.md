@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chop your own wood and it will warm you twice. </p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>Henry Ford</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
