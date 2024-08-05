@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
