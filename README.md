@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>Zen Proverb</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
