@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definitions belong to the definers, not the defined.</p>
+<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
 
-<p>Toni Morrison</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
