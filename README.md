@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is ignorance that causes most mistakes.</p>
+<p>The harder the conflict, the greater the triumph. </p>
 
-<p>Harry S. Truman</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
