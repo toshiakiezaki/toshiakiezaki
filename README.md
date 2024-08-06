@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>Dale Carnegie</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
