@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>The less you respond to negative people, the more positive your life will become.</p>
 
-<p>Napoleon Hill</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
