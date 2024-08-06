@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fishing is much more than fish.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>Herbert Hoover</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
