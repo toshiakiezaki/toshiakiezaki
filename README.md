@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Bhagavad Gita</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
