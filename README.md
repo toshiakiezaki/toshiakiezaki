@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
