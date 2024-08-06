@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>Sun Tzu</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
