@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
