@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>Aristotle</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
