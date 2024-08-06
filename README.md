@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Thinking is difficult, that's why most people judge.</p>
 
-<p>Samuel Butler</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
