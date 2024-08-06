@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has no limitations except the ones you make.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>Les Brown</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
