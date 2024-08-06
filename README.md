@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is far easier to start something than it is to finish it.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Amelia Earhart</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
