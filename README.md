@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is difficult, that's why most people judge.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Carl Jung</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
