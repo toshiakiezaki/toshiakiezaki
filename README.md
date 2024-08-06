@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>William James</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
