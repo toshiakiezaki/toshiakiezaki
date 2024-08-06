@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>Paulo Coelho</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
