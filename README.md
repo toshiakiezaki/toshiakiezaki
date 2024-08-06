@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>Wayne Gretzky</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
