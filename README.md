@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I've always tried to go a step past wherever people expected me to end up.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>Beverly Sills</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
