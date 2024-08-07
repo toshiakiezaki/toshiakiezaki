@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is stupid. So are regrets.</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>Marilyn Monroe</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
