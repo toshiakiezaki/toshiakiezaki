@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>Stephen Hawking</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
