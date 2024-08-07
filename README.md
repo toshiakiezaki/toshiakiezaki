@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>Criss Jami</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
