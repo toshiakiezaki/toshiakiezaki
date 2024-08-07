@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>Pema Chodron</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
