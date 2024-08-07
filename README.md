@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
 
-<p>Ming-Dao Deng</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
