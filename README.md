@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>Talk does not cook rice.</p>
 
-<p>Mother Teresa</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
