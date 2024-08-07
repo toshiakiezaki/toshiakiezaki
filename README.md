@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who leaves the game wins it.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
