@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>Dogen</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
