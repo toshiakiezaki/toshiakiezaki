@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>Charles Swindoll</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
