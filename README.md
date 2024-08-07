@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>Unknown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
