@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk does not cook rice.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>Chinese Proverb</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
