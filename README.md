@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>Sigmund Freud</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
