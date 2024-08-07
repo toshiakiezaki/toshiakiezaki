@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't blame others. it won't make you a better person.</p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>Lolly Daskal</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
