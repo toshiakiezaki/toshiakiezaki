@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
 
-<p>Ronald Reagan</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
