@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The impossible can always be broken down into possibilities.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
