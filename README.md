@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something new, you have to stop doing something old.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>Peter Drucker</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
