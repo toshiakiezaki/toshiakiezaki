@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final; failure is never fatal.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>Conrad Hilton</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
