@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>Judy Garland</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
