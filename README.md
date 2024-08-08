@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>Unknown</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
