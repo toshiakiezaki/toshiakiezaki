@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Goodness is the only investment that never fails.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Henry David Thoreau</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
