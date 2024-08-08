@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>Herbert Hoover</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
