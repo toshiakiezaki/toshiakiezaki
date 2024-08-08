@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>Aristophanes</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
