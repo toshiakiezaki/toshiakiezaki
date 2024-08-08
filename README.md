@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence breeds beauty.  </p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Estee Lauder</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
