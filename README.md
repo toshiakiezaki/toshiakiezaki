@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are free, and that is why you are lost.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>Franz Kafka</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
