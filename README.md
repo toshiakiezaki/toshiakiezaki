@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Convinced myself, I seek not to convince.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
