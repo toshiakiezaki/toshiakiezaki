@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>Bruce Lee</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
