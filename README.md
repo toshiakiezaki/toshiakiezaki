@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is to console those who are broken by life.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>Vincent van Gogh</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
