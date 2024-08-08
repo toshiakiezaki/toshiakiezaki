@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only real obstacle in your path to a fulfilling life.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>Les Brown</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
