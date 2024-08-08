@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you truly expect something to be difficult, it will be.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>Peter A. Cohen</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
