@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace begins with a smile.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>Mother Teresa</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
