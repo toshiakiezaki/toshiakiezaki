@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the touchstones of our characters.</p>
+<p>The health of nations is more important than the wealth of nations.</p>
 
-<p>Henry David Thoreau</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
