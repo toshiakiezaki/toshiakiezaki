@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The friendship that can cease has never been real. </p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>St. Jerome</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
