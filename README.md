@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>James Matthew Barrie</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
