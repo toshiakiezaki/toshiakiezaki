@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>Everything is created twice, first in the mind and then in reality.</p>
 
-<p>Pablo Picasso</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
