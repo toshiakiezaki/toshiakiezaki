@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
