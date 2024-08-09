@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>Naval Ravikant</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
