@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Gustave Flaubert</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
