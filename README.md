@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
 
-<p>Og Mandino</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
