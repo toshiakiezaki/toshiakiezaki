@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>Kamal Ravikant</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
