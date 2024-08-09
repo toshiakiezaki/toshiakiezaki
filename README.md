@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>George Bernard Shaw</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
