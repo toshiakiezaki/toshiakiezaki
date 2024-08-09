@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is in your own heart.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
