@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more something scares you, the more you should do it.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>Mark Manson</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
