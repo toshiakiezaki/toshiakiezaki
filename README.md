@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>The more something scares you, the more you should do it.</p>
 
-<p>Robin Sharma</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
