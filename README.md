@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>Spencer Johnson</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
