@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
