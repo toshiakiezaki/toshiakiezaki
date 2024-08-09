@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>Meister Eckhart</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
