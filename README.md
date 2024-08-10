@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
+<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
 
-<p>Virginia Woolf</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
