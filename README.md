@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is the expansion of happiness.</p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>Deepak Chopra</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
