@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
