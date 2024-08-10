@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>Confucius</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
