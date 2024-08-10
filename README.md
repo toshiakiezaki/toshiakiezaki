@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>Isaac Newton</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
