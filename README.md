@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
