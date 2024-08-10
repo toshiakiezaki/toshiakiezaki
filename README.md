@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>Zen Proverb</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
