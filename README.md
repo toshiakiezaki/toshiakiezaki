@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of the mind to be unconquerable.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>Seneca</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
