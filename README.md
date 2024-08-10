@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Plants grow weak without wind.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>Maxime Lagace</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
