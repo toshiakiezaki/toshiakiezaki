@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>Jack London</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
