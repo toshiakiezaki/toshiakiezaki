@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>Lolly Daskal</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
