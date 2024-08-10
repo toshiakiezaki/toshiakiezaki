@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
 
-<p>Pema Chodron</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
