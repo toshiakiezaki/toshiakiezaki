@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>Plants grow weak without wind.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
