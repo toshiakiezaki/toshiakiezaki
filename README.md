@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
 
-<p>Deepak Chopra</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
