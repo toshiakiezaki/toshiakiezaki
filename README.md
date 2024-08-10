@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>Alexander Pope</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
