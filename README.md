@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>The purpose of life is the expansion of happiness.</p>
 
-<p>Jim Rohn</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
