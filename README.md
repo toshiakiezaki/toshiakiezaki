@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A minute's success pays the failure of years.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>Robert Browning</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
