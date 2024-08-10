@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners never quit and quitters never win.</p>
+<p>The quality of your life is determined by the quality of your thoughts.</p>
 
-<p>Vince Lombardi</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
