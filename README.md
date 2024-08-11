@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
