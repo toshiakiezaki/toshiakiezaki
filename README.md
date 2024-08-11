@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>Socrates</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
