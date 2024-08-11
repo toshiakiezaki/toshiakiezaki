@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
