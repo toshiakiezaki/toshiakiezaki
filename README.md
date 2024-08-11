@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise learn many things from their enemies.</p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Aristophanes</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
