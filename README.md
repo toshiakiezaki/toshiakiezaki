@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>Ralph Marston</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
