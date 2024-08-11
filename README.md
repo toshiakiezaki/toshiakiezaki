@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>Les Brown</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
