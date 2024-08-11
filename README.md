@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>T.S. Eliot</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
