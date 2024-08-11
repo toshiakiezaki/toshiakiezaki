@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I learned the value of hard work by working hard. </p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Margaret Mead</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
