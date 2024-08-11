@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
 
-<p>Elon Musk</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
