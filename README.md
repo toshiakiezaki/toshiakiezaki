@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cleverness is not wisdom.</p>
+<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
 
-<p>Euripides</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
