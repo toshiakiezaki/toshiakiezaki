@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>Henry Ford</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
