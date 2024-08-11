@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>Pablo Picasso</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
