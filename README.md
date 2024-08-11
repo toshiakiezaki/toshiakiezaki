@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
 
-<p>Robin Williams</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
