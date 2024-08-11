@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Plato</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
