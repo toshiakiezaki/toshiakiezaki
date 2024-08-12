@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
