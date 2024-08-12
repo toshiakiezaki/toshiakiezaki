@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a long lesson in humility. </p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>James Matthew Barrie</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
