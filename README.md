@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>Maxime Lagace</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
