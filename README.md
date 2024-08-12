@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sad thing is, you can still love someone and be wrong for them.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>Elvis Presley</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
