@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
