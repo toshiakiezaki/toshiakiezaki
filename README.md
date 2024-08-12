@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>Chinese Proverb</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
