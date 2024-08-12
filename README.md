@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>Mother Teresa</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
