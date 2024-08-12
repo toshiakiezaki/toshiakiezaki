@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>Herodotus</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
