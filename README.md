@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Kahlil Gibran</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
