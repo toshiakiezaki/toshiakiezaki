@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
 
-<p>Morihei Ueshiba</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
