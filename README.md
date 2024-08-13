@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
 
-<p>Peter Drucker</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
