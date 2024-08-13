@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't have time to do it right, when will you have time to do it over?</p>
+<p>Be curious, not judgmental.</p>
 
-<p>John Wooden</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
