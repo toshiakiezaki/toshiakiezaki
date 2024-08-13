@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>Lao Tzu</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
