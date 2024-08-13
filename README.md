@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more acquaintances you have, the less you know them.</p>
+<p>A path is made by walking on it.</p>
 
-<p>Chinese Proverb</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
