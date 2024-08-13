@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing external to you has any power over you.</p>
+<p>It is ignorance that causes most mistakes.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
