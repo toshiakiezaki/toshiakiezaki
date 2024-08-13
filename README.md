@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
 
-<p>Jonathan Swift</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
