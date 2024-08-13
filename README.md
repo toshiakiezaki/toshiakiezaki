@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A path is made by walking on it.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Zhuangzi</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
