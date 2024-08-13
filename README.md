@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>Unknown</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
