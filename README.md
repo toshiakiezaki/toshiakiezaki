@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>Robert Browning</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
