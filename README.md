@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is ignorance that causes most mistakes.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Harry S. Truman</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
