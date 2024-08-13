@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>Roy T. Bennett</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
