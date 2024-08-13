@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality is not an act, it is a habit.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Aristotle</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
