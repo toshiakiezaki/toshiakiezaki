@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Less is more.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
 <p>Robert Browning</p>
 <!-- dailyquote:end -->
