@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Meister Eckhart</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
