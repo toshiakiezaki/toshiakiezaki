@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>Dan Brown</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
