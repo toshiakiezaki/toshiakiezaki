@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>Winston Churchill</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
