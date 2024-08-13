@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
