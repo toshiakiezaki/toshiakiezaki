@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Stephen King</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
