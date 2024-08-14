@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>What gets measured gets improved.</p>
 
-<p>Harry S. Truman</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
