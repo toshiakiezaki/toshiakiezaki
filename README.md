@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>Lao Tzu</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
