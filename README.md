@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>Roy T. Bennett</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
