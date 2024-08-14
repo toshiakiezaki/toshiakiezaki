@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>Epictetus</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
