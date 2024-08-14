@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>You miss 100% of the shots you don't take.</p>
 
-<p>Seneca</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
