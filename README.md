@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>Coco Chanel</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
