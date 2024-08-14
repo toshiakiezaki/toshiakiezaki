@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why fit in when you were born to stand out?</p>
+<p>Men are disturbed not by things, but by the view which they take of them.</p>
 
-<p>Dr. Seuss</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
