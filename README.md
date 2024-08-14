@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a very long time to become young.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>Pablo Picasso</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
