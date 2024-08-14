@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>Bhagavad Gita</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
