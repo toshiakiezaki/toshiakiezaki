@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I live by letting things happen.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>Dogen</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
