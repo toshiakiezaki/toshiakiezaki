@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>Bloom where you are planted!</p>
 
-<p>Leonardo da Vinci</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
