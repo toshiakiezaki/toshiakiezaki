@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth is the product of man's capacity to think.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>Ayn Rand</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
