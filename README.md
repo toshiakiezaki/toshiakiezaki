@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bloom where you are planted!</p>
+<p>I live by letting things happen.</p>
 
-<p>Mary Engelbreit</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
