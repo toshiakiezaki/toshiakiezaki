@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
 
-<p>A.A. Milne</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
