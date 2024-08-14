@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>Nikola Tesla</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
