@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What gets measured gets improved.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>Robin Sharma</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
