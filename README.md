@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't settle, and don't struggle.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>Naval Ravikant</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
