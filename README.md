@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
