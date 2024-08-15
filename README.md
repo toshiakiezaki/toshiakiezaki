@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>Thomas Jefferson</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
