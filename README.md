@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature is pleased with simplicity. And nature is no dummy.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>Isaac Newton</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
