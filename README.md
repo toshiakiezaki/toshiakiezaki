@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I admire those who do good and expect nothing in return.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>Roy T. Bennett</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
