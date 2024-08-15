@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe you can and you will be halfway there.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>Lolly Daskal</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
