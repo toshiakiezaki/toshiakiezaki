@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of difficulty lies opportunity.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>Albert Einstein</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
