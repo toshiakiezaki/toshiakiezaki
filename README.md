@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The road to success is always under construction.</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>Steve Harvey</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
