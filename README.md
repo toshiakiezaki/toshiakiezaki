@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't learn to do, but learn in doing.</p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>Samuel Butler</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
