@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>Sun Tzu</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
