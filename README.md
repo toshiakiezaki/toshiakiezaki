@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness depends on your mindset and attitude.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>Roy T. Bennett</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
