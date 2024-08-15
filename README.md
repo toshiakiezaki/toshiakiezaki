@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>Zhuangzi</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
