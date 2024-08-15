@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>Steve Harvey</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
