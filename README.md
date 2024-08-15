@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
