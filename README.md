@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Memory is the scribe of the soul.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>Aristotle</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
