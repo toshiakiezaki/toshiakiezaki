@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
+<p>The road to success is always under construction.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
