@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>Richard Bach</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
