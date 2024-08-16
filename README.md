@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>Alfred Adler</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
