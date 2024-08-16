@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature loves to hide.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Heraclitus</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
