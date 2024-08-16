@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>Wayne Dyer</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
