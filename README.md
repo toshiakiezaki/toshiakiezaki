@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>Christopher McCandless</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
