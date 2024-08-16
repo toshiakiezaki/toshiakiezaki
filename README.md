@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Nature loves to hide.</p>
 
-<p>John Wooden</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
