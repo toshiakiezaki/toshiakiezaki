@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
-<p>Criss Jami</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
