@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Plato</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
