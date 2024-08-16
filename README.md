@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>Well done is better than well said.</p>
 
-<p>Aristotle</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
