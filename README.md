@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Zen Proverb</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
