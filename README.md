@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>Yanni</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
