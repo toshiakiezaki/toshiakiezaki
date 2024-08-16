@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Leo Tolstoy</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
