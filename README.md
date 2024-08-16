@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
+<p>Your very silence shows you agree.</p>
 
-<p>Steve Maraboli</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
