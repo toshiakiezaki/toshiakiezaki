@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your very silence shows you agree.</p>
+<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
 
-<p>Euripides</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
