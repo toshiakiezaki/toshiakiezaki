@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We tend to live up to our expectations.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>Earl Nightingale</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
