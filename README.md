@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>Epictetus</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
