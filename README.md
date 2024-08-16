@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>Elegance does not consist in putting on a new dress.</p>
 
-<p>Jack Butcher</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
