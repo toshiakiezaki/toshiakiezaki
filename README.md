@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
