@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>Charles Darwin</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
