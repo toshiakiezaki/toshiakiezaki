@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The grass is greener where you water it.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Neil Barringham</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
