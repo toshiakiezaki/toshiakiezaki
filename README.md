@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>Robert Greene</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
