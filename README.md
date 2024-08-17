@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
