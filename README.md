@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Once you learn to quit, it becomes a habit.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>Vince Lombardi</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
