@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>Vincent van Gogh</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
