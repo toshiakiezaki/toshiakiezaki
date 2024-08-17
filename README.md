@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in your moments of decision that your destiny is shaped.</p>
+<p>Winners are not people who never fail, but people who never quit.</p>
 
-<p>Tony Robbins</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
