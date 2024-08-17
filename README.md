@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>Once you learn to quit, it becomes a habit.</p>
 
-<p>Napoleon Hill</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
