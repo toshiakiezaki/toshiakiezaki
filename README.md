@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
