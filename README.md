@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>It is in your moments of decision that your destiny is shaped.</p>
 
-<p>Mark Twain</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
