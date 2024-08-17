@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
 
-<p>Voltaire</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
