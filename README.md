@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Well done is better than well said.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>Benjamin Franklin</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
