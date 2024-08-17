@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Associate with people who are likely to improve you.  </p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>Seneca</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
