@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
 
-<p>Robin Williams</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
