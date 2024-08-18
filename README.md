@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None but ourselves can free our minds.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>Bob Marley</p>
+<p>Kilian Jornet</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
