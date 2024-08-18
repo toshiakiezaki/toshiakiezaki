@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>Ralph Marston</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
