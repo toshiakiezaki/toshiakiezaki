@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>Herodotus</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
