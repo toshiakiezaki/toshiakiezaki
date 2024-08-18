@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are shaped and fashioned by what we love.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
