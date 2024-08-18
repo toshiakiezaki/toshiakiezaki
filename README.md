@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>Henry David Thoreau</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
