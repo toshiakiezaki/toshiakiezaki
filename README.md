@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try all things, hold fast that which is good.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>John Locke</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
