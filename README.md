@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
