@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Isaac Newton</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
