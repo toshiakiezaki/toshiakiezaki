@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>Robert Frost</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
