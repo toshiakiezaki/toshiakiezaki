@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity comes when you continually push forward.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Sonia Ricotti</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
