@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>Criss Jami</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
