@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Create with the heart; build with the mind.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>Criss Jami</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
