@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>Roy T. Bennett</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
