@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
+<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
 
-<p>Wayne Dyer</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
