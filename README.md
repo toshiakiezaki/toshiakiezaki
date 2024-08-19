@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't, you must. If you must, you can.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>Tony Robbins</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
