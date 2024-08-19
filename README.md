@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>Dr. Seuss</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
