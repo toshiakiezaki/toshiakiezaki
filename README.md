@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sun shines upon good and bad alike.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
