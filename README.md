@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not seek. I find.</p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
 
-<p>Pablo Picasso</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
