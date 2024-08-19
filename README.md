@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not as important how we start, but how we finish.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>Joyce Meyer</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
