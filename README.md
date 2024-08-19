@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>Marilyn Monroe</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
