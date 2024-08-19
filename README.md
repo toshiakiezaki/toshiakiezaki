@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>D. H. Lawrence</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
