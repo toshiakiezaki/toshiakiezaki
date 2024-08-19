@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
 
-<p>Orison Swett Marden</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
