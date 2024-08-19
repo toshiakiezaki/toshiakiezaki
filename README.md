@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>Naval Ravikant</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
