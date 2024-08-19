@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when I fall do I get up again.</p>
+<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
 
-<p>Vincent van Gogh</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
