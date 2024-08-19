@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
 
-<p>Paulo Coelho</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
