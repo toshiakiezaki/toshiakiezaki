@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is the ability to stand by an idea.</p>
+<p>I will not walk backward in life.</p>
 
-<p>Ayn Rand</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
