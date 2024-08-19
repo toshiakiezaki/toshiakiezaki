@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
 
-<p>Henry David Thoreau</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
