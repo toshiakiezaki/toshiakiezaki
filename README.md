@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
 
-<p>Ronald Reagan</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
