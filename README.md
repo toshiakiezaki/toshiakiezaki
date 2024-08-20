@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>Gary Keller</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
