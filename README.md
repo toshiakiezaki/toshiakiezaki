@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Kahlil Gibran</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
