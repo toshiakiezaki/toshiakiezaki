@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>Criss Jami</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
