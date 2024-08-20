@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Denis Waitley</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
