@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
 
-<p>Alexander Pope</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
