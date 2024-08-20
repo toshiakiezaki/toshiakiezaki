@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think and wonder, wonder and think.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>Dr. Seuss</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
