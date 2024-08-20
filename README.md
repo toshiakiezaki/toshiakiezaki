@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man is made by his belief. As he believes, so he is.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>Bhagavad Gita</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
