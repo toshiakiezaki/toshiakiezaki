@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To find yourself, think for yourself.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>Socrates</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
