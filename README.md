@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>Unknown</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
