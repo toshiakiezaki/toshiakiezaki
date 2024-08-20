@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
+<p>To find yourself, think for yourself.</p>
 
-<p>George Bernard Shaw</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
