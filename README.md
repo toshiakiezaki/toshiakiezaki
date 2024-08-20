@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>It's just a bad day, not a bad life.</p>
 
-<p>Vidal Sassoon</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
