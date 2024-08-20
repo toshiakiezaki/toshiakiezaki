@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
 
-<p>Martin Luther</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
