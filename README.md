@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Mark Twain</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
