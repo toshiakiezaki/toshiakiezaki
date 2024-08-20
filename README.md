@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Rumi</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
