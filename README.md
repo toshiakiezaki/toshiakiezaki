@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>St. Jerome</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
