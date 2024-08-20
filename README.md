@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>Alan Watts</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
