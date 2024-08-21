@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Bruce Lee</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
