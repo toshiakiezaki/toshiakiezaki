@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>Napoleon Hill</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
