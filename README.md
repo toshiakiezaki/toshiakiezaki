@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Zhuangzi</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
