@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>Christopher Columbus</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
