@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>Unknown</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
