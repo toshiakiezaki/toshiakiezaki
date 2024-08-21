@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't go forward and backwards at the same time.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>Steve Harvey</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
