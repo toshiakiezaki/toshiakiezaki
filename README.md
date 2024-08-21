@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
