@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who has overcome his fears will truly be free.</p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>Aristotle</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
