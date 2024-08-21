@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>Joyce Meyer</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
