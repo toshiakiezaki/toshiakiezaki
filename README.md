@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't make things happen then things will happen to you.</p>
+<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
 
-<p>Robert Collier</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
