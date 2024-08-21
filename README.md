@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>Thomas Jefferson</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
