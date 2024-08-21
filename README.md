@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>Roy T. Bennett</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
