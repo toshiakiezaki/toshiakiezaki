@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>Aristotle</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
