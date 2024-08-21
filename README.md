@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>You can't go forward and backwards at the same time.</p>
 
-<p>Albus Dumbledore</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
