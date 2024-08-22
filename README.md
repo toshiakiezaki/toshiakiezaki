@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be willing to be a beginner every single morning.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>Meister Eckhart</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
