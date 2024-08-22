@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>Celestine Chua</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
