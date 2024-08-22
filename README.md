@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success comes to those who become success conscious.</p>
+<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
 
-<p>Napoleon Hill</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
