@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be strong. Be confident. Be the star of your own life.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>Estee Lauder</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
