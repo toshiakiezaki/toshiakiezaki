@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>Epictetus</p>
+<p>Colin R. Davis</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
