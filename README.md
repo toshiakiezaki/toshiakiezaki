@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>Deepak Chopra</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
