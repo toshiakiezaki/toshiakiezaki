@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is trying things to see if they work.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>Ray Bradbury</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
