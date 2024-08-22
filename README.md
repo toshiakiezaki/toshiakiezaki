@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>Dan Millman</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
