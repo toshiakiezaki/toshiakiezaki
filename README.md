@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Chinese Proverb</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
