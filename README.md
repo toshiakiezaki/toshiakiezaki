@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't what you do, but how you do it.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>John Wooden</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
