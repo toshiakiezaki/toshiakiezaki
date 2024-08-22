@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>Celestine Chua</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
