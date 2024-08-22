@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who never made a mistake never tried anything new.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>Albert Einstein</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
