@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people do what unsuccessful people are not willing to do.</p>
+<p>Life is trying things to see if they work.</p>
 
-<p>Jim Rohn</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
