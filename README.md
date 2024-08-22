@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
