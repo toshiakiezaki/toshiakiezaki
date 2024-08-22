@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>Dogen</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
