@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Success comes to those who become success conscious.</p>
 
-<p>Mark Manson</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
