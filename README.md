@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>Dalai Lama</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
