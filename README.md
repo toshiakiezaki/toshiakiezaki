@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>Sonia Ricotti</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
