@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothes thoughts wear.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Samuel Beckett</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
