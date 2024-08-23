@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I live by letting things happen.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
 <p>Dogen</p>
 <!-- dailyquote:end -->
