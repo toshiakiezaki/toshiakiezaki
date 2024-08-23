@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>Napoleon Hill</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
