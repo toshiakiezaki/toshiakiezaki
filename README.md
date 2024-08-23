@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
