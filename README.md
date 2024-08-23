@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>You change the world by being yourself.</p>
 
-<p>Alfred Adler</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
