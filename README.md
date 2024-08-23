@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>Theodore Roosevelt</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
