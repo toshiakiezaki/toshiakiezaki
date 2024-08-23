@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>Dogen</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
