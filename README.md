@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Misfortune shows those who are not really friends.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>Aristotle</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
