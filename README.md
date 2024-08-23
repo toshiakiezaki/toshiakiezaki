@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We suffer more often in imagination than in reality.</p>
+<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
 
-<p>Seneca</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
