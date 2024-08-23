@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the smallest person can change the course of the future.</p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
