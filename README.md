@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>Elon Musk</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
