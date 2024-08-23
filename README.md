@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
