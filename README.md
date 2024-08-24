@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>Josh Waitzkin</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
