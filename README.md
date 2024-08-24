@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>Kahlil Gibran</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
