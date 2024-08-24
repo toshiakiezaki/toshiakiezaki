@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By seeking and blundering we learn.</p>
+<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
