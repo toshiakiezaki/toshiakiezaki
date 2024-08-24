@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
+<p>Never to suffer would never to have been blessed.</p>
 
-<p>Leo Tolstoy</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
