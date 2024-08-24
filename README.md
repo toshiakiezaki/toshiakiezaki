@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>Carl Jung</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
