@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
