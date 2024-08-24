@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>Alan Watts</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
