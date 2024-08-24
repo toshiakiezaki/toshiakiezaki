@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never to suffer would never to have been blessed.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
