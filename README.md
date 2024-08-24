@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people get ahead during the time that others waste.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>Henry Ford</p>
+<p>Andrew Hendrixson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
