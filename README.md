@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
