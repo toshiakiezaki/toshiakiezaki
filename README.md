@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
 
-<p>Unknown</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
