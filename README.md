@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
