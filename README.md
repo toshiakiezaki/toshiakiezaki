@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a consequence and must not be a goal.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>Gustave Flaubert</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
