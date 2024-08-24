@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who has ever made anything of importance was disciplined.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>Andrew Hendrixson</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
