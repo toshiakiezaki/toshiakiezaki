@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
