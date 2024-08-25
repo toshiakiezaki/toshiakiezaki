@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>Robert Kiyosaki</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
