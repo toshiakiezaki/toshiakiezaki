@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>The first principle of success is desire.</p>
 
-<p>Zhuangzi</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
