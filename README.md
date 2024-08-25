@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>Socrates</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
