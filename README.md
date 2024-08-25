@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Well done is better than well said.</p>
 
-<p>Carol Burnett</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
