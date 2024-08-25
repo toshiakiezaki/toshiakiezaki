@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Well done is better than well said.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>Benjamin Franklin</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
