@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Dalai Lama</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
