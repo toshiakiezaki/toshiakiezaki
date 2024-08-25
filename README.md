@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Steve Harvey</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
