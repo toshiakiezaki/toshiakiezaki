@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>Jim Rohn</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
