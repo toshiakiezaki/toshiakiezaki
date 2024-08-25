@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>Ayn Rand</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
