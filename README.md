@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only be afraid of what you think you know.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
