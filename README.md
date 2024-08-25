@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little by little, one travels far.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
