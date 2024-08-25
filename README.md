@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>Tony Robbins</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
