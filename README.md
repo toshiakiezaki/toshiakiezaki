@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always try to be a little kinder than necessary.</p>
+<p>Little by little, one travels far.</p>
 
-<p>James Matthew Barrie</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
