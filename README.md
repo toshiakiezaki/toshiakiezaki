@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want more luck, take more chances.</p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>Brian Tracy</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
