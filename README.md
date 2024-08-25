@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
