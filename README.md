@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
 
-<p>Thomas Jefferson</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
