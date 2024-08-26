@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Marcus Aurelius</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
