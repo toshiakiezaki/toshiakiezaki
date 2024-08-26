@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>Make each day a new horizon.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
