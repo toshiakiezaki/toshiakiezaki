@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>Epictetus</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
