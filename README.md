@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>Stephen Hawking</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
