@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>Bodhidharma</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
