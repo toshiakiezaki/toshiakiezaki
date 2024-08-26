@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>Henry Ford</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
