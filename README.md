@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>Herodotus</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
