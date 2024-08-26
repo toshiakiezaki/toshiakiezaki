@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>W.P. Kinsella</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
