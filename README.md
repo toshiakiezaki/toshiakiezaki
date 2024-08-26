@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>From morning till night, we should never rely on a single thing.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
