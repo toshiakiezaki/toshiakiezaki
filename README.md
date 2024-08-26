@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>Huang Po</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
