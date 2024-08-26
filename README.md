@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>Naval Ravikant</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
