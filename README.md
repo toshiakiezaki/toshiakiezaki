@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>Elvis Presley</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
