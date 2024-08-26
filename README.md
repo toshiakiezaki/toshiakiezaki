@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be of use to the world is the only way to be happy.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
