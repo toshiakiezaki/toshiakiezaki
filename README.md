@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make each day a new horizon.</p>
+<p>Patience is bitter, but its fruit is sweet.</p>
 
-<p>Christopher McCandless</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
