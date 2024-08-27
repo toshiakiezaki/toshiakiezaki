@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>Eckhart Tolle</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
