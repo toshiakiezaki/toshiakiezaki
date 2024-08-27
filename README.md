@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To become what you are not, behave as you do not.</p>
+<p>The reward of suffering is experience.</p>
 
-<p>T.S. Eliot</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
