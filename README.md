@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>Zen Proverb</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
