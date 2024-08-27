@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
