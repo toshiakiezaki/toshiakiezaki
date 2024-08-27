@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart that gives, gathers.</p>
+<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
 
-<p>Lao Tzu</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
