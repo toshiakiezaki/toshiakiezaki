@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is bitter, but its fruit is sweet.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Aristotle</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
