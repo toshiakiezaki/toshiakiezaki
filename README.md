@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>John Lennon</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
