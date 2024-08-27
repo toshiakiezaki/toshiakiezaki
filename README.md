@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>Roy T. Bennett</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
