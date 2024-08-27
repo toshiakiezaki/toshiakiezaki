@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A needle is not sharp at both ends. </p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>Chinese Proverb</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
