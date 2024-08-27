@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>High thoughts must have high language.</p>
+<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
 
-<p>Aristophanes</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
