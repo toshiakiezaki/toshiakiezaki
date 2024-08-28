@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
 
-<p>Charles Darwin</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
