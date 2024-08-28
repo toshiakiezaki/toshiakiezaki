@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to steer the river.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>Deepak Chopra</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
