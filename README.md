@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>Happiness is only real when shared.</p>
 
-<p>Elon Musk</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
