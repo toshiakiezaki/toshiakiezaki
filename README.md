@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Don't try to steer the river.</p>
 
-<p>Jim Rohn</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
