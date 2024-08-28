@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future is no more uncertain than the present.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>Walt Whitman</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
