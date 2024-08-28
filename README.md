@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>St. Jerome</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
