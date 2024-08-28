@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>We can spend our whole lives escaping from the monsters of our minds.</p>
 
-<p>Beverly Sills</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
