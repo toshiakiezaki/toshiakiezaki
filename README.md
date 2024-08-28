@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>Unknown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
