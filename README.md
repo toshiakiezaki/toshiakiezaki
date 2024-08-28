@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
 
-<p>Thomas Jefferson</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
