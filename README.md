@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>Elvis Presley</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
