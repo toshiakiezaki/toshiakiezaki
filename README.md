@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is only real when shared.</p>
+<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
 
-<p>Christopher McCandless</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
