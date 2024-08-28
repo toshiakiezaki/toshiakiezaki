@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>The wise speak only of what they know.</p>
 
-<p>Genghis Khan</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
