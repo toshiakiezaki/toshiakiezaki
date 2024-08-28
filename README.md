@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is nothing but a collective hunch.</p>
+<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
 
-<p>Lily Tomlin</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
