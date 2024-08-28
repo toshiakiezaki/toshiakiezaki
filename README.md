@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>Dalai Lama</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
