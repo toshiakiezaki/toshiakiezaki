@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is what you have before you understand the problem.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>Woody Allen</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
