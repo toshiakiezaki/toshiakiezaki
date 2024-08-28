@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>Gary Keller</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
