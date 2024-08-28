@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
