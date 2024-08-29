@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>Elon Musk</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
