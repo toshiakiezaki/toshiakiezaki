@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>George Eliot</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
