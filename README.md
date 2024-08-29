@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
 
-<p>Lao Tzu</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
