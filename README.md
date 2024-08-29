@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
 
-<p>Walt Whitman</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
