@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>Virginia Woolf</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
