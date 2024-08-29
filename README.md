@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
 
-<p>Dalai Lama</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
