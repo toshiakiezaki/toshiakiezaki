@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>Do something worth remembering.</p>
 
-<p>Maxime Lagace</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
