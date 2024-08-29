@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are clothes that thoughts wear</p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>Samuel Butler</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
