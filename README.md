@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>Get mad, then get over it.</p>
 
-<p>Voltaire</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
