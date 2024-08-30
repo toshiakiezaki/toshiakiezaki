@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Richard Bach</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
