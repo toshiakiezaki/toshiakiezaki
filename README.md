@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can bring you peace but yourself.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>Dale Carnegie</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
