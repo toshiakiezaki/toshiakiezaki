@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't allow perfection.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>Stephen Hawking</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
