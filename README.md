@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>A.A. Milne</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
