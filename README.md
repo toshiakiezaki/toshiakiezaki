@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
