@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>Naval Ravikant</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
