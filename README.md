@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have it all. You just can't have it all at once. </p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>Oprah Winfrey</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
