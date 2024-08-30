@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Robert Greene</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
