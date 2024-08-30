@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
 
-<p>Chinese Proverb</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
