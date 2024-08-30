@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>Steve Maraboli</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
