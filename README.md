@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You make your own luck if you stay at it long enough.</p>
+<p>Belief creates the actual fact.</p>
 
-<p>Naval Ravikant</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
