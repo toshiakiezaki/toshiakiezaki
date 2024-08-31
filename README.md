@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The enemy is a very good teacher.</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>Dalai Lama</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
