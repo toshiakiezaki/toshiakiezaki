@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>Confucius</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
