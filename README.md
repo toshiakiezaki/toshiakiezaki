@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
