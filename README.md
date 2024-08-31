@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>Vincent van Gogh</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
