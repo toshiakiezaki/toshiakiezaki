@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>Conrad Hilton</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
