@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>Mary Engelbreit</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
