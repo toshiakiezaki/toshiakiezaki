@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Thomas Edison</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
