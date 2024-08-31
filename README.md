@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
