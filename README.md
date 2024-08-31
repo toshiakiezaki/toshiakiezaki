@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tis not too late to seek a newer world.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Heraclitus</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
