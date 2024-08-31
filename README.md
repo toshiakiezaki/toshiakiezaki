@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who fails to plan, plans to fail.</p>
+<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
 
-<p>Unknown</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
