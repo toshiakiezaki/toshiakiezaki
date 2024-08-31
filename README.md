@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
 
-<p>Franz Kafka</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
