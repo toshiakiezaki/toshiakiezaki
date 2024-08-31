@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>Charles Darwin</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
