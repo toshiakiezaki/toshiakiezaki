@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in the darkness that one finds the light.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Meister Eckhart</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
