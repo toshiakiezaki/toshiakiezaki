@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
 
-<p>Albus Dumbledore</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
