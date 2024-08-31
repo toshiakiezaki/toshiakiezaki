@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>Leo Tolstoy</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
