@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give way to laziness.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>Bhagavad Gita</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
