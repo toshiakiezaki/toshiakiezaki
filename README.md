@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
