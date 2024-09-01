@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the energy of life.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>Robert Browning</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
