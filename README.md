@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until you change how you get things done, you'll never know what works best.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>Roy T. Bennett</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
