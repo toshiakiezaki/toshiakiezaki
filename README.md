@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your life-but only if you make it so.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
