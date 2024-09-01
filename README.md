@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words used to attract the dull of wit are not to be relied on.</p>
+<p>Never give way to laziness.</p>
 
-<p>Huang Po</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
