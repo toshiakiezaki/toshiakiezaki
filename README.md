@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>Charles Darwin</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
