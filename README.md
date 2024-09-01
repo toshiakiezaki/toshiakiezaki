@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Richard Bach</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
