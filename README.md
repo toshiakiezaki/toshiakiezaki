@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>Love is the energy of life.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
