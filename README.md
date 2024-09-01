@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is what you have before you understand the problem.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>Woody Allen</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
