@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can bring you peace but yourself.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>Dale Carnegie</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
