@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
