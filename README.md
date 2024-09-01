@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise speak only of what they know.</p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>J.R.R. Tolkien</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
