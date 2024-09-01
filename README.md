@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>Conrad Hilton</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
