@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>Albert Einstein</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
