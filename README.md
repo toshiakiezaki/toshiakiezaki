@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>Euripides</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
