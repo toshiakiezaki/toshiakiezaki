@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find something you love and do it better than everyone else.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
