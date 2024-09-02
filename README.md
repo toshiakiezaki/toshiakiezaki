@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>Richard Bach</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
