@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>Confucius</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
