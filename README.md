@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>Kamal Ravikant</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
