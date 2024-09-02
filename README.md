@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>Chinese Proverb</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
