@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is intelligence having fun.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>Albert Einstein</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
