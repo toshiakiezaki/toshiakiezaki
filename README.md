@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>Harry S. Truman</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
