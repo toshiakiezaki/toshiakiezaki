@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>Simon Sinek</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
