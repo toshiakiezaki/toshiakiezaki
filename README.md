@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>Bruce Lee</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
