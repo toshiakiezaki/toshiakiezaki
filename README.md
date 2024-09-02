@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can often change your circumstances by changing your attitude.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
