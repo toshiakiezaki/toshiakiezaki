@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
