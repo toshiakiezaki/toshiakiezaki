@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>Go for it now. The future is promised to no one. </p>
 
-<p>Colin Powell</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
