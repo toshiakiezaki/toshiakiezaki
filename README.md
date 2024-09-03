@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the root is strong, the fruit is sweet.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>Bob Marley</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
