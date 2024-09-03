@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go for it now. The future is promised to no one. </p>
+<p>When the root is strong, the fruit is sweet.</p>
 
-<p>Wayne Dyer</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
