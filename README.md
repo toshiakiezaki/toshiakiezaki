@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
 
-<p>Roy T. Bennett</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
