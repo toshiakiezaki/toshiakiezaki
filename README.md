@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By seeking and blundering we learn.</p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
