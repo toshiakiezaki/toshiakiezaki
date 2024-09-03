@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>Audrey Hepburn</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
