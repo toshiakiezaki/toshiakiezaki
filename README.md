@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
 
-<p>Robin Williams</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
