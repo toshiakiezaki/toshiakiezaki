@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest fears lie in anticipation.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>Honore de Balzac</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
