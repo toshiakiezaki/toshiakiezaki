@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>George Eliot</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
