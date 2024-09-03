@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>Christopher Columbus</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
