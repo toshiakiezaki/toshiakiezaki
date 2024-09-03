@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>Kabir</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
