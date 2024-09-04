@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence comes from crossing thresholds.</p>
+<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
 
-<p>Kamal Ravikant</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
