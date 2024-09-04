@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Once you learn to quit, it becomes a habit.</p>
 
-<p>Wayne Dyer</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
