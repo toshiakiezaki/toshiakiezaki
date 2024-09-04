@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
 
-<p>Steve Harvey</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
