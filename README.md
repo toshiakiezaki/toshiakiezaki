@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>Albus Dumbledore</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
