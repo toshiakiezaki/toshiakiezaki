@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>Gustave Flaubert</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
