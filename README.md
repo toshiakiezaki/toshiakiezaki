@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>Ralph Marston</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
