@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
+<p>The golden opportunity you are seeking is within yourself.</p>
 
-<p>Criss Jami</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
