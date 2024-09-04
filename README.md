@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>Brian Tracy</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
