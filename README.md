@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
