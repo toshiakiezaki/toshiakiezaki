@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are free, and that is why you are lost. </p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>Franz Kafka</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
