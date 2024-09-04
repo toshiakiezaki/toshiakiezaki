@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>In the practice of tolerance, one's enemy is the best teacher.</p>
 
-<p>D. H. Lawrence</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
