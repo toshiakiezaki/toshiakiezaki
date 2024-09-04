@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge isn't power until it is applied.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>Dale Carnegie</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
