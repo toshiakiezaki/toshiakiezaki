@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>Yanni</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
