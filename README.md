@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
