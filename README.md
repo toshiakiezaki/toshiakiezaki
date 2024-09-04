@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is the signature of civilizations. </p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>Beverly Sills</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
