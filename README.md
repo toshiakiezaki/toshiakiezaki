@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every blessing ignored becomes a curse.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>Paulo Coelho</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
