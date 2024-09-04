@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>Kabir</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
