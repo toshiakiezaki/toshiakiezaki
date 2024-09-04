@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Audrey Hepburn</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
