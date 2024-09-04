@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>Barack Obama</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
