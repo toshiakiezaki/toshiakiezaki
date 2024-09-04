@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
