@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try all things, hold fast that which is good.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>John Locke</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
