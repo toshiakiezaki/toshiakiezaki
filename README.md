@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
 
-<p>Tony Robbins</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
