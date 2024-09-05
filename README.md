@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.</p>
+<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
 
-<p>Alfred Adler</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
