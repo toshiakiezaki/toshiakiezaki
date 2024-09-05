@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone you admire was once a beginner.</p>
+<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
 
-<p>Jack Butcher</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
