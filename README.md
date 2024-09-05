@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
