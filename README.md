@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>Publilius Syrus</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
