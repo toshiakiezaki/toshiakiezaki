@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Harry S. Truman</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
