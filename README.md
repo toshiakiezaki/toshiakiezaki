@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>Albert Einstein</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
