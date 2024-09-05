@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>Dalai Lama</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
