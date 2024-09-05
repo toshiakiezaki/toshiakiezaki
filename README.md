@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Elegance does not consist in putting on a new dress.</p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>Coco Chanel</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
