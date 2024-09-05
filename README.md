@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you done it, it ain't bragging.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>Walt Whitman</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
