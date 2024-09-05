@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
