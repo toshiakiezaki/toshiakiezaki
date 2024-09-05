@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>Zig Ziglar</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
