@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>Deepak Chopra</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
