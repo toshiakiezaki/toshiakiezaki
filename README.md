@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>Naval Ravikant</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
