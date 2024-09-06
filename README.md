@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>Dream big and dare to fail.</p>
 
-<p>Pablo Picasso</p>
+<p>Norman Vaughan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
