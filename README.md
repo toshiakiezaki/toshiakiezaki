@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is simply what our feelings do to us.</p>
+<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
 
-<p>Honore de Balzac</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
