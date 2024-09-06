@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
