@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>Napoleon Hill</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
