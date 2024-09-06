@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>Never let your memories be greater than your dreams.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Doug Ivester</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
