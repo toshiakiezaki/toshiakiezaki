@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>Judy Garland</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
