@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big and dare to fail.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>Norman Vaughan</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
