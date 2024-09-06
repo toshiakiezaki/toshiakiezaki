@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failing is another stepping stone to greatness.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Oprah Winfrey</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
