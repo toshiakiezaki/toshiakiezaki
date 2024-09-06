@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>When you win, say nothing, when you lose say less.</p>
 
-<p>James Allen</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
