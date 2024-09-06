@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </p>
 
-<p>Voltaire</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
