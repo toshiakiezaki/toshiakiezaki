@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>Billie Jean King</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
