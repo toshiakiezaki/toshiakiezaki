@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>Unknown</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
