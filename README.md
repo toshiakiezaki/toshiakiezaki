@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>Kahlil Gibran</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
