@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
 
-<p>Bob Dylan</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
