@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
 
-<p>Leo Tolstoy</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
