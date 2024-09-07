@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>Deepak Chopra</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
