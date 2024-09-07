@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
 
-<p>Robin Sharma</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
