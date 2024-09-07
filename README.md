@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
