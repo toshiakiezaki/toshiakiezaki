@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>Paulo Coelho</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
