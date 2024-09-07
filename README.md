@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we value things, the less we value ourselves.  </p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Bruce Lee</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
