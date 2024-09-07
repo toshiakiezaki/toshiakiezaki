@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to steer the river.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
 <p>Deepak Chopra</p>
 <!-- dailyquote:end -->
