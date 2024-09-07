@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because of your smile, you make life more beautiful.</p>
+<p>Don't try to steer the river.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
