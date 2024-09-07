@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you change the way you look at things, the things you look at change. </p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>Wayne Dyer</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
