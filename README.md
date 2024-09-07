@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>Steve Maraboli</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
