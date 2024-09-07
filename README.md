@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Pablo Picasso</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
