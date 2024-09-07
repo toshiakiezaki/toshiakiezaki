@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Og Mandino</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
