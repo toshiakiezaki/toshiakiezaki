@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>Les Brown</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
