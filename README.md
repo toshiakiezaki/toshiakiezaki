@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who leaves the game wins it.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
