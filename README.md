@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is peace even in the storm.</p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>Vincent van Gogh</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
