@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>Zig Ziglar</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
