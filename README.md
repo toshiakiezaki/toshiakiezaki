@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>Christopher Columbus</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
