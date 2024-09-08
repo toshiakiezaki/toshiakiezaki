@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
+<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 
-<p>Mark Twain</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
