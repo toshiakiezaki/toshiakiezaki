@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>Maya Angelou</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
