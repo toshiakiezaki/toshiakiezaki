@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>Napoleon Hill</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
