@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Unknown</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
