@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
+<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
 
-<p>John Wooden</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
