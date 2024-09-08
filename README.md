@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is best to begin at the beginning.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>Amelia Earhart</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
