@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>Vidal Sassoon</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
