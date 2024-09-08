@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do to others what you would not like them to do to you. </p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>Confucius</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
