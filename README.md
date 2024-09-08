@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
