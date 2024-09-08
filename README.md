@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
 
-<p>Denis Waitley</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
