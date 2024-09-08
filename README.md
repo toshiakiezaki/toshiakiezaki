@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows how to wait need make no concessions.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>Sigmund Freud</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
