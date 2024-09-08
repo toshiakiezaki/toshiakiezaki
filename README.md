@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>Norman Vincent Peale</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
