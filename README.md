@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>Plato</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
