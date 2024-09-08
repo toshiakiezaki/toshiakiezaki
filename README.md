@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Epictetus</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
