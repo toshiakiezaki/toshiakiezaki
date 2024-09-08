@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>William James</p>
+<p>Kilian Jornet</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
