@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We need never be ashamed of our tears.</p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>Charles Dickens</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
