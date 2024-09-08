@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only normal people are the ones you don't know very well.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>Alfred Adler</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
