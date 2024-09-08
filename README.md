@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be yourself; everyone else is already taken.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Oscar Wilde</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
