@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>Simon Sinek</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
