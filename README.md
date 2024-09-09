@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>Christopher Reeve</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
