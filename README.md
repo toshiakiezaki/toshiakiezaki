@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>Vaclav Havel</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
