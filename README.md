@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>Audrey Hepburn</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
