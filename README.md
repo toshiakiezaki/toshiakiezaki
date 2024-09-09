@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>Winston Churchill</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
