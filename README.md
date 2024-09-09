@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
 
-<p>Leo Tolstoy</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
