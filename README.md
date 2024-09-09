@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you do today can improve all your tomorrows.</p>
+<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
 
-<p>Ralph Marston</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
