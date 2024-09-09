@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>The heart that gives, gathers.</p>
 
-<p>Brian Tracy</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
