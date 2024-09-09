@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>Bob Marley</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
