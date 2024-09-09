@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
