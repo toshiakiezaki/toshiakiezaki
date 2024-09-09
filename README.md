@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do one thing every day that scares you.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
