@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
