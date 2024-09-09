@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>Emily Dickinson</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
