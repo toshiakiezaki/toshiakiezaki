@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
 
-<p>Tony Robbins</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
