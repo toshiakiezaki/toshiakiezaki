@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>Paulo Coelho</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
