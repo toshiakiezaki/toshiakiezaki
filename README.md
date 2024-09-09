@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>Unknown</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
