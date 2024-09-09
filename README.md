@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>Thomas Edison</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
