@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Roy T. Bennett</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
