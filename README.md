@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>Jim Rohn</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
