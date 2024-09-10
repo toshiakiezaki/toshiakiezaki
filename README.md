@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
 
-<p>Billie Jean King</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
