@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>James Allen</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
