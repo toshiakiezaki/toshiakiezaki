@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes things become possible if we want them bad enough.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>T.S. Eliot</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
