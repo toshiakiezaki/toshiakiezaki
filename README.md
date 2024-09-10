@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
