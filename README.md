@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>Dan Millman</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
