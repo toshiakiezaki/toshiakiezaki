@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
+<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
 
-<p>Unknown</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
