@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
 
-<p>Lolly Daskal</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
