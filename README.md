@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>Zig Ziglar</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
