@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>Jim Rohn</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
