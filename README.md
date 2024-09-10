@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>James Allen</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
