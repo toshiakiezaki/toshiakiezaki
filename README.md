@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
 
-<p>Andrew Carnegie</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
