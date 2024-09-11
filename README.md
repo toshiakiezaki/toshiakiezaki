@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>Steve Maraboli</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
