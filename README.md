@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
 
-<p>Unknown</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
