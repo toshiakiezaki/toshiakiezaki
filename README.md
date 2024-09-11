@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
+<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
