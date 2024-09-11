@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality means doing it right when no one is looking.</p>
+<p>No man is happy unless he believes he is.</p>
 
-<p>Henry Ford</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
