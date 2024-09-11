@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
