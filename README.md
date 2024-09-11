@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>Les Brown</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
