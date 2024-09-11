@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are possessed by nothing possess everything.</p>
+<p>Freedom from desire leads to inner peace.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
