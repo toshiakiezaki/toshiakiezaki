@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom from desire leads to inner peace.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>Lao Tzu</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
