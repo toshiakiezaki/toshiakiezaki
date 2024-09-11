@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>Joyce Meyer</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
