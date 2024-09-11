@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Freedom from desire leads to inner peace.</p>
 
-<p>Seneca</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
