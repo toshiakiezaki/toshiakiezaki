@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
 
-<p>Audrey Hepburn</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
