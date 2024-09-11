@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all those who wander are lost.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>J.R.R. Tolkien</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
