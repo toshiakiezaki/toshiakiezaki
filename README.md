@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom from desire leads to inner peace.</p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>Lao Tzu</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
