@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
 
-<p>Gustave Flaubert</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
