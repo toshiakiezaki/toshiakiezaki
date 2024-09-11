@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is happy unless he believes he is.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>Publilius Syrus</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
