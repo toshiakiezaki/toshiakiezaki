@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>Kamal Ravikant</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
