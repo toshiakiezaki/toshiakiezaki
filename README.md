@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>Zen Proverb</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
