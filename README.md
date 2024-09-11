@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>Lao Tzu</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
