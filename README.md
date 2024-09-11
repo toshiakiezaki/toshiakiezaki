@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
 
-<p>Harry S. Truman</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
