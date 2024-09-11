@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
+<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
 
-<p>Roy T. Bennett</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
