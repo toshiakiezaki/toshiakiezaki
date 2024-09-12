@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>Seungsahn</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
