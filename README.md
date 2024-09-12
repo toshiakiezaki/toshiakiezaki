@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
