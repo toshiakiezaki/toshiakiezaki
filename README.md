@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>Spencer Johnson</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
