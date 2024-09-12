@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>Maxime Lagace</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
