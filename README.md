@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>Robin Sharma</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
