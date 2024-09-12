@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>Ray Bradbury</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
