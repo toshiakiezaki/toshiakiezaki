@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One small positive thought can change your whole day.</p>
+<p>Confidence is the greatest friend.</p>
 
-<p>Zig Ziglar</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
