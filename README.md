@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
