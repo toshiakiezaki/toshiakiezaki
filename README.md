@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Vincent van Gogh</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
