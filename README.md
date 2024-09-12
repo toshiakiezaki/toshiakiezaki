@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a man's compass. </p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>Vincent van Gogh</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
