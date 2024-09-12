@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
