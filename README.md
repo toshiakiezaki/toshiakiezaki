@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>Maxime Lagace</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
