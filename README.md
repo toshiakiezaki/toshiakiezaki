@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
+<p>Mistake is a mistake only if you make it twice.</p>
 
-<p>Thomas Jefferson</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
