@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Well done is better than well said.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Benjamin Franklin</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
