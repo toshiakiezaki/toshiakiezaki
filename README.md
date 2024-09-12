@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't build a reputation on what you are going to do. </p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>Henry Ford</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
