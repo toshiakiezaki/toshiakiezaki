@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
 
-<p>Brian Tracy</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
