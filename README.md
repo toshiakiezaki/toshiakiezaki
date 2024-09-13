@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>Marcus Aurelius</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
