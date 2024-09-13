@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Cherralea Morgen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
