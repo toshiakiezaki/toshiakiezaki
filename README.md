@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heroes don't need to talk about what they did.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>W.P. Kinsella</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
