@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>Alan Watts</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
