@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
 
-<p>Socrates</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
