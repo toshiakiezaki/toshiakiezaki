@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>Soyen Shaku</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
