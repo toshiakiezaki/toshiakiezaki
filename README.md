@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Denis Waitley</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
