@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy is a commodity, execution is an art.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>Peter Drucker</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
