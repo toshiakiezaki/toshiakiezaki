@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>Stephen King</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
