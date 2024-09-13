@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Misfortune shows those who are not really friends.</p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>Aristotle</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
