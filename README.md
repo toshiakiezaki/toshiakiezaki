@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>Lao Tzu</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
