@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>Aristotle</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
