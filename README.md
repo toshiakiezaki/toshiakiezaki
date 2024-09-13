@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>Lolly Daskal</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
