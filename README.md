@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in your life are those that you set yourself.</p>
+<p>Misfortune shows those who are not really friends.</p>
 
-<p>Celestine Chua</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
