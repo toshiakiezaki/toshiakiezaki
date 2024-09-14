@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It always seems impossible until it's done.</p>
+<p>Common sense is not so common. </p>
 
-<p>Nelson Mandela</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
