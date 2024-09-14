@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>Heraclitus</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
