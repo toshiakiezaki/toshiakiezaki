@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>Lao Tzu</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
