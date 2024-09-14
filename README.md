@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>Success is an iceberg.</p>
 
-<p>Audrey Hepburn</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
