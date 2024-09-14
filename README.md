@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't what you do, but how you do it.</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>John Wooden</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
