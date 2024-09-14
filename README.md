@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>Epictetus</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
