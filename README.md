@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>Virginia Woolf</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
