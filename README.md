@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let anyone define you. You define yourself.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>Billie Jean King</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
