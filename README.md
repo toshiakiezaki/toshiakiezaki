@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>John D. Rockefeller</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
