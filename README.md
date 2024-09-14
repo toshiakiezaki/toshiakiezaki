@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear of weakness only strengthens weakness.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>Criss Jami</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
