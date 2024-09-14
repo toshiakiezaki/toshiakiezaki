@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>Unknown</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
