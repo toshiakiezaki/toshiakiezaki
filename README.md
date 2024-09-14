@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Common sense is not so common. </p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>Voltaire</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
