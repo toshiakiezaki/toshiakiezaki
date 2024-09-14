@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>George Bernard Shaw</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
