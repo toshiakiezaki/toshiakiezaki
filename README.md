@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>The road to success is always under construction..</p>
 
-<p>Theodore Roosevelt</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
