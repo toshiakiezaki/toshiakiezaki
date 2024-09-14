@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Emily Dickinson</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
