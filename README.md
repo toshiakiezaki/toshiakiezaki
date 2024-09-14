@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
 
-<p>Lolly Daskal</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
