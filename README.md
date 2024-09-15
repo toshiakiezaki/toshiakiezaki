@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>Aristotle</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
