@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go as far as you can see and you will see further.  </p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>Zig Ziglar</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
