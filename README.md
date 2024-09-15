@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>Judy Garland</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
