@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Jack Butcher</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
