@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
