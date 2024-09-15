@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not how long, but how well you have lived is the main thing.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>Seneca</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
