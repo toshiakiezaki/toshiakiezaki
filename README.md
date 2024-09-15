@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>Sun Tzu</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
