@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>Robert Kiyosaki</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
