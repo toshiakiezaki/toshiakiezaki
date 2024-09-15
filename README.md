@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no greater agony than bearing an untold story inside you.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>Maya Angelou</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
