@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
