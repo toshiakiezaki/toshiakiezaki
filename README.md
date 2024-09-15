@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You miss 100% of the shots you don't take.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>Wayne Gretzky</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
