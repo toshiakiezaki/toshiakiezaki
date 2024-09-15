@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>Not how long, but how well you have lived is the main thing.</p>
 
-<p>Chinese Proverb</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
