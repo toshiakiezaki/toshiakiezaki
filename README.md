@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>Through discipline comes freedom.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
