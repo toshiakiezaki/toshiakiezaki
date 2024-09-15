@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity comes when you continually push forward.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>Sonia Ricotti</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
