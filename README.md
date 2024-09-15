@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
+<p>You miss 100% of the shots you don't take.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
