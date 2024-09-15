@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
-<p>Mother Teresa</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
