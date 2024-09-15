@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>Alan Watts</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
