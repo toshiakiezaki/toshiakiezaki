@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>Nicolas Chamfort</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
