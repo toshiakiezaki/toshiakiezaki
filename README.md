@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>A.A. Milne</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
