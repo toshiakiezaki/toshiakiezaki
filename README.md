@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>Deepak Chopra</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
