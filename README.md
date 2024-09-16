@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>George Bernard Shaw</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
