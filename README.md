@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of thought that gives man power over nature.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
