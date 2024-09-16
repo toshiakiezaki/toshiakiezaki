@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
