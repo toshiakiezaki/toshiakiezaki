@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The businessman's tool is value.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>Ayn Rand</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
