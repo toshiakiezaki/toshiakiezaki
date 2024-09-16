@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
