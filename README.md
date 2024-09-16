@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is a game played beautifully by children.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>Heraclitus</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
