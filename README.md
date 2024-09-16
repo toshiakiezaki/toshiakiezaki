@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>Wayne Gretzky</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
