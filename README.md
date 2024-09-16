@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The merit of all things lies in their difficulty.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>Alexandre Dumas</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
