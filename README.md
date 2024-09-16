@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>Mark Twain</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
