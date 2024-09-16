@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Bette Midler</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
