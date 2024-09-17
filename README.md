@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the world you may be one person; but to one person you may be the world.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>Dr. Seuss</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
