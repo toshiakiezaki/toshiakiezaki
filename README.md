@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>George Bernard Shaw</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
