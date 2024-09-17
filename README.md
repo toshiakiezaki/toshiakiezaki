@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>Unknown</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
