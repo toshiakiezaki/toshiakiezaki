@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
 
-<p>Heraclitus</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
