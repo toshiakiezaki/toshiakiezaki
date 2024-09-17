@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cease striving. Then there will be transformation.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>Zhuangzi</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
