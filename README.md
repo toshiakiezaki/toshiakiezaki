@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>Epictetus</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
