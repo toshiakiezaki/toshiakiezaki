@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The farther backward you can look, the farther forward you are likely to see.</p>
+<p>Some people find fault like there is a reward for it.  </p>
 
-<p>Winston Churchill</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
