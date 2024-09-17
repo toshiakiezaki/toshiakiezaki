@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give out what you most want to come back.</p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>Robin Sharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
