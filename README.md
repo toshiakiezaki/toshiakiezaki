@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chop your own wood and it will warm you twice. </p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>Henry Ford</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
