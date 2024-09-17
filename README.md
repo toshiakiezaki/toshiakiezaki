@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Create with the heart; build with the mind.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>Criss Jami</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
