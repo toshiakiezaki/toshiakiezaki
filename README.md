@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never spend your money before you have earned it.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>Thomas Jefferson</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
