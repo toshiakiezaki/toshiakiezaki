@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make each day your masterpiece.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>John Wooden</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
