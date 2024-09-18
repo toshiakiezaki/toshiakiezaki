@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Zig Ziglar</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
