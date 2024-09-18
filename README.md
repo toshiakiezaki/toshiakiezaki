@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>Harry S. Truman</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
