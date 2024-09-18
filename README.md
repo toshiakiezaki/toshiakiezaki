@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
