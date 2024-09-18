@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>Jack Kerouac</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
