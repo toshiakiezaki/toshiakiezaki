@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>The businessman's tool is value.</p>
 
-<p>Epictetus</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
