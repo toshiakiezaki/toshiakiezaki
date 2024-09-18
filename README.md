@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
 
-<p>Pema Chodron</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
