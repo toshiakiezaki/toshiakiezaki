@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>Thomas Edison</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
