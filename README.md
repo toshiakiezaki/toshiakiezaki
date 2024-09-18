@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>Tony Robbins</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
