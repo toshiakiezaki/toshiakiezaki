@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for if not to make life less difficult for each other?</p>
+<p>Make each day your masterpiece.</p>
 
-<p>T.S. Eliot</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
