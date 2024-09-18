@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ponder and deliberate before you make a move.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>Sun Tzu</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
