@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The businessman's tool is value.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>Ayn Rand</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
