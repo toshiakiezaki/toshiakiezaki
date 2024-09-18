@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>Lao Tzu</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
