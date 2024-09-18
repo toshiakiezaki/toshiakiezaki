@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>What do we live for if not to make life less difficult for each other?</p>
 
-<p>Chinese Proverb</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
