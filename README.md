@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give out what you most want to come back.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>Robin Sharma</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
