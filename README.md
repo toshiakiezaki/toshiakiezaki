@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Paulo Coelho</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
