@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At every moment where language can't go, that's your mind.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>Bodhidharma</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
