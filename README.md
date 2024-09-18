@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not do to dwell on dreams and forget to live, remember that.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>Albus Dumbledore</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
