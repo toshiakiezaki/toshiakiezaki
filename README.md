@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
