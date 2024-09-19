@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
