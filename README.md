@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>D. H. Lawrence</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
