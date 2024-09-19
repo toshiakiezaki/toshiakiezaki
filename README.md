@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>Soyen Shaku</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
