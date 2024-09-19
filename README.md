@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>Mary Engelbreit</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
