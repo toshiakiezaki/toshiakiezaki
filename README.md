@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can laugh, I can live.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>Christopher Reeve</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
