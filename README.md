@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of getting ahead is getting started.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Mark Twain</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
