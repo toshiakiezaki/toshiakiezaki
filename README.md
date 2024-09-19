@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The cost of leadership is self-interest.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>Simon Sinek</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
