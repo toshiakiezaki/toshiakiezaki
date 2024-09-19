@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>Ayn Rand</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
