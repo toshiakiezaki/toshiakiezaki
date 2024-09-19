@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>Find your Light; They can't love you if they can't see you.</p>
 
-<p>Wayne Dyer</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
