@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>Ronald Reagan</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
