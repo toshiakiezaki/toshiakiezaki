@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>Unknown</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
