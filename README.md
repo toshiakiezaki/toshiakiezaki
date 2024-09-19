@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find your Light; They can't love you if they can't see you.</p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>Bette Midler</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
