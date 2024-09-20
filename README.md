@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
