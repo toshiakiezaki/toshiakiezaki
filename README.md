@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
