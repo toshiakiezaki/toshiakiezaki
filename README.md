@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>Zen Proverb</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
