@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>Eckhart Tolle</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
