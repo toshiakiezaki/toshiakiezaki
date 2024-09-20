@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>Marcus Aurelius</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
