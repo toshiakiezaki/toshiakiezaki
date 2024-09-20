@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
