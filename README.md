@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>Unknown</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
