@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't look back - you're not going that way.</p>
+<p>Nothing endures but change.</p>
 
-<p>Mary Engelbreit</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
