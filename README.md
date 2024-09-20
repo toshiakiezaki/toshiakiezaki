@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>Pema Chodron</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
