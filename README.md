@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>George Washington</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
