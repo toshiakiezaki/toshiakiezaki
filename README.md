@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
