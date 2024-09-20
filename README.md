@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
