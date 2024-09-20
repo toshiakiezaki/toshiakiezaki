@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>Brian Tracy</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
