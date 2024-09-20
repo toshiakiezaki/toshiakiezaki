@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place success comes before work is in the dictionary.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>Vince Lombardi</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
