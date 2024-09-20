@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>Tony Robbins</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
