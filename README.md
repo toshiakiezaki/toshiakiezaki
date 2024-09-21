@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Debt is the slavery of the free.</p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>Publilius Syrus</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
