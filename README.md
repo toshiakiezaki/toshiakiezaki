@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>We are all here for some special reason.</p>
 
-<p>Brian Tracy</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
