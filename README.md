@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
+<p>If you have only one smile in you give it to the people you love.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
