@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to have, and not need, than to need, and not have.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Franz Kafka</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
