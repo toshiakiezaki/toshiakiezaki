@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without the confidence, nothing can be accomplished.</p>
+<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
