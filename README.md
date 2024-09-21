@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find something you love and do it better than everyone else.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
