@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>Better to have, and not need, than to need, and not have.</p>
 
-<p>Vidal Sassoon</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
