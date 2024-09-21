@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>Napoleon Hill</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
