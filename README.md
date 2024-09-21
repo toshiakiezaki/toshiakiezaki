@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>George Eliot</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
