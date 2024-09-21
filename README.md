@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>Dan Millman</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
