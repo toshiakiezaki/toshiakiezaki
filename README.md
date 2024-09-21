@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>Steve Maraboli</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
