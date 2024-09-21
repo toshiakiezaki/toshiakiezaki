@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
