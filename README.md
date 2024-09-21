@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>Harry S. Truman</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
