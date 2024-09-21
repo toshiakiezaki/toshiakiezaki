@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything has beauty but not everyone sees it.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>Confucius</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
