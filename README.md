@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Jim Rohn</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
