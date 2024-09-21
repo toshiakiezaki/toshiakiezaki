@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>Christopher Columbus</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
