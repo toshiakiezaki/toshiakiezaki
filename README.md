@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have only one smile in you give it to the people you love.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>Maya Angelou</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
