@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all here for some special reason.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>Robin Sharma</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
