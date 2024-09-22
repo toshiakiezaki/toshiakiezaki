@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
