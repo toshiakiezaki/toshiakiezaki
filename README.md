@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>Stephen King</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
