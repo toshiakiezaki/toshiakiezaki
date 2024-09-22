@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
 
-<p>Jim Rohn</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
