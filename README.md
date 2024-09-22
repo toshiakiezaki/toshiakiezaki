@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Woody Allen</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
