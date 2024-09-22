@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give way to laziness.</p>
+<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
 
-<p>Bhagavad Gita</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
