@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live outside the law, you must be honest. </p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>Bob Dylan</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
