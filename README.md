@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>Audrey Hepburn</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
