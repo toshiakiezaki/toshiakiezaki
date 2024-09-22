@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your friends close, and your enemies closer.</p>
+<p>If I can pay the bills, I'm happy.</p>
 
-<p>Sun Tzu</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
