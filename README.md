@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>Thomas Edison</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
