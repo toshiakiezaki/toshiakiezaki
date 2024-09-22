@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be of use to the world is the only way to be happy.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>Hans Christian Andersen</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
