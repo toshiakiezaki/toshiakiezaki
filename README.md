@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Mark Manson</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
