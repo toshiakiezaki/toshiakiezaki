@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never dwell on what happened. You can't change it. Move forward.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>Joan Rivers</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
