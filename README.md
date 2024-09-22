@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If light is in your heart, you will find your way home.  </p>
+<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
 
-<p>Rumi</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
