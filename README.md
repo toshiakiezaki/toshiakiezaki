@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>Wayne Dyer</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
