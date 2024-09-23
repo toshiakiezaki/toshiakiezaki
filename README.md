@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe that life is worth living and your belief will help create the fact.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>William James</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
