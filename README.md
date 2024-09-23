@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no mistakes in life, only lessons.</p>
+<p>Perfectionism is simply putting a limit on your future.</p>
 
-<p>Robin Sharma</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
