@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the mark of intelligent living.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
