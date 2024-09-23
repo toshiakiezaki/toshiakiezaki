@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
+<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
 
-<p>Brian Tracy</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
