@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
 
-<p>Voltaire</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
