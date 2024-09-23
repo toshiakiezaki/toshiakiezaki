@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>Carl Jung</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
