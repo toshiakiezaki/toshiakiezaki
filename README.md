@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>Peter Drucker</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
