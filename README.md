@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>Henry Ford</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
