@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To some degree, you control your life by controlling your time.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Conrad Hilton</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
