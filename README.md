@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>The key to success is action.</p>
 
-<p>Earl Nightingale</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
