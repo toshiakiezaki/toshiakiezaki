@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure is what lies ahead.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
