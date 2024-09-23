@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness depends on your mindset and attitude.</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>Roy T. Bennett</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
