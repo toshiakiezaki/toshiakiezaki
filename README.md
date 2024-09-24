@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you live all the days of your life.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>Jonathan Swift</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
