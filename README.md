@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is rarely pure and never simple. </p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>Oscar Wilde</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
