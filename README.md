@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>Fears are nothing more than a state of mind.</p>
 
-<p>Kabir</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
