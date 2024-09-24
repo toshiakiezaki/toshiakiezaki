@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no mistakes in life, only lessons.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>Robin Sharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
