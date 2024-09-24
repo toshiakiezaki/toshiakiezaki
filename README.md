@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>Confucius</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
