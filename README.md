@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be strong. Be confident. Be the star of your own life.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>Estee Lauder</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
