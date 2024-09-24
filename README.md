@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>A.A. Milne</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
