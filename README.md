@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>Michael Jordan</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
