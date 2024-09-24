@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>May you live all the days of your life.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
