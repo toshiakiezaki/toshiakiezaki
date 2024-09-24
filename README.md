@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Denis Waitley</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
