@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your heart is full of fertile seeds, waiting to sprout.</p>
+<p>Choose a job you love, and you will never have to work a day in your life. </p>
 
-<p>Morihei Ueshiba</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
