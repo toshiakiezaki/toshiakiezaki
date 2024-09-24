@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fears are nothing more than a state of mind.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>Napoleon Hill</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
