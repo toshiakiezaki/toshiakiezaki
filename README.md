@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
