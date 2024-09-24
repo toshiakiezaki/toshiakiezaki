@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>Unknown</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
