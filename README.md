@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>Samuel Butler</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
