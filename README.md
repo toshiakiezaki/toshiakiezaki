@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
