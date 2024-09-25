@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place success comes before work is in the dictionary.</p>
+<p>Try not to become a man of success, but rather try to become a man of value.</p>
 
-<p>Vince Lombardi</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
