@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>Do all things with love.</p>
 
-<p>Jim Rohn</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
