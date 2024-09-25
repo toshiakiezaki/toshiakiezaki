@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>Abraham Lincoln</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
