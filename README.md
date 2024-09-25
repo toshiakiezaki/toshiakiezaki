@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
+<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
 
-<p>Joyce Meyer</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
