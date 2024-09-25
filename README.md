@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To some degree, you control your life by controlling your time.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>Conrad Hilton</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
