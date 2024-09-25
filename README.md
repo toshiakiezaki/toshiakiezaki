@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>Laurence J. Peter</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
