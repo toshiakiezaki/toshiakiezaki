@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do all things with love.</p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>Og Mandino</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
