@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man must use what he has, not hope for what is not.</p>
+<p>Life moves on and so should we.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
