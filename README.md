@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will face many defeats in life, but never let yourself be defeated.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>Maya Angelou</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
