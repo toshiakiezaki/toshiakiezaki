@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>Your past does not equal your future.</p>
 
-<p>Charles Dickens</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
