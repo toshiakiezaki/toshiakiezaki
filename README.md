@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>Denis Waitley</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
