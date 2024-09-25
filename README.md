@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>Og Mandino</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
