@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness must be grown in one's own garden.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>Mary Engelbreit</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
