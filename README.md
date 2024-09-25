@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
+<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
 
-<p>Zig Ziglar</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
