@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life moves on and so should we.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>Spencer Johnson</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
