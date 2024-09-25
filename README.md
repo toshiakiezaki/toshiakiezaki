@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>Jim Rohn</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
