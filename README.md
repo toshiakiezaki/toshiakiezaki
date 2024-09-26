@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure is what lies ahead.</p>
+<p>It is better to light a single candle than to curse the darkness.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
