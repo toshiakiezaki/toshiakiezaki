@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
 
-<p>Lao Tzu</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
