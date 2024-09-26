@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
