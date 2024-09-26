@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>Bob Marley</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
