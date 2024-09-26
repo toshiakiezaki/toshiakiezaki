@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your mind stop you.</p>
+<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
 
-<p>Steve Harvey</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
