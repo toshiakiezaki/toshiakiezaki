@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live simply, expect little, give much.</p>
+<p>The only way round is through.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
