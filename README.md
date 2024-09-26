@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Richard Bach</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
