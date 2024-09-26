@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>George Bernard Shaw</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
