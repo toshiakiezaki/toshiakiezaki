@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>Ronald Reagan</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
