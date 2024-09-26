@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
+<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
 
-<p>Socrates</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
