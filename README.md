@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that irritates us about others.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>Carl Jung</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
