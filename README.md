@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
