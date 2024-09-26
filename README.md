@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>Don't let your mind stop you.</p>
 
-<p>Chinese Proverb</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
