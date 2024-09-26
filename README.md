@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
