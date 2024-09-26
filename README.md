@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
+<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
 
-<p>Socrates</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
