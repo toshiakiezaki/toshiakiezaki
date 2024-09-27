@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of difficulty lies opportunity.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>Albert Einstein</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
