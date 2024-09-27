@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is only real, when shared.</p>
+<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
 
-<p>Christopher McCandless</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
