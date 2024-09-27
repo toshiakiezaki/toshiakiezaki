@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>Bob Marley</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
