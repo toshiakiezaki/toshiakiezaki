@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>Criss Jami</p>
+<p>Deepam Chaterjee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
