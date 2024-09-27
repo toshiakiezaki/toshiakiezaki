@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>Epictetus</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
