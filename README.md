@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>Criss Jami</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
