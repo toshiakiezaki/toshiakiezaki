@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>Nikola Tesla</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
