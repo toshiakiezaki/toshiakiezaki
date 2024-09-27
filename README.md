@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>The less people know, the more stubbornly they know it.</p>
 
-<p>Spencer Johnson</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
