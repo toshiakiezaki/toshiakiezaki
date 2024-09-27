@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True love stories never have endings.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>Richard Bach</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
