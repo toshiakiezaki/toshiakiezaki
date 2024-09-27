@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>Deepam Chaterjee</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
