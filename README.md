@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
+<p>True love stories never have endings.</p>
 
 <p>Richard Bach</p>
 <!-- dailyquote:end -->
