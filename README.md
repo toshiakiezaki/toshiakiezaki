@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>The key to success is action.</p>
 
-<p>Celestine Chua</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
