@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>Happiness is only real, when shared.</p>
 
-<p>T.S. Eliot</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
