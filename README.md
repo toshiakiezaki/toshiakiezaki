@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less people know, the more stubbornly they know it.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>Osho</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
