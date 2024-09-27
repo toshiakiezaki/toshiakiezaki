@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be able to forget means sanity.</p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>Jack London</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
