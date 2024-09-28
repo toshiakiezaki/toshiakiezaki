@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>Deepak Chopra</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
