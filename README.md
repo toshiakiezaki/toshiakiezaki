@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>Charles Dickens</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
