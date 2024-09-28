@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>Nikola Tesla</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
