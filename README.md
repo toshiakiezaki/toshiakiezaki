@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're responsible for everything that happens to us.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>Yanni</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
