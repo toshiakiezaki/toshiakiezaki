@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person who does not read is no better than one cannot read.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>Earl Nightingale</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
