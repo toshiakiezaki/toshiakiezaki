@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>Mary Engelbreit</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
