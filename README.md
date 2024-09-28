@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I learned the value of hard work by working hard. </p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>Margaret Mead</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
