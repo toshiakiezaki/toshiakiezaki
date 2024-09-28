@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The score never interested me, only the game.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
-<p>Mae West</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
