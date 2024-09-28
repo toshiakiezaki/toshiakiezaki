@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>Vince Lombardi</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
