@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>Yanni</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
