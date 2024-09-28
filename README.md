@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>Thomas Jefferson</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
