@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>George Bernard Shaw</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
