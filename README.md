@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The roots of education are bitter, but the fruit is sweet.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>Aristotle</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
