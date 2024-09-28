@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination is the true magic carpet.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
