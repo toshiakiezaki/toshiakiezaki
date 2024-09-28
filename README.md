@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To handle yourself, use your head; to handle others, use your heart.</p>
+<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
