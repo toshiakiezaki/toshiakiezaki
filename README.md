@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Conrad Hilton</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
