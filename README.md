@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is too important to be taken seriously.</p>
+<p>Victims recite problems, leaders provide solutions.</p>
 
-<p>Oscar Wilde</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
