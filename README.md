@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
 
-<p>John Wooden</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
