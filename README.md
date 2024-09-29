@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear of death is fear of the Unknown.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>Adi Da Samraj</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
