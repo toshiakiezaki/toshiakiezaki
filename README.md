@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>Charles Darwin</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
