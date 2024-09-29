@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>Epictetus</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
