@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Dan Brown</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
