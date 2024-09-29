@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
