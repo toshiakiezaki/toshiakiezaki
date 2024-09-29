@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>Unknown</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
