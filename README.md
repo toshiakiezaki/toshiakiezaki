@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Roy T. Bennett</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
