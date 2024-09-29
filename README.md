@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>Franz Kafka</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
