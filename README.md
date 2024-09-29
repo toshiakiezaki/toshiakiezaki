@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>Robin Sharma</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
