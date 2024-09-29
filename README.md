@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I defeat my enemies when I make them my friends.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>Dalai Lama</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
