@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a difference between giving directions and giving direction.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>Simon Sinek</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
