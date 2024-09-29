@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>Peter A. Cohen</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
