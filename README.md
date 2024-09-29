@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>Henry Ford</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
