@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Richard Bach</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
