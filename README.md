@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must welcome change as the rule but not as your ruler. </p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>Denis Waitley</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
