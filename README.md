@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
 <p>Henry Ford</p>
 <!-- dailyquote:end -->
