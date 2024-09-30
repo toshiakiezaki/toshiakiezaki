@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>George Bernard Shaw</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
