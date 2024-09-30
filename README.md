@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Health is the greatest of all possessions.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>Jonathan Swift</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
