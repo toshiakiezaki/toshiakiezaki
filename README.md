@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>Brian Tracy</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
