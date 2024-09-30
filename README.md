@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>There is no fear for one whose mind is not filled with desires.</p>
 
-<p>Vincent van Gogh</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
