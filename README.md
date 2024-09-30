@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Jim Rohn</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
