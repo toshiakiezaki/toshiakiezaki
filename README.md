@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>Virginia Woolf</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
