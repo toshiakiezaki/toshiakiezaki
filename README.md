@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>Nikola Tesla</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
