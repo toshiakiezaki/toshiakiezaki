@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time flies whether you are having fun or not.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>Mary Engelbreit</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
