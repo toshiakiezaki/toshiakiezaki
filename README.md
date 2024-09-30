@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An investment in knowledge pays the best interest.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>Benjamin Franklin</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
