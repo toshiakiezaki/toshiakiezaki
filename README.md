@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winning isn't always championships.</p>
+<p>Be yourself; everyone else is already taken </p>
 
-<p>Michael Jordan</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
