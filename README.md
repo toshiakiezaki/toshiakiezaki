@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>Winning isn't always championships.</p>
 
-<p>Dan Brown</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
