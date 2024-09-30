@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>Robert Greene</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
