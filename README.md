@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What gets measured gets improved.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Robin Sharma</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
