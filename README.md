@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
+<p>What gets measured gets improved.</p>
 
-<p>Kahlil Gibran</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
