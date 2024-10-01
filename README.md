@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Eckhart Tolle</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
