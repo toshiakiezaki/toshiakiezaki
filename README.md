@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be able to forget means sanity.</p>
+<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 
-<p>Jack London</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
