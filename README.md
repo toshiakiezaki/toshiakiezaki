@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What worries you, masters you.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>John Locke</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
