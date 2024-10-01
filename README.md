@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Public opinion is the worst of all opinions.</p>
+<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
