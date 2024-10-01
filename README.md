@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>Criss Jami</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
