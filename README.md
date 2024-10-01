@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>Those who are enlightened never stop forging themselves.</p>
 
-<p>Mother Teresa</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
