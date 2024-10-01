@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
