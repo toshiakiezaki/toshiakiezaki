@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Vince Lombardi</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
