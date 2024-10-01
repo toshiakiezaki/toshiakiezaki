@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
 
-<p>Walt Whitman</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
