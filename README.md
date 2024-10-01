@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>What worries you, masters you.</p>
 
-<p>Tony Robbins</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
