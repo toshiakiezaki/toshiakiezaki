@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>Jim Rohn</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
