@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>Pablo Picasso</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
