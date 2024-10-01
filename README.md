@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Dan Millman</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
