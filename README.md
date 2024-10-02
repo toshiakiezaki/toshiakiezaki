@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>Wayne Dyer</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
