@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
 
-<p>Estee Lauder</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
