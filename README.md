@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>Christopher Reeve</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
