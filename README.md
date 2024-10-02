@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>Like it or not, this moment is all we really have to work with.</p>
 
-<p>Unknown</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
