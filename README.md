@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Chinese Proverb</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
