@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
+<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
 
-<p>Wayne Gretzky</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
