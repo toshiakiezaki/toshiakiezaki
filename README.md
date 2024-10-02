@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>Eric Hoffer</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
