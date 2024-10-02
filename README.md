@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>Colin Powell</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
