@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
