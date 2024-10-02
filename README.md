@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
