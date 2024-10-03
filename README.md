@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>Dalai Lama</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
