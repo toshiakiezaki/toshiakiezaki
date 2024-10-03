@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>Criss Jami</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
