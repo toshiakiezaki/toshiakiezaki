@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
 
-<p>Henry Ford</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
