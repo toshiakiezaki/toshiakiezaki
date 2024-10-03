@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>It is well known that those who do not trust themselves never trust others.</p>
 
-<p>Brian Tracy</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
