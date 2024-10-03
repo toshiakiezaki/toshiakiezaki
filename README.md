@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Act as if what you do makes a difference. It does.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>William James</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
