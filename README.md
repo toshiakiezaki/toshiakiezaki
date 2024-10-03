@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>Kahlil Gibran</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
