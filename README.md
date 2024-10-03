@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>Charles Spurgeon</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
