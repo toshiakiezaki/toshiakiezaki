@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>Know yourself and you will win all battles.</p>
 
-<p>Alfred Adler</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
