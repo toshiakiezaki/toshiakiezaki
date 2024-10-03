@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise man reads both books and life itself.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>Lin Yutang</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
