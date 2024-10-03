@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failing is another stepping stone to greatness.</p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>Oprah Winfrey</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
