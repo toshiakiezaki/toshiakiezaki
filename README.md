@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Herodotus</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
