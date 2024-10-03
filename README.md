@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your vision will become clear only when you can look into your own heart.</p>
+<p>A man is literally what he thinks.</p>
 
-<p>Lolly Daskal</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
