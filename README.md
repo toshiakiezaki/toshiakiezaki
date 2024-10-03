@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>Elon Musk</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
