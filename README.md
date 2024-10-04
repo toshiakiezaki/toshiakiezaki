@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You only live once, but if you do it right, once is enough.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>Mae West</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
