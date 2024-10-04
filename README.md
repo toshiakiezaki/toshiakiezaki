@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>Turn off your mind, relax, and float downstream.</p>
 
-<p>Unknown</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
