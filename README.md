@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>Marcus Aurelius</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
