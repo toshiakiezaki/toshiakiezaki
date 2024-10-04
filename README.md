@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Unknown</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
