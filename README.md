@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
