@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be alive - is Power.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>Emily Dickinson</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
