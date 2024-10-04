@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>Great loves too must be endured.</p>
 
-<p>Lao Tzu</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
