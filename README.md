@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>Failure is an option, fear is not.</p>
 
-<p>Sonia Ricotti</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
