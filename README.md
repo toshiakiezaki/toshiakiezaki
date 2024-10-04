@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>Robert Frost</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
