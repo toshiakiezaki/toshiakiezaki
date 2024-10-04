@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is an option, fear is not.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>James Cameron</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
