@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>Tony Robbins</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
