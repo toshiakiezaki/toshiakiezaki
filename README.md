@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A thing must be loved before it is lovable.</p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
