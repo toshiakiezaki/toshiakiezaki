@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>Lolly Daskal</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
