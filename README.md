@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
+<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
 
-<p>George Bernard Shaw</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
