@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>Spencer Johnson</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
