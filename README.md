@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
 
-<p>Paulo Coelho</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
