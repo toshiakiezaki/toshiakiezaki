@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
+<p>What you seek is seeking you.</p>
 
-<p>James Allen</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
