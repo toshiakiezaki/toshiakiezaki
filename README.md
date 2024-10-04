@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>John Lennon</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
