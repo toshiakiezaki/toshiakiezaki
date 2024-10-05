@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>Paulo Coelho</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
