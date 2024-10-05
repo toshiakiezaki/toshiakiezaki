@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>Desire is suffering.</p>
 
-<p>Jim Rohn</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
