@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>Don't try to steer the river.</p>
 
-<p>Epictetus</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
