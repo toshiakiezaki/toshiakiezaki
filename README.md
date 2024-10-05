@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>Lolly Daskal</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
