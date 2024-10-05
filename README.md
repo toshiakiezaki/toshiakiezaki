@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>The less you respond to negative people, the more positive your life will become.</p>
 
-<p>Ralph Marston</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
