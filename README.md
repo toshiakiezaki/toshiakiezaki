@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>Bette Midler</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
