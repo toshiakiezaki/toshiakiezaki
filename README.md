@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>Evil is whatever distracts. </p>
 
-<p>Sathya Sai Baba</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
