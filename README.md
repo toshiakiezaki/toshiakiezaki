@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Evil is whatever distracts. </p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>Franz Kafka</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
