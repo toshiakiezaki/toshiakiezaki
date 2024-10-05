@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>Yanni</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
