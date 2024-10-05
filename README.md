@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>Nikola Tesla</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
