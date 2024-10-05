@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Napoleon Hill</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
