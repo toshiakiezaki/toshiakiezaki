@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the world you may be one person; but to one person you may be the world.</p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>Dr. Seuss</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
