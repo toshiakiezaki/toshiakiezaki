@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>Judy Garland</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
