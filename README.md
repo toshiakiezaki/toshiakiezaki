@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>Roy T. Bennett</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
