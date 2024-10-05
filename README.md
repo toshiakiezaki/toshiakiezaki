@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
