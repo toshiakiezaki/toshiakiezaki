@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will succeed because most people are lazy.</p>
+<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
 
-<p>Shahir Zag</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
