@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
+<p>You will succeed because most people are lazy.</p>
 
-<p>Sydney Smith</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
