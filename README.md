@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>Nikola Tesla</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
