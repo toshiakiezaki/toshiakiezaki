@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>Kamal Ravikant</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
