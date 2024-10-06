@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Better to light a candle than to curse the darkness. </p>
 
-<p>Oprah Winfrey</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
