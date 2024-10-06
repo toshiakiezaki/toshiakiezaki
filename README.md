@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no shortcuts to any place worth going.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Beverly Sills</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
