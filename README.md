@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to light a candle than to curse the darkness. </p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>Chinese Proverb</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
