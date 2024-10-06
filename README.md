@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>Confucius</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
