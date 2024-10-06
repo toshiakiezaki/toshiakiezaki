@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listen to what you know instead of what you fear.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>Richard Bach</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
