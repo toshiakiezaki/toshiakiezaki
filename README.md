@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>Kahlil Gibran</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
