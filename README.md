@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>Woody Allen</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
