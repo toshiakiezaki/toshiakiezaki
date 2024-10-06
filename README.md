@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
 
-<p>Mary Engelbreit</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
