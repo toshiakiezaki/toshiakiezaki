@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best of us sometimes eat our words.  </p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>Albus Dumbledore</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
