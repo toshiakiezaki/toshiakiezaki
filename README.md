@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never to suffer would never to have been blessed.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Edgar Allan Poe</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
