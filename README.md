@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>James Cameron</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
