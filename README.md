@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>Josh Waitzkin</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
