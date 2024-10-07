@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
 
-<p>Ayn Rand</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
