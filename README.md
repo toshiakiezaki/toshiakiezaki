@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>Unknown</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
