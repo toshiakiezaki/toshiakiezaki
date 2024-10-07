@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>Morgan Wootten</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
