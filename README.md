@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>Elon Musk</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
