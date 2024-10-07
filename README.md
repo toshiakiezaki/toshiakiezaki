@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
