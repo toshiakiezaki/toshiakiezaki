@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>Colin Powell</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
