@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leadership is solving problems</p>
+<p>All wealth is the product of labor.</p>
 
-<p>Colin Powell</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
