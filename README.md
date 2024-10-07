@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>Franz Kafka</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
