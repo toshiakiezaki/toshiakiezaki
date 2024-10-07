@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>Confucius</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
