@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
 
-<p>Aristotle</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
