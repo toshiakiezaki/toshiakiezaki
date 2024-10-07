@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
 
-<p>Herbert Hoover</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
