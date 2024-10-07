@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>Marcus Aurelius</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
