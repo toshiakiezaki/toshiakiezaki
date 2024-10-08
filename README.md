@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love the life you live, live the life you love.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>Bob Marley</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
