@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>Judy Garland</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
