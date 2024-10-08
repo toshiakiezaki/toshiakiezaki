@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The significance of life is living.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
