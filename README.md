@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every saint has a past, and every sinner has a future.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>Oscar Wilde</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
