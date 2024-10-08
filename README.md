@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live outside the law, you must be honest. </p>
+<p>Don't let the behavior of others destroy your inner peace.</p>
 
-<p>Bob Dylan</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
