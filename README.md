@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>To be able to forget means sanity.</p>
 
-<p>Sun Tzu</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
