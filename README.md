@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, but verify.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>Ronald Reagan</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
