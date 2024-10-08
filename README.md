@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the behavior of others destroy your inner peace.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>Dalai Lama</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
