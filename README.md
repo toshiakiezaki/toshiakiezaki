@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Attitude is a little thing that makes a big difference.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>Winston Churchill</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
