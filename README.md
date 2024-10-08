@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>Tony Robbins</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
