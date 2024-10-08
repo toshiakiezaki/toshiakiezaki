@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Don't let the behavior of others destroy your inner peace.</p>
 
-<p>Jim Rohn</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
