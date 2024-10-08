@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>Napoleon Hill</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
