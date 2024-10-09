@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>Albus Dumbledore</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
