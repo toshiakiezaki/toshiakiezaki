@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A goal is a dream with a deadline.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>Napoleon Hill</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
