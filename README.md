@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
 
-<p>Celestine Chua</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
