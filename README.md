@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
