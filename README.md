@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faults are yours to fix, not to curse.</p>
+<p>Heaven is right where you are standing.</p>
 
-<p>Colin Powell</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
