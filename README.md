@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no way to happiness - happiness is the way.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
