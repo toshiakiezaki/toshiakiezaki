@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
+<p>Faults are yours to fix, not to curse.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
