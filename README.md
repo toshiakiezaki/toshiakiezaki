@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>D. H. Lawrence</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
