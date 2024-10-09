@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a question and how we live it is our answer.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>Gary Keller</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
