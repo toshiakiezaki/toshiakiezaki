@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>Andrew Carnegie</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
