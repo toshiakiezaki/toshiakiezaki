@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>Oscar Wilde</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
