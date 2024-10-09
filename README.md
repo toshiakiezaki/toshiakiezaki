@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absence makes the heart grow fonder.</p>
+<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
