@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
+<p>Truth is like most opinions - best unexpressed.</p>
 
-<p>William James</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
