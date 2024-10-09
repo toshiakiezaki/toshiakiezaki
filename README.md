@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heaven is right where you are standing.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
