@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>Naval Ravikant</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
