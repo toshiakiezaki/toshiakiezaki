@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>Lao Tzu</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
