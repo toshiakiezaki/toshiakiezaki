@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>Kenneth Branagh</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
