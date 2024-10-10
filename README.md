@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
