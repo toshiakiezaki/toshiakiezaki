@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
+<p>What worries you, masters you.</p>
 
-<p>Nicolas Chamfort</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
