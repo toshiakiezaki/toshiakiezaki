@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>The score never interested me, only the game.</p>
 
-<p>Marcus Aurelius</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
