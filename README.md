@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future is not a gift. It is an achievement.</p>
+<p>Rest and be kind, you don't have to prove anything.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
