@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
