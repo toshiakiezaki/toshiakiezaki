@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
 
-<p>George Eliot</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
