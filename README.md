@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>Zig Ziglar</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
