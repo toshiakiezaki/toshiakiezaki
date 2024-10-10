@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
 
-<p>Jack Kerouac</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
