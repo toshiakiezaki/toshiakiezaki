@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What worries you, masters you.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>John Locke</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
