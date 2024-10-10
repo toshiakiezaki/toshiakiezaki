@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who realize their folly are not true fools.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>Zhuangzi</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
