@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all those who wander are lost.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
