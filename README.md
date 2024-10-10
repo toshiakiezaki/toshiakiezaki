@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Constantly think about how you could be doing things better.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Elon Musk</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
