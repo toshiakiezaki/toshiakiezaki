@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't, you must. If you must, you can.</p>
+<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
 
-<p>Tony Robbins</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
