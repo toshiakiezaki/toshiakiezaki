@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>Samuel Butler</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
