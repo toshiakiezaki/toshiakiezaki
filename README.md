@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no way to happiness - happiness is the way.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
