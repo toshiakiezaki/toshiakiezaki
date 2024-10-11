@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there is no struggle, there is no strength. </p>
+<p>High thoughts must have high language.</p>
 
-<p>Oprah Winfrey</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
