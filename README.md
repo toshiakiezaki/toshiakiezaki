@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>William James</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
