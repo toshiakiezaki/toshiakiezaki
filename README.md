@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
