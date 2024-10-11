@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>Steve Harvey</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
