@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>Laurence J. Peter</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
