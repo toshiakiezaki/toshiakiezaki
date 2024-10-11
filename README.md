@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is planted in each person's soul will sprout.  </p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>Rumi</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
