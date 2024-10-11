@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the change that you want to see in the world.</p>
+<p>Comedy = tragedy + time.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
