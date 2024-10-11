@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Comedy = tragedy + time.</p>
+<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
 
-<p>Carol Burnett</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
