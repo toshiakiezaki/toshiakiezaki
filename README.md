@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With self-discipline, almost anything is possible.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>Theodore Roosevelt</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
