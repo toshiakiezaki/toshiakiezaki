@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>Stephen King</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
