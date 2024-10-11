@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>High thoughts must have high language.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Aristophanes</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
