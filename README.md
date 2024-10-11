@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination means nothing without doing.  </p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>Charlie Chaplin</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
