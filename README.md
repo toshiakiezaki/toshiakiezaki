@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Comedy = tragedy + time.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
