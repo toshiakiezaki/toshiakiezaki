@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>Joyce Meyer</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
