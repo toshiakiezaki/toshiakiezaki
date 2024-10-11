@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Comedy = tragedy + time.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>Carol Burnett</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
