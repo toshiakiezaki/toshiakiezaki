@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>Richard Bach</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
