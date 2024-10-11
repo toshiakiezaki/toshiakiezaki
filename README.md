@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>When you win, say nothing, when you lose say less.</p>
 
-<p>Virginia Woolf</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
