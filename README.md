@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Emily Dickinson</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
