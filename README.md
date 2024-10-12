@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>Amelia Earhart</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
