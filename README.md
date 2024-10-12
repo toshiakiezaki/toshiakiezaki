@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Success is an iceberg.</p>
 
-<p>Napoleon Hill</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
