@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge a man by his questions rather than his answers.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>Voltaire</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
