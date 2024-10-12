@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
+<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
 
-<p>Rita Mae Brown</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
