@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
+<p>Still your waters.</p>
 
-<p>Mark Twain</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
