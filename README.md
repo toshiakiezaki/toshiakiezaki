@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>Walt Whitman</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
