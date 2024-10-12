@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
 
-<p>Brian Tracy</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
