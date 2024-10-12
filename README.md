@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>Sydney Smith</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
