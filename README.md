@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothes thoughts wear.</p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>Samuel Beckett</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
