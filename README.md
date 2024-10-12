@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Still your waters.</p>
+<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
 
-<p>Josh Waitzkin</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
