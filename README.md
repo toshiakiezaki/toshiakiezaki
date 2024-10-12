@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We suffer more often in imagination than in reality.  </p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>Seneca</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
