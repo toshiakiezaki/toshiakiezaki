@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a difference between giving directions and giving direction.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>Simon Sinek</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
