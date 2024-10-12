@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>All we have to decide is what to do with the time that is given to us.</p>
 
-<p>Christopher Columbus</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
