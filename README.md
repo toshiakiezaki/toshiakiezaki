@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>Criss Jami</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
