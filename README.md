@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
+<p>When it hurts - observe. Life is trying to teach you something.</p>
 
-<p>Criss Jami</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
