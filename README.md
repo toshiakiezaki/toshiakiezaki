@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
