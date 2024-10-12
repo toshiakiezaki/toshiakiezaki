@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>Anita Krizzan</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
