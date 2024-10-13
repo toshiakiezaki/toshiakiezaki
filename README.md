@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>Wayne Dyer</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
