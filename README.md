@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who know, do. Those that understand, teach.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>Aristotle</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
