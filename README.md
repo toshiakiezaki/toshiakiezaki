@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You change the world by being yourself.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Yoko Ono</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
