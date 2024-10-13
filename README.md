@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Maxime Lagace</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
