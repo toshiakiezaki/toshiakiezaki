@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
 
-<p>Gary Keller</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
