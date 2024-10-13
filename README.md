@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>Thomas Jefferson</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
