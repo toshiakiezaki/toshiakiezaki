@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>Life's too mysterious to take too serious.</p>
 
-<p>Thomas Jefferson</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
