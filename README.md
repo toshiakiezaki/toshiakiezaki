@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>Eckhart Tolle</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
