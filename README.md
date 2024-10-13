@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>Aristophanes</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
