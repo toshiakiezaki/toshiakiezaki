@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>James Matthew Barrie</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
