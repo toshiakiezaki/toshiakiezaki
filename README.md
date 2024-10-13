@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>Yanni</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
