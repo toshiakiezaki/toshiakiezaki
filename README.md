@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>Vince Lombardi</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
