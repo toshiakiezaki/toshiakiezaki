@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>Dogen</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
