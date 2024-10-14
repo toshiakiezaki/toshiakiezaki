@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>Herodotus</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
