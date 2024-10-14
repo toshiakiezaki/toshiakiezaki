@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>Harry S. Truman</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
