@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is a game played beautifully by children.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>Heraclitus</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
