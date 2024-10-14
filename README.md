@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>Pablo Picasso</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
