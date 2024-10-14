@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
