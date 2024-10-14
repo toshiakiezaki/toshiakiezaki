@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>Mark Twain</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
