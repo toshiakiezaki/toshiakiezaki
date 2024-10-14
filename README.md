@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>Time is a game played beautifully by children.</p>
 
-<p>Charles Dickens</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
