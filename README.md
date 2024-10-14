@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
+<p>If you tell the truth, you don't have to remember anything.</p>
 
-<p>Charles Dickens</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
