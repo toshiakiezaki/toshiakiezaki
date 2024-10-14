@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
