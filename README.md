@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Unknown</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
