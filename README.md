@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>Amelia Earhart</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
