@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>The most important battle is one to conquer yourself.</p>
 
-<p>Mae West</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
