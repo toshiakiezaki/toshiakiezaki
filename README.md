@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stumble over something that's behind you.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>Steve Harvey</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
