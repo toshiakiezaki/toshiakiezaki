@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>Walt Whitman</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
