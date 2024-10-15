@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no coming to consciousness without pain</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>Carl Jung</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
