@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>Don't stumble over something that's behind you.</p>
 
-<p>Joyce Meyer</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
