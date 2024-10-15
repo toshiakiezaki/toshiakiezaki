@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>George Eliot</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
