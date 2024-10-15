@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important battle is one to conquer yourself.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>Yanni</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
