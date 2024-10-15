@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>I would rather die on my feet than live on my knees.</p>
 
-<p>Mark Manson</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
