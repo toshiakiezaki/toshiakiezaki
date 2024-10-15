@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>Celestine Chua</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
