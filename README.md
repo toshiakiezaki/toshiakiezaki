@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>Will Rogers</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
