@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>Napoleon Hill</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
