@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather die on my feet than live on my knees.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>Euripides</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
