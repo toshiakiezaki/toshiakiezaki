@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Henry David Thoreau</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
