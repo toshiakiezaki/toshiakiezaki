@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest doer must also be a great dreamer.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>Theodore Roosevelt</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
