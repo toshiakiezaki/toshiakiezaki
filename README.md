@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest miracle is to be alive.</p>
+<p>Pleasure in the job puts perfection in the work.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
