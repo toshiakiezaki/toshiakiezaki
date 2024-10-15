@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>Christopher Reeve</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
