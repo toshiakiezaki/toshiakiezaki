@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Much learning does not teach understanding.</p>
+<p>Belief creates the actual fact.</p>
 
-<p>Heraclitus</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
