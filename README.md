@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Robert Greene</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
