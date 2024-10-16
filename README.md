@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
 
-<p>Tony Robbins</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
