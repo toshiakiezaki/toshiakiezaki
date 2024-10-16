@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>Naval Ravikant</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
