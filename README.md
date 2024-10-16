@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Belief creates the actual fact.</p>
+<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
 
-<p>William James</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
