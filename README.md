@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>Simon Sinek</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
