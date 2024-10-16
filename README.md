@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>John Eliot</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
