@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Epictetus</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
