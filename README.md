@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>Peter Drucker</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
