@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
