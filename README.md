@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>We love the things we love for what they are.</p>
 
-<p>Henry Ford</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
