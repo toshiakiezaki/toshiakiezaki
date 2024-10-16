@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>Herman Melville</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
