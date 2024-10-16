@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>Chinese Proverb</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
