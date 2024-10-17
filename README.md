@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>Sonia Ricotti</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
