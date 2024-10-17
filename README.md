@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forgive means pardoning the unpardonable.</p>
+<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
