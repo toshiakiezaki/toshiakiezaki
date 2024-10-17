@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>We create the world and ourselves;</p>
 
-<p>Elon Musk</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
