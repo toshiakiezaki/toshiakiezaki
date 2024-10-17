@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
