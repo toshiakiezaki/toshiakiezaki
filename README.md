@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wealth is of the heart, not of the purse.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>Og Mandino</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
