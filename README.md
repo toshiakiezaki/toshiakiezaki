@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
+<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
 
-<p>Brian Tracy</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
