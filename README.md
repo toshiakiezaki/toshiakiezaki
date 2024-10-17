@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
