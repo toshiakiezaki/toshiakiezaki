@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligence is the ability to adapt to change.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>Stephen Hawking</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
