@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We create the world and ourselves;</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
