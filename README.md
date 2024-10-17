@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>Anne Frank</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
