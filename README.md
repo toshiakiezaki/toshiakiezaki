@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>Elon Musk</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
