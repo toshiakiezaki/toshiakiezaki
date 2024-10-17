@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
+<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
