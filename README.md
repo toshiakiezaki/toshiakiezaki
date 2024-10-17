@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Progress is limited by your ability to change your mind.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
