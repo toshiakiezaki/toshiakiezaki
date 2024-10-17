@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Colin Powell</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
