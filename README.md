@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>Soyen Shaku</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
