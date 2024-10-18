@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
 
-<p>Joan Rivers</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
