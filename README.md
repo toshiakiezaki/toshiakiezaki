@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>Seneca</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
