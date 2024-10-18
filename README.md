@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
 
-<p>Harry S. Truman</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
