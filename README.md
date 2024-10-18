@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A life without a cause is a life without effect.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>Paulo Coelho</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
