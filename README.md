@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
+<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
 
-<p>Jonathan Swift</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
