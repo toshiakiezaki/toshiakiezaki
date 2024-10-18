@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way out is always through.</p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>Robert Frost</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
