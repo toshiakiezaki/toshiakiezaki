@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>Herodotus</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
