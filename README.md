@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>The best way out is always through.</p>
 
-<p>C. Sean McGee</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
