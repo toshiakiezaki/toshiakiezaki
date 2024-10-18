@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who hesitates is a damned fool.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Mae West</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
