@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>Charles Dickens</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
