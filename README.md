@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>Celestine Chua</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
