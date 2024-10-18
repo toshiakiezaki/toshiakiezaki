@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>Oprah Winfrey</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
