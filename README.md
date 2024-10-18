@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>Aristotle</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
