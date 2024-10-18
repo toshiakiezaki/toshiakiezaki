@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a journey, not a destination.</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>Dan Millman</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
