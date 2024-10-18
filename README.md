@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing will work unless you do.</p>
+<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
 
-<p>Maya Angelou</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
