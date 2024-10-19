@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>Rumi</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
