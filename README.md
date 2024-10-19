@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>Gary Keller</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
