@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What have you done today to make someone else happy?</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>Deepam Chaterjee</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
