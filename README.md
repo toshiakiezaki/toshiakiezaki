@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Andrew Carnegie</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
