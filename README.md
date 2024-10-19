@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>Marcus Aurelius</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
