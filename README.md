@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tall oaks grow from little acorns.</p>
+<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
 
-<p>Andrew Carnegie</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
