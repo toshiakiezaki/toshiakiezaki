@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>Charles Dickens</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
