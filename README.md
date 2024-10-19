@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>Sun Tzu</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
