@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to predict your future is to create it.</p>
+<p>If you truly love Nature, you will find beauty everywhere. </p>
 
-<p>Abraham Lincoln</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
