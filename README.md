@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing new in the world is the history you do not know.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>Harry S. Truman</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
