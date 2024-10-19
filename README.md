@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>Barack Obama</p>
+<p>Deepam Chaterjee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
