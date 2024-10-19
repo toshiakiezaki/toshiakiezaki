@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is to be willing to die over and over again.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Pema Chodron</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
