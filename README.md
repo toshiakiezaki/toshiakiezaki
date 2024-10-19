@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>Osho</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
