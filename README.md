@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>Mark Manson</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
