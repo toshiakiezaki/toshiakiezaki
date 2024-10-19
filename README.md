@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
 
-<p>Peter Drucker</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
