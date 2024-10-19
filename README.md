@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>John Lennon</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
