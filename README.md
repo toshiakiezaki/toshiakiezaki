@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>Naval Ravikant</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
