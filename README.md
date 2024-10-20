@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
 
-<p>Elbert Hubbard</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
