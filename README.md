@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Stephen King</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
