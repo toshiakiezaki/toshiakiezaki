@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
 
-<p>Grace Coddington</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
