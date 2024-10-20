@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can live a whole life time never being awake.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>Dan Millman</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
