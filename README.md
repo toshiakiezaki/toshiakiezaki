@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>Peter A. Cohen</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
