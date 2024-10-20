@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>Audrey Hepburn</p>
+<p>Grace Coddington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
