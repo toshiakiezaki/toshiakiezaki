@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>Henry Ward Beecher</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
