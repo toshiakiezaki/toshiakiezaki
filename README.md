@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>The more we have the less we own.</p>
 
-<p>Carl Jung</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
