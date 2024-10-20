@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>Bhagavad Gita</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
