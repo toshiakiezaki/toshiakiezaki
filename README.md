@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>Napoleon Hill</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
