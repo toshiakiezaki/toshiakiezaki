@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you truly love Nature, you will find beauty everywhere. </p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>Vincent van Gogh</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
