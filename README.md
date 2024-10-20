@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>Buddha</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
