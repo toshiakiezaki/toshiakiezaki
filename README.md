@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we have the less we own.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>Meister Eckhart</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
