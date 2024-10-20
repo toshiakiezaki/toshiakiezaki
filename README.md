@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>Woody Allen</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
