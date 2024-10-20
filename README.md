@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>Sigmund Freud</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
