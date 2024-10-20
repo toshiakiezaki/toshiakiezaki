@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>Steve Maraboli</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
