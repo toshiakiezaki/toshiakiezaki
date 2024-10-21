@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Criss Jami</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
