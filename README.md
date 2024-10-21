@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>W.P. Kinsella</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
