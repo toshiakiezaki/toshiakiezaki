@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Have a vision. Be demanding.</p>
 
-<p>Franz Kafka</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
