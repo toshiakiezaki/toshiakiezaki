@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>Epictetus</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
