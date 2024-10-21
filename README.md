@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Receive without pride, let go without attachment.</p>
+<p>A fall into a ditch makes you wiser.</p>
 
-<p>Marcus Aurelius</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
