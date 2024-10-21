@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality is not an act, it is a habit.</p>
+<p>We lie the loudest when we lie to ourselves.</p>
 
-<p>Aristotle</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
