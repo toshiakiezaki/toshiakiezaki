@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>Gary Keller</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
