@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Men are disturbed not by things, but by the view which they take of them.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
