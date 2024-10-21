@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>Eric Hoffer</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
