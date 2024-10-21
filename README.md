@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>Harry S. Truman</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
