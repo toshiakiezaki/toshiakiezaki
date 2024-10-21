@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>Joyce Meyer</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
