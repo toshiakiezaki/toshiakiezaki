@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The pain of parting is nothing to the joy of meeting again.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>Charles Dickens</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
