@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't hate the player. Change the game.</p>
+<p>The pain of parting is nothing to the joy of meeting again.</p>
 
-<p>Steve Harvey</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
