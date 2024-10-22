@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Pema Chodron</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
