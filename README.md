@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
 
-<p>Kabir</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
