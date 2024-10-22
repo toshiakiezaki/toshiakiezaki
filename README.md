@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
+<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
 
-<p>Lily Tomlin</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
