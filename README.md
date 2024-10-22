@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
 
-<p>Colin Powell</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
