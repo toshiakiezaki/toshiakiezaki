@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mind is the limit.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
