@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>Roy T. Bennett</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
