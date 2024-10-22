@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
