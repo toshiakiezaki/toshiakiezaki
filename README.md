@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is always right to do what is right.</p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
