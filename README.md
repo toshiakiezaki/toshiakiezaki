@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>T.S. Eliot</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
