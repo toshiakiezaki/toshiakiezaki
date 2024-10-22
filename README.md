@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Emily Dickinson</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
