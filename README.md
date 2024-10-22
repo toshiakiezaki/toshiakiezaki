@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
 
-<p>Les Brown</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
