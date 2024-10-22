@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>Ayn Rand</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
