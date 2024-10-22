@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>Hans Christian Andersen</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
