@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>Samuel Butler</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
