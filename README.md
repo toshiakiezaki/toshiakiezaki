@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is changed by your example, not by your opinion.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>Paulo Coelho</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
