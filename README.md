@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let each man exercise the art he knows.</p>
+<p>To earn more you must learn more.</p>
 
-<p>Aristophanes</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
