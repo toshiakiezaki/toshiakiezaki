@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>Aristotle</p>
+<p>Cherralea Morgen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
