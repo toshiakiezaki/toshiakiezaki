@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk does not cook rice.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>Chinese Proverb</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
