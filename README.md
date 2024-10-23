@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>Og Mandino</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
