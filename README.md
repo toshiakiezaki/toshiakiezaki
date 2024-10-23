@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>Nikola Tesla</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
