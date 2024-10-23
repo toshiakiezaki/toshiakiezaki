@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>Lao Tzu</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
