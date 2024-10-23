@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace avoiding life.</p>
+<p>Pleasure in the job puts perfection in the work.</p>
 
-<p>Virginia Woolf</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
