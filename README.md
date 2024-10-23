@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>Marcus Aurelius</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
