@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>Walt Whitman</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
