@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>Talk does not cook rice.</p>
 
-<p>Yanni</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
