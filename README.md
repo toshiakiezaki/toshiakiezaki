@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
