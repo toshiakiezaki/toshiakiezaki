@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
 
-<p>Virginia Woolf</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
