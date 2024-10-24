@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Eighty percent of success is showing up. </p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>Woody Allen</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
