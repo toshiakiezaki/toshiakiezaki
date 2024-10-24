@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
