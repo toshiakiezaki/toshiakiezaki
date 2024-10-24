@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>Zig Ziglar</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
