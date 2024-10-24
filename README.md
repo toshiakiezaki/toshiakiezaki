@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
