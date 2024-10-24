@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
