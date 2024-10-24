@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
 
-<p>Virginia Woolf</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
