@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
