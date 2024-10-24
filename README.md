@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Turn off your mind, relax, and float downstream.</p>
 
-<p>Genghis Khan</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
