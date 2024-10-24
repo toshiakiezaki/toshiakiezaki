@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
+<p>Eighty percent of success is showing up. </p>
 
-<p>Steve Harvey</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
