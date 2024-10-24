@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>Walt Whitman</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
