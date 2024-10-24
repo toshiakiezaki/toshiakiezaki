@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must welcome change as the rule but not as your ruler. </p>
+<p>Only the educated are free.</p>
 
-<p>Denis Waitley</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
