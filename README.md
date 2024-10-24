@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>Elbert Hubbard</p>
+<p>Babe Ruth</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
