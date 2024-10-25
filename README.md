@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
 
-<p>Wayne Dyer</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
