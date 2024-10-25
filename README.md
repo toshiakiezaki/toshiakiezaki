@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little progress each day adds up to big results.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>Unknown</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
