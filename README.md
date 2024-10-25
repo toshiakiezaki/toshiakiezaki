@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conflict cannot survive without your participation. </p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>Wayne Dyer</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
