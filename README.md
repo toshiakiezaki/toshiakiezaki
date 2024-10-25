@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we value things, the less we value ourselves.  </p>
+<p>Whatever you are, be a good one.</p>
 
-<p>Bruce Lee</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
