@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>Stephen King</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
