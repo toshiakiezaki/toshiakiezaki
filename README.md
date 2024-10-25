@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freeing oneself from words is liberation. </p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>Bodhidharma</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
