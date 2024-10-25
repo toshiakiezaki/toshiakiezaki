@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
