@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are what you believe in. You become that which you believe you can become.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>Bhagavad Gita</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
