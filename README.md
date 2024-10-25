@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
 
-<p>Deepak Chopra</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
