@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
-<p>Lao Tzu</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
