@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
 
-<p>Socrates</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
