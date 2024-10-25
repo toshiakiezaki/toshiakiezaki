@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>Barack Obama</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
