@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is destiny.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>Heraclitus</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
