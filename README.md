@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a very long time to become young.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>Pablo Picasso</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
