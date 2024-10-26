@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
 
-<p>Barack Obama</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
