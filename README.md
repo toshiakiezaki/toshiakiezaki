@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
