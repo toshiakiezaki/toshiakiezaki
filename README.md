@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
 
-<p>Marcus Aurelius</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
