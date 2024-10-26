@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love your enemies, for they tell you your faults.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>Benjamin Franklin</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
