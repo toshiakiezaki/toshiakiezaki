@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>Margaret Mead</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
