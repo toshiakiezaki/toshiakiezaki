@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>Chinese Proverb</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
