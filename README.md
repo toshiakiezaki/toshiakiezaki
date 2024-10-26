@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is planted in each person's soul will sprout.  </p>
+<p>It doesn't matter what you do, only how well you do it.</p>
 
-<p>Rumi</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
