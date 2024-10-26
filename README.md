@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What is planted in each person's soul will sprout.  </p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>Rumi</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
