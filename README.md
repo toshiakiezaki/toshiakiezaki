@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>Andrew Carnegie</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
