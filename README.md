@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we have the less we own.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>Meister Eckhart</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
