@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth is the product of man's capacity to think.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>Ayn Rand</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
