@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Seungsahn</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
