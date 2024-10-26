@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste not fresh tears over old griefs.</p>
+<p>The more we have the less we own.</p>
 
-<p>Euripides</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
