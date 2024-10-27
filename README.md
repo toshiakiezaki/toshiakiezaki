@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
 
-<p>Pema Chodron</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
