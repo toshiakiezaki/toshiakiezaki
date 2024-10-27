@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
