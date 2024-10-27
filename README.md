@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not sit down and wait for miracles. Up and be going!</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>John Eliot</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
