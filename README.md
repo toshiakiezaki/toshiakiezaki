@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>Confucius</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
