@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't settle, and don't struggle.</p>
+<p>The most important things are the hardest to say.</p>
 
-<p>Naval Ravikant</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
