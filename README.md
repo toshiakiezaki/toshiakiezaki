@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can see through others only when we can see through ourselves.</p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>Bruce Lee</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
