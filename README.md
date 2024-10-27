@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
+<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
 
-<p>Spencer Johnson</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
