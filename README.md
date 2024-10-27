@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important things are the hardest to say.</p>
+<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
 
-<p>Stephen King</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
