@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>Life is too important to be taken seriously.</p>
 
-<p>John Lennon</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
