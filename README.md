@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
 <p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
