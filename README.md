@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place success comes before work is in the dictionary.</p>
+<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
 
-<p>Vince Lombardi</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
