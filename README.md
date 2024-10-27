@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Begin now to be what you will be hereafter.</p>
+<p>We must not sit down and wait for miracles. Up and be going!</p>
 
-<p>St. Jerome</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
