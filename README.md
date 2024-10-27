@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>Zig Ziglar</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
