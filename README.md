@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An investment in knowledge pays the best interest.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>Benjamin Franklin</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
