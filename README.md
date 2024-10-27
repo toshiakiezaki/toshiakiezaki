@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are as many opinions as there are experts.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
