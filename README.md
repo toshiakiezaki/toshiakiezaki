@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>Charles Darwin</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
