@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>Robert Greene</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
