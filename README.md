@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness depends upon ourselves.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>Aristotle</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
