@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
