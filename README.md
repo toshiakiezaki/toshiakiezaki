@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are possessed by nothing possess everything.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
