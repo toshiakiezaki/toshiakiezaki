@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
