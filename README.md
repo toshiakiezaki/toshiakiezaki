@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Sigmund Freud</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
