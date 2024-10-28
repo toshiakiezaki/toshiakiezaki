@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to learn late than never.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>Publilius Syrus</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
