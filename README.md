@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
 
-<p>St. Jerome</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
