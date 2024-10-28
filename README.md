@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
