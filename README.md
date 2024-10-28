@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is more cheated than the selfish man.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
