@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Simplicity is the glory of expression.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>Walt Whitman</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
