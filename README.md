@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>Bob Proctor</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
