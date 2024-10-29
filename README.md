@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>Thomas Jefferson</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
