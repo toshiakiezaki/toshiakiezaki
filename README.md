@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
 
-<p>Oprah Winfrey</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
