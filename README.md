@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To earn more you must learn more.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>Brian Tracy</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
