@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normal is the average of deviance.</p>
+<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
 
-<p>Rita Mae Brown</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
