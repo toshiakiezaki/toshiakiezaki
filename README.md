@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>Henry Ford</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
