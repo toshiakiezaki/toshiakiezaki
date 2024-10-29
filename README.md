@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When your intuition is strong, follow it.</p>
+<p>Take away love and our earth is a tomb.</p>
 
-<p>Lolly Daskal</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
