@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
+<p>The energy of the mind is the essence of life.</p>
 
-<p>Bruce Lee</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
