@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The energy of the mind is the essence of life.</p>
+<p>Normal is the average of deviance.</p>
 
-<p>Aristotle</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
