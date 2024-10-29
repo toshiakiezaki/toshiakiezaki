@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>Les Brown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
