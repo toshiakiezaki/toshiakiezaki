@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
