@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why fit in when you were born to stand out?</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>Dr. Seuss</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
