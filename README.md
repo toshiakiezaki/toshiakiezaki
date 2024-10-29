@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is never too late to be what you might have been.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>George Eliot</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
