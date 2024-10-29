@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your spirit is the true shield.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>Morihei Ueshiba</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
