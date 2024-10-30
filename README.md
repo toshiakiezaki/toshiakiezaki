@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Facts are the enemy of truth. </p>
+<p>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</p>
 
-<p>Miguel de Cervantes</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
