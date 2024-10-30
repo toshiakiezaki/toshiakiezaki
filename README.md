@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your next step is simple. You are the first domino.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>Gary Keller</p>
+<p>Cherie Gilderbloom</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
