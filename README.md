@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>You have the potential for greatness.</p>
 
-<p>Robert Greene</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
