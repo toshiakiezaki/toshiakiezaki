@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows best knows how little he knows.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>Thomas Jefferson</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
