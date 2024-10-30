@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Earl Nightingale</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
