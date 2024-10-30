@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>Celestine Chua</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
