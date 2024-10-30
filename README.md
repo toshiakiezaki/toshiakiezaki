@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
 <p>Dan Brown</p>
 <!-- dailyquote:end -->
