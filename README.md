@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>Seneca</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
