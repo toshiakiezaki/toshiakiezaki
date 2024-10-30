@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>Dan Brown</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
