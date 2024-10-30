@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There exists only the present instant; a Now which always and without end is itself new.</p>
+<p>Facts are the enemy of truth. </p>
 
-<p>Meister Eckhart</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
