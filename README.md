@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>Celestine Chua</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
