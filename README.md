@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the potential for greatness.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>Steve Harvey</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
