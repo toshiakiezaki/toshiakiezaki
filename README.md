@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
 
-<p>Confucius</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
