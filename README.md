@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best dreams happen when you're awake.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>Cherie Gilderbloom</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
