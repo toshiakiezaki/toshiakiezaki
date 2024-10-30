@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>Morgan Wootten</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
