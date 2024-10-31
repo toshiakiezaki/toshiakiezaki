@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>Celestine Chua</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
