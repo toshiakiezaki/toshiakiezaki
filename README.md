@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>Wayne Dyer</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
