@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination means nothing without doing.  </p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>Charlie Chaplin</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
