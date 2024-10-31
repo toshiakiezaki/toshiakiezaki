@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>Thomas Edison</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
