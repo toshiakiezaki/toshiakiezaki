@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
 
 <p>Brian Tracy</p>
 <!-- dailyquote:end -->
