@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>Voltaire</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
