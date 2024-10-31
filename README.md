@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quiet people have the loudest minds.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>Stephen Hawking</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
