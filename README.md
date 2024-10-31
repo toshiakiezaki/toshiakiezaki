@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>Laurence J. Peter</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
