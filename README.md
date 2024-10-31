@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lead the people, walk behind them.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>Lao Tzu</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
