@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Les Brown</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
