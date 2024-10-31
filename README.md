@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
