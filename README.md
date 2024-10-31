@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If they wrote it to make money, don't read it.</p>
+<p>Men are equal; it is not birth but virtue that makes the difference.</p>
 
-<p>Naval Ravikant</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
