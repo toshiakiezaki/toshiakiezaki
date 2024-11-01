@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Still your waters.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>Josh Waitzkin</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
