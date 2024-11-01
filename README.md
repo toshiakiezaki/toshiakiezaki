@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>Dan Millman</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
