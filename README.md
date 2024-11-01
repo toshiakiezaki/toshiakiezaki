@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace by avoiding life.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>Virginia Woolf</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
