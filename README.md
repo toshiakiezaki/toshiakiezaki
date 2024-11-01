@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We win by helping each other win.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>Jack Butcher</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
