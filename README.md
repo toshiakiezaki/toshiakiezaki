@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
 
-<p>Unknown</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
