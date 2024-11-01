@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
 
-<p>Dan Millman</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
