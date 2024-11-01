@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>The future is the worst thing about the present.</p>
 
-<p>Zen Proverb</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
