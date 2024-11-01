@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>Aristotle</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
