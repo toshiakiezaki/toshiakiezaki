@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>Winston Churchill</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
