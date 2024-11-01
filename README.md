@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do to others what you would not like them to do to you. </p>
+<p>To be prepared is half the victory. </p>
 
-<p>Confucius</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
