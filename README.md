@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
 
-<p>Charlie Chaplin</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
