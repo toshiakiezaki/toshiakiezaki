@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Thomas Edison</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
