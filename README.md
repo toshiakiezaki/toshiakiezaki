@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>Lin Yutang</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
