@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Any game becomes important when you know and love the players.</p>
 
-<p>Socrates</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
