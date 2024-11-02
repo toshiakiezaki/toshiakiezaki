@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who dare to fail greatly can ever achieve greatly.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Robert F. Kennedy</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
