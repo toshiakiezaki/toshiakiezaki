@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
 
-<p>Lao Tzu</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
