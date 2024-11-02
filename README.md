@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>Fools read fast. Geniuses reread.</p>
 
-<p>William James</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
