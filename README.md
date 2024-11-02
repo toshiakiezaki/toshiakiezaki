@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no significance in life without struggle.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>Lolly Daskal</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
