@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>Zen Proverb</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
