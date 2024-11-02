@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
