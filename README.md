@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any game becomes important when you know and love the players.</p>
+<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
 
-<p>W.P. Kinsella</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
