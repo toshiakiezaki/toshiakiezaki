@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>George Washington</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
