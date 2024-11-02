@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>The only defense against the world is a thorough knowledge of it.</p>
 
-<p>Oprah Winfrey</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
