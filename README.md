@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>Christopher Columbus</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
