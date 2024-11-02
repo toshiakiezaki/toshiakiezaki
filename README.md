@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>Success is an iceberg.</p>
 
-<p>Brian Tracy</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
