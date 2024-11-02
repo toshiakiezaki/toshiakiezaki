@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remain calm. Be kind.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Colin Powell</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
