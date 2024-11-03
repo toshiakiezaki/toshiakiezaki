@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there's life, there's hope.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>Stephen Hawking</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
