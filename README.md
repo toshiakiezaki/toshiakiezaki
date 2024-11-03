@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>Huang Po</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
