@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
