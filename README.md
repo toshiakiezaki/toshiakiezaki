@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>Joyce Meyer</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
