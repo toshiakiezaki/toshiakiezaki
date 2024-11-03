@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>The best way to understanding is a few good examples.</p>
 
-<p>Jonathan Swift</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
