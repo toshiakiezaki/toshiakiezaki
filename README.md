@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We all give up great expectations along the way.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
