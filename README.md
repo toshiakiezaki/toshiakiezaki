@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life should be touched, not strangled.  </p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>Ray Bradbury</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
