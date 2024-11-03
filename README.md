@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>Marcus Aurelius</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
