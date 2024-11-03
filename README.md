@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to understanding is a few good examples.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>Isaac Newton</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
