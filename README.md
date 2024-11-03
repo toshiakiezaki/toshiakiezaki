@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
