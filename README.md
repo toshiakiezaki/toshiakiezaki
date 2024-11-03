@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
