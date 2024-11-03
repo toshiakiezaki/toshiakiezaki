@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>Audrey Hepburn</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
