@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realistic people do not accomplish extraordinary things.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>John Eliot</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
