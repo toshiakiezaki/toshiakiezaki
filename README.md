@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
