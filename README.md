@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>Stephen Hawking</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
