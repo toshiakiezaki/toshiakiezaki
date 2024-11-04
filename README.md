@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Champions keep playing until they get it right.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>Billie Jean King</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
