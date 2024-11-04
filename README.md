@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief enemy of creativity is good sense.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>Pablo Picasso</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
