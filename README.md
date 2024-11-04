@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember the entrance to the sanctuary is inside you.</p>
+<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
 
-<p>Rumi</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
