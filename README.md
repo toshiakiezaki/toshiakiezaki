@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
