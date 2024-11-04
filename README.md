@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>Robin Williams</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
