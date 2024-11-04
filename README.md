@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>Mark Twain</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
