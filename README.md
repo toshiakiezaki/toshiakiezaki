@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have it all. You just can't have it all at once. </p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>Oprah Winfrey</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
