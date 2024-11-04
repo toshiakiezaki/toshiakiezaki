@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>Tony Robbins</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
