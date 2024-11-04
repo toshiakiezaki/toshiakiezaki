@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>George Eliot</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
