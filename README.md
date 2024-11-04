@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a very long time to become young.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>Pablo Picasso</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
