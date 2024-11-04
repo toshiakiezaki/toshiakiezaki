@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>Bruce Lee</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
