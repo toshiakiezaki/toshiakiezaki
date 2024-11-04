@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>Dale Carnegie</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
