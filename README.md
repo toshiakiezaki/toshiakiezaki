@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
+<p>It takes a very long time to become young.</p>
 
-<p>Nelson Mandela</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
