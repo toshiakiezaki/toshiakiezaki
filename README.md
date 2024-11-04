@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy when you can, and endure when you must.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
