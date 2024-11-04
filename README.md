@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can pay the bills, I'm happy.</p>
+<p>Remember the entrance to the sanctuary is inside you.</p>
 
-<p>Morgan Wootten</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
