@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Socrates</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
