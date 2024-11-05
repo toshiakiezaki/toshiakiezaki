@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>Lao Tzu</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
