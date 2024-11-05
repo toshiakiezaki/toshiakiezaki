@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>Remember the entrance to the sanctuary is inside you.</p>
 
-<p>Andrew Carnegie</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
