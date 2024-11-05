@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
 
-<p>Vince Lombardi</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
