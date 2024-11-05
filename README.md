@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
 
-<p>George Bernard Shaw</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
