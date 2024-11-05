@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>Roy T. Bennett</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
