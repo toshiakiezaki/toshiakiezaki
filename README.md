@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>Heraclitus</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
