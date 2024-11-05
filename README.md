@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
 
-<p>Epictetus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
