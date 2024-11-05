@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
