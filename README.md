@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>Naval Ravikant</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
