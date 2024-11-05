@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
