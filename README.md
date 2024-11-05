@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners don't Quit. That's why they Win.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>Unknown</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
