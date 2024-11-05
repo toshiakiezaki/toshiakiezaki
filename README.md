@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
