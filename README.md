@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>Aristotle</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
