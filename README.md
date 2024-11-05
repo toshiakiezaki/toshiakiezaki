@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
+<p>Courage is found in unlikely places.</p>
 
-<p>Jim Rohn</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
