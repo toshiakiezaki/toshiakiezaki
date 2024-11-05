@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>William Faulkner</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
