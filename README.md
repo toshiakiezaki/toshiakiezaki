@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>Steve Harvey</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
