@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let anyone define you. You define yourself.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>Billie Jean King</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
