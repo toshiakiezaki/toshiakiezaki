@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>Gilbert Chesterton</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
