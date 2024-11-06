@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where does a thought go when it's forgotten?</p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>Sigmund Freud</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
