@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
 
-<p>Thomas Edison</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
