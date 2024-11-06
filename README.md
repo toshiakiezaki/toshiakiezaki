@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If light is in your heart, you will find your way home.  </p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>Rumi</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
