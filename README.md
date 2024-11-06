@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Audrey Hepburn</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
