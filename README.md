@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to predict the future is to create it.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>Abraham Lincoln</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
