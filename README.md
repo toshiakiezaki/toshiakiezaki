@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
 
-<p>Zig Ziglar</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
