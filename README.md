@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>Stephen Hawking</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
