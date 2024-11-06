@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>The best way to predict the future is to create it.</p>
 
-<p>Judy Garland</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
