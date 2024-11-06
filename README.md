@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
 
-<p>Henry Ford</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
