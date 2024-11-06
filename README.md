@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
+<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
 
-<p>Elon Musk</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
