@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>James Matthew Barrie</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
