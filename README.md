@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>Marcus Aurelius</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
