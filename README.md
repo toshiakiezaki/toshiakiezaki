@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>Robin Sharma</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
