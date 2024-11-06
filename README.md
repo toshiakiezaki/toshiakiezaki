@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>A.A. Milne</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
