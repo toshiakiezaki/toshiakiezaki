@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>William Faulkner</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
