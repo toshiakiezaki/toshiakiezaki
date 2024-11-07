@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>Turn the pain into power.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
