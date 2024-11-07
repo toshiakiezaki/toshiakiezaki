@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>Forgive those who have hurt you.</p>
 
-<p>Christopher McCandless</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
