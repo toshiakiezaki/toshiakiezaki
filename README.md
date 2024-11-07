@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I must also have a dark side if I am to be whole.</p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>Carl Jung</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
