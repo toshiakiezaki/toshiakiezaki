@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
