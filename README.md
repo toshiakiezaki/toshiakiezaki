@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do every act of your life as if it were your last.</p>
+<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
 
-<p>Marcus Aurelius</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
