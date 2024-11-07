@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Use your smile to change the world but don't let the world change your smile.</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>Unknown</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
