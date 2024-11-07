@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 
-<p>Sun Tzu</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
