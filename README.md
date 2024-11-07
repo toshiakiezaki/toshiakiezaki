@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>Deepak Chopra</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
