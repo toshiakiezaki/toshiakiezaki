@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>Celestine Chua</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
