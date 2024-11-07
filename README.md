@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Saying nothing sometimes says the most.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>Emily Dickinson</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
