@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is easier than fault finding.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>Og Mandino</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
