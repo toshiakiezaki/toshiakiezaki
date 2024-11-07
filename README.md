@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
