@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
 
-<p>Albert Einstein</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
