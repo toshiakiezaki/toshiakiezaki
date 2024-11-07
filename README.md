@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive those who have hurt you.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>Les Brown</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
