@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Turn the pain into power.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
