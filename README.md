@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>Bob Proctor</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
