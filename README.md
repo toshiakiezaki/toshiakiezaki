@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>Vince Lombardi</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
