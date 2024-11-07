@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>Henry Ford</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
