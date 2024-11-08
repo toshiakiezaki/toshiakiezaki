@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Children are our greatest natural resource.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>Herbert Hoover</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
