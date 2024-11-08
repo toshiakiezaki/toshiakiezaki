@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>Helen Keller</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
