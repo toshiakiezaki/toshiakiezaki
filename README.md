@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>Keep your face to the sunshine and you cannot see the shadows.</p>
 
-<p>Audrey Hepburn</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
