@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little impatience will spoil great plans.</p>
+<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
 
-<p>Chinese Proverb</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
