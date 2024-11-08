@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>Oscar Wilde</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
