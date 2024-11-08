@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Seneca</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
