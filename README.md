@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 
-<p>Deepak Chopra</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
