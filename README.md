@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>John Wooden</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
