@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>Unknown</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
