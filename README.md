@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>Thomas Edison</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
