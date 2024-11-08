@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
 
-<p>Bob Proctor</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
