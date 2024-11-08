@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True it is, we only hate those whom we do not know.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Andrew Carnegie</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
