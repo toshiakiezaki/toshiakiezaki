@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>Jack Butcher</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
