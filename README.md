@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the dancer and you are the dance.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>Eckhart Tolle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
