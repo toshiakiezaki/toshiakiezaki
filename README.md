@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>A little impatience will spoil great plans.</p>
 
 <p>Chinese Proverb</p>
 <!-- dailyquote:end -->
