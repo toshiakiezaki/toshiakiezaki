@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men trust their ears less than their eyes.</p>
+<p>You have the potential for greatness.</p>
 
-<p>Herodotus</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
