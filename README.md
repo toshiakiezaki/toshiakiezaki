@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>Charles Dickens</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
