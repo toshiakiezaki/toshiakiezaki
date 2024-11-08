@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
+<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
 
-<p>Maxime Lagace</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
