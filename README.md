@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
