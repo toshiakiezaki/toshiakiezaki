@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
 
-<p>Audrey Hepburn</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
