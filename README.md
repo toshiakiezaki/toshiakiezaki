@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
 
-<p>Bhagavad Gita</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
