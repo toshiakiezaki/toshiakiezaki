@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are as many opinions as there are experts.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
