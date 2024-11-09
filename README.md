@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>Roy T. Bennett</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
