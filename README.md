@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>Lao Tzu</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
