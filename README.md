@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>Robin Sharma</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
