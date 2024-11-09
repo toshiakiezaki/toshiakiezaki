@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people feel the rain. Others just get wet. </p>
+<p>Do it with passion, or not at all.</p>
 
-<p>Bob Dylan</p>
+<p>Rosa Nouchette Carey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
