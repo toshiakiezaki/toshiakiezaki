@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
