@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Big people don't make people feel small.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>Robin Sharma</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
