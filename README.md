@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>Stephen King</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
