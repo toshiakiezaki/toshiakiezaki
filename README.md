@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do it with passion, or not at all.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>Rosa Nouchette Carey</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
