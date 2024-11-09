@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>Big people don't make people feel small.</p>
 
-<p>Kamal Ravikant</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
