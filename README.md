@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where does a thought go when it's forgotten?</p>
+<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
 
-<p>Sigmund Freud</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
