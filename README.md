@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>Mary Engelbreit</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
