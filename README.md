@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>Elon Musk</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
