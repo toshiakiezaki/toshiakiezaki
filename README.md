@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>Earl Nightingale</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
