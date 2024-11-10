@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>Steve Maraboli</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
