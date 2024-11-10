@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
+<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
 
-<p>Steve Maraboli</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
