@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work is always an antidote to depression.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
