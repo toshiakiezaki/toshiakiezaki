@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
