@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>Unknown</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
