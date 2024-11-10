@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
