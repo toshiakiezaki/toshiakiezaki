@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>George Bernard Shaw</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
