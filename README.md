@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
