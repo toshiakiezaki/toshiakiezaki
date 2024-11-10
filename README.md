@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>Christopher McCandless</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
