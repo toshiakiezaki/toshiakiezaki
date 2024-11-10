@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
