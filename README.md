@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>Robert F. Kennedy</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
