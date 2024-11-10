@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>Elvis Presley</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
