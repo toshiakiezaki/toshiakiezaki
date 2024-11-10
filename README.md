@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One small positive thought can change your whole day.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>Zig Ziglar</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
