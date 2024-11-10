@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
 
-<p>Joyce Meyer</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
