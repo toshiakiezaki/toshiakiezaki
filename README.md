@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only lost cause is one we give up on before we enter the struggle.</p>
+<p>Your problem isn't the problem. Your reaction is the problem.</p>
 
-<p>Vaclav Havel</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
