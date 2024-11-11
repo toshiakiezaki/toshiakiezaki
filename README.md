@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>Maxime Lagace</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
