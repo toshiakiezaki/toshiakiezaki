@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>Steve Jobs</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
