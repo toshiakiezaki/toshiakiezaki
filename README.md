@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>John Lennon</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
