@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't look back - you're not going that way.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>Mary Engelbreit</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
