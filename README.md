@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds are always feared by lesser minds.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>Dan Brown</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
