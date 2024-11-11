@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>Richard Bach</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
