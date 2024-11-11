@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>Unknown</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
