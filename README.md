@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others and give something back.</p>
+<p>The best fighter is never angry.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
