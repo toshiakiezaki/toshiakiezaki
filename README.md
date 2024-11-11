@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>Albert Einstein</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
