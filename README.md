@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>Gabor Mate</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
