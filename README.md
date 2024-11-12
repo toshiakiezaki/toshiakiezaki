@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you love life, don't waste time, for time is what life is made up of. </p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>Bruce Lee</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
