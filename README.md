@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>Harry S. Truman</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
