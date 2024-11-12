@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
