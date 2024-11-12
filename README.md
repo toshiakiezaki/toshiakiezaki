@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is not outside man; it is within.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>George Eliot</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
