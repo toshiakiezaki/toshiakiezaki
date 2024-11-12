@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not sit down and wait for miracles. Up and be going!</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>John Eliot</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
