@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wealth is of the heart, not of the purse.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Og Mandino</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
