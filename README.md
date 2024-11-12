@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>Margaret Mead</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
