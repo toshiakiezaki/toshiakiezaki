@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>Zen Proverb</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
