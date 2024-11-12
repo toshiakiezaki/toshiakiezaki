@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can laugh, I can live.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>Christopher Reeve</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
