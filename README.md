@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>Henry Ford</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
