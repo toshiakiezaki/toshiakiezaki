@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>Earl Nightingale</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
