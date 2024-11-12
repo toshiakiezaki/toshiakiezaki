@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>Ronald Reagan</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
