@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything worth doing is worth doing slowly.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>Mae West</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
