@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I defeat my enemies when I make them my friends.</p>
+<p>We must not sit down and wait for miracles. Up and be going!</p>
 
-<p>Dalai Lama</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
