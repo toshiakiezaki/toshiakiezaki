@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>Richard Bach</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
