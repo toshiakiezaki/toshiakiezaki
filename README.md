@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>Celestine Chua</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
