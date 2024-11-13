@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have never let my schooling interfere with my education.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>Mark Twain</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
