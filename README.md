@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
