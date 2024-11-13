@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One small positive thought can change your whole day.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Zig Ziglar</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
