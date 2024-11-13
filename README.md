@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Franz Kafka</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
