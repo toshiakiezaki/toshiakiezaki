@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Light a candle instead of cursing the darkness.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
