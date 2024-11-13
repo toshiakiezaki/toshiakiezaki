@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chop your own wood and it will warm you twice. </p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>Henry Ford</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
