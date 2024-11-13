@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>Barack Obama</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
