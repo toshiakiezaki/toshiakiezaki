@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>Jim Rohn</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
