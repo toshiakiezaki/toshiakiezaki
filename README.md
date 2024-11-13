@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>Steve Harvey</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
