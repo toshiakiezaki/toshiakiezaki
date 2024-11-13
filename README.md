@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My definition of success is control.</p>
+<p>There is no truth. There is only perception.</p>
 
-<p>Kenneth Branagh</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
