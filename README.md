@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action is the foundational key to all success.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Pablo Picasso</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
