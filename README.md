@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
 
-<p>Og Mandino</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
