@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>He that can have patience can have what he will.</p>
 
-<p>Mark Twain</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
