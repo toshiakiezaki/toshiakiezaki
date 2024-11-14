@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress is limited by your ability to change your mind.</p>
+<p>If you tell the truth, you don't have to remember anything.</p>
 
-<p>Jack Butcher</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
