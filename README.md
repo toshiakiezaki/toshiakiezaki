@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
+<p>Discipline yourself, and others won't need to.</p>
 
-<p>Earl Nightingale</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
