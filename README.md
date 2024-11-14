@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>Marcus Aurelius</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
