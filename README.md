@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He that can have patience can have what he will.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>Benjamin Franklin</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
