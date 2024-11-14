@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Jack Butcher</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
