@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline yourself, and others won't need to.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>John Wooden</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
