@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who can make you believe absurdities can make you commit atrocities. </p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>Voltaire</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
