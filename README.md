@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who leaves the game wins it.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
