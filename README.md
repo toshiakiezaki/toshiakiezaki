@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>Mark Twain</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
