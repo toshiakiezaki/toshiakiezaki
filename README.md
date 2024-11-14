@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>Paulo Coelho</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
