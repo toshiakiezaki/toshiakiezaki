@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>Jim Rohn</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
