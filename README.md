@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>Bruce Lee</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
