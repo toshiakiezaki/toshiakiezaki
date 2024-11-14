@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work harder on yourself than you do on your job.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>Jim Rohn</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
