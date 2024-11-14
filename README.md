@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know the rules well, so you can break them effectively.</p>
+<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
 
-<p>Dalai Lama</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
