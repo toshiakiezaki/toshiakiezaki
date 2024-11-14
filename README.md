@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
 
-<p>Denis Waitley</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
