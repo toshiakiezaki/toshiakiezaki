@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>Wayne Dyer</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
