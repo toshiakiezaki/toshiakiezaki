@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To handle yourself, use your head; to handle others, use your heart.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
