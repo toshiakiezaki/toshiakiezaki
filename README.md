@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>Zig Ziglar</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
