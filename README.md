@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>Roy T. Bennett</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
