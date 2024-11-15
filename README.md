@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>Edgar Allan Poe</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
