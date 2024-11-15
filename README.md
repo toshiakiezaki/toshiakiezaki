@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>Lao Tzu</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
