@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No snowflake ever falls in the wrong place.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>Zen Proverb</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
