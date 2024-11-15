@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in your moments of decision that your destiny is shaped.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>Tony Robbins</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
