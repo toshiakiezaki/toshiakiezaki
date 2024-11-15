@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For all evils there are two remedies - time and silence.</p>
+<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
 
-<p>Alexandre Dumas</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
