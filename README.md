@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It always seems impossible until it's done.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>Nelson Mandela</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
