@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>Bob Marley</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
