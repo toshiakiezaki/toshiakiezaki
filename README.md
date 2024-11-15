@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be alive - is Power.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Emily Dickinson</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
