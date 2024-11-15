@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is little success where there is little laughter.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>Andrew Carnegie</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
