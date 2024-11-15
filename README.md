@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>Deepak Chopra</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
