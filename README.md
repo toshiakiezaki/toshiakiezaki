@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>There is little success where there is little laughter.</p>
 
-<p>Mark Manson</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
