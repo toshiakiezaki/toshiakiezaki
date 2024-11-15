@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
+<p>To be alive - is Power.</p>
 
-<p>Robert Greene</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
