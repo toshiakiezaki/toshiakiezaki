@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>Richard Bach</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
