@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Little by little, one travels far.</p>
 
-<p>Shunryu Suzuki</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
