@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>Zig Ziglar</p>
+<p>Colin R. Davis</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
