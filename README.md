@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time goes from present to past.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
