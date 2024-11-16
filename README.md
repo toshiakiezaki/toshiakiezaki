@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your mind stop you.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>Steve Harvey</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
