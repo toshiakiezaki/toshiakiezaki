@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lose your temper is only useful once a year.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>Colin R. Davis</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
