@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>Maxime Lagace</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
