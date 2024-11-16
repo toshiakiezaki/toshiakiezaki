@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>Virginia Woolf</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
