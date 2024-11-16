@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>Robert Collier</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
