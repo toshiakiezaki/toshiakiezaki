@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>Steve Jobs</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
