@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>We are all here for some special reason.</p>
 
-<p>Earl Nightingale</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
