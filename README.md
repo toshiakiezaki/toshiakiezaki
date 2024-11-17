@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
 
-<p>Napoleon Hill</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
