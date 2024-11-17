@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>Kabir</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
