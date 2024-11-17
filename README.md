@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
