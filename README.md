@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To some degree, you control your life by controlling your time.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>Conrad Hilton</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
