@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>Andrew Carnegie</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
