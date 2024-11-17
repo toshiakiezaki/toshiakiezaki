@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your neighbor is the man who needs you.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>Elbert Hubbard</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
