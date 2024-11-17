@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>Your neighbor is the man who needs you.</p>
 
-<p>Mother Teresa</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
