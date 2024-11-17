@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom itself demands discomfort.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>Mark Manson</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
