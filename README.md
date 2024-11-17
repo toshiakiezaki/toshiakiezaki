@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>Bette Midler</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
