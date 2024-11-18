@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we are not able to smile, then the world will not have peace.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
