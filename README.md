@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>Sun Tzu</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
