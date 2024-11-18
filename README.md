@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Art of Peace begins with you.</p>
+<p>The universe doesn't allow perfection.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
