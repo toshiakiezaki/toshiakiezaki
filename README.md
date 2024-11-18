@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to dance than to march through life.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>Yoko Ono</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
