@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
+<p>Your setback is just a setup for a comeback.</p>
 
-<p>Colin Powell</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
