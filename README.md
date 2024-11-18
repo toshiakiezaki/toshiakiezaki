@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>Meister Eckhart</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
