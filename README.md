@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
+<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
 
-<p>Oprah Winfrey</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
