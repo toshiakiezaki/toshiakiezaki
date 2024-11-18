@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Be happy now, without reason - or you never will be at all.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
