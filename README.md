@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>If we are not able to smile, then the world will not have peace.</p>
 
-<p>Spencer Johnson</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
