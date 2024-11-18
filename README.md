@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be happy now, without reason - or you never will be at all.</p>
+<p>All has not been said and never will be.</p>
 
-<p>Dan Millman</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
