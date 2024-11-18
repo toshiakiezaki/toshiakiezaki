@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One small positive thought can change your whole day.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>Zig Ziglar</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
