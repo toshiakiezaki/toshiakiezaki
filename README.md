@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All has not been said and never will be.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>Samuel Beckett</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
