@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is happy who does not think himself so.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
