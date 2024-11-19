@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>Eckhart Tolle</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
