@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>William James</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
