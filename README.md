@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>John Lennon</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
