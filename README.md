@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do what is right, not what is easy, nor what is popular.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>Roy T. Bennett</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
