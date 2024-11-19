@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
