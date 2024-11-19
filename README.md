@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not the outcome. I am never the result. I am only the effort.</p>
+<p>Rewards and punishment is the lowest form of education.</p>
 
-<p>Kamal Ravikant</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
