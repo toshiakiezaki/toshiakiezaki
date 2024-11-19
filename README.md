@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>Paulo Coelho</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
