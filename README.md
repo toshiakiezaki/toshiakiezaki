@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
-<p>A.A. Milne</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
