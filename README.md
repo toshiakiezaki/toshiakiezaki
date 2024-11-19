@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only difference between success and failure is the ability to take action.</p>
+<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
