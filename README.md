@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
 <p>Paulo Coelho</p>
 <!-- dailyquote:end -->
