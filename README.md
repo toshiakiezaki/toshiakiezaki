@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>Steve Maraboli</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
