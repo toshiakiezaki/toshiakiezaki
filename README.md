@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Distant water does not put out a nearby fire.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Chinese Proverb</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
