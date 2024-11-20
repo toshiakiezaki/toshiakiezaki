@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True prayer has no set form.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
