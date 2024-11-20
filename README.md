@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe you can and you will be halfway there.</p>
+<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
 
-<p>Lolly Daskal</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
