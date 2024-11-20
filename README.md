@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
