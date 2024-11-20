@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>If I love myself I love you. If I love you I love myself.</p>
 
-<p>Eric Hoffer</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
