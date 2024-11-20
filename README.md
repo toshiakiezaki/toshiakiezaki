@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>Greatness comes from living with purpose and passion.</p>
 
-<p>Aristotle</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
