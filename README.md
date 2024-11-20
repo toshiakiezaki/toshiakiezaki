@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>Kamal Ravikant</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
