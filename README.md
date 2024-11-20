@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>True prayer has no set form.</p>
 
-<p>Henry David Thoreau</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
