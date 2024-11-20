@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>Joyce Meyer</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
