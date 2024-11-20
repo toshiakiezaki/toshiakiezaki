@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>Bette Midler</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
