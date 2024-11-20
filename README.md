@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Repetition does not transform a lie into a truth.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
