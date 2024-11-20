@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>Forever is composed of now's.</p>
 
-<p>Thomas Jefferson</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
