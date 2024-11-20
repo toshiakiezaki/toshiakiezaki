@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forever is composed of now's.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
-<p>Emily Dickinson</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
