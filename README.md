@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
 <p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
