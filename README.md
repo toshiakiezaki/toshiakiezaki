@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Gary Keller</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
