@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>Bodhidharma</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
