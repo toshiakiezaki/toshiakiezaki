@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>Bodhidharma</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
