@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>Og Mandino</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
