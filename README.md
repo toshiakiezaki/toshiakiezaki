@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An investment in knowledge pays the best interest.</p>
+<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
 
-<p>Benjamin Franklin</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
