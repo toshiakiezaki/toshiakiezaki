@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
