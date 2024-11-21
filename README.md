@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work is always an antidote to depression.</p>
+<p>If you have only one smile in you give it to the people you love.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
