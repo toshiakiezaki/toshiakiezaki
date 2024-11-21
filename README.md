@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>Soyen Shaku</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
