@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>Mark Manson</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
