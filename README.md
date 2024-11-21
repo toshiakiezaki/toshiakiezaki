@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>Benjamin Franklin</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
