@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
 
-<p>Richard Bach</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
