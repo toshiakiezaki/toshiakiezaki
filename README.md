@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>Jack Kerouac</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
