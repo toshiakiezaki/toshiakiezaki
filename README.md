@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stress happens when the mind resists what is.</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>Dan Millman</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
