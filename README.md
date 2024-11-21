@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace with your inner turmoil.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>Unknown</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
