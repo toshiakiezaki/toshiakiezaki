@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>Stephen Hawking</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
