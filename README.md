@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>Earl Nightingale</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
