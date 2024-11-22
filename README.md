@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>Anne Frank</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
