@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
