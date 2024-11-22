@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
 
-<p>Socrates</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
