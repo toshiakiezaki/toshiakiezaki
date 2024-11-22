@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Eric Hoffer</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
