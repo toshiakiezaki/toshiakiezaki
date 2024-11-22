@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have only one smile in you give it to the people you love.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>Maya Angelou</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
