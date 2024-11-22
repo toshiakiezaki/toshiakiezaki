@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>Michael Jordan</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
