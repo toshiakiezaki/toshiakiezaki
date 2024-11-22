@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
 <p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
