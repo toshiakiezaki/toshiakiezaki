@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
 
-<p>Robin Williams</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
