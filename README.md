@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Oscar Wilde</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
