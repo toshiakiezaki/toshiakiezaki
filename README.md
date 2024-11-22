@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you give, the more comes back to you.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>Napoleon Hill</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
