@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>Lily Tomlin</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
