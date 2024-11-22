@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>Sigmund Freud</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
