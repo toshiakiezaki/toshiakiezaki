@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
 
-<p>Sun Tzu</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
