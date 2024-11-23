@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
