@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words without actions are the assassins of idealism.</p>
+<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
 
-<p>Herbert Hoover</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
