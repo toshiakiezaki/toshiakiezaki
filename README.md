@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>Yoko Ono</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
