@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>Aristotle</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
