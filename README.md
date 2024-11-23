@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By seeking and blundering we learn.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
