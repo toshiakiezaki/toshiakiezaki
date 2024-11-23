@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>Christopher McCandless</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
