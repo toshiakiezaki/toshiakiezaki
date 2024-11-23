@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the hand that erases can write the true thing.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>Meister Eckhart</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
