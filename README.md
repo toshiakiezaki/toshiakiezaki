@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>Thomas Jefferson</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
