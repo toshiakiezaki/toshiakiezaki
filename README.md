@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>Eckhart Tolle</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
