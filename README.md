@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>Estee Lauder</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
