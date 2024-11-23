@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>Elon Musk</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
