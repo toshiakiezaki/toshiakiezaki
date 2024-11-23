@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We build too many walls and not enough bridges.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>Isaac Newton</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
