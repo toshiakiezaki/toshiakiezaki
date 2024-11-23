@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>Euripides</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
