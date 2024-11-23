@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life reflects your own thoughts back to you.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>Napoleon Hill</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
