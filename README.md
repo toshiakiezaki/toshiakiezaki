@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>Dan Millman</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
