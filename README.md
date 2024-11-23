@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>Dan Millman</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
