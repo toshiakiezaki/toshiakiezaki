@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
