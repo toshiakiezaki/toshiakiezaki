@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
 
-<p>Paulo Coelho</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
