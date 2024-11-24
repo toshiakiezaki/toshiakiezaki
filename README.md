@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>Elvis Presley</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
