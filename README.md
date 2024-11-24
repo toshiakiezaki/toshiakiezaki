@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
 
-<p>Seneca</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
