@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>Hans Christian Andersen</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
