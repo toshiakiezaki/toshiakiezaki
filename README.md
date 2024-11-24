@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
 
-<p>Osho</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
