@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>Robin Williams</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
