@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>Dan Millman</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
