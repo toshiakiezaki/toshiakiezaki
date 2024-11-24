@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
