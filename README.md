@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
