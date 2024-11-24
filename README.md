@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Pablo Picasso</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
