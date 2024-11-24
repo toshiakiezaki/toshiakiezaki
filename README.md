@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>Christopher Reeve</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
