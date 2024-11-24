@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Brian Tracy</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
