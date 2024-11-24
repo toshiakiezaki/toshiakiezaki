@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Short cuts make long delays.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
