@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>Elon Musk</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
