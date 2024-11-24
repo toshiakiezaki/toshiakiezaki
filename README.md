@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>The real meditation is how you live your life.</p>
 
-<p>Eckhart Tolle</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
