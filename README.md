@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Alfred Adler</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
