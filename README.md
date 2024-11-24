@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Age is a very high price to pay for maturity.</p>
+<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
 
-<p>William James</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
