@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is never too late to be what you might have been.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>George Eliot</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
