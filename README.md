@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can bring you peace but yourself.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>Dale Carnegie</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
