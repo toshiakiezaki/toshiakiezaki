@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
