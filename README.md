@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>James Allen</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
