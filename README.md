@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
