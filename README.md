@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>Tony Robbins</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
