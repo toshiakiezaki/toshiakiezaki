@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
