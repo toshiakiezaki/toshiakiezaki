@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>Eckhart Tolle</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
