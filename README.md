@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is often safer to be in chains than to be free. </p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>Franz Kafka</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
