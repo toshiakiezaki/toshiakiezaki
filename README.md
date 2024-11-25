@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>Barack Obama</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
