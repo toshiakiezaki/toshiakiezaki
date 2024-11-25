@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The source of a true smile is an awakened mind.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
