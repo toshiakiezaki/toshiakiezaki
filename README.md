@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
 
-<p>Deepak Chopra</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
