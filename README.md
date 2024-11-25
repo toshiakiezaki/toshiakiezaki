@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>The source of a true smile is an awakened mind.</p>
 
-<p>Rumi</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
