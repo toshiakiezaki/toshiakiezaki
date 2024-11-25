@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>Maxime Lagace</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
