@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Lao Tzu</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
