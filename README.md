@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>John Wooden</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
