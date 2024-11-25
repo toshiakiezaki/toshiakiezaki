@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can live a whole life time never being awake.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>Dan Millman</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
