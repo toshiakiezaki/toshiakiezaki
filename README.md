@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not about what it is, it's about what it can become.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>Dr. Seuss</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
