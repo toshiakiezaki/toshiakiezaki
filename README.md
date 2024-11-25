@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>Bruce Lee</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
