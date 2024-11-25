@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
 
-<p>Wayne Dyer</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
