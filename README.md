@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>Ronald Reagan</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
