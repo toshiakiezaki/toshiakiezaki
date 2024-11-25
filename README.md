@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single most powerful asset we all have is our mind.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
