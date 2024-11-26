@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important things are the hardest to say.</p>
+<p>Winners are not people who never fail, but people who never quit.</p>
 
-<p>Stephen King</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
