@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>Robert Kiyosaki</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
