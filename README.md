@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great acts are made up of small deeds.</p>
+<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
 
-<p>Lao Tzu</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
