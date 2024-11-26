@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
