@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
