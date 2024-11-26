@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>Celestine Chua</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
