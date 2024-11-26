@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
