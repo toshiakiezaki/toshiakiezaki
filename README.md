@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>Dan Brown</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
