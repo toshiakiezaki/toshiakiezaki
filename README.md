@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you believe with feeling becomes your reality. </p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>Brian Tracy</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
