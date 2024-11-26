@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>Stephen King</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
