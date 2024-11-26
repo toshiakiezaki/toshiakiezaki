@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Goodness is the only investment that never fails.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>Henry David Thoreau</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
