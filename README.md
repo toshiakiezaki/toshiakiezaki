@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>T.S. Eliot</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
