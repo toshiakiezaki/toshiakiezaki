@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
