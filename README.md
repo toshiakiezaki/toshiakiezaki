@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>Naval Ravikant</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
