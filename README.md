@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>Christopher Columbus</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
