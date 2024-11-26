@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without the rain there would be no rainbow.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
