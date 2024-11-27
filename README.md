@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>Nikola Tesla</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
