@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>Norman Vincent Peale</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
