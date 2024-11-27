@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Lolly Daskal</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
