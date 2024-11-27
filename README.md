@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>Paulo Coelho</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
