@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a long lesson in humility. </p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>James Matthew Barrie</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
