@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
