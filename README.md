@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can suffer the pain of change or suffer remaining the way you are.</p>
+<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
 
-<p>Joyce Meyer</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
