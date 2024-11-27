@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>Ayn Rand</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
