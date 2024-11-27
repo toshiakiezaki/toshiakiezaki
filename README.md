@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>Robin Sharma</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
