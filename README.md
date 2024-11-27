@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>Maya Angelou</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
