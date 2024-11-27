@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>Chinese Proverb</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
