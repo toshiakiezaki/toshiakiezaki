@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
 
-<p>Eric Hoffer</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
