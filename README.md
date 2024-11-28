@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>Napoleon Hill</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
