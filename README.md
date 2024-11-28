@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>Chinese Proverb</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
