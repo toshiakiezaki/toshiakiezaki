@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>Ayn Rand</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
