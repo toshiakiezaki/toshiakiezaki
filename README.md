@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants to go fast. The soul needs to go slow.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>Maxime Lagace</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
