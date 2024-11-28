@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>Oprah Winfrey</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
