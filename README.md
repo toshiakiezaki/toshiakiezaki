@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
 
-<p>Christopher McCandless</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
