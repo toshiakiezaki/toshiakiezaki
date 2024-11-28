@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life should be touched, not strangled.  </p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>Ray Bradbury</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
