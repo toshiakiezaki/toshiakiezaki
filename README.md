@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We take care of the future best by taking care of the present now.</p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
