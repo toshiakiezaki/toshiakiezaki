@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>Zen Proverb</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
