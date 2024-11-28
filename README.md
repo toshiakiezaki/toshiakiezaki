@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>James Allen</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
