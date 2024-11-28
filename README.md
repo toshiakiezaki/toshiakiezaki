@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
