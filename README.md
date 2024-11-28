@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the smallest person can change the course of the future.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
