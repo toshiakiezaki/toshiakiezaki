@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Chinese Proverb</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
