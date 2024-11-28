@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perplexity is the beginning of knowledge.</p>
+<p>The ego wants to go fast. The soul needs to go slow.</p>
 
-<p>Kahlil Gibran</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
