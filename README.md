@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quiet people have the loudest minds.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>Stephen King</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
