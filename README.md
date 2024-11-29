@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>W. Clement Stone</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
