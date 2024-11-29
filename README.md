@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>James Allen</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
