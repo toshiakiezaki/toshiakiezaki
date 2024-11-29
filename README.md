@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>Meister Eckhart</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
