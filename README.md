@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
 
-<p>Dan Millman</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
