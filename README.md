@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Mark Manson</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
