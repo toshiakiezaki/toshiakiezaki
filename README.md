@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we know how to adapt, we end up being superior.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
