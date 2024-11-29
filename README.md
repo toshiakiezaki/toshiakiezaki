@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A goal is a dream with a deadline.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>Napoleon Hill</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
