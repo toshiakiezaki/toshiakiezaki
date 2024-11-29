@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>Life has no limitations except the ones you make.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
