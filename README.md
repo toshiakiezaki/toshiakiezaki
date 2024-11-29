@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
 
-<p>Oprah Winfrey</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
