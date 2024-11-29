@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>Brian Tracy</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
