@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>Dan Millman</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
