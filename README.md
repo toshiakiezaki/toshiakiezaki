@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you resist, persists.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>Carl Jung</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
