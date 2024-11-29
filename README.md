@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Paulo Coelho</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
