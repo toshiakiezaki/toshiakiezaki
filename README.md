@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is the ability to stand by an idea.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>Ayn Rand</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
