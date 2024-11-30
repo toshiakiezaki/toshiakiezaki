@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>John Locke</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
