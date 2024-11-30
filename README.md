@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
