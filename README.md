@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
+<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
 
-<p>Unknown</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
