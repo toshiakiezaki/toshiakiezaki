@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Steve Maraboli</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
