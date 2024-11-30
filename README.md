@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All things come into being by conflict of opposites.</p>
+<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
 
-<p>Heraclitus</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
