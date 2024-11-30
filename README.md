@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>Epictetus</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
