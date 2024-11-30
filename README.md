@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>Pema Chodron</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
