@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Once you learn to quit, it becomes a habit.</p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>Vince Lombardi</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
