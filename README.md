@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The two most powerful warriors are patience and time.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>Leo Tolstoy</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
