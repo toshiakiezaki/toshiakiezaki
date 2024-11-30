@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>Unknown</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
