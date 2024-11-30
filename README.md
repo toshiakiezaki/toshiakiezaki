@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>Audrey Hepburn</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
