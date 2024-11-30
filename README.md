@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>Henry Ford</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
