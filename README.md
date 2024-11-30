@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 
-<p>Kamal Ravikant</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
