@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>Socrates</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
