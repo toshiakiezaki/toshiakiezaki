@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always turn a negative situation into a positive situation.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Michael Jordan</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
