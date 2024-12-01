@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>Deepak Chopra</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
