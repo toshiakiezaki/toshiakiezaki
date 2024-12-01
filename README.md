@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>It's not the love you make. It's the love you give. </p>
 
-<p>Leonardo da Vinci</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
