@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Samuel Butler</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
