@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
+<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
