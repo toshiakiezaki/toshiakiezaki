@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
 
-<p>Napoleon Hill</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
