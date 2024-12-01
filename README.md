@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality is not an act, it is a habit.</p>
+<p>We must not sit down and wait for miracles. Up and be going!</p>
 
-<p>Aristotle</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
