@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>C. Sean McGee</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
