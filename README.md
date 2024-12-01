@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>Well done is better than well said.</p>
 
-<p>Richard Bach</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
