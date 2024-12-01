@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Well done is better than well said.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>Benjamin Franklin</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
