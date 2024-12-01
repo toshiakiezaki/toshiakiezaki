@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
 
-<p>Dalai Lama</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
