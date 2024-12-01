@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
 <p>Herodotus</p>
 <!-- dailyquote:end -->
