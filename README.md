@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the love you make. It's the love you give. </p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>Nikola Tesla</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
