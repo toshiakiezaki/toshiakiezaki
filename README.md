@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not sit down and wait for miracles. Up and be going!</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>John Eliot</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
