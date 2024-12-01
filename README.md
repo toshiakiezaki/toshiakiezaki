@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
+<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
 
-<p>Tony Robbins</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
