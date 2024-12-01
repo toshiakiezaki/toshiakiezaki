@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience never fears midnight knocking.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>Chinese Proverb</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
