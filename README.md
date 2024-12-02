@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All leaders are readers.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>Jim Rohn</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
