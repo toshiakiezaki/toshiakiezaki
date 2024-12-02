@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>Thomas Jefferson</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
