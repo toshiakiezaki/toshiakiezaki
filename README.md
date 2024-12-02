@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>John Wooden</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
