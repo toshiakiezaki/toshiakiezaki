@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>Charles Darwin</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
