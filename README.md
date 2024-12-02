@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>Joan Rivers</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
