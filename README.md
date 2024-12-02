@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
 
-<p>Herman Melville</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
