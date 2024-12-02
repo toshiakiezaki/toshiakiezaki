@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because of your smile, you make life more beautiful.</p>
+<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
