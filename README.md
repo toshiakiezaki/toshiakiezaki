@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>Harry S. Truman</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
