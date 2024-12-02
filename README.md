@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
