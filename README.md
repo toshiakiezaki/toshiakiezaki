@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>All leaders are readers.</p>
 
-<p>Andrew Carnegie</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
