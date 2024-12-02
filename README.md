@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise speak only of what they know.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
