@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
