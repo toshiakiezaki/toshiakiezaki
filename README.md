@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Curiosity is the most powerful thing you own.</p>
+<p>Nothing has more strength than dire necessity.</p>
 
-<p>James Cameron</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
