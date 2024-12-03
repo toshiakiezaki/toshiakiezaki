@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>George Bernard Shaw</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
