@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>Dale Carnegie</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
