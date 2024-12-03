@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>Franz Kafka</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
