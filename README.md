@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>Unknown</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
