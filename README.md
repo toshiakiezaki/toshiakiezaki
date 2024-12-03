@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
