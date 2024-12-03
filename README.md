@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final; failure is never fatal.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Conrad Hilton</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
