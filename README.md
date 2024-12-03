@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
 
-<p>Kahlil Gibran</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
