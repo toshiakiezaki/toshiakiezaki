@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>Stephen Hawking</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
