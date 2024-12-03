@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing has more strength than dire necessity.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
-<p>Euripides</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
