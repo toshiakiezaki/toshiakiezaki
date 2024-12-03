@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>Jack Butcher</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
