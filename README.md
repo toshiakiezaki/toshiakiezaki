@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>Naval Ravikant</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
