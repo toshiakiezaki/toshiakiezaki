@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you change what you believe, you change what you do.</p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>Spencer Johnson</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
