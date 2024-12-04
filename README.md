@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see yourself as prosperous, you will be.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>Robert Collier</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
