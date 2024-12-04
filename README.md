@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to learn late than never.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>Publilius Syrus</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
