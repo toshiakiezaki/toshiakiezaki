@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
