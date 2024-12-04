@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>Mark Manson</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
