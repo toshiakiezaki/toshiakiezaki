@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
