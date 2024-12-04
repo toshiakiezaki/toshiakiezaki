@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>Unknown</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
