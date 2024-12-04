@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>Ronald Reagan</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
