@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How you think is as important as as what you think.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>Unknown</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
