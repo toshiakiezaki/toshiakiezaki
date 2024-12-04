@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>Robin Williams</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
