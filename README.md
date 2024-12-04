@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your life-but only if you make it so.</p>
+<p>Whatever you believe with feeling becomes your reality. </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
