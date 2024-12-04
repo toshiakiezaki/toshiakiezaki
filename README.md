@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>Joyce Meyer</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
