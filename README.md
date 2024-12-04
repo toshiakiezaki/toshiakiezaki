@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
