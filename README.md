@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>Beverly Sills</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
