@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>Lin Yutang</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
