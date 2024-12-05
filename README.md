@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>Eckhart Tolle</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
