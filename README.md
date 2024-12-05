@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life's too mysterious to take too serious.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>Mary Engelbreit</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
