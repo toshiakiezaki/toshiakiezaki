@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We love the things we love for what they are.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>Robert Frost</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
