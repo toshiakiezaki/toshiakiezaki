@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
