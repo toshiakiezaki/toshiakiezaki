@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't make things happen then things will happen to you.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>Robert Collier</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
