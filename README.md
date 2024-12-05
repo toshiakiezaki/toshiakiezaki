@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people do what unsuccessful people are not willing to do.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>Jim Rohn</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
