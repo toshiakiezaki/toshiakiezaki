@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisest men follow their own direction.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>Euripides</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
