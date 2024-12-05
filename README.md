@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>Isaac Newton</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
