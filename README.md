@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>Lao Tzu</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
