@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
