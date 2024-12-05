@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth comes at the point of resistance.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>Josh Waitzkin</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
