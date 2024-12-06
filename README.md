@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>Lao Tzu</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
