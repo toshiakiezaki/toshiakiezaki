@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>Ayn Rand</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
