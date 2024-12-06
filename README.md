@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
