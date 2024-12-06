@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
