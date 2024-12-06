@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man invented language to satisfy his deep need to complain.</p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>Lily Tomlin</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
