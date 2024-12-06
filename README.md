@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best dreams happen when you're awake.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>Cherie Gilderbloom</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
