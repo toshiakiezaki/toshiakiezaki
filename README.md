@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>Barack Obama</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
