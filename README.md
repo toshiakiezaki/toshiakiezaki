@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>Charles Dickens</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
