@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fall into a ditch makes you wiser.</p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>Chinese Proverb</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
