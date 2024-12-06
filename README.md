@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>Naval Ravikant</p>
+<p>Cherie Gilderbloom</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
