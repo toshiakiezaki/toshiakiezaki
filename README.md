@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Roy T. Bennett</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
