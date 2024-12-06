@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>Epictetus</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
