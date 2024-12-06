@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
 <p>Lao Tzu</p>
 <!-- dailyquote:end -->
