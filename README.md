@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in changing that we find purpose.</p>
+<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
 
-<p>Heraclitus</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
