@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>The attempt to escape from pain, is what creates more pain.</p>
 
-<p>Abraham Lincoln</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
