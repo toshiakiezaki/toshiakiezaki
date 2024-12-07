@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>Elon Musk</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
