@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>Walt Whitman</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
