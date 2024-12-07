@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>Josh Waitzkin</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
