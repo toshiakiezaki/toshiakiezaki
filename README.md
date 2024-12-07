@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Art of Peace begins with you.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
