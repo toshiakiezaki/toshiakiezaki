@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winning isn't always championships.</p>
+<p>It is in changing that we find purpose.</p>
 
-<p>Michael Jordan</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
