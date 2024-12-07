@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is rarely pure and never simple. </p>
+<p>Winning isn't always championships.</p>
 
-<p>Oscar Wilde</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
