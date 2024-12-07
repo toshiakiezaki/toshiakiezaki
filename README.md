@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
 
-<p>Buddha</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
