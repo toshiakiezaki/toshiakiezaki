@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
