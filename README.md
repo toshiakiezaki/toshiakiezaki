@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can, you should, and if you're brave enough to start, you will.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>Stephen King</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
