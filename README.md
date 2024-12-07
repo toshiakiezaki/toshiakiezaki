@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>Gabor Mate</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
