@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>Jack Butcher</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
