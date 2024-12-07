@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They who have conquered doubt and fear have conquered failure.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>James Allen</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
