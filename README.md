@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>Sun Tzu</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
