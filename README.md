@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final; failure is never fatal.</p>
+<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
 
-<p>Conrad Hilton</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
