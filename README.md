@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who hesitates is a damned fool.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>Mae West</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
