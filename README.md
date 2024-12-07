@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
+<p>It is better to light a single candle than to curse the darkness.</p>
 
-<p>Seungsahn</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
