@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>Naval Ravikant</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
