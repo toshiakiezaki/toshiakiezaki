@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing we have to fear is fear itself.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
