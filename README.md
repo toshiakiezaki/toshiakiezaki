@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Deepak Chopra</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
