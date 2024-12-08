@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>Lao Tzu</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
