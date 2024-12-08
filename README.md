@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>Napoleon Hill</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
