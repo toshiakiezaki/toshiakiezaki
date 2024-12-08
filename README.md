@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
 <p>Eric Hoffer</p>
 <!-- dailyquote:end -->
