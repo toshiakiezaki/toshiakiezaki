@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Storms don't last forever.</p>
 
-<p>Betty White</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
