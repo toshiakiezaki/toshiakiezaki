@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>Robert Greene</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
