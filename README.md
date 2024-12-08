@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are free, and that is why you are lost.</p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>Franz Kafka</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
