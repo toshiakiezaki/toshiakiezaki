@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>Benjamin Franklin</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
