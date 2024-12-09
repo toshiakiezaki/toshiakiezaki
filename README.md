@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>Voltaire</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
