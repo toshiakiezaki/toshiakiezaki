@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important things are the hardest to say.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>Stephen King</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
