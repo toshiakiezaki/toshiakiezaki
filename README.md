@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
