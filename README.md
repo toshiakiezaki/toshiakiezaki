@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality means doing it right when no one is looking.</p>
+<p>The most important things are the hardest to say.</p>
 
-<p>Henry Ford</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
