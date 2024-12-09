@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't program yourself, life will program you.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Les Brown</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
