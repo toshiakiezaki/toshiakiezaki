@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
