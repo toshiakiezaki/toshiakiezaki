@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
 
-<p>Alexander Pope</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
