@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
 
-<p>Dale Carnegie</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
