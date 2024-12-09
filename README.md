@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
 
-<p>Chinese Proverb</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
