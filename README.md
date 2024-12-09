@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the mark of intelligent living.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
