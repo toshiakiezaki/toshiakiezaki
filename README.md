@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
 
-<p>Paulo Coelho</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
