@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>Colin Powell</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
