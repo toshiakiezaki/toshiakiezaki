@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>Carl Jung</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
