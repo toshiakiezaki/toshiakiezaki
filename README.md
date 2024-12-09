@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's always to soon to quit!</p>
+<p>Remember we're all in this alone.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
