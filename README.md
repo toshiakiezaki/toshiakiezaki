@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember we're all in this alone.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>Lily Tomlin</p>
+<p>Babe Ruth</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
