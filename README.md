@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>Christopher Columbus</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
