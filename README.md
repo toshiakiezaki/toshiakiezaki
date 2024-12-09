@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
