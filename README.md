@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>Samuel Butler</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
