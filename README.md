@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners don't Quit. That's why they Win.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Unknown</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
