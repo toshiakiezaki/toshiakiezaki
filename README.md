@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>Colin Powell</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
