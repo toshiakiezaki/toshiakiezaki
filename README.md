@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>Steve Maraboli</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
