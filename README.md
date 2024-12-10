@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave enough to suck at something new.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>Unknown</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
