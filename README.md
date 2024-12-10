@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
