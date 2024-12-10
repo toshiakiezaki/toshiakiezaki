@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
 
-<p>Lao Tzu</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
