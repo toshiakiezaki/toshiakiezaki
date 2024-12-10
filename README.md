@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>Estee Lauder</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
