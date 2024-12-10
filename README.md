@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is not a four letter word...but often your reaction to it is!</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
