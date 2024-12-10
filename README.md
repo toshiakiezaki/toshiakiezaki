@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't get to a place that you don't believe exists.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>Unknown</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
