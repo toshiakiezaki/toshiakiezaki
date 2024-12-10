@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Celestine Chua</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
