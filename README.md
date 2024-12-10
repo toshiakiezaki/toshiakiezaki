@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>Babe Ruth</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
