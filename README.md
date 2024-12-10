@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</p>
 
-<p>Buddha</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
