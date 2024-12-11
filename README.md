@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>Earl Nightingale</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
