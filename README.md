@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>Bette Midler</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
