@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even a hare will bite when it is cornered. </p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>Chinese Proverb</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
