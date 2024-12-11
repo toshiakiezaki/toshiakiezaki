@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
