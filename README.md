@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
 
-<p>Elon Musk</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
