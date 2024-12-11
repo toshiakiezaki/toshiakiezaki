@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>Amelia Earhart</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
