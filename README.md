@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>Jim Rohn</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
