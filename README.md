@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Barack Obama</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
