@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>Michael Jordan</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
