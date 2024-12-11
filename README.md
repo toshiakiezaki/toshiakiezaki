@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>Success is the progressive realization of a worthy goal or ideal.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
