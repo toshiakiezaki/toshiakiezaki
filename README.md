@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
 
-<p>Maxime Lagace</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
