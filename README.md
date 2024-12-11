@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want more luck, take more chances.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>Brian Tracy</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
