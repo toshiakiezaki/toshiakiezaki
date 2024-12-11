@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.</p>
 
-<p>Celestine Chua</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
