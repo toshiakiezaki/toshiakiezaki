@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
 
-<p>William James</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
