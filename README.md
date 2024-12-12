@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>I've always lived in the moment.</p>
 
-<p>Dalai Lama</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
