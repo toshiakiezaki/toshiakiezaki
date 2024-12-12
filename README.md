@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>Kahlil Gibran</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
