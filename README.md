@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>Christopher Columbus</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
