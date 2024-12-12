@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Earl Nightingale</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
