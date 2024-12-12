@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>D. H. Lawrence</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
