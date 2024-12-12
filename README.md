@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man's worth is no greater than his ambitions.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>Marcus Aurelius</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
