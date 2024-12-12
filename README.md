@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't look back - you're not going that way.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Mary Engelbreit</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
