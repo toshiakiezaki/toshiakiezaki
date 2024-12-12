@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>Life is love and love is life.</p>
 
-<p>Epictetus</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
