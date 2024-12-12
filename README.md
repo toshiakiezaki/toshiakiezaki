@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lead the people, walk behind them.</p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>Lao Tzu</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
