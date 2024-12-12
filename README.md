@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>Sun Tzu</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
