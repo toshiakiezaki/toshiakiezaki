@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
