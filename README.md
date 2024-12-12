@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>Rita Mae Brown</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
