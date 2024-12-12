@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence breeds beauty.  </p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>Estee Lauder</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
