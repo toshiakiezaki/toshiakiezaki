@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>Stephen King</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
