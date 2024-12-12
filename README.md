@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
 
-<p>Steve Harvey</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
