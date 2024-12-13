@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do the best you can. No one can do more than that.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>John Wooden</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
