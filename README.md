@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>Peter Drucker</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
