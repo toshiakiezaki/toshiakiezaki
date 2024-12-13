@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We turn not older with years but newer every day.</p>
+<p>Heart is what separates the good from the great.</p>
 
-<p>Emily Dickinson</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
