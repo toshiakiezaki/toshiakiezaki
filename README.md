@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To every action there is always opposed an equal reaction.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>Isaac Newton</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
