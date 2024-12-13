@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Force has no place where there is need of skill. </p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>Herodotus</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
