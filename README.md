@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world doesn't owe you anything. It was here first.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>Mark Twain</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
