@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>Sad thing is, you can still love someone and be wrong for them.</p>
 
-<p>Zhuangzi</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
