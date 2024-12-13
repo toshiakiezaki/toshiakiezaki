@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>Confucius</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
