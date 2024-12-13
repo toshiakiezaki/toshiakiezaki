@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heart is what separates the good from the great.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>Michael Jordan</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
