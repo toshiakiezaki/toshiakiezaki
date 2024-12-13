@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The grass is greener where you water it.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>Neil Barringham</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
