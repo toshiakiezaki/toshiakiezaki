@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>Unknown</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
