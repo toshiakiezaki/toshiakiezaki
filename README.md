@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single most powerful asset we all have is our mind.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
