@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>The world doesn't owe you anything. It was here first.</p>
 
-<p>Roy T. Bennett</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
