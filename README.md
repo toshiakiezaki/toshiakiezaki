@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>Rita Mae Brown</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
