@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You get in life what you have the courage to ask for.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>Oprah Winfrey</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
