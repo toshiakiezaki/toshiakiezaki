@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is like money, easier made than kept.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>Samuel Butler</p>
+<p>Neil Barringham</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
