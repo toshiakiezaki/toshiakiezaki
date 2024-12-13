@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
+<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
 
-<p>Steve Maraboli</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
