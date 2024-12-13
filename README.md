@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Unknown</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
