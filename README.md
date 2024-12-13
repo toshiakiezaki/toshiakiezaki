@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
