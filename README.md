@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
