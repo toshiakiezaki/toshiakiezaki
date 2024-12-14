@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will not walk backward in life.</p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
