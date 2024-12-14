@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to predict the future is to create it.</p>
+<p>A man is literally what he thinks.</p>
 
-<p>Abraham Lincoln</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
