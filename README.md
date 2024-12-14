@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't get in life what you want; you get in life what you are.</p>
+<p>The best way to predict the future is to create it.</p>
 
-<p>Les Brown</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
