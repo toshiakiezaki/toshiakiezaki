@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Plants grow weak without wind.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>Maxime Lagace</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
