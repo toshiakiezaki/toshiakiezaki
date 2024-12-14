@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>Albert Einstein</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
