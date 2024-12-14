@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Chinese Proverb</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
