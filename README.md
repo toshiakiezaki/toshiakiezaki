@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Eckhart Tolle</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
