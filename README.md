@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Force has no place where there is need of skill. </p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>Herodotus</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
