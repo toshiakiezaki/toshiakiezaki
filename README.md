@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man's worth is no greater than his ambitions.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>Marcus Aurelius</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
