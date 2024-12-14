@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>Spencer Johnson</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
