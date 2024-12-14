@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Guilt is perhaps the most painful companion of death.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>Coco Chanel</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
