@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
+<p>I will not walk backward in life.</p>
 
-<p>Earl Nightingale</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
