@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>Gilbert Chesterton</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
