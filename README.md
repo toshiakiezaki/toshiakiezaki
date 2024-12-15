@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man must use what he has, not hope for what is not.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
