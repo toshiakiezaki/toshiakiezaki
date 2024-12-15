@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is more real than nothing.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>Samuel Beckett</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
