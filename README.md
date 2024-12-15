@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
 
-<p>Dr. Seuss</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
