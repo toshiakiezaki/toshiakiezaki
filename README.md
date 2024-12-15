@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>Naval Ravikant</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
