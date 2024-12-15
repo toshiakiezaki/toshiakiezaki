@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>Audrey Hepburn</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
