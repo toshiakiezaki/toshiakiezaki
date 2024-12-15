@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</p>
 
-<p>Dan Millman</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
