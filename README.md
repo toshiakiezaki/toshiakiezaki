@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>Epictetus</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
