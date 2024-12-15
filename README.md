@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>Vincent van Gogh</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
