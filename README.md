@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Paulo Coelho</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
