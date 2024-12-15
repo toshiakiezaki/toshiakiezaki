@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>Wayne Dyer</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
