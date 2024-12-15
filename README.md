@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>Helen Keller</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
