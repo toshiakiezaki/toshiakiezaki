@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>Jim Rohn</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
