@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
