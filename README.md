@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
 
-<p>Zhuangzi</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
