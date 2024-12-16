@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth is the product of man's capacity to think.</p>
+<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
 
-<p>Ayn Rand</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
