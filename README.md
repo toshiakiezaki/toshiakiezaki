@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>Herodotus</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
