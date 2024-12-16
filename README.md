@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>Lao Tzu</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
