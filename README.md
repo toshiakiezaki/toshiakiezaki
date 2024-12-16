@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your next step is simple. You are the first domino.</p>
+<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
 
-<p>Gary Keller</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
