@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>Dan Millman</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
