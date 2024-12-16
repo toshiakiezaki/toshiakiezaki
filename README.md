@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>We should not look back unless it is to derive useful lessons from past errors.</p>
 
-<p>Brian Tracy</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
