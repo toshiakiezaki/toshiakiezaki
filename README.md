@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>Yanni</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
