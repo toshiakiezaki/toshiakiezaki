@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heroes don't need to talk about what they did.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>W.P. Kinsella</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
