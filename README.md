@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>Walt Disney</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
