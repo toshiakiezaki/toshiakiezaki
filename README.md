@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>Sonia Ricotti</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
