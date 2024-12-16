@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
 
-<p>George Washington</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
