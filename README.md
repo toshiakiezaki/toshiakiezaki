@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>May you live all the days of your life.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
