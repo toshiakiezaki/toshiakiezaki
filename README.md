@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Genius is patience.</p>
 
-<p>Herman Melville</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
