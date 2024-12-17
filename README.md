@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
