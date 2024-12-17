@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is patience.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>Isaac Newton</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
