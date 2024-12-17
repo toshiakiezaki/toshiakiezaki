@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you live all the days of your life.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Jonathan Swift</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
