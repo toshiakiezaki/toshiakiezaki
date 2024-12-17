@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>Spencer Johnson</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
