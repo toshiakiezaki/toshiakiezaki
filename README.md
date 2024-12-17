@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>The best way out is always through.</p>
 
-<p>Steve Maraboli</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
