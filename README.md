@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>Robert Greene</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
