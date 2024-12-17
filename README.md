@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>Jim Rohn</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
