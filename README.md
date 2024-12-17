@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
 
-<p>Zig Ziglar</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
