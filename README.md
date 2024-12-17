@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>Vince Lombardi</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
