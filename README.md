@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
 
-<p>Henry David Thoreau</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
