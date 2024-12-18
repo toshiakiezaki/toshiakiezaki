@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The significance of life is living.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
