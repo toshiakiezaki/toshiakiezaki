@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
 
-<p>Yanni</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
