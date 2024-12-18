@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
 
-<p>Albus Dumbledore</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
