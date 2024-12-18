@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
 
 <p>Heraclitus</p>
 <!-- dailyquote:end -->
