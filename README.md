@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
 
-<p>Thomas Edison</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
