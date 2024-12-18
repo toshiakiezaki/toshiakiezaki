@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>We forge the chains we wear in life.</p>
 
-<p>Chinese Proverb</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
