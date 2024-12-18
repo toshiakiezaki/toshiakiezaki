@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
