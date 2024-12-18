@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest weariness comes from work not done.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>Eric Hoffer</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
