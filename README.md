@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>Roy T. Bennett</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
