@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
