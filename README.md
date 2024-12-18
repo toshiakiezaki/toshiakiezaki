@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Bob Marley</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
