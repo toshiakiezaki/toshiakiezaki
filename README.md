@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
