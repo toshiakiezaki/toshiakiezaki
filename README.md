@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you believe with feeling becomes your reality. </p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>Brian Tracy</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
