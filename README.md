@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>Before preparing to improve the world, first look around your own home three times. </p>
 
-<p>Jim Rohn</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
