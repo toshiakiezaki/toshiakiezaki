@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
 
-<p>Barack Obama</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
