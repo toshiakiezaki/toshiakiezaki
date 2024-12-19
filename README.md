@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
 
-<p>Alexander Pope</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
