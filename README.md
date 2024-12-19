@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good stance and posture reflect a proper state of mind.</p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
