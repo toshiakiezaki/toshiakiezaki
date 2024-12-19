@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
 
-<p>Brian Tracy</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
