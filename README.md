@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
 
-<p>Nelson Mandela</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
