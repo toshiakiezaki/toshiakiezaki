@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your very silence shows you agree.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Euripides</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
