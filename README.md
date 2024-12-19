@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>Bloom where you are planted!</p>
 
-<p>Deepak Chopra</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
