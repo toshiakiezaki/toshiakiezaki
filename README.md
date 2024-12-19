@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
-<p>Walt Whitman</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
