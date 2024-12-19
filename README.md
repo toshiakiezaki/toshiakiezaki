@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
 
-<p>Seneca</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
