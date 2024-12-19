@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
+<p>I live by letting things happen.</p>
 
-<p>Colin Powell</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
