@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>Mae West</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
