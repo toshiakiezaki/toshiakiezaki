@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>Mark Twain</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
