@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</p>
 
-<p>Mark Twain</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
