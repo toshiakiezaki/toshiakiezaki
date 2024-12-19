@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>Maxime Lagace</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
