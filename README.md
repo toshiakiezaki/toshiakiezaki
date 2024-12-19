@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
+<p>Only put off until tomorrow what you are willing to die having left undone.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
