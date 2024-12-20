@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>Pablo Picasso</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
