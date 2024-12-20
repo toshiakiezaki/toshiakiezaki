@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
