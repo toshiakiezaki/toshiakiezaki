@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
 
-<p>Joyce Meyer</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
