@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
 
-<p>Alfred Adler</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
