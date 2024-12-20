@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>Les Brown</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
