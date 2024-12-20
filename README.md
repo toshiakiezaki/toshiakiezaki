@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>Elvis Presley</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
