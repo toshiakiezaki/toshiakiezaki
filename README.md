@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are your best thing.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Toni Morrison</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
