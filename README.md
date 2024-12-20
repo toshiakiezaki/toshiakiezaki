@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
 
-<p>Henry Ford</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
