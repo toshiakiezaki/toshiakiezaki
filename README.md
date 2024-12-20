@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>Steve Harvey</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
