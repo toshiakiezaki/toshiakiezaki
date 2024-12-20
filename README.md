@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love the life you live, live the life you love.</p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Bob Marley</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
