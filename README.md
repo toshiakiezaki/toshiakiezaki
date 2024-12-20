@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
