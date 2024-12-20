@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>Maxime Lagace</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
