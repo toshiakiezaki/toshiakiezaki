@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>To perceive is to suffer.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
