@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>Napoleon Hill</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
