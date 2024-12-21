@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>Gary Keller</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
