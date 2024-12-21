@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
+<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
 
-<p>Charles Dickens</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
