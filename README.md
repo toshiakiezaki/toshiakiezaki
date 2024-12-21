@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
 
-<p>Naval Ravikant</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
