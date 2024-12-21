@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
