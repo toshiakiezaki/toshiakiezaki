@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>Gary Keller</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
