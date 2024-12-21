@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Paulo Coelho</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
