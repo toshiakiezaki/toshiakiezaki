@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>Sun Tzu</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
