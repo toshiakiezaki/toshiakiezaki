@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>Kahlil Gibran</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
