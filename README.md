@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>Margaret Mead</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
