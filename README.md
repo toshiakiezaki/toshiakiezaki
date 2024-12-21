@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>Harry S. Truman</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
