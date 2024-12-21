@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Amelia Earhart</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
