@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Lao Tzu</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
