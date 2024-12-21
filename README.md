@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To perceive is to suffer.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>Aristotle</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
