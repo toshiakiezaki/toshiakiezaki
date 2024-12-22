@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>Deepak Chopra</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
