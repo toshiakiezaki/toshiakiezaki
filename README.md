@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
