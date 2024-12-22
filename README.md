@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest doer must also be a great dreamer.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
