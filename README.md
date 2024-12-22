@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>Maya Angelou</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
