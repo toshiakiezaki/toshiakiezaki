@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>Confucius</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
