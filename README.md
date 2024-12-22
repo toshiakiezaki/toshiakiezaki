@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every great change is preceded by chaos.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>Deepak Chopra</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
