@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>Bhagavad Gita</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
