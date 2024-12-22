@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools read fast. Geniuses reread.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>Maxime Lagace</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
