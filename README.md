@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give so much away people insist on paying you.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>Jack Butcher</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
