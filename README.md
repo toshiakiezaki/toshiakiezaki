@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
