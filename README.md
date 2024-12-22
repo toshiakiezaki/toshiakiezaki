@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a constant series of opportunities.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
