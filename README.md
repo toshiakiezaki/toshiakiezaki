@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A path is made by walking on it.</p>
+<p>No one has ever become poor by giving.</p>
 
-<p>Zhuangzi</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
