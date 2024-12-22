@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Every great change is preceded by chaos.</p>
 
-<p>Josh Waitzkin</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
