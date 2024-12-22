@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>Christopher McCandless</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
