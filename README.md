@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one has ever become poor by giving.</p>
+<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
 
-<p>Anne Frank</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
