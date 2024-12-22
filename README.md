@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>Maya Angelou</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
