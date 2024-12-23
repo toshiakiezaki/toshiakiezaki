@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
