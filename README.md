@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember the entrance to the sanctuary is inside you.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Rumi</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
