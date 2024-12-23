@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Bruce Lee</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
