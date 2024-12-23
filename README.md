@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
-<p>Woody Allen</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
