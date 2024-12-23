@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Ayn Rand</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
