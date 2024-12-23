@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>Peter Drucker</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
