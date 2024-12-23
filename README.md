@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless you change how you are, you will always have what you got.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>Jim Rohn</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
