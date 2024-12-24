@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>Spencer Johnson</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
