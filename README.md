@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Paths are made by walking.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>Franz Kafka</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
