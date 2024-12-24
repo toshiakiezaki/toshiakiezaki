@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>Bruce Lee</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
