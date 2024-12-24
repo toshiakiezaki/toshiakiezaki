@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are interpersonal relationship problems.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>Alfred Adler</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
