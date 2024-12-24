@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>Coco Chanel</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
