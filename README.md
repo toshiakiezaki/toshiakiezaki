@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>Richard Bach</p>
+<p>Cherralea Morgen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
