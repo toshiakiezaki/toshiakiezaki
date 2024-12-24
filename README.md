@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the past steal your present.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>Cherralea Morgen</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
