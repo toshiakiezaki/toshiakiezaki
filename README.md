@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
