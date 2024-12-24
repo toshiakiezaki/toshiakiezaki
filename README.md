@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>Walt Whitman</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
