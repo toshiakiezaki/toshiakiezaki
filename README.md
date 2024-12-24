@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no next time. It's now or never.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>Celestine Chua</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
