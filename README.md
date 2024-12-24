@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>Les Brown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
