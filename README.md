@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>Bhagavad Gita</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
