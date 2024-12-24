@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
