@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is rarely pure and never simple. </p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>Oscar Wilde</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
