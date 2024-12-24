@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>Ronald Reagan</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
