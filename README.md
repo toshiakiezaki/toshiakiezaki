@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stress happens when the mind resists what is.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>Dan Millman</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
