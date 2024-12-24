@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>Failure is the highway to success.</p>
 
-<p>Vince Lombardi</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
