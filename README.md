@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
 
-<p>Ayn Rand</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
