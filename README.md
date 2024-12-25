@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>Bhagavad Gita</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
