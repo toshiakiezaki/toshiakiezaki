@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>Fashion fades, only style remains the same.</p>
 
-<p>Ralph Marston</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
