@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the highway to success.</p>
+<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
 
-<p>Og Mandino</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
