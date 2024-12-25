@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't get to a place that you don't believe exists.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>Unknown</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
