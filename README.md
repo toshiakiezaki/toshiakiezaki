@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
+<p>One of the keys to happiness is a bad memory.</p>
 
-<p>Robin Sharma</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
