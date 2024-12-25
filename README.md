@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>Betty White</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
