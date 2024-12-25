@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is always right.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
