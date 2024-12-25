@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
+<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
 
-<p>Steve Maraboli</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
