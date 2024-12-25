@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
+<p>Who you are is always right.</p>
 
-<p>Celestine Chua</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
