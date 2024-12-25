@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
+<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
 
-<p>Naval Ravikant</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
