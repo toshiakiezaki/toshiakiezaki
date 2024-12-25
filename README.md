@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the hand that erases can write the true thing.</p>
+<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
 
-<p>Meister Eckhart</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
