@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>Amelia Earhart</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
