@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>Steve Maraboli</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
