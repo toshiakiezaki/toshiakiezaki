@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is the signature of civilizations. </p>
+<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
 
-<p>Beverly Sills</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
