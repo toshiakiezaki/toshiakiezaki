@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The past has no power over the present moment. </p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>Eckhart Tolle</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
