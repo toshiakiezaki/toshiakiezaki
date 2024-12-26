@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
 
-<p>Benjamin Franklin</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
