@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>Zen Proverb</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
