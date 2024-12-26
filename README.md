@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
