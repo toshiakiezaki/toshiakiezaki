@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>Lolly Daskal</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
