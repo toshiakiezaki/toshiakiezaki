@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reading should be a pleasure, not a chore.</p>
+<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
 
-<p>Joan Rivers</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
