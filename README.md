@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Benjamin Franklin</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
