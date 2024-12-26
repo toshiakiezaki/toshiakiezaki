@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become what we believe.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>Lolly Daskal</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
