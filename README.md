@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
