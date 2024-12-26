@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>Change is inevitable but personal growth is a choice.</p>
 
-<p>Dan Brown</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
