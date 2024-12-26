@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>Woody Allen</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
