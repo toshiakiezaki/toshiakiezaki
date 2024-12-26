@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
+<p>Still your waters.</p>
 
-<p>Alan Watts</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
