@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is literally what he thinks.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>James Allen</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
