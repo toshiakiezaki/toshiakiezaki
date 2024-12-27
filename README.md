@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>Youth has no age.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
