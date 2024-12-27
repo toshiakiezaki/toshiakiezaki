@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Youth has no age.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>Pablo Picasso</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
