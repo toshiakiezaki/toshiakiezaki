@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who know, do. Those that understand, teach.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>Aristotle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
