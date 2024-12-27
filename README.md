@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a poor teacher.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
