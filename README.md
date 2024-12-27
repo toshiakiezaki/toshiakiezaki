@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>Success is a poor teacher.</p>
 
-<p>Unknown</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
