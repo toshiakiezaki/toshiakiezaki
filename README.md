@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smile, breathe and go slowly.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
