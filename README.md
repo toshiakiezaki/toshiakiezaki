@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Rumi</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
