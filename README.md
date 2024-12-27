@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Marcus Aurelius</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
