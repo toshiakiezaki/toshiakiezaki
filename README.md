@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>Unless you change how you are, you will always have what you got.</p>
 
-<p>Unknown</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
