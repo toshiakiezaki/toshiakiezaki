@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless you change how you are, you will always have what you got.</p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>Jim Rohn</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
