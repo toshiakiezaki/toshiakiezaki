@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>Spencer Johnson</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
