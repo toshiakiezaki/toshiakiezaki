@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
