@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good by stealth, and blush to find it fame.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>Alexander Pope</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
