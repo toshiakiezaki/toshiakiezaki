@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>Chinese Proverb</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
