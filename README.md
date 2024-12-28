@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
