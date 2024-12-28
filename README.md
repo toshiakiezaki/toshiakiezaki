@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things are not done by impulse, but by a series of small things brought together.</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>Vincent van Gogh</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
