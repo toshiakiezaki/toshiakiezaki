@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>Jack Kerouac</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
