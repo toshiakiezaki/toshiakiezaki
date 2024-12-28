@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
+<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
 
-<p>John Lennon</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
