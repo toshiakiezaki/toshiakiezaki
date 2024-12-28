@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>Herman Melville</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
