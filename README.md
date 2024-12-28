@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>To be great is to be misunderstood.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
