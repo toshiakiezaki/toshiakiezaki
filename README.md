@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Og Mandino</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
