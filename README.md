@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>Oprah Winfrey</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
