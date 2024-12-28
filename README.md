@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be great is to be misunderstood.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
