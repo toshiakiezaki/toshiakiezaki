@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>All leaders are readers.</p>
 
-<p>John Wooden</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
