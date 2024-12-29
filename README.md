@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>Thomas Jefferson</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
