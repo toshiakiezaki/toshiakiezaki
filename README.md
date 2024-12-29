@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>Estee Lauder</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
