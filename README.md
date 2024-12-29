@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge a man by his questions rather than his answers.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>Voltaire</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
