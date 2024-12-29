@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>Og Mandino</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
