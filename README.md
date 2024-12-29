@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of the mind to be unconquerable.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>Seneca</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
