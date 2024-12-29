@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The grass is greener where you water it.</p>
+<p>Leadership starts at the top.</p>
 
-<p>Neil Barringham</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
