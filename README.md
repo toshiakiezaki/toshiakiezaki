@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Josh Waitzkin</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
