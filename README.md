@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your life-but only if you make it so.</p>
+<p>The businessman's tool is value.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
