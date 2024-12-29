@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The businessman's tool is value.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>Ayn Rand</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
