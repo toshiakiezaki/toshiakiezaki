@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>Wayne Dyer</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
