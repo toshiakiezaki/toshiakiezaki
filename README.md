@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>Huang Po</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
