@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you are, be a good one.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>Abraham Lincoln</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
