@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>Lolly Daskal</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
