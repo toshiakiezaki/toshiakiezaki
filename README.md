@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>Jim Rohn</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
