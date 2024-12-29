@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do the best you can. No one can do more than that.</p>
+<p>Whatever you are, be a good one.</p>
 
-<p>John Wooden</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
