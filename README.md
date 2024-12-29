@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>Goals are the fuel in the furnace of achievement.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
