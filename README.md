@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>Elon Musk</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
