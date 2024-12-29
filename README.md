@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>Alan Watts</p>
+<p>Neil Barringham</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
