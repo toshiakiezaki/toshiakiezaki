@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Rumi</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
