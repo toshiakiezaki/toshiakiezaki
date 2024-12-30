@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Behind every beautiful thing, there's some kind of pain.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>Bob Dylan</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
