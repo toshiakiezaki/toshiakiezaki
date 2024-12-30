@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>Jack London</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
