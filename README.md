@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is like money, easier made than kept.</p>
+<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
 
-<p>Samuel Butler</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
