@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>Charlie Chaplin</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
