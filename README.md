@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Small men think they are small; great men never know they are great. </p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Chinese Proverb</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
