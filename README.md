@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At every moment where language can't go, that's your mind.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>Bodhidharma</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
