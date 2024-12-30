@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one ever is defeated until defeat has been accepted as a reality.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>Napoleon Hill</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
