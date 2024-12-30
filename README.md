@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>Benjamin Franklin</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
