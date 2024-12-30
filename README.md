@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>Winston Churchill</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
