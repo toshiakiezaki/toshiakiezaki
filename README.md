@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>Charles Darwin</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
