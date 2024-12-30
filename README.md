@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people fail in life because they major in minor things.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>Tony Robbins</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
