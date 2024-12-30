@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is free who is not master of himself.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>Epictetus</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
