@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>Jonathan Swift</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
