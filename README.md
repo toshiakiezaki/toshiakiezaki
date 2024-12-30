@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not why the addiction but why the pain.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>Gabor Mate</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
