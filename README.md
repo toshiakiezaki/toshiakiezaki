@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>Euripides</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
