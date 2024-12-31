@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is an iceberg.</p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>Unknown</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
