@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never to suffer would never to have been blessed.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>Edgar Allan Poe</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
