@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fall into a ditch makes you wiser.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>Chinese Proverb</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
