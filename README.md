@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>Roy T. Bennett</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
