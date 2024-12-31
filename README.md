@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>Never to suffer would never to have been blessed.</p>
 
-<p>James Matthew Barrie</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
