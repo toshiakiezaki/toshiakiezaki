@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Age is a very high price to pay for maturity.</p>
+<p>Every time we liberate a woman, we liberate a man. </p>
 
-<p>William James</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
