@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work harder on yourself than you do on your job.</p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>Jim Rohn</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
