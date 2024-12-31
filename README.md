@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Ronald Reagan</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
