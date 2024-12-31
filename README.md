@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fool sees himself as another, but a wise man sees others as himself.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>Dogen</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
