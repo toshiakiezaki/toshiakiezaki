@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>He that can have patience can have what he will.</p>
 
-<p>Andrew Carnegie</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
