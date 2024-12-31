@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>Bob Marley</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
