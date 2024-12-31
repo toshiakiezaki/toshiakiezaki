@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Marcus Aurelius</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
