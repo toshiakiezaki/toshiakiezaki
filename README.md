@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>Margaret Mead</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
