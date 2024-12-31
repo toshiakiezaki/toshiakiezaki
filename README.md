@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>Through discipline comes freedom.</p>
 
-<p>Oprah Winfrey</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
