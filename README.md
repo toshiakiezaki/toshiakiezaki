@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>Make each day your masterpiece.</p>
 
-<p>Robert F. Kennedy</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
