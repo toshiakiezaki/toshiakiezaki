@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
