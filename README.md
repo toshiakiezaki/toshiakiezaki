@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through discipline comes freedom.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>Aristotle</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
