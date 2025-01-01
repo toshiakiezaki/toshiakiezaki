@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Get mad, then get over it.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Colin Powell</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
