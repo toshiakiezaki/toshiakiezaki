@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
 
-<p>Marcus Aurelius</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
