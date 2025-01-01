@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We need never be ashamed of our tears.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>Charles Dickens</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
