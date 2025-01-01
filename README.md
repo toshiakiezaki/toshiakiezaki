@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
