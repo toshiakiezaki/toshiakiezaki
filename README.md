@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the energy of life.</p>
+<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
 
-<p>Robert Browning</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
