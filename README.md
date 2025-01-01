@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a poor teacher.</p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
