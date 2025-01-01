@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
