@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Tony Robbins</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
