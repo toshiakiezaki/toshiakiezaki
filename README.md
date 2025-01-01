@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
