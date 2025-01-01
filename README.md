@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>Carl Jung</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
