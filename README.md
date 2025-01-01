@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Roy T. Bennett</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
