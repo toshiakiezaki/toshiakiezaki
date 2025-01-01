@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the touchstones of our characters.</p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>Henry David Thoreau</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
