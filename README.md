@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
