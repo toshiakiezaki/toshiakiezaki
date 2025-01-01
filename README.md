@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you give, the more comes back to you.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>Napoleon Hill</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
