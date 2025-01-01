@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Get mad, then get over it.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
