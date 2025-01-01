@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I persist long enough I will win.</p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>Og Mandino</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
