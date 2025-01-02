@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being entirely honest with oneself is a good exercise.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>Sigmund Freud</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
