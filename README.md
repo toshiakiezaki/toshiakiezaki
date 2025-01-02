@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to discover what another has discovered before.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>Christopher Columbus</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
