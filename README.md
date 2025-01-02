@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
+<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
 
-<p>Celestine Chua</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
