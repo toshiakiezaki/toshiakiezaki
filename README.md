@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>Andrew Carnegie</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
