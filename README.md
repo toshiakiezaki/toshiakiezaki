@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>George Washington</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
