@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
