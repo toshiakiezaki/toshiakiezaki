@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
 
-<p>John Eliot</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
