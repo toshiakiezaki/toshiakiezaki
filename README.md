@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>Aristotle</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
