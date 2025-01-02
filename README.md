@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>Euripides</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
