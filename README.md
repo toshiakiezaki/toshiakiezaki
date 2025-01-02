@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>Fear does not have any special power unless you empower it by submitting to it.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
