@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winning isn't always championships.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>Michael Jordan</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
