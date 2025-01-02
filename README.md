@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>Unknown</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
