@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>Deepak Chopra</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
