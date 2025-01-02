@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Small men think they are small; great men never know they are great. </p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>Chinese Proverb</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
