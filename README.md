@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>Never to suffer would never to have been blessed.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
