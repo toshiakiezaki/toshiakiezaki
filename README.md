@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Children are our greatest natural resource.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Herbert Hoover</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
