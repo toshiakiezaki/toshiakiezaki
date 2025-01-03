@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
 
-<p>Jim Rohn</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
