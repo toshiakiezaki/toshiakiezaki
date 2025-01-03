@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>Maxime Lagace</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
