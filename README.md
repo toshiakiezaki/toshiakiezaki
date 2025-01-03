@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
+<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
 
-<p>Voltaire</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
