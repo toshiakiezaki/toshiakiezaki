@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
 
-<p>Marcus Aurelius</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
