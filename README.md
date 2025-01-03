@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Short cuts make long delays.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
