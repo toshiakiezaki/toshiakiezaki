@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Mark Manson</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
