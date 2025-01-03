@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is much more successfully looked at from a single window.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
