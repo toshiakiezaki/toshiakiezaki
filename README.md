@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What worries you, masters you.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>John Locke</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
