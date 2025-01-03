@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your past does not equal your future.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>Tony Robbins</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
