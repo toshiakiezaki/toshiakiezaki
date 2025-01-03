@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>What worries you, masters you.</p>
 
-<p>Deepak Chopra</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
