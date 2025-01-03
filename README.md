@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>Yoko Ono</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
