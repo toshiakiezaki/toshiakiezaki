@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great acts are made up of small deeds.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>Lao Tzu</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
