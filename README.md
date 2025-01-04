@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wait for the right opportunity: create it.</p>
+<p>You win more from losing than winning.</p>
 
-<p>George Bernard Shaw</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
