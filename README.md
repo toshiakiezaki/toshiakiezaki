@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>Walt Disney</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
