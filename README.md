@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
