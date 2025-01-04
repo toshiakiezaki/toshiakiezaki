@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Les Brown</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
