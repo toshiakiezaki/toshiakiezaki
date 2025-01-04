@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more truly artistic than to love people.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>Vincent van Gogh</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
