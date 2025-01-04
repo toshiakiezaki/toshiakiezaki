@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We create the world and ourselves;</p>
+<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
