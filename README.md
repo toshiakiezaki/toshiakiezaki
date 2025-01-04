@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
 
-<p>Barack Obama</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
