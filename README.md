@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Follow your instincts. That is where true wisdom manifests itself.</p>
 
-<p>Laurence J. Peter</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
