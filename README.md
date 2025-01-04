@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Everything begins with an idea.</p>
 
-<p>Zen Proverb</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
