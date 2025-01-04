@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything begins with an idea.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>Earl Nightingale</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
