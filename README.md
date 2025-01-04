@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>Maxime Lagace</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
