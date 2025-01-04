@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You win more from losing than winning.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Morgan Wootten</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
