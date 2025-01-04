@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work harder on yourself than you do on your job.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>Jim Rohn</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
