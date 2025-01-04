@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>Life has no limitations except the ones you make.</p>
 
-<p>Deepak Chopra</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
