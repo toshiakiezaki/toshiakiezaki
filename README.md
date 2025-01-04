@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has no limitations except the ones you make.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>Les Brown</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
