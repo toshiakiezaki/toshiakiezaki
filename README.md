@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>If you need inspiration, don't do it.</p>
 
-<p>Bob Dylan</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
