@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow your instincts. That is where true wisdom manifests itself.</p>
+<p>We create the world and ourselves;</p>
 
-<p>Oprah Winfrey</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
