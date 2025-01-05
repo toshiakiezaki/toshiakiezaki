@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
