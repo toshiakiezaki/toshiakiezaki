@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
 
-<p>Abraham Lincoln</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
