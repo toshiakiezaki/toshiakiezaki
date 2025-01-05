@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you need inspiration, don't do it.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>Elon Musk</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
