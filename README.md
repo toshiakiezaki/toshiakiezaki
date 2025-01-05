@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We tend to live up to our expectations.</p>
+<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
 
-<p>Earl Nightingale</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
