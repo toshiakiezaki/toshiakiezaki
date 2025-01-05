@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can often change your circumstances by changing your attitude.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
