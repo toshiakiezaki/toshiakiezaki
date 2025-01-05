@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Steve Maraboli</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
