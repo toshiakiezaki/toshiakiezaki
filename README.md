@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>Kahlil Gibran</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
