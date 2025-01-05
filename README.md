@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little impatience will spoil great plans.</p>
+<p>The great use of life is to spend it for something that will outlast it.</p>
 
-<p>Chinese Proverb</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
