@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>Looking after my health today gives me a better hope for tomorrow. </p>
 
-<p>Roy T. Bennett</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
