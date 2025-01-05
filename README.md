@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>You can often change your circumstances by changing your attitude.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
