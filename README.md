@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>Socrates</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
