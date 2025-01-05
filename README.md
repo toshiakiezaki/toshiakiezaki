@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
