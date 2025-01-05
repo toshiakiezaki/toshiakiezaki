@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Short cuts make long delays.</p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
