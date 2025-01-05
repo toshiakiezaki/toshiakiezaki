@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
