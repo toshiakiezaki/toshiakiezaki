@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who dare to fail greatly can ever achieve greatly.</p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>Robert F. Kennedy</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
