@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Penny Saved is a Penny Earned</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>Benjamin Franklin</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
