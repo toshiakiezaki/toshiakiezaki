@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The great use of life is to spend it for something that will outlast it.</p>
+<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
 
-<p>William James</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
