@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
