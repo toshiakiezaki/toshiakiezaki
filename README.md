@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>Stephen King</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
