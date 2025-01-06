@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>To get angry is like to revenge yourself for the guilt of others.</p>
 
-<p>Chinese Proverb</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
