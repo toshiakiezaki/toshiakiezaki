@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is rarely pure and never simple. </p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>Oscar Wilde</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
