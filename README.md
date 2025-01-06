@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>Napoleon Hill</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
