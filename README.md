@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
 
-<p>Robin Williams</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
