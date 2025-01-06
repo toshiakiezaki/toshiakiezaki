@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Anne Wilson Schaef</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
