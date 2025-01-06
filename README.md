@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To get angry is like to revenge yourself for the guilt of others.</p>
+<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
 
-<p>Jonathan Swift</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
