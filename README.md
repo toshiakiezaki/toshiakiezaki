@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
 <p>Napoleon Hill</p>
 <!-- dailyquote:end -->
