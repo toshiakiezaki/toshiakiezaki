@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>Estee Lauder</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
