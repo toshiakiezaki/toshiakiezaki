@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
