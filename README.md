@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I pay attention to every minute of the day.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>Steve Harvey</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
