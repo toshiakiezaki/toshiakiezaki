@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>Charlie Chaplin</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
