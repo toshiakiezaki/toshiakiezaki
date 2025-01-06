@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ability is a poor man's wealth.</p>
+<p>FOCUS - Follow One Course Until Successful</p>
 
-<p>John Wooden</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
