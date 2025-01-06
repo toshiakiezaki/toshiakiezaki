@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>FOCUS - Follow One Course Until Successful</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>Robert Kiyosaki</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
