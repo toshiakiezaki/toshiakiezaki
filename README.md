@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>Voltaire</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
