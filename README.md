@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have as much laughter as you have faith.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>Martin Luther</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
