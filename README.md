@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>Ralph Marston</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
