@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>Dalai Lama</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
