@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
 
-<p>Genghis Khan</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
