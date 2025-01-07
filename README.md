@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>Unknown</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
