@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
