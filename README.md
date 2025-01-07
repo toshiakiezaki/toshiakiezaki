@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
 
-<p>Socrates</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
