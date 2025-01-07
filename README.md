@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
 
-<p>Harry S. Truman</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
