@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Desire is suffering.</p>
 
-<p>Jim Rohn</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
