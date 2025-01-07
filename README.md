@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life reflects your own thoughts back to you.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Napoleon Hill</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
