@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>Kabir</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
