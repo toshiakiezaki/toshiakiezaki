@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Few things are more deceptive than memories.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
