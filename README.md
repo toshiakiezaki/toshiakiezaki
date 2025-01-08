@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>Kahlil Gibran</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
