@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>Coco Chanel</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
