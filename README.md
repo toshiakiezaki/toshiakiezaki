@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
