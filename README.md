@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Zen Proverb</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
