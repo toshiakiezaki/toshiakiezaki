@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools read fast. Geniuses reread.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Maxime Lagace</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
