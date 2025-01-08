@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>Heraclitus</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
