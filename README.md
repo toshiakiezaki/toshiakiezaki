@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death smiles at us all. All we can do is smile back.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>Marcus Aurelius</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
