@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anxiety is the dizziness of freedom.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
