@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>Unknown</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
