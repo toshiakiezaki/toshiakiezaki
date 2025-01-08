@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</p>
+<p>Death smiles at us all. All we can do is smile back.</p>
 
-<p>Margaret Mead</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
