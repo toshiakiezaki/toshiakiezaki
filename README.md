@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>Bruce Lee</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
