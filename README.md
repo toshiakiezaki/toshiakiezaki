@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>Rewards and punishment is the lowest form of education.</p>
 
-<p>Kilian Jornet</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
