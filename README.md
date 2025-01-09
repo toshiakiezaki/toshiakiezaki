@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would you do if you weren't afraid?</p>
+<p>Nothing endures but change.</p>
 
-<p>Spencer Johnson</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
