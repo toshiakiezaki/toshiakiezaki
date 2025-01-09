@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
