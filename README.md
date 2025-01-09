@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
 
-<p>Unknown</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
