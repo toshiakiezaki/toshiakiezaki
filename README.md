@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
 
-<p>Eric Hoffer</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
