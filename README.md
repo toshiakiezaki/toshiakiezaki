@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>Charles Swindoll</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
