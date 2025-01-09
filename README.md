@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>Winston Churchill</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
