@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
 
-<p>Jack London</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
