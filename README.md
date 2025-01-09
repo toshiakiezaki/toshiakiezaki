@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>Marcus Aurelius</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
