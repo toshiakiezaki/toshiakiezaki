@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>A zen master's life is one continuous mistake.</p>
 
-<p>Seneca</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
