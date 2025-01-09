@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Zhuangzi</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
