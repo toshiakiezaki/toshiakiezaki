@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never was anything great achieved without danger.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
