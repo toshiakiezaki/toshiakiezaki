@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners never quit and quitters never win.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>Vince Lombardi</p>
+<p>Kilian Jornet</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
