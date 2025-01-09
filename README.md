@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing endures but change.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>Heraclitus</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
