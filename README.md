@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A zen master's life is one continuous mistake.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>Dogen</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
