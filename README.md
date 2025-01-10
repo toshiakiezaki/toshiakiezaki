@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>Estee Lauder</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
