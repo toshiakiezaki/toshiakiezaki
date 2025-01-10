@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Unknown</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
