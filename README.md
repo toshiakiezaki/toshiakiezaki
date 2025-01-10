@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisest men follow their own direction.</p>
+<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
 
-<p>Euripides</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
