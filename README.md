@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you put water into a cup, it becomes the cup.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>Bruce Lee</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
