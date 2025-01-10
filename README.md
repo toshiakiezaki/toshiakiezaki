@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who do nothing at all make no mistakes.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
