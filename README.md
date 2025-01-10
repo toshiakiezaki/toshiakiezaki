@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have results or excuses, but not both.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
