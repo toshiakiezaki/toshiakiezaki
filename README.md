@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>Charles Swindoll</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
