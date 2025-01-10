@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
+<p>Discipline yourself, and others won't need to.</p>
 
-<p>Bob Proctor</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
