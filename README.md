@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Use your smile to change the world but don't let the world change your smile.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>Unknown</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
