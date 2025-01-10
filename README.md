@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>Tony Robbins</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
