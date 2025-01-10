@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline yourself, and others won't need to.</p>
+<p>If you put water into a cup, it becomes the cup.</p>
 
-<p>John Wooden</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
