@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cease striving. Then there will be transformation.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>Zhuangzi</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
