@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
