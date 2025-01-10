@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>Abraham Lincoln</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
