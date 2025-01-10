@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>Rumi</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
