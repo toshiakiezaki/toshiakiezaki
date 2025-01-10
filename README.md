@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>The finish line is just the beginning of a whole new race.</p>
 
-<p>Lao Tzu</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
