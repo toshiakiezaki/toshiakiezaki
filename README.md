@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do anything, but let it produce joy.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>Walt Whitman</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
