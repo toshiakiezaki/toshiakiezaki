@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
 
-<p>Rumi</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
