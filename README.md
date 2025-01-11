@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>Zig Ziglar</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
