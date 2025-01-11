@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To do two things at once is to do neither.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>Publilius Syrus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
