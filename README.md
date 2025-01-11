@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>Kilian Jornet</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
