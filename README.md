@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
 
-<p>Sydney Smith</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
