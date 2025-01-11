@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Chinese Proverb</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
