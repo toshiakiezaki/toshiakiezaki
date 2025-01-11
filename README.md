@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>Les Brown</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
