@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
 
-<p>Chinese Proverb</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
