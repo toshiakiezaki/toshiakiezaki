@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>Jack Butcher</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
