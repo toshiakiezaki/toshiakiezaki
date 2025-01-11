@@ -17,7 +17,7 @@
 
 <a href="https://github.com/toshiakiezaki">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=toshiakiezaki&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&hide=c,c%2B%2B,cmake,html,swift,objective-c&langs_count=5"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiakiezaki&theme=codeSTACKr&langs_count=5&hide=c,c%2B%2B,cmake,html,swift,objective-c"/>
 </a>
 
 ### $ dailyquote_
