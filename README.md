@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>Robin Sharma</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
