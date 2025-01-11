@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>Spencer Johnson</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
