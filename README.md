@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>Henry David Thoreau</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
