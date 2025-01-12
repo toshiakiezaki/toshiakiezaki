@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>Kenneth Branagh</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
