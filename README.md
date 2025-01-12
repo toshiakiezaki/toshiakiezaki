@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Someday death will take us to another star.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>Vincent van Gogh</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
