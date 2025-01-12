@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
