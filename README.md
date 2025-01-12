@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>Voltaire</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
