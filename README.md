@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>Zig Ziglar</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
