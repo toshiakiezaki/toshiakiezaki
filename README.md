@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>Robin Sharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
