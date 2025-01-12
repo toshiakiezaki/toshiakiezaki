@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>Charles Dickens</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
