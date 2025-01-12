@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>Jim Rohn</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
