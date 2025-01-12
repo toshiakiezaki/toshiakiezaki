@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
