@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>Benjamin Franklin</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
