@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By changing nothing, nothing changes.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>Celestine Chua</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
