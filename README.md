@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
