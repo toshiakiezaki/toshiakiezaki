@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is to console those who are broken by life.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>Vincent van Gogh</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
