@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Behind every cloud is another cloud.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>Judy Garland</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
