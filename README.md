@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>Ralph Marston</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
