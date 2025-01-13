@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
 
-<p>Jim Rohn</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
