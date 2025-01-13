@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
+<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
 
-<p>Zig Ziglar</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
