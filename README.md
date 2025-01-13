@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man can get rich himself unless he enriches others.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>Earl Nightingale</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
