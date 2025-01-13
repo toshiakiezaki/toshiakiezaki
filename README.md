@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>The only way round is through.</p>
 
-<p>Dogen</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
