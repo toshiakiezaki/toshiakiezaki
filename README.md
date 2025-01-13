@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>Mary Engelbreit</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
