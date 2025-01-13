@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way round is through.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>Robert Frost</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
