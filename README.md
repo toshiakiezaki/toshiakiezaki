@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Memory is the scribe of the soul.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>Aristotle</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
