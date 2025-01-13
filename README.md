@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Few things are more deceptive than memories.</p>
+<p>Conscience is a man's compass. </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
