@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
+<p>Behind every cloud is another cloud.</p>
 
-<p>Robert Greene</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
