@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Dalai Lama</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
