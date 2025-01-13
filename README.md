@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is never easy, but always possible.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>Barack Obama</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
