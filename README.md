@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>Peter A. Cohen</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
