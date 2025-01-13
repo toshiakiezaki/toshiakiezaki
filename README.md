@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>Og Mandino</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
