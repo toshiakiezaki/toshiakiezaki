@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is a source of great strength.</p>
+<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
 
-<p>Lao Tzu</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
