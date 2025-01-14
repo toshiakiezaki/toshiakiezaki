@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>Motivation is what gets you started. Habit is what keeps you going.</p>
 
-<p>Confucius</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
