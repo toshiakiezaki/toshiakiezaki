@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools read fast. Geniuses reread.</p>
+<p>Courage is found in unlikely places.</p>
 
-<p>Maxime Lagace</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
