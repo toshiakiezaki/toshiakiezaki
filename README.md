@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>Fools read fast. Geniuses reread.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
