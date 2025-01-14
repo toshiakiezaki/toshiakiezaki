@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Jim Rohn</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
