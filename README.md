@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no excuse for not trying.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Barack Obama</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
