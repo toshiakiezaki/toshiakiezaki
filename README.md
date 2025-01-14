@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
 
-<p>Voltaire</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
