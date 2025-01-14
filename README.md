@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The journey, not the destination matters.</p>
+<p>There is no excuse for not trying.</p>
 
-<p>T.S. Eliot</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
