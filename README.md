@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>Lin Yutang</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
