@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>George Bernard Shaw</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
