@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not fear failure but rather fear not trying.</p>
+<p>Not engaging in ignorance is wisdom. </p>
 
-<p>Roy T. Bennett</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
