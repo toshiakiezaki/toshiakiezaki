@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>Criss Jami</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
