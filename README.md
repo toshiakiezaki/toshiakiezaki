@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conscience is a man's compass. </p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>Vincent van Gogh</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
