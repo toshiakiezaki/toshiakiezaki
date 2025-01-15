@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Conscience is a man's compass. </p>
 
-<p>Hans Christian Andersen</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
