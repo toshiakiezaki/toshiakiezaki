@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>Elbert Hubbard</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
