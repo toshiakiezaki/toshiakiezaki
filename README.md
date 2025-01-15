@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
 
-<p>Charlie Chaplin</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
