@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>Simon Sinek</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
