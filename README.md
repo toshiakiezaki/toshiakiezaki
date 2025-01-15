@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Unknown</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
