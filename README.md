@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Socrates</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
