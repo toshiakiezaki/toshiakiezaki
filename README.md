@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>Ronald Reagan</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
