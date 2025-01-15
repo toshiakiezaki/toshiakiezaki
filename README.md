@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A minute's success pays the failure of years.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Robert Browning</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
