@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>Create with the heart; build with the mind.</p>
 
-<p>Abraham Lincoln</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
