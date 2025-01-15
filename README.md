@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>Zen Proverb</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
