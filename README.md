@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>Tony Robbins</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
