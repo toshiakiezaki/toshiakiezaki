@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>Theodore Roosevelt</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
