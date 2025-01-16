@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
 
-<p>Unknown</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
