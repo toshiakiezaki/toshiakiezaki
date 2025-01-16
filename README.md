@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who avoid failure also avoid success.</p>
+<p>Trust thyself: every heart vibrates to that iron string.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
