@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
+<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
