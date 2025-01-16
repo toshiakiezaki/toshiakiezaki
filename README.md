@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
 
-<p>Zhuangzi</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
