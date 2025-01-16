@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>Josh Waitzkin</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
