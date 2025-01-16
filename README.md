@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
