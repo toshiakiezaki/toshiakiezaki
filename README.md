@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth comes at the point of resistance.</p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Josh Waitzkin</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
