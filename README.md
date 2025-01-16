@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to 'find out if it will work out' is to do it.</p>
+<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
 
-<p>Simon Sinek</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
