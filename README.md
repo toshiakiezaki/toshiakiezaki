@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Big people don't make people feel small.</p>
+<p>We ordinary people must forge our own beauty.</p>
 
-<p>Robin Sharma</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
