@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Still your waters.</p>
+<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
 
-<p>Josh Waitzkin</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
