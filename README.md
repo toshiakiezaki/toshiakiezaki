@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>People who avoid failure also avoid success.</p>
 
-<p>Voltaire</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
