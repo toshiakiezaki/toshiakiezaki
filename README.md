@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
 
-<p>Stephen King</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
