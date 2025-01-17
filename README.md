@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>Voltaire</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
