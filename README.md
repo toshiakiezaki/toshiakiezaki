@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>Benjamin Mays</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
