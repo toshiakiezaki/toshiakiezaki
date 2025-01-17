@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When your intuition is strong, follow it.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>Lolly Daskal</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
