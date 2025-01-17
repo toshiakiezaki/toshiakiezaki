@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>Christopher Columbus</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
