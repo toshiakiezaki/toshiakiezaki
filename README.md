@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>Isaac Newton</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
