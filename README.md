@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to predict your future is to create it.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>Abraham Lincoln</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
