@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>Maxime Lagace</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
