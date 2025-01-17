@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Dan Brown</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
