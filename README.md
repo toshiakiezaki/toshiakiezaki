@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is sometimes the best answer.</p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>Dalai Lama</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
