@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think and wonder, wonder and think.</p>
+<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
 
-<p>Dr. Seuss</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
