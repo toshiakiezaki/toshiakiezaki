@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>Henry David Thoreau</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
