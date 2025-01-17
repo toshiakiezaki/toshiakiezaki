@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>Thomas Jefferson</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
