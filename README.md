@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>What worries you, masters you.</p>
 
-<p>Bruce Lee</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
