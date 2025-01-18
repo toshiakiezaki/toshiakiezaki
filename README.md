@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the mark of intelligent living.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>Sathya Sai Baba</p>
+<p>Deepam Chaterjee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
