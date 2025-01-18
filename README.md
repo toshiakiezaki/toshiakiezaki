@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't tell big dreams to small minded people.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>Steve Harvey</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
