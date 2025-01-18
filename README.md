@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>Les Brown</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
