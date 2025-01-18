@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>Les Brown</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
