@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Kahlil Gibran</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
