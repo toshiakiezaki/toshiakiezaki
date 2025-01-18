@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Charlie Chaplin</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
