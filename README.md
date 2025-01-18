@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people fail in life because they major in minor things.</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>Tony Robbins</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
