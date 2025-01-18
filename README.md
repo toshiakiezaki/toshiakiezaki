@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being entirely honest with oneself is a good exercise.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>Sigmund Freud</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
