@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
-<p>Mark Manson</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
