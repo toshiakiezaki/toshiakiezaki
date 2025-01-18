@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What have you done today to make someone else happy?</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>Deepam Chaterjee</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
