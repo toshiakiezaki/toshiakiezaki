@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
