@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>Robert Kiyosaki</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
