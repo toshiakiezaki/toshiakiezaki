@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What worries you, masters you.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>John Locke</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
