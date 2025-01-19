@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Elon Musk</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
