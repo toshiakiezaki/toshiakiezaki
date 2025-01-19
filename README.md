@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>The score never interested me, only the game.</p>
 
-<p>Unknown</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
