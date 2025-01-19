@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The score never interested me, only the game.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>Mae West</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
