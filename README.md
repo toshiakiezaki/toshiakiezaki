@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
