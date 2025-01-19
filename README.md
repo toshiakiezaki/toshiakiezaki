@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>Carl Jung</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
