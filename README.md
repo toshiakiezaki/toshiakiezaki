@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the mark of intelligent living.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
