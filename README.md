@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who violates another's honor loses his own.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>Publilius Syrus</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
