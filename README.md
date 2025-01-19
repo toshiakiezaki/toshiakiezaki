@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>Dogen</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
