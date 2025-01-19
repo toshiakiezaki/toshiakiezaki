@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Dudley Field Malone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
