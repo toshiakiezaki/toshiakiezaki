@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life should be touched, not strangled.  </p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>Ray Bradbury</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
