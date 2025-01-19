@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>Socrates</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
