@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
 
-<p>Steve Harvey</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
