@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
 <p>Brian Tracy</p>
 <!-- dailyquote:end -->
