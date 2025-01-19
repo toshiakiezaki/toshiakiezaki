@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
+<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
 
-<p>Lolly Daskal</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
