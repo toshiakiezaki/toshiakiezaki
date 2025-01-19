@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>Charles Swindoll</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
