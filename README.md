@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>Eric Hoffer</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
