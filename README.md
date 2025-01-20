@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>Elvis Presley</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
