@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all those who wander are lost.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
