@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The art of being wise is knowing what to overlook.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>William James</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
