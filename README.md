@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Earl Nightingale</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
