@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>Bruce Lee</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
