@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>Dan Millman</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
