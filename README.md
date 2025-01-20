@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>Elon Musk</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
