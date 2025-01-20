@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
+<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
 
-<p>Colin Powell</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
