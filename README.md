@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace by avoiding life.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>Virginia Woolf</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
