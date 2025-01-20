@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Harry S. Truman</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
