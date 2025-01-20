@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>Les Brown</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
