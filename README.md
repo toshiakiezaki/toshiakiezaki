@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</p>
 
-<p>Zig Ziglar</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
