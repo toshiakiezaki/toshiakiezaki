@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All things come into being by conflict of opposites.</p>
+<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
 
-<p>Heraclitus</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
