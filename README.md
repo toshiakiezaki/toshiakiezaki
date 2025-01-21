@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>Criss Jami</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
