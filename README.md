@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All I can do is be me, whoever that is.</p>
+<p>People who avoid failure also avoid success.</p>
 
-<p>Bob Dylan</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
