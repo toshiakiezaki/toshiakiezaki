@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>Leo Tolstoy</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
