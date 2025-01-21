@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It all depends on what you choose to believe.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Spencer Johnson</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
