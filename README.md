@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do anything, but let it produce joy.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
 
-<p>Walt Whitman</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
