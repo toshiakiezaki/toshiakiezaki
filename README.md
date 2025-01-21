@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>Charles Dickens</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
