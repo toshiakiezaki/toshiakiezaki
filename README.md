@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no significance in life without struggle.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>Lolly Daskal</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
