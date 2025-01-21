@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
