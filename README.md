@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
