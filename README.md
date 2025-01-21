@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>Eric Hoffer</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
