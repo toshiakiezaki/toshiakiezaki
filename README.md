@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want more luck, take more chances.</p>
+<p>The purpose of life is the expansion of happiness.</p>
 
-<p>Brian Tracy</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
