@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
