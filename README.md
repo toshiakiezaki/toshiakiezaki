@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never too old for anything.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>Betty White</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
