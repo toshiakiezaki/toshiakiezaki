@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who realize their folly are not true fools.</p>
+<p>You're never too old for anything.</p>
 
-<p>Zhuangzi</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
