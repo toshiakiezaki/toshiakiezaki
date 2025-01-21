@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is the expansion of happiness.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>Deepak Chopra</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
