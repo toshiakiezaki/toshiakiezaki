@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
 
-<p>Herodotus</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
