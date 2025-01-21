@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>Mark Manson</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
