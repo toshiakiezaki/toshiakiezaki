@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>There is no significance in life without struggle.</p>
 
-<p>Estee Lauder</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
