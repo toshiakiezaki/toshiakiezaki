@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Kamal Ravikant</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
