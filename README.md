@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become brave by doing brave acts.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>Aristotle</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
