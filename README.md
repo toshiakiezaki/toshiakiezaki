@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want work well done, select a busy man; the other kind has no time.</p>
+<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
 
-<p>Elbert Hubbard</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
