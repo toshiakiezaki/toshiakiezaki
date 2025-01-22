@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
+<p>Wheresoever you go, go with all your heart.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
