@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
 
-<p>Dale Carnegie</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
