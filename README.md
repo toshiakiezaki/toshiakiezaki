@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first rule of business; treat others like they want to treat you.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>Charles Dickens</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
