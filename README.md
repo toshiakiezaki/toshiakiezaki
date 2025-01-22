@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>Jack Butcher</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
