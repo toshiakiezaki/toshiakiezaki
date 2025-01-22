@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>Virginia Woolf</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
