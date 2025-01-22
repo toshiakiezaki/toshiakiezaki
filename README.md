@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
 <p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
