@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>Ayn Rand</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
