@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
