@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>New beginnings are disguised as painful endings.</p>
 
-<p>Ayn Rand</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
