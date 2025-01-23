@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>Estee Lauder</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
