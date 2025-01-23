@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
