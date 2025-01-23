@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You change the world by being yourself.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Yoko Ono</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
