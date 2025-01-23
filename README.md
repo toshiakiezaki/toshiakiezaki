@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>Seneca</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
