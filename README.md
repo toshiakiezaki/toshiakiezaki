@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
 
-<p>Lao Tzu</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
