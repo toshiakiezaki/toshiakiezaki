@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
