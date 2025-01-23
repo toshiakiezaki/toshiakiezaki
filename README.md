@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you can imagine is real.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>Pablo Picasso</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
