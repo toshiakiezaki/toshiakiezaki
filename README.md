@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the highway to success.</p>
+<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
 
-<p>Og Mandino</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
