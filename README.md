@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>You change the world by being yourself.</p>
 
-<p>Virginia Woolf</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
