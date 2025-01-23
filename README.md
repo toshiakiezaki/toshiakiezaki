@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>Ayn Rand</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
