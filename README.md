@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one is useless in this world who lightens the burdens of another.</p>
+<p>Everything you can imagine is real.</p>
 
-<p>Charles Dickens</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
