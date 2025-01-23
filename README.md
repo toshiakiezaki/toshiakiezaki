@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>George Eliot</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
