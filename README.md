@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>Marcus Aurelius</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
