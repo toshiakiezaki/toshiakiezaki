@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
 
-<p>Barack Obama</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
