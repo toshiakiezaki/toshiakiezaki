@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I know of only one duty, and that is to love.</p>
+<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
 
-<p>George Bernard Shaw</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
