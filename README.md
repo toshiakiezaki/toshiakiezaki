@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have the mind or you can have the moment.</p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>Naval Ravikant</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
