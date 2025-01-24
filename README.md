@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>Eckhart Tolle</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
