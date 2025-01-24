@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>See what you're doing wrong, laugh at it, change and do better.</p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>Spencer Johnson</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
