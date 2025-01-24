@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I begin with an idea and then it becomes something else.</p>
+<p>The soul is neither born, and nor does it die.</p>
 
-<p>Pablo Picasso</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
