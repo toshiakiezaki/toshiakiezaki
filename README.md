@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>Thomas Edison</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
