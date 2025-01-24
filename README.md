@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>Celestine Chua</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
