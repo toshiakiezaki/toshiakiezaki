@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>Bloom where you are planted!</p>
 
-<p>Tony Robbins</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
