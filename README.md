@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Relax. Nothing is under control.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Adi Da Samraj</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
