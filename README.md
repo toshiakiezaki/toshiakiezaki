@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By seeking and blundering we learn.</p>
+<p>Wheresoever you go, go with all your heart.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
