@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bloom where you are planted!</p>
+<p>Don't let what you cannot do interfere with what you can do.</p>
 
-<p>Mary Engelbreit</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
