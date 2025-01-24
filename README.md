@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
 
-<p>Ray Bradbury</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
