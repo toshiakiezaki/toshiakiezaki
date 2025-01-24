@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wheresoever you go, go with all your heart.</p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>Confucius</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
