@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
