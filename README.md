@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>Sigmund Freud</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
