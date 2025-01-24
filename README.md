@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul is neither born, and nor does it die.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>Bhagavad Gita</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
