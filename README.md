@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
+<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
 
-<p>Alan Watts</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
