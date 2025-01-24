@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>Kahlil Gibran</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
