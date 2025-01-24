@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>Celestine Chua</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
