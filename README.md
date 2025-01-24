@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>Eckhart Tolle</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
