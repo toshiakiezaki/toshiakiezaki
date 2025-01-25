@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be great is to be misunderstood.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
