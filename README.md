@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
