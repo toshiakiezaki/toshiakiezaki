@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>Jack Kerouac</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
