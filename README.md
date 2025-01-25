@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>Dalai Lama</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
