@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
 
-<p>Criss Jami</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
