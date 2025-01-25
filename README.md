@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because of your smile, you make life more beautiful.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
