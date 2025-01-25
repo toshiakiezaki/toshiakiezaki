@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust is built and maintained by many small actions over time.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>Lolly Daskal</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
