@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>Kahlil Gibran</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
