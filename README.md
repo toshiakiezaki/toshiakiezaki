@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who wishes to fight must first count the cost.</p>
+<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
 
-<p>Sun Tzu</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
