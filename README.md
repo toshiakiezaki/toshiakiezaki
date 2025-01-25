@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>Dr. Seuss</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
