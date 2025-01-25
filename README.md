@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>Charles Spurgeon</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
