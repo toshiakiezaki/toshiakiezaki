@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>Trust is built and maintained by many small actions over time.</p>
 
-<p>Maxime Lagace</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
