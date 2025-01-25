@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>Vincent van Gogh</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
