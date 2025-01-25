@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Honore de Balzac</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
