@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>Audrey Hepburn</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
