@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>To be great is to be misunderstood.</p>
 
-<p>William Faulkner</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
