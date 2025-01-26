@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>Barack Obama</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
