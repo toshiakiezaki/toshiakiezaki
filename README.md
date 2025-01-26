@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>The fewer the words, the better the prayer.</p>
 
-<p>Chinese Proverb</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
