@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
