@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>Lao Tzu</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
