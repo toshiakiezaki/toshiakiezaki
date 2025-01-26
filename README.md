@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Woody Allen</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
