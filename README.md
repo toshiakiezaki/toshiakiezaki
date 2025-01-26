@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, like the soul, never returns once it is gone.</p>
+<p>Sorrow is how we learn to love.</p>
 
-<p>Publilius Syrus</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
