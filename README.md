@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the ability, now apply yourself.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>Benjamin Mays</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
