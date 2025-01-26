@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sorrow is how we learn to love.</p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>Rita Mae Brown</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
