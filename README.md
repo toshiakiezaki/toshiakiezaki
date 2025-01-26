@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>Being a good example is the best form of service.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
