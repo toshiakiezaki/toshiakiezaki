@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>Les Brown</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
