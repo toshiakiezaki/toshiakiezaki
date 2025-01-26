@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is to console those who are broken by life.</p>
+<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
 
-<p>Vincent van Gogh</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
