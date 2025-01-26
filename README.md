@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>Mary Engelbreit</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
