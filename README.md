@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality means doing it right when no one is looking.</p>
+<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
 
-<p>Henry Ford</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
