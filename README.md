@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
+<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
