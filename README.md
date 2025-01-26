@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>Jack Butcher</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
