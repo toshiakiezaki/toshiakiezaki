@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being a good example is the best form of service.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
