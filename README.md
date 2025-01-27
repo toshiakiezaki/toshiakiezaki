@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>Sathya Sai Baba</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
