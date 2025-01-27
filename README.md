@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>You only live once, but if you do it right, once is enough.</p>
 
-<p>Elon Musk</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
