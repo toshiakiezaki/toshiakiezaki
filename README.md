@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>Sun Tzu</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
