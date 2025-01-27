@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>Celestine Chua</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
