@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You only live once, but if you do it right, once is enough.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>Mae West</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
