@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
