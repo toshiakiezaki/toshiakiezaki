@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
 
-<p>Alan Watts</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
