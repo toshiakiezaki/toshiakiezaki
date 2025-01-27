@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>Roy T. Bennett</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
