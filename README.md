@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
 
-<p>George Bernard Shaw</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
