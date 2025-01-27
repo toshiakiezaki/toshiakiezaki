@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be approximately right rather than exactly wrong.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>John Tukey</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
