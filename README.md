@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only time you run out of chances is when you stop taking them.</p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>Unknown</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
