@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>Gustave Flaubert</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
