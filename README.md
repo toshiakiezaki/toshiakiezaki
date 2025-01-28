@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>Josh Waitzkin</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
