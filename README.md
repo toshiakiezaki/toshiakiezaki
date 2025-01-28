@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>W. Clement Stone</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
