@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing will work unless you do.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>Maya Angelou</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
