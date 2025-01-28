@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>Mark Manson</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
