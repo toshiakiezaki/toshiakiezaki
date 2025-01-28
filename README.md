@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
+<p>What you resist, persists.</p>
 
-<p>Joyce Meyer</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
