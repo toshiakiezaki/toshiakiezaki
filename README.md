@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There will always be suffering. But we must not suffer over the suffering.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>Alan Watts</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
