@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you resist, persists.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Carl Jung</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
