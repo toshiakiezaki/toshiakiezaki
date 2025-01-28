@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
+<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
 
-<p>James Cameron</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
