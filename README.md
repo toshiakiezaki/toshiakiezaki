@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
 
-<p>Criss Jami</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
