@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>Sonia Ricotti</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
