@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>Helen Keller</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
