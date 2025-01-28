@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>Kabir</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
