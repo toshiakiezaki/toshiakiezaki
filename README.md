@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>Nothing will work unless you do.</p>
 
-<p>Joan Rivers</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
