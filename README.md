@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tis not too late to seek a newer world.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>Heraclitus</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
