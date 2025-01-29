@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you try to impress, the more peaceful you can be.</p>
+<p>Normal is the average of deviance.</p>
 
-<p>Maxime Lagace</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
