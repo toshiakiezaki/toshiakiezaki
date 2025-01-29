@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We run to win, not just to be in the race.  </p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>Vince Lombardi</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
