@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>The best way to understanding is a few good examples.</p>
 
-<p>Dan Millman</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
