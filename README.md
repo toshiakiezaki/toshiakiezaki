@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
 
-<p>Brian Tracy</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
