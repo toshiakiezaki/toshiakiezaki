@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who attain the middle Dominate the whole.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>Ming-Dao Deng</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
