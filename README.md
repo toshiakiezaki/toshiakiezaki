@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no self-discovery without pain and loss.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>Anita Krizzan</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
