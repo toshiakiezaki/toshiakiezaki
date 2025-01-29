@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>William Faulkner</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
