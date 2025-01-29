@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>Productize your perspective.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
