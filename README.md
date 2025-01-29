@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>Charles Spurgeon</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
