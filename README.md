@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>Deepak Chopra</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
