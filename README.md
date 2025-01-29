@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>Alexandre Dumas</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
