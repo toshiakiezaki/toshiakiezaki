@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normal is the average of deviance.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>Rita Mae Brown</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
