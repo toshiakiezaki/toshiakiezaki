@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only time you run out of chances is when you stop taking them.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>Unknown</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
