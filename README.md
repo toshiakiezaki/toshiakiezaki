@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The question is not what you look at, but what you see.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>Henry David Thoreau</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
