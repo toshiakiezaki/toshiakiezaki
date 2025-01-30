@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
