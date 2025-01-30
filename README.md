@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>Bob Proctor</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
