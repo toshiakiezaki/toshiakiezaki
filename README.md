@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>Isaac Newton</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
