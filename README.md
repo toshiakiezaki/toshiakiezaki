@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
