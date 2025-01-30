@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Oprah Winfrey</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
