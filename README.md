@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>Yoko Ono</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
