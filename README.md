@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>I live by letting things happen.</p>
 
-<p>Charlie Chaplin</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
