@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
 
-<p>Epictetus</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
