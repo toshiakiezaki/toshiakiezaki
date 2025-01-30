@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>Socrates</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
