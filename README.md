@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>T.S. Eliot</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
