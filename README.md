@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't walk away from things that I think are unfinished.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
