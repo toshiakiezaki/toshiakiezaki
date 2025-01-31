@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the expression of one's values.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>Ayn Rand</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
