@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
