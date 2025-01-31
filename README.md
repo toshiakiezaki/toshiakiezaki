@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>Earl Nightingale</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
