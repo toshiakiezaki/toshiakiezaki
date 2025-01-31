@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The river that flows in you also flows in me.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Kabir</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
