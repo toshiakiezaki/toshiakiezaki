@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>Estee Lauder</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
