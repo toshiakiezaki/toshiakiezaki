@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Sun Tzu</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
