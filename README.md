@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>Unknown</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
