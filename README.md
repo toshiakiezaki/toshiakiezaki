@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would you do if you weren't afraid?</p>
+<p>The quality of your life is determined by the quality of your thoughts.</p>
 
-<p>Spencer Johnson</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
