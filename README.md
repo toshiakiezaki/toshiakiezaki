@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>Carl Jung</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
