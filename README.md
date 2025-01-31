@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
