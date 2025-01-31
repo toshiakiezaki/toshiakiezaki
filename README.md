@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is knowing what not to fear.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>Plato</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
