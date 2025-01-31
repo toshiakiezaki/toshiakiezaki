@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
