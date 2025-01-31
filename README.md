@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ability is a poor man's wealth.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>John Wooden</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
