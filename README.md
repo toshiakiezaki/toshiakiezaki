@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you move beyond your fear, you feel free.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>Spencer Johnson</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
