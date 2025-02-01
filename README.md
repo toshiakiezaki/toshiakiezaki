@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
