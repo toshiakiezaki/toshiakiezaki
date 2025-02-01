@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Christopher Reeve</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
