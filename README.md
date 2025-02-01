@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be - don't try to become </p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>Osho</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
