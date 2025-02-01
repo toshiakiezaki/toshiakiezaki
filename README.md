@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great acts are made up of small deeds.</p>
+<p>Be - don't try to become </p>
 
-<p>Lao Tzu</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
