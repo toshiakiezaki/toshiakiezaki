@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>Sydney Smith</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
