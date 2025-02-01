@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Dogen</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
