@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're on earth. There's no cure for that.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>Samuel Beckett</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
