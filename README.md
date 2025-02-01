@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The impossible can always be broken down into possibilities.</p>
+<p>The sun is new each day.</p>
 
-<p>Unknown</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
