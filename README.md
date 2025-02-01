@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Against the assault of laughter nothing can stand.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>Mark Twain</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
