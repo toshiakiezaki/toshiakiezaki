@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>Paulo Coelho</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
