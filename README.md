@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>George Washington</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
