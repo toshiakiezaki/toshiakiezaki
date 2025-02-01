@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>All that we see or seem is but a dream within a dream.</p>
 
-<p>Dogen</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
