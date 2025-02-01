@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We suffer more often in imagination than in reality.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>Seneca</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
