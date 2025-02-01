@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
 
-<p>Confucius</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
