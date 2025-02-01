@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What loneliness is more lonely than distrust?</p>
+<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
 
-<p>George Eliot</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
