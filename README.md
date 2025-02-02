@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In spite of everything, I shall rise again.</p>
+<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
 
-<p>Vincent van Gogh</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
