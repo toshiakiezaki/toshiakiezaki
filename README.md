@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>Ayn Rand</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
