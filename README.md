@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never settle for the crumbs of life.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>Og Mandino</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
