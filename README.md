@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>Michael Jordan</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
