@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
+<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
 
-<p>Thomas Jefferson</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
