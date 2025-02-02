@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who fails to plan, plans to fail.</p>
+<p>When you reach the top of the mountain, keep climbing. </p>
 
-<p>Unknown</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
