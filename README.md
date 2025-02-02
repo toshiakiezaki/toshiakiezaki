@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
