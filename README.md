@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man can get rich himself unless he enriches others.</p>
+<p>In spite of everything, I shall rise again.</p>
 
-<p>Earl Nightingale</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
