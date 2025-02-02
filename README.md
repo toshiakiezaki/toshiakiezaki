@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>C. Sean McGee</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
