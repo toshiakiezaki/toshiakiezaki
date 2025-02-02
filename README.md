@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
