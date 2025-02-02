@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Few things are more deceptive than memories.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
