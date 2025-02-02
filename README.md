@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>Bob Marley</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
