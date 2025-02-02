@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
