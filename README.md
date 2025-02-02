@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>Elvis Presley</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
