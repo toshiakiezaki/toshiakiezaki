@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>Les Brown</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
