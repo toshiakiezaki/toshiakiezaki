@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>Albus Dumbledore</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
