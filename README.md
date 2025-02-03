@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a journey, not a destination.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>Dan Millman</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
