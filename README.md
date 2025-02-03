@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be where your enemy is not.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>Sun Tzu</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
