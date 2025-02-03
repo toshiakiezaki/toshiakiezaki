@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>Be where your enemy is not.</p>
 
-<p>Paulo Coelho</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
