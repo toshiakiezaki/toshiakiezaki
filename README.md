@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>Ronald Reagan</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
