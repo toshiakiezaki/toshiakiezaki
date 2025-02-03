@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>Unknown</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
