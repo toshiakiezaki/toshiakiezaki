@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are what you believe yourself to be.</p>
+<p>Life is a journey, not a destination.</p>
 
-<p>Paulo Coelho</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
