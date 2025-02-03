@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>You are what you believe yourself to be.</p>
 
-<p>Tony Robbins</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
