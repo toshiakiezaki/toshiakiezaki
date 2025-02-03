@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>Ralph Marston</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
