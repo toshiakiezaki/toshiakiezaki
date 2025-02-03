@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>W. Clement Stone</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
