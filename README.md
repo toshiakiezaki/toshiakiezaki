@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go as far as you can see and you will see further.  </p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>Zig Ziglar</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
