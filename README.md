@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>Failure is an option, fear is not.</p>
 
-<p>Unknown</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
