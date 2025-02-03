@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Once you choose hope, anything's possible.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>Christopher Reeve</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
