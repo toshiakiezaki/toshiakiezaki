@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>When you reach the top of the mountain, keep climbing. </p>
 
-<p>Confucius</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
