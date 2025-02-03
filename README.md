@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be of use to the world is the only way to be happy.</p>
+<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
