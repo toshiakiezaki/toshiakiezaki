@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>Harry S. Truman</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
