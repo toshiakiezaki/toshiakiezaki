@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>The clock indicates the moment...but what does eternity indicate?</p>
 
-<p>St. Jerome</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
