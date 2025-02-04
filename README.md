@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything has beauty but not everyone sees it.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>Confucius</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
