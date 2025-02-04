@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>Take away love and our earth is a tomb.</p>
 
-<p>T.S. Eliot</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
