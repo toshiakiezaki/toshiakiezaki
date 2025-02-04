@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is never easy, but always possible.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>Barack Obama</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
