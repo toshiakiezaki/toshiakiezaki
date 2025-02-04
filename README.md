@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>David Brinkley</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
