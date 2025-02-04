@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
