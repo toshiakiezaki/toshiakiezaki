@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Relax. Nothing is under control.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>Adi Da Samraj</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
