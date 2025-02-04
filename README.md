@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>Wit is educated insolence.</p>
 
-<p>Henry David Thoreau</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
