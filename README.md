@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whenever you do a thing, act as if all the world were watching.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>Thomas Jefferson</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
