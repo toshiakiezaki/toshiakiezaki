@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Thomas Edison</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
