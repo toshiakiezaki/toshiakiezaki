@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>Whenever you do a thing, act as if all the world were watching.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
