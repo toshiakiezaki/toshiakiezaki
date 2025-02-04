@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no value in anything until it is finished. </p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>Genghis Khan</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
