@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take away love and our earth is a tomb.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>Robert Browning</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
