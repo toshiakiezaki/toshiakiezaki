@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
 
-<p>Huang Po</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
