@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>James Cameron</p>
+<p>Norman Vaughan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
