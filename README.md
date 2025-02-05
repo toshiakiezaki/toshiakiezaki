@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>Criss Jami</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
