@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has the name of life, but in reality it is death.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>Heraclitus</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
