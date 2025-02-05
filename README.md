@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big and dare to fail.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>Norman Vaughan</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
