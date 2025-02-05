@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a question and how we live it is our answer.</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>Gary Keller</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
