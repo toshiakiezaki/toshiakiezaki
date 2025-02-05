@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>Emily Dickinson</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
