@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>Every failure brings with it the seed of an equivalent success.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
