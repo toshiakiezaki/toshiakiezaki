@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Albert Einstein</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
