@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>Ayn Rand</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
