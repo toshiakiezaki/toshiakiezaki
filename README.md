@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>Maxime Lagace</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
