@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>Alan Watts</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
