@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is never easy, but always possible.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Barack Obama</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
