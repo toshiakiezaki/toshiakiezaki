@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>Robert Greene</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
