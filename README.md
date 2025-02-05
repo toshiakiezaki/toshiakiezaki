@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
+<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
