@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Stephen Hawking</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
