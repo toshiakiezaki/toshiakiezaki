@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>Chinese Proverb</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
