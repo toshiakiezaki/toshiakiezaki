@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Richard Bach</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
