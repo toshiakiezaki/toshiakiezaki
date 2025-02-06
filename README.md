@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>Jonathan Swift</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
