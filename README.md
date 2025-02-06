@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>Marcus Aurelius</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
