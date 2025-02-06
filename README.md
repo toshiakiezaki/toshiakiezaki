@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>Anne Frank</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
