@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't learn to do, but learn in doing.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>Samuel Butler</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
