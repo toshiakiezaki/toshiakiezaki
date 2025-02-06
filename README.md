@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>Steve Jobs</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
