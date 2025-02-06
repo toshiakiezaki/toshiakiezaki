@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>Mother Teresa</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
