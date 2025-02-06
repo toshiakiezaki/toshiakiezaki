@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Rita Mae Brown</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
