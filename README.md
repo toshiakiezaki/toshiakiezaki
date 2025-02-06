@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>T.S. Eliot</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
