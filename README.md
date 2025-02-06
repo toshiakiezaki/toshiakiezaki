@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Insanity: doing the same thing over and over again and expecting different results.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>Albert Einstein</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
