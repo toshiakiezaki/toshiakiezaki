@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>Og Mandino</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
