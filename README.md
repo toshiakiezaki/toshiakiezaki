@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
