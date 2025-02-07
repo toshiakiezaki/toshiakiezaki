@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>Nelson Mandela</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
