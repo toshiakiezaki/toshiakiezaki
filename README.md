@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>Barack Obama</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
