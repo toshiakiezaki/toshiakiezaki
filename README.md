@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day without laughter is a day wasted.</p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>Charlie Chaplin</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
