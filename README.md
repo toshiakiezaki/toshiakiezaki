@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>William James</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
