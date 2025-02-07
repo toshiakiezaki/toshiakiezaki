@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>William James</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
