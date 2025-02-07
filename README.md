@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
 
-<p>Brian Tracy</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
