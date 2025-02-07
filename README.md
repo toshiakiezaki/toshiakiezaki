@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>The more you know, the more you know you don't know.</p>
 
-<p>Maxime Lagace</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
