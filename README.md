@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>Richard Bach</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
