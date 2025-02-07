@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the average of the five people you spend most time with.</p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>Jim Rohn</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
