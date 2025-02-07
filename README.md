@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Confucius</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
