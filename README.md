@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>Zig Ziglar</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
