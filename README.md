@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can live without money, but I cannot live without love.</p>
+<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
 
-<p>Judy Garland</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
