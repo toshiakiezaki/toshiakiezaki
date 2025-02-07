@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be patient and calm; no one can catch fish in anger.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Herbert Hoover</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
