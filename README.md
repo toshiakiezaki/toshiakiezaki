@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>Marilyn Monroe</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
