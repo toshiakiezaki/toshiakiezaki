@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>Roy T. Bennett</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
