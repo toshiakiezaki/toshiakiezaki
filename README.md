@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>Pema Chodron</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
