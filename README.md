@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>Elon Musk</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
