@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a question and how we live it is our answer.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>Gary Keller</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
