@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
