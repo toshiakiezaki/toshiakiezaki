@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>T.S. Eliot</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
