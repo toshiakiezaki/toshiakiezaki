@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All great truths begin as blasphemies.</p>
+<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
 
-<p>George Bernard Shaw</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
