@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing external to you has any power over you.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
