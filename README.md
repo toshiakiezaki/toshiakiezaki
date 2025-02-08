@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best fighter is never angry.</p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>Lao Tzu</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
