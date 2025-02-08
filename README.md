@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
 
-<p>Kamal Ravikant</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
