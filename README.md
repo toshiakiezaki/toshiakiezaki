@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>Genghis Khan</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
