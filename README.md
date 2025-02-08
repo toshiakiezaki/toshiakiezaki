@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>Dogen</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
