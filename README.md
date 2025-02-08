@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>Robert Greene</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
