@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you know, the more you know you don't know.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>Aristotle</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
