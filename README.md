@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>Brian Tracy</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
