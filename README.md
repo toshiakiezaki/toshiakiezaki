@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>Peter A. Cohen</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
