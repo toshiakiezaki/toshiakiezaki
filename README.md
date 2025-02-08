@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
 
-<p>Nelson Mandela</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
