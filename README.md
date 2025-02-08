@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>Criss Jami</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
