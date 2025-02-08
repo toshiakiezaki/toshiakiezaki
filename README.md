@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>Charles Dickens</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
