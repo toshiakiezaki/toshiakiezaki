@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>Spencer Johnson</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
