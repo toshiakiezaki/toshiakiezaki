@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Thomas Jefferson</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
