@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
