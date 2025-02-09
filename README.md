@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Art of Peace begins with you.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
