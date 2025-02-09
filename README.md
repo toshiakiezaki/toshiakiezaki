@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>Beverly Sills</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
