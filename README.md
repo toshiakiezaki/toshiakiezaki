@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is like money, easier made than kept.</p>
+<p>I do not seek. I find.</p>
 
-<p>Samuel Butler</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
