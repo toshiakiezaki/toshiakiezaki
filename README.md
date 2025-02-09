@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a constant series of opportunities.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
