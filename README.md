@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>Robin Williams</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
