@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To perceive is to suffer.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>Aristotle</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
