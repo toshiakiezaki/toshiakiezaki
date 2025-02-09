@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I dream my painting and I paint my dream.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Vincent van Gogh</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
