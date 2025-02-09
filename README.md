@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>Huang Po</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
