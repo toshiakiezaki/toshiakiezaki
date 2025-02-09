@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Dogen</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
