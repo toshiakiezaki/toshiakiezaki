@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>Pema Chodron</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
