@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is the expansion of happiness.</p>
+<p>Waste not fresh tears over old griefs.</p>
 
-<p>Deepak Chopra</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
