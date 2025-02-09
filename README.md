@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>Oprah Winfrey</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
