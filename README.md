@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>Thomas Jefferson</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
