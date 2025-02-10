@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your home is where your thoughts find peace.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>Zen Proverb</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
