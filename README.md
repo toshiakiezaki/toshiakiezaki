@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>Fears are nothing more than a state of mind.</p>
 
-<p>Og Mandino</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
