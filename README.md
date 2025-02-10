@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I've always tried to go a step past wherever people expected me to end up.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>Beverly Sills</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
