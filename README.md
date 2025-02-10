@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All know the way; few actually walk it. </p>
+<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
 
-<p>Bodhidharma</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
