@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>Alan Watts</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
