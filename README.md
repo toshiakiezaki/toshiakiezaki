@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>Unknown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
