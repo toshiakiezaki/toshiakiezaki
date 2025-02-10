@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>All know the way; few actually walk it. </p>
 
-<p>Les Brown</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
