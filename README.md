@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>Walt Whitman</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
