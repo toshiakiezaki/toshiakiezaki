@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>Jack Butcher</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
