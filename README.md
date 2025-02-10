@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>Estee Lauder</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
