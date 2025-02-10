@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>Amelia Earhart</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
