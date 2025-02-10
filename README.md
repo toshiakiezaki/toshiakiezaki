@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>Sathya Sai Baba</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
