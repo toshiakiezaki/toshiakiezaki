@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>Confucius</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
