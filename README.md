@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>Zig Ziglar</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
