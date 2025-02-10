@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intense love does not measure, it just gives.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>Mother Teresa</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
