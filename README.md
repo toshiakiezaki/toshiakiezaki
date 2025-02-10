@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every act of creation is first an act of destruction.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Pablo Picasso</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
