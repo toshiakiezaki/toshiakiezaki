@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not stop thinking of life as an adventure.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
