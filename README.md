@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>Kabir</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
