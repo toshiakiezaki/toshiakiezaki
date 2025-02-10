@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Lao Tzu</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
