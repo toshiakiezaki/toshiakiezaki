@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
 
-<p>Henry David Thoreau</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
