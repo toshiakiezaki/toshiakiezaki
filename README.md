@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>Richard Bach</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
