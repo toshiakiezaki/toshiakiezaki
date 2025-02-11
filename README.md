@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final; failure is never fatal.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>Conrad Hilton</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
