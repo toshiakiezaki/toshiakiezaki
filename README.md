@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>We think too much and feel too little.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
