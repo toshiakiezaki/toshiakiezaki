@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe that life is worth living and your belief will help create the fact.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>William James</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
