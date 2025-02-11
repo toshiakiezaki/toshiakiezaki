@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no sadder sight than a young pessimist.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>Mark Twain</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
