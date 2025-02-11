@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you put water into a cup, it becomes the cup.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>Bruce Lee</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
