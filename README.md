@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Abundance of knowledge does not teach men to be wise.</p>
+<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
 
-<p>Heraclitus</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
