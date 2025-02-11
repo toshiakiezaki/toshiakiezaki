@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man should fear never beginning to live.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>Marcus Aurelius</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
