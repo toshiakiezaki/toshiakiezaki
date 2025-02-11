@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>There is no truth. There is only perception.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
