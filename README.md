@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing endures but change.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>Heraclitus</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
