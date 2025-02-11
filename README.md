@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>Conrad Hilton</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
