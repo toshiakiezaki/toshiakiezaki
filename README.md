@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>Maxime Lagace</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
