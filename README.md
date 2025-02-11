@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe and you're halfway there.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>Harry S. Truman</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
