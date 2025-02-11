@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We think too much and feel too little.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Charlie Chaplin</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
