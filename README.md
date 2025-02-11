@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>Ralph Marston</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
