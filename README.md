@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a long lesson in humility. </p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>James Matthew Barrie</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
