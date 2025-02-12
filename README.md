@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>Genghis Khan</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
