@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>Barack Obama</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
