@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the dancer and you are the dance.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>Eckhart Tolle</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
