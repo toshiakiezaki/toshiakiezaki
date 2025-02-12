@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man must use what he has, not hope for what is not.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
