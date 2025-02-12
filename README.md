@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Nikola Tesla</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
