@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
