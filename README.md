@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being entirely honest with oneself is a good exercise.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>Sigmund Freud</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
