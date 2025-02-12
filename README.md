@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Epictetus</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
