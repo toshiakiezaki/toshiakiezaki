@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>Ray Bradbury</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
