@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>Thomas Jefferson</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
