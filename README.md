@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no sadder sight than a young pessimist.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>Mark Twain</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
