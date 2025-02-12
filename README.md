@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>Maya Angelou</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
