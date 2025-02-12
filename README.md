@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest in reason; move in passion.</p>
+<p>Discipline yourself, and others won't need to.</p>
 
-<p>Kahlil Gibran</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
