@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it is dark enough, you can see the stars.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
