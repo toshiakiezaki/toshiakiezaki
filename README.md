@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>Betty White</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
