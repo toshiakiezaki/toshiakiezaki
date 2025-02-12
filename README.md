@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline yourself, and others won't need to.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>John Wooden</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
