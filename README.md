@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
 
-<p>Alfred Adler</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
