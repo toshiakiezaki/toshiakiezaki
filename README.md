@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>Will Rogers</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
