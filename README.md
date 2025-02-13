@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, like the soul, never returns once it is gone.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>Publilius Syrus</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
