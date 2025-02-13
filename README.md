@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Associate with people who are likely to improve you.  </p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Seneca</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
