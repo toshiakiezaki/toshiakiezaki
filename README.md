@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Correct what you can. Learn from what you can't.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>Toni Morrison</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
