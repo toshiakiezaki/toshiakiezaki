@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>John Wooden</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
