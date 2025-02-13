@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>Les Brown</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
