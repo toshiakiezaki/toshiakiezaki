@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>Pema Chodron</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
