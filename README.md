@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the change that you want to see in the world.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
