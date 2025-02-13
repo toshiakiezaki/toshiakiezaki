@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to be looked over than overlooked.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Mae West</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
