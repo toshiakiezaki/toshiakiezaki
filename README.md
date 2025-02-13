@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is little success where there is little laughter.</p>
+<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
 
-<p>Andrew Carnegie</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
