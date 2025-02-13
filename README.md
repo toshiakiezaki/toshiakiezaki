@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens in life, never lose sight of who you are.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>Yanni</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
