@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freeing oneself from words is liberation. </p>
+<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
 
-<p>Bodhidharma</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
