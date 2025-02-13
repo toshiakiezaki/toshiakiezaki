@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>Keep your friends close, and your enemies closer.</p>
 
-<p>Chinese Proverb</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
