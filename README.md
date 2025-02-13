@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>It is well known that those who do not trust themselves never trust others.</p>
 
-<p>Albert Einstein</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
