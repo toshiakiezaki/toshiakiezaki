@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
 
-<p>Carol Burnett</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
