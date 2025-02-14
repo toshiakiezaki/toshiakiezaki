@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>Earl Nightingale</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
