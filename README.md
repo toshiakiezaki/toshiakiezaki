@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>Pablo Picasso</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
