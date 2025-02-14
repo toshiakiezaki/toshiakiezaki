@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>Virginia Woolf</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
