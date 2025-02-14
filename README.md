@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>Dalai Lama</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
