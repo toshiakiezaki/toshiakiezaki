@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your life a mission - not an intermission.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>Unknown</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
