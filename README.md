@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>Barack Obama</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
