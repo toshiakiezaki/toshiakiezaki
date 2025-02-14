@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All happiness depends on courage and work.</p>
+<p>Only put off until tomorrow what you are willing to die having left undone.</p>
 
-<p>Honore de Balzac</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
