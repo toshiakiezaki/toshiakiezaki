@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to lose than to win.  </p>
+<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
 
-<p>Wayne Gretzky</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
