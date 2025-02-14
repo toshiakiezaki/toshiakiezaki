@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners don't Quit. That's why they Win.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>Unknown</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
