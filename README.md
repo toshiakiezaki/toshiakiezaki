@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Show up even when you don't want to show up.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>Steve Harvey</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
