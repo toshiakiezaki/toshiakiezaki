@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
