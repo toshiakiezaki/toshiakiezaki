@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Life is trying things to see if they work.</p>
 
-<p>Chinese Proverb</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
