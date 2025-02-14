@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no shortcuts to any place worth going. </p>
+<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
 
-<p>Beverly Sills</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
