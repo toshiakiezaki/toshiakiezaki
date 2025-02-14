@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not about what it is, it's about what it can become.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Dr. Seuss</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
