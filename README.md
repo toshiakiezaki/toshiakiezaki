@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Christopher Reeve</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
