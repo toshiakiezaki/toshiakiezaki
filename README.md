@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>Peter A. Cohen</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
