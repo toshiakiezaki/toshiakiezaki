@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is worthwhile in itself.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>Amelia Earhart</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
