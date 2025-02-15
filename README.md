@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>Robert Greene</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
