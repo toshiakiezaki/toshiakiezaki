@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>Chinese Proverb</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
