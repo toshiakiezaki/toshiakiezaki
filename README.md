@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>Steve Harvey</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
