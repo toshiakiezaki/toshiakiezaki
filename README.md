@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to learn late than never.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>Publilius Syrus</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
