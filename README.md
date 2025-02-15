@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>Deepak Chopra</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
