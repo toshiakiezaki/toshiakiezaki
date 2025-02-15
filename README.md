@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the hand that erases can write the true thing.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>Meister Eckhart</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
