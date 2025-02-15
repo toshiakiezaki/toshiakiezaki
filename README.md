@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>It is better to learn late than never.</p>
 
-<p>George Bernard Shaw</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
