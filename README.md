@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To become what you are not, behave as you do not.</p>
+<p>We think too much and feel too little.</p>
 
-<p>T.S. Eliot</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
