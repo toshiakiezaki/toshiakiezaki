@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people feel the rain. Others just get wet. </p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>Bob Dylan</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
