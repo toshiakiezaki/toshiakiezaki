@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little impatience will spoil great plans.</p>
+<p>Trust is the foundation of great leadership.</p>
 
-<p>Chinese Proverb</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
