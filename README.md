@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>Richard Bach</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
