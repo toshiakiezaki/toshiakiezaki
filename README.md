@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>Seungsahn</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
