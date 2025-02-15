@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We think too much and feel too little.</p>
+<p>From morning till night, we should never rely on a single thing.</p>
 
-<p>Charlie Chaplin</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
