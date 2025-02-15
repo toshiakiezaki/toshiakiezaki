@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person is only by the thoughts that he chooses.</p>
+<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
 
-<p>James Allen</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
