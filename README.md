@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>Tony Robbins</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
