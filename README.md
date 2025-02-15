@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
 
-<p>Shunryu Suzuki</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
