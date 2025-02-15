@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way round is through.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>Robert Frost</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
