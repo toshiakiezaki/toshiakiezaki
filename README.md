@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>Les Brown</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
