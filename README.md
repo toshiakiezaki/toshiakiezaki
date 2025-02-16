@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>Anne Frank</p>
+<p>David Brinkley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
