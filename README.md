@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
 
-<p>David Brinkley</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
