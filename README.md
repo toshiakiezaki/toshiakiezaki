@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>When you reach the top of the mountain, keep climbing. </p>
 
-<p>Peter A. Cohen</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
