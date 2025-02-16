@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You just can't beat the person who never gives up. </p>
+<p>As you think, so shall you become. </p>
 
-<p>Babe Ruth</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
