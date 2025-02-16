@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>Zig Ziglar</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
