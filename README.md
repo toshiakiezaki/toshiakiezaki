@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>The attempt to escape from pain, is what creates more pain.</p>
 
-<p>Huang Po</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
