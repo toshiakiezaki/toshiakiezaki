@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>Walt Whitman</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
