@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>Tony Robbins</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
