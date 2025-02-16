@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>Christopher Columbus</p>
+<p>Babe Ruth</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
