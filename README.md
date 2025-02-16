@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
