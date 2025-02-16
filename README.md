@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>See what you're doing wrong, laugh at it, change and do better.</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>Spencer Johnson</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
