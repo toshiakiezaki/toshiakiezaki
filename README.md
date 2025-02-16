@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you think, so shall you become. </p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>Bruce Lee</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
