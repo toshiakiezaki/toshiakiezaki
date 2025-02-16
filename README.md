@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go for it now. The future is promised to no one.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>Wayne Dyer</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
