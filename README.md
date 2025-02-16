@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>Zen Proverb</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
