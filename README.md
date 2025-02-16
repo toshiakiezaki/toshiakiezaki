@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>Desire for the fruits of work must never be your motive in working.</p>
 
-<p>Gabor Mate</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
