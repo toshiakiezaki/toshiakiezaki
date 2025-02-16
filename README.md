@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>Sun Tzu</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
