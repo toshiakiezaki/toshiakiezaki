@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Orison Swett Marden</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
