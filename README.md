@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>Maya Angelou</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
