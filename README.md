@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
 
-<p>Criss Jami</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
