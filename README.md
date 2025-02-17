@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your world is a living expression of how you are using and have used your mind.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>Earl Nightingale</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
