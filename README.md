@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
 
-<p>Christopher McCandless</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
