@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>Franz Kafka</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
