@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
