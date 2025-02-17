@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If they wrote it to make money, don't read it.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>Naval Ravikant</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
