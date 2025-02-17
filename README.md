@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>Roy T. Bennett</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
