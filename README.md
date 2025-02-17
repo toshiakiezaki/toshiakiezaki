@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>So long as we are being remembered, we remain alive.</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
