@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time goes from present to past.</p>
+<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
