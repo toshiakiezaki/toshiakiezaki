@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Charles Dickens</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
