@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>Time goes from present to past.</p>
 
-<p>Chinese Proverb</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
