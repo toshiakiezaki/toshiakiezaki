@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>Vince Lombardi</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
