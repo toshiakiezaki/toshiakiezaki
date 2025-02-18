@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become what we believe.</p>
+<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
 
-<p>Lolly Daskal</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
