@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>Anita Krizzan</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
