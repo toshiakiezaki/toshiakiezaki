@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>Christopher McCandless</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
