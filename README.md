@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>Earl Nightingale</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
