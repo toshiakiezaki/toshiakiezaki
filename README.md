@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One always begins to forgive a place as soon as it's left behind.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>Charles Dickens</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
