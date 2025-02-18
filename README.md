@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without the confidence, nothing can be accomplished.</p>
+<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
