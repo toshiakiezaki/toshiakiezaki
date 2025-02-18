@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
 
-<p>Jim Rohn</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
