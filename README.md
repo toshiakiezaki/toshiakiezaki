@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>Sun Tzu</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
