@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>One always begins to forgive a place as soon as it's left behind.</p>
 
-<p>Lao Tzu</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
