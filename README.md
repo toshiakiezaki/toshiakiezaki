@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
