@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>We become what we believe.</p>
 
-<p>Samuel Butler</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
