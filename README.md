@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By changing nothing, nothing changes.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>Celestine Chua</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
