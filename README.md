@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
+<p>When it hurts - observe. Life is trying to teach you something.</p>
 
-<p>Seungsahn</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
