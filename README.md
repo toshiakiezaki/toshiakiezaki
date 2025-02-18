@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>Thomas Jefferson</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
