@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>Alexandre Dumas</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
