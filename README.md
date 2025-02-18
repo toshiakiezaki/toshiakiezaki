@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be where your enemy is not.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>Sun Tzu</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
