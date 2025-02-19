@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul is neither born, and nor does it die.</p>
+<p>You may delay, but time will not.</p>
 
-<p>Bhagavad Gita</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
