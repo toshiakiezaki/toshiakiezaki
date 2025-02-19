@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lying can never save us from another lie.</p>
+<p>Sometimes you have to travel a long way to find what is near.</p>
 
-<p>Vaclav Havel</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
