@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>John Wooden</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
