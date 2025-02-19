@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>Buddha</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
