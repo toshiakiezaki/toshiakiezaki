@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>Paulo Coelho</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
