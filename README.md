@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may delay, but time will not.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Benjamin Franklin</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
