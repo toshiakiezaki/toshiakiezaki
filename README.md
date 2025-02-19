@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>Winston Churchill</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
