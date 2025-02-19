@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>Bodhidharma</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
