@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>Pablo Picasso</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
