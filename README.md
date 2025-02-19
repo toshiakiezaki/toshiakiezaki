@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>Dan Millman</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
