@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
 
-<p>Robin Sharma</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
