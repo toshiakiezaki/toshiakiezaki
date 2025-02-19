@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>Jack Butcher</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
