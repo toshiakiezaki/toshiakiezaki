@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothing of our thoughts.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>Jonathan Swift</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
