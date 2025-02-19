@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Sometimes you have to travel a long way to find what is near.</p>
 
-<p>Chinese Proverb</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
