@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each problem has a positive side.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>Og Mandino</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
