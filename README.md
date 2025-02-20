@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>Yanni</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
