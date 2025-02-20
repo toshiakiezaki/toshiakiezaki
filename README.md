@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Winston Churchill</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
