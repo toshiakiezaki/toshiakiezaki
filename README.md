@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Gary Keller</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
