@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is love and love is life.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>Elvis Presley</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
