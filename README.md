@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Choose to be optimistic, it feels better.</p>
+<p>Life is love and love is life.</p>
 
-<p>Dalai Lama</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
