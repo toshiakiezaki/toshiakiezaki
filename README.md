@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>Write to help yourself, publish to help others.</p>
 
-<p>Brian Tracy</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
