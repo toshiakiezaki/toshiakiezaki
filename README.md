@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>D. H. Lawrence</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
