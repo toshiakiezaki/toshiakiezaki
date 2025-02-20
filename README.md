@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>Celestine Chua</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
