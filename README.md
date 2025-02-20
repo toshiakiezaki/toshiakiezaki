@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
 
-<p>Criss Jami</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
