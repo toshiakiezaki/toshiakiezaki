@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>Joyce Meyer</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
