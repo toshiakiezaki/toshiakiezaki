@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
