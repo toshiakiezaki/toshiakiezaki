@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
