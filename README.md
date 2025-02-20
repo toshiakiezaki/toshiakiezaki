@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>The man who removes a mountain begins by carrying away small stones.</p>
 
-<p>Spencer Johnson</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
