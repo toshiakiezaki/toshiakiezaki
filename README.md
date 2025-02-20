@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are willing to believe anything other than the truth.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
