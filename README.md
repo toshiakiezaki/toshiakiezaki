@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Write to help yourself, publish to help others.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>Jack Butcher</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
