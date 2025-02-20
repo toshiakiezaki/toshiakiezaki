@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no coming to consciousness without pain</p>
+<p>Each problem has a positive side.</p>
 
-<p>Carl Jung</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
