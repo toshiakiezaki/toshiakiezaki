@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>Roy T. Bennett</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
