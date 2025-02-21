@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>William Faulkner</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
