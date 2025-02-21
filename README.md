@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you done it, it ain't bragging.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>Walt Whitman</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
