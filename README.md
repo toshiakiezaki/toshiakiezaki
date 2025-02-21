@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to 'find out if it will work out' is to do it.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>Simon Sinek</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
