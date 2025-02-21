@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To belittle, you have to be little.</p>
+<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
 
-<p>Kahlil Gibran</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
