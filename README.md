@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
