@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Barack Obama</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
