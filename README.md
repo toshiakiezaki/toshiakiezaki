@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>Anita Krizzan</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
