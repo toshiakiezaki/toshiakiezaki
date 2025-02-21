@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>Alan Watts</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
