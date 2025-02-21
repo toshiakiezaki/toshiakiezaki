@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
