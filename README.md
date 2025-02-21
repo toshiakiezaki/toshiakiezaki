@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is within the reach of just about everyone.</p>
+<p>When it hurts - observe. Life is trying to teach you something.</p>
 
-<p>Lolly Daskal</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
