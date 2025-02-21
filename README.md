@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>Albert Einstein</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
