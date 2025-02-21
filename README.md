@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
 
-<p>Chinese Proverb</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
