@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>Betty White</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
