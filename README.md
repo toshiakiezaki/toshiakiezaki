@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become brave by doing brave acts.</p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>Aristotle</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
