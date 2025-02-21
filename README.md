@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>Napoleon Hill</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
