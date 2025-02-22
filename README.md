@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>Goals are the fuel in the furnace of achievement.</p>
 
-<p>Ayn Rand</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
