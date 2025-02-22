@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have the mind or you can have the moment.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>Naval Ravikant</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
