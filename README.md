@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>Alexander Pope</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
