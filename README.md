@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Correct what you can. Learn from what you can't.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>Toni Morrison</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
