@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
+<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
 
-<p>Bhagavad Gita</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
