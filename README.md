@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little impatience will spoil great plans.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>Chinese Proverb</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
