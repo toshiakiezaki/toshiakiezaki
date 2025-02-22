@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Eric Hoffer</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
