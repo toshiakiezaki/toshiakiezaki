@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</p>
+<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
 
-<p>Og Mandino</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
