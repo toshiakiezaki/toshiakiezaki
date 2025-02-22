@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise learn many things from their enemies.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>Aristophanes</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
