@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
