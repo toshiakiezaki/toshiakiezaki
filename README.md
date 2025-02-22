@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let making a living prevent you from making a life.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>John Wooden</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
