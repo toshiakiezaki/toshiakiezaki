@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>Ray Bradbury</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
