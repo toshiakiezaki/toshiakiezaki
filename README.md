@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything worth doing is worth doing slowly.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>Mae West</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
