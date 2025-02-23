@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>Roy T. Bennett</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
