@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The prettiest eyes have cried the most.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Unknown</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
