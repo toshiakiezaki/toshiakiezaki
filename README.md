@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no self-discovery without pain and loss.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>Anita Krizzan</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
