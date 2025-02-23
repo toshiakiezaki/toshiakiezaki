@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men do not attract which they want but that which they are.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>James Allen</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
