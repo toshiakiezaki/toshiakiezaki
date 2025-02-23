@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>Simon Sinek</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
