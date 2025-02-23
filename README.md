@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>Cleverness is not wisdom.</p>
 
-<p>Aristotle</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
