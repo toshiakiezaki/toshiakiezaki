@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>Josh Waitzkin</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
