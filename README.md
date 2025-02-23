@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>Celestine Chua</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
