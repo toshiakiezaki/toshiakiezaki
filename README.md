@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A needle is not sharp at both ends. </p>
+<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
 
-<p>Chinese Proverb</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
