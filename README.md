@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>Spencer Johnson</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
