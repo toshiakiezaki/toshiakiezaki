@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>Ray Bradbury</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
