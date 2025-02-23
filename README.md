@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>Honore de Balzac</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
