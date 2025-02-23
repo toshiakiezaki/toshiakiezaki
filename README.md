@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
 
-<p>Dan Millman</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
