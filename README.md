@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>A needle is not sharp at both ends. </p>
 
-<p>Walt Disney</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
