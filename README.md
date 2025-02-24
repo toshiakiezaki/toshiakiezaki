@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.</p>
+<p>Like it or not, this moment is all we really have to work with.</p>
 
-<p>Adi Da Samraj</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
