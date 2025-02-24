@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>What you become is far more important than what you get.</p>
 
-<p>Chinese Proverb</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
