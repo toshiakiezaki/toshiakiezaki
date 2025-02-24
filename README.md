@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>Aristotle</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
