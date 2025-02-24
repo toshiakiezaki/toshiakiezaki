@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
