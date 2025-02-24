@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
 
-<p>Deepak Chopra</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
