@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know yourself and you will win all battles.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>Sun Tzu</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
