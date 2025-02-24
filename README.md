@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
