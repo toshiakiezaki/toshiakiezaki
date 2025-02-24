@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>You can't go forward and backwards at the same time.</p>
 
-<p>Jack London</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
