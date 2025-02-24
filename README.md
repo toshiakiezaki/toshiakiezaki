@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>Know yourself and you will win all battles.</p>
 
-<p>Seneca</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
