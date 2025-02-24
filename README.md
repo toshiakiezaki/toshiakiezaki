@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
+<p>It is not the knowing that is difficult, but the doing. </p>
 
-<p>Zig Ziglar</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
