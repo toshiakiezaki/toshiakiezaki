@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
