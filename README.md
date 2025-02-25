@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>Eckhart Tolle</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
