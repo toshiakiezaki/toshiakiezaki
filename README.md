@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You live by what you thrill to, and there's the end of it.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>D. H. Lawrence</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
