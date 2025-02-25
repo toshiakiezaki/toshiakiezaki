@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>Chinese Proverb</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
