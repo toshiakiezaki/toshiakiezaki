@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>The only people without problems are those in cemeteries.</p>
 
-<p>Colin Powell</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
