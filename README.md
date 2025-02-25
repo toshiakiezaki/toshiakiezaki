@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>Dan Millman</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
