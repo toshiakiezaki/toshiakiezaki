@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>Bob Marley</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
