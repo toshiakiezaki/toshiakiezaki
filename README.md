@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where does a thought go when it's forgotten?</p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>Sigmund Freud</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
