@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>Earl Nightingale</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
