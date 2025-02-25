@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>Zen Proverb</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
