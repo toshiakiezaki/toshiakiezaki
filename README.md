@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
 
-<p>Tony Robbins</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
