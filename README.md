@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you think, you travel, and as you love, you attract.</p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>James Allen</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
