@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>Roy T. Bennett</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
