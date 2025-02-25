@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>John Wooden</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
