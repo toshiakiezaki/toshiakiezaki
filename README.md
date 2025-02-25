@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>Charles Darwin</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
