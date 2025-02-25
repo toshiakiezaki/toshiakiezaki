@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forget safety. Live where you fear to live.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>Rumi</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
