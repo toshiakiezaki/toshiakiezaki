@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>Huang Po</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
