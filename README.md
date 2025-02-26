@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Richard Bach</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
