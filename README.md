@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Dan Brown</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
