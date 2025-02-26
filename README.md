@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>Ray Bradbury</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
