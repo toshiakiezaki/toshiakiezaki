@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
