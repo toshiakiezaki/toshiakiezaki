@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>John Lennon</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
