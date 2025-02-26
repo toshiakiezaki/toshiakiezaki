@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience never fears midnight knocking.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>Chinese Proverb</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
