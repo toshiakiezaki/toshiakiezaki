@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>Rumi</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
