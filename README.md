@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>Create each day anew.</p>
 
-<p>Mark Manson</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
