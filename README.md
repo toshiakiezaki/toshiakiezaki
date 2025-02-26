@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>The truth is not for all men, but for those who seek it.</p>
 
-<p>Mark Manson</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
