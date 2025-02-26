@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>Kahlil Gibran</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
