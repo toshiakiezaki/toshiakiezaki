@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Begin now to be what you will be hereafter.</p>
+<p>The wiser you get, the less you care to look like a fool.</p>
 
-<p>St. Jerome</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
