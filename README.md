@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>Emily Dickinson</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
