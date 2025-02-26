@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>William James</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
