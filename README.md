@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
 
-<p>Buddha</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
