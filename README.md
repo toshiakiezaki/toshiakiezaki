@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Create each day anew.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
