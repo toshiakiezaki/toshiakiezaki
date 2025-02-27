@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>Elon Musk</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
