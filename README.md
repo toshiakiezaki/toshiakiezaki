@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definitions belong to the definers, not the defined.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Toni Morrison</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
