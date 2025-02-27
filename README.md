@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>Zig Ziglar</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
