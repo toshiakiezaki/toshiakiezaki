@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is an option, fear is not.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>James Cameron</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
