@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know the more one does the more one can do.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>Amelia Earhart</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
