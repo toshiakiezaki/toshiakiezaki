@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>Brian Tracy</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
