@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>Steve Maraboli</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
