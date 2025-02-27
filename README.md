@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important battle is one to conquer yourself.</p>
+<p>Failure is an option, fear is not.</p>
 
-<p>Yanni</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
