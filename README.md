@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>Henry David Thoreau</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
