@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>Beverly Sills</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
