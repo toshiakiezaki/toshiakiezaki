@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>Unknown</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
