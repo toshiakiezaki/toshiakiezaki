@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>Naval Ravikant</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
