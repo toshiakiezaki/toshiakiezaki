@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>Dale Carnegie</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
