@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a master of change rather than a victim of change.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>Brian Tracy</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
