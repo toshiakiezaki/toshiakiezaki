@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>Steve Maraboli</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
