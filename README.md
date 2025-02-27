@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide what your truth is. Then live it.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>Kamal Ravikant</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
