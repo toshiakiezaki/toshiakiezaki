@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
+<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
 
-<p>Alexander Graham Bell</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
