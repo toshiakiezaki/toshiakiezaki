@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>Zig Ziglar</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
