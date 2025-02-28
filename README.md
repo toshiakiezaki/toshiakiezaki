@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Avoiding danger is no safer in the long run than exposure.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>Helen Keller</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
