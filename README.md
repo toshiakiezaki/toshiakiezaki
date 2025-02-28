@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
 
-<p>Ralph Marston</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
