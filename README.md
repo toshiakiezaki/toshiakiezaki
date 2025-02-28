@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The difference between winning and losing is most often not quitting.</p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
-<p>Walt Disney</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
