@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>Meister Eckhart</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
