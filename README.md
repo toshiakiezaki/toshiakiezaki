@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is nothing but a collective hunch.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>Lily Tomlin</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
