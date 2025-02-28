@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Charles Swindoll</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
