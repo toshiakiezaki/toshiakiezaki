@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>Coco Chanel</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
