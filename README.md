@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>Kahlil Gibran</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
