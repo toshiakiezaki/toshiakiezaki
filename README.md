@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>Henry Ford</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
