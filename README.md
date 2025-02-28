@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
 
-<p>John D. Rockefeller</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
