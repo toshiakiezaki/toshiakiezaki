@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
 
-<p>Aristotle</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
