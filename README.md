@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>Steve Jobs</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
