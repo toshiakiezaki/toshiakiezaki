@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
