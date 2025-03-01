@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
 
-<p>T.S. Eliot</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
