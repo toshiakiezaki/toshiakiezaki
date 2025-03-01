@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
+<p>You miss 100% of the shots you don't take.</p>
 
-<p>Jonathan Swift</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
