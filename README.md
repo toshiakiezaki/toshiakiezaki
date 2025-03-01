@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None but ourselves can free our minds.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>Bob Marley</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
