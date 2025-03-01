@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good system shortens the road to the goal. </p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>Orison Swett Marden</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
