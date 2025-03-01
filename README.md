@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
