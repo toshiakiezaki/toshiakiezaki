@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
