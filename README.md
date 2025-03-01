@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You miss 100% of the shots you don't take.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>Wayne Gretzky</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
