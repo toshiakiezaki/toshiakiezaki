@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>Leo Tolstoy</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
