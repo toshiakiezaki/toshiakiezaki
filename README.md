@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>Charles Darwin</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
