@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination means nothing without doing.  </p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>Charlie Chaplin</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
