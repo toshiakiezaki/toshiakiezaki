@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
 
-<p>George Bernard Shaw</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
