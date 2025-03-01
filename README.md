@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>Brian Tracy</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
