@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't argue both sides, you can't argue.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>Jack Butcher</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
