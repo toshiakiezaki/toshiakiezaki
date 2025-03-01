@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who never made a mistake never tried anything new.</p>
+<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
 
-<p>Albert Einstein</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
