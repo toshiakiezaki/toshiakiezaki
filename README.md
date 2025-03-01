@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To do two things at once is to do neither.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>Publilius Syrus</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
