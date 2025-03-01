@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a good animal, true to your instincts.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>D. H. Lawrence</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
