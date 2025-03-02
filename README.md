@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
