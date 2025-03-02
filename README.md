@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>Jack London</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
