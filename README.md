@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>Earl Nightingale</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
