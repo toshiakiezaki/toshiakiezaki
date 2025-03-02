@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
 
-<p>John Wooden</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
