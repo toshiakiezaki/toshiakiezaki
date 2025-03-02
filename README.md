@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>Charles Spurgeon</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
