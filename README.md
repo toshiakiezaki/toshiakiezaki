@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>Jim Rohn</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
