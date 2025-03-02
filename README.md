@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Seungsahn</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
