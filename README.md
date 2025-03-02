@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>Helen Keller</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
