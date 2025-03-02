@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>William James</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
