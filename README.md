@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friends ask you questions; enemies question you.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>Criss Jami</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
