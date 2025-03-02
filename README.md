@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in the darkness that one finds the light.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>Meister Eckhart</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
