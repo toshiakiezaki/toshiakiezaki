@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not regret the past. Look to the future.</p>
+<p>Success is the progressive realization of a worthy goal or ideal.</p>
 
-<p>Soyen Shaku</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
