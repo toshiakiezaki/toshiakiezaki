@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
+<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
 
-<p>Tony Robbins</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
