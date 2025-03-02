@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>Celestine Chua</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
