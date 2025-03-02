@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have results or excuses, but not both.</p>
+<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
