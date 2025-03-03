@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our stories may be singular, but our destination is shared.</p>
+<p>To earn more you must learn more.</p>
 
-<p>Barack Obama</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
