@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>Someday death will take us to another star.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
