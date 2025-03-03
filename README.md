@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
 
-<p>Albus Dumbledore</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
