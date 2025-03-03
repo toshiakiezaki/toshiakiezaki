@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>Robin Williams</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
