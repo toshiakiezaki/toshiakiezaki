@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man must use what he has, not hope for what is not.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
