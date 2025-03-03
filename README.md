@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>Roy T. Bennett</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
