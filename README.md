@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To earn more you must learn more.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>Brian Tracy</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
