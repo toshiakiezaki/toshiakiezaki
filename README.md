@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
