@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>Napoleon Hill</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
