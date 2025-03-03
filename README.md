@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day provides it's own gifts.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>Marcus Aurelius</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
