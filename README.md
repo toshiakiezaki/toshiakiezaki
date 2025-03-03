@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>Charles Darwin</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
