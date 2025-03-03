@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man's worth is no greater than his ambitions.</p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>Marcus Aurelius</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
