@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>Richard Bach</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
