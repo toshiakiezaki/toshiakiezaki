@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend major time on minor things.</p>
+<p>Misfortune shows those who are not really friends.</p>
 
-<p>Jim Rohn</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
