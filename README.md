@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Someday death will take us to another star.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>Vincent van Gogh</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
