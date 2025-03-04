@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>What you resist, persists.</p>
 
-<p>Virginia Woolf</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
