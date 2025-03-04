@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>Alexandre Dumas</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
