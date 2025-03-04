@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you resist, persists.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>Carl Jung</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
