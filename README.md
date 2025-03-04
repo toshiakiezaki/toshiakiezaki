@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Bruce Lee</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
