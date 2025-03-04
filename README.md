@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
 
-<p>Estee Lauder</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
