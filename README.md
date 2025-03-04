@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>Deepak Chopra</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
