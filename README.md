@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Alexander Pope</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
