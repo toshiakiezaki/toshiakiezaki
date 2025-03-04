@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Kahlil Gibran</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
