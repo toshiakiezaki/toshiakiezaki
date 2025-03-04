@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people need and what they want may be very different.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>Elbert Hubbard</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
