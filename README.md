@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dreamers are the saviors of the worlds.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>James Allen</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
