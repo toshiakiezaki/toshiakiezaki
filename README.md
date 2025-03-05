@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>Anita Krizzan</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
