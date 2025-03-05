@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sweetest pleasure arises from difficulties overcome.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>Publilius Syrus</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
