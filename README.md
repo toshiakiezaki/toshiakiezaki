@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is only real, when shared.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>Christopher McCandless</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
