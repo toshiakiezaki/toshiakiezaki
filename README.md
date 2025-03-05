@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>Ronald Reagan</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
