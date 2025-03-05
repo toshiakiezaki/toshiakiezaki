@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wealth is of the heart, not of the purse.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>Og Mandino</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
