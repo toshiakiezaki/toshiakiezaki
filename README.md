@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing good ever comes of violence.</p>
+<p>The sweetest pleasure arises from difficulties overcome.</p>
 
-<p>Martin Luther</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
