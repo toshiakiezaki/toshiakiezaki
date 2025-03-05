@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
 
-<p>Earl Nightingale</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
