@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
 
-<p>Osho</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
