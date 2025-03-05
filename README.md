@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>When it hurts - observe. Life is trying to teach you something.</p>
 
-<p>Kamal Ravikant</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
