@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>Samuel Beckett</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
