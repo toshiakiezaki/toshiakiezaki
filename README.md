@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>Bruce Lee</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
