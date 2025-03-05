@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>Alexander Pope</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
