@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every act of creation is first an act of destruction.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>Pablo Picasso</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
