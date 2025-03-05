@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>Brian Tracy</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
