@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no excuse for not trying.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>Barack Obama</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
