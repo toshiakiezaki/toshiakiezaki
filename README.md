@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
