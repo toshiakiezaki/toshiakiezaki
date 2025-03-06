@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>Benjamin Franklin</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
