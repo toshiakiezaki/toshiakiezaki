@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>Unknown</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
