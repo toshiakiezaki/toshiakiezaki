@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't set your own goals by what other people make important.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>Lolly Daskal</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
