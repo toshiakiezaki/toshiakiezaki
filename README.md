@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All we have to decide is what to do with the time that is given to us.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
