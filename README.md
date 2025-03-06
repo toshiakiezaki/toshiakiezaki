@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life should be touched, not strangled.  </p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>Ray Bradbury</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
