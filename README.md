@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smile, breathe and go slowly.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
