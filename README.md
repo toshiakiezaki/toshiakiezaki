@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ability is a poor man's wealth.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>John Wooden</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
