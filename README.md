@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your life a mission - not an intermission.</p>
+<p>You will not do incredible things without an incredible dream.</p>
 
-<p>Unknown</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
