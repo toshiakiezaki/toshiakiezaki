@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will not do incredible things without an incredible dream.</p>
+<p>Fools resist. The wise embrace.</p>
 
-<p>John Eliot</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
