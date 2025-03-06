@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>The businessman's tool is value.</p>
 
-<p>Naval Ravikant</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
