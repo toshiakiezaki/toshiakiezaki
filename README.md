@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>Josh Waitzkin</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
