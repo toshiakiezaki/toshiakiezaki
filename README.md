@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be royal in your own fashion: act like a king to be treated like one.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>Robert Greene</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
