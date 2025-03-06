@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either write something worth reading or do something worth writing.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>Benjamin Franklin</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
