@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>Kabir</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
