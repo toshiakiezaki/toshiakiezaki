@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools resist. The wise embrace.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
-<p>Maxime Lagace</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
