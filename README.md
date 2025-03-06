@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words without actions are the assassins of idealism.</p>
+<p>Make your life a mission - not an intermission.</p>
 
-<p>Herbert Hoover</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
