@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not the outcome. I am never the result. I am only the effort.</p>
+<p>All we have to decide is what to do with the time that is given to us.</p>
 
-<p>Kamal Ravikant</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
