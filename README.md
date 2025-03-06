@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>Roy T. Bennett</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
