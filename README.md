@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time heals what reason cannot.  </p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>Seneca</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
