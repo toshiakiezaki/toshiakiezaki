@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>Eric Hoffer</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
