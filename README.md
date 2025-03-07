@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You miss 100% of the shots you don't take.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Wayne Gretzky</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
