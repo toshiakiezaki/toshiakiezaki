@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is worthwhile in itself.</p>
+<p>Every day do something that will inch you closer to a better tomorrow.</p>
 
-<p>Amelia Earhart</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
