@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing has more strength than dire necessity.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>Euripides</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
