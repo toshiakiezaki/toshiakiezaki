@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
+<p>True prayer has no set form.</p>
 
-<p>John Carmack</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
