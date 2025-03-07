@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
 
-<p>Wayne Dyer</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
