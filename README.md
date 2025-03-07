@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is simply what our feelings do to us.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>Honore de Balzac</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
