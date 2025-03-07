@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Eric Hoffer</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
