@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Kabir</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
