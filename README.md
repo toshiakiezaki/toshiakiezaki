@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
