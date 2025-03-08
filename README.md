@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
