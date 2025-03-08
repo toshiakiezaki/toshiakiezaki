@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Vince Lombardi</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
