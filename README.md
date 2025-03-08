@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Little by little, one travels far.</p>
 
-<p>Isaac Newton</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
