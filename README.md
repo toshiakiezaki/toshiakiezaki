@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>Unknown</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
