@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest fears lie in anticipation.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>Honore de Balzac</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
