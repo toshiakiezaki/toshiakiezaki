@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>Tony Robbins</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
