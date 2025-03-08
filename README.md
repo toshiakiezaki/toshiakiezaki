@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
+<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
 
-<p>Mother Teresa</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
