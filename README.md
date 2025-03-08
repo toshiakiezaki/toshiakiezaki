@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>Lao Tzu</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
