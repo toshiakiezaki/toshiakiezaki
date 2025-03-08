@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't blame others. it won't make you a better person.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>Lolly Daskal</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
