@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Receive without complaint, Work with fate.</p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
