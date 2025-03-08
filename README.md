@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>Jack Kerouac</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
