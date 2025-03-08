@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>Seneca</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
