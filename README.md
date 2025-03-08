@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>Rumi</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
