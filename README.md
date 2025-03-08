@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>Bruce Lee</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
