@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>Zig Ziglar</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
