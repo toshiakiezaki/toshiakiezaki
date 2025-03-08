@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tradition is the illusion of permanence. </p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>Woody Allen</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
