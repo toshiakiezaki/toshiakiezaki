@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
