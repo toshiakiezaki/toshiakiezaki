@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let anyone define you. You define yourself.</p>
+<p>An intelligent person hires people who are more intelligent than he is.</p>
 
-<p>Billie Jean King</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
