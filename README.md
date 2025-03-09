@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no mistakes in life, only lessons.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>Robin Sharma</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
