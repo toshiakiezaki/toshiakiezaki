@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
 
-<p>Laurence J. Peter</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
