@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>Sigmund Freud</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
