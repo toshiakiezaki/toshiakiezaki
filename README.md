@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>Ronald Reagan</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
