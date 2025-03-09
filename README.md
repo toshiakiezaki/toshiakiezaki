@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
