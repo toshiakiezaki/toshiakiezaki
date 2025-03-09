@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
 
-<p>Mother Teresa</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
