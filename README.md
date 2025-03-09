@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>Albus Dumbledore</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
