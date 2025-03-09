@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe and you're halfway there.</p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
-<p>Harry S. Truman</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
