@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>Dogen</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
