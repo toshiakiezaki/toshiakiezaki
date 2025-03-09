@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>Steve Harvey</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
