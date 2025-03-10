@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Euripides</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
