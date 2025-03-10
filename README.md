@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Leo Tolstoy</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
