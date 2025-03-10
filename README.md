@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise learn many things from their enemies.</p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
 
-<p>Aristophanes</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
