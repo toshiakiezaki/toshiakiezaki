@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>Deepak Chopra</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
