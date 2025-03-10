@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence breeds beauty.  </p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>Estee Lauder</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
