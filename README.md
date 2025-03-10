@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
 
-<p>Denis Waitley</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
