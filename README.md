@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>Steve Maraboli</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
