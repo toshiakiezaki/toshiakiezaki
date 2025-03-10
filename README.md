@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>Joyce Meyer</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
