@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The friendship that can cease has never been real. </p>
+<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
 
-<p>St. Jerome</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
