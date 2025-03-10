@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want more luck, take more chances.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>Brian Tracy</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
