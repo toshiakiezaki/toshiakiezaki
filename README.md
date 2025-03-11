@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
 
-<p>George Bernard Shaw</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
