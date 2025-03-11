@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can spend our whole lives escaping from the monsters of our minds.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>Pema Chodron</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
