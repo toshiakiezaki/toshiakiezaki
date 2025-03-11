@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are free, and that is why you are lost.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>Franz Kafka</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
