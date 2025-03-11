@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
 
-<p>Ralph Marston</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
