@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A very little key will open a very heavy door.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>Charles Dickens</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
