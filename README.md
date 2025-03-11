@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>Bob Proctor</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
