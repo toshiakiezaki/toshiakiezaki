@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>Josh Waitzkin</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
