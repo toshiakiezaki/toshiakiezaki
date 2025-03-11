@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>Roy T. Bennett</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
