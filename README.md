@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True prayer has no set form.</p>
+<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
