@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember we're all in this alone.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>Lily Tomlin</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
