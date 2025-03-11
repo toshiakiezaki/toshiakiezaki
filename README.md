@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>Wayne Dyer</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
