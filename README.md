@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The merit of all things lies in their difficulty.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Alexandre Dumas</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
