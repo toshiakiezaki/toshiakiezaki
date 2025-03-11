@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is never easy, but always possible.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>Barack Obama</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
