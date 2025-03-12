@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
 
-<p>Pema Chodron</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
