@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you think, so shall you become. </p>
+<p>The salvation of the world lies in the human heart.</p>
 
-<p>Bruce Lee</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
