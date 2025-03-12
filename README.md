@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
+<p>Your mind is infinite, it's your doubts that are limiting.</p>
 
-<p>Steve Harvey</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
