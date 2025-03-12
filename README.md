@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>Bob Marley</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
