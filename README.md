@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your mind is infinite, it's your doubts that are limiting.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
 
-<p>Robert Kiyosaki</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
