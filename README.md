@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds are always feared by lesser minds.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Dan Brown</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
