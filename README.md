@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
-<p>Naval Ravikant</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
