@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>Live your life and forget your age.</p>
 
-<p>Robin Williams</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
