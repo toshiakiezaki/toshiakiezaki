@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>Jack London</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
