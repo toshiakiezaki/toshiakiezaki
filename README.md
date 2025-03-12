@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honor is the foundation of courage.</p>
+<p>The world doesn't always give you want, but it often gives you what you need.</p>
 
-<p>Amelia Earhart</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
