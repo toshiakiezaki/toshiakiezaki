@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go for it now. The future is promised to no one.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>Wayne Dyer</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
