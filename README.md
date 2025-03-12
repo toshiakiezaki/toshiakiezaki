@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If they wrote it to make money, don't read it.</p>
+<p>As you think, so shall you become. </p>
 
-<p>Naval Ravikant</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
