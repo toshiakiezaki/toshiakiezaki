@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The salvation of the world lies in the human heart.</p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>Vaclav Havel</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
