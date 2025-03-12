@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ones who are crazy enough to think they can change the world, are the ones that do.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Steve Jobs</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
