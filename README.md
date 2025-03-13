@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no truth. There is only perception.</p>
+<p>Life is a balance of holding on and letting go.</p>
 
-<p>Gustave Flaubert</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
