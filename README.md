@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing we have to fear is fear itself.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
