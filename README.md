@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>Wayne Dyer</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
