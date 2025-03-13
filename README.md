@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace begins with a smile.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Mother Teresa</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
