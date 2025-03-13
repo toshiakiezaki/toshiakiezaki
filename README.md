@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
+<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
 
-<p>Deepak Chopra</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
