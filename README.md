@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>Wayne Dyer</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
