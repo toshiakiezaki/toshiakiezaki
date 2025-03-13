@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The least deviation from truth will be multiplied later.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Aristotle</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
