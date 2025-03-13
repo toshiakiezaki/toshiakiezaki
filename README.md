@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
 
-<p>Maya Angelou</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
