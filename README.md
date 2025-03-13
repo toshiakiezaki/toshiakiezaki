@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>Who you are is always right.</p>
 
-<p>Spencer Johnson</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
