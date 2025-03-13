@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there's life, there's hope.</p>
+<p>There is no truth. There is only perception.</p>
 
-<p>Stephen Hawking</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
