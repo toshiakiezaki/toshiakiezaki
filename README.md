@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We need never be ashamed of our tears.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>Charles Dickens</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
