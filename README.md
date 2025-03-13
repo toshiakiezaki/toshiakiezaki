@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything worth doing is worth doing slowly.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>Mae West</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
