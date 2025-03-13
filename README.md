@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Self-control is strength.</p>
 
 <p>James Allen</p>
 <!-- dailyquote:end -->
