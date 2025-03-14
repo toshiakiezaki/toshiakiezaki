@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
 
-<p>Buddha</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
