@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>Learn from the rejection and turn it into an opportunity!</p>
 
-<p>Andrew Carnegie</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
