@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>Mary Engelbreit</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
