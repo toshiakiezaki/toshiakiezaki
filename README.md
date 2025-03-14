@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>Morgan Wootten</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
