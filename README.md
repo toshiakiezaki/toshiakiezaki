@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
