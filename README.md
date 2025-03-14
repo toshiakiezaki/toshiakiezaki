@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>Isaac Newton</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
