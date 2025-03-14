@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is peace even in the storm.</p>
+<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
 
-<p>Vincent van Gogh</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
