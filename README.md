@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>Criss Jami</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
