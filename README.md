@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>John Eliot</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
