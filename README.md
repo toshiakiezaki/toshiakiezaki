@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>An un-examined life is not worth living.</p>
 
-<p>Les Brown</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
