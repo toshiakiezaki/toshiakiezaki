@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Rumi</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
