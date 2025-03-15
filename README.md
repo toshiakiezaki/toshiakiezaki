@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words without actions are the assassins of idealism.</p>
+<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
 
-<p>Herbert Hoover</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
