@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
