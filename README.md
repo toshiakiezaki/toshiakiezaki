@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winners don't Quit. That's why they Win.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>Unknown</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
