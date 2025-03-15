@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
+<p>Don't want anything. Then you get everything.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
