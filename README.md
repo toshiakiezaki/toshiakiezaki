@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>Unknown</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
