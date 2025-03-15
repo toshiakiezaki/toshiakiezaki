@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>George Bernard Shaw</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
