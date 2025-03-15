@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is patience.</p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Isaac Newton</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
