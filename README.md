@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
+<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
 
-<p>Celestine Chua</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
