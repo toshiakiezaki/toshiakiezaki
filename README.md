@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>Audrey Hepburn</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
