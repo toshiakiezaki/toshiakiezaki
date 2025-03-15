@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>Michael Jordan</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
