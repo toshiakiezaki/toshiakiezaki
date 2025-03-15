@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way out is always through.</p>
+<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
 
-<p>Robert Frost</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
