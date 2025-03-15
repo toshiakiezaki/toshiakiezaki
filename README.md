@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>Abraham Lincoln</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
