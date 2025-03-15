@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>Thomas Jefferson</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
