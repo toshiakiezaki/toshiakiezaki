@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Genius is patience.</p>
 
-<p>Martin Luther</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
