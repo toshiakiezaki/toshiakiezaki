@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>James Allen</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
