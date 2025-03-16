@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>Rumi</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
