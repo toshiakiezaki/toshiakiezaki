@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>Mark Manson</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
