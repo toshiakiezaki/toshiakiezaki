@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>Everything you can imagine is real.</p>
 
-<p>Leo Tolstoy</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
