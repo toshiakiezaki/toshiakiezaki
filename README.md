@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>Denis Waitley</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
