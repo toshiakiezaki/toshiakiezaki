@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>It's not what you've got; it's what you do that makes the difference.</p>
 
-<p>Alfred Adler</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
