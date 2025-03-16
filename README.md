@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
