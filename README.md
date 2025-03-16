@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what you've got; it's what you do that makes the difference.</p>
+<p>The golden opportunity you are seeking is within yourself.</p>
 
-<p>Celestine Chua</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
