@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>Brian Tracy</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
