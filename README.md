@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>Dogen</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
