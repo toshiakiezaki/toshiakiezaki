@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our truest life is when we are in dreams awake.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>Henry David Thoreau</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
