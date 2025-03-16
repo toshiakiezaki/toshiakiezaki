@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>Christopher Columbus</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
