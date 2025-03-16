@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>Zig Ziglar</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
