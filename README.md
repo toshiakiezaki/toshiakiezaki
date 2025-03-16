@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>Desire for the fruits of work must never be your motive in working.</p>
 
-<p>Mary Engelbreit</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
