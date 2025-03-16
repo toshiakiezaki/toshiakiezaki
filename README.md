@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're responsible for everything that happens to us.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>Yanni</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
