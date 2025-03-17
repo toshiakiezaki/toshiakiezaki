@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never given a dream without also being given the power to make it true.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>Richard Bach</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
