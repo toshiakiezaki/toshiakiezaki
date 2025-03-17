@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>Brian Tracy</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
