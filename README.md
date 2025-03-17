@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>We must not sit down and wait for miracles. Up and be going!</p>
 
-<p>Celestine Chua</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
