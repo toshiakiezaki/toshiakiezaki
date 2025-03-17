@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
 
-<p>Oprah Winfrey</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
