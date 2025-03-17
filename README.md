@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fiction is the truth inside the lie.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>Stephen King</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
