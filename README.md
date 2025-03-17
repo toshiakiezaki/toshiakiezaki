@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief enemy of creativity is good sense.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>Pablo Picasso</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
