@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>Woody Allen</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
