@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Mark Twain</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
