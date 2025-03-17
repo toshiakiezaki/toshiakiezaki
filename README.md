@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>Mark Manson</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
