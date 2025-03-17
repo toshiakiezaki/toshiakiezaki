@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>Zig Ziglar</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
