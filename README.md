@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is a source of great strength.</p>
+<p>The chief enemy of creativity is good sense.</p>
 
-<p>Lao Tzu</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
