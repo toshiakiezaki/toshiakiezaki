@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Elegance does not consist in putting on a new dress.</p>
+<p>Every man is guilty of all the good he did not do. </p>
 
-<p>Coco Chanel</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
