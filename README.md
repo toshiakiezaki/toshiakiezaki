@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forget safety. Live where you fear to live.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>Rumi</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
