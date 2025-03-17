@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>Robert Greene</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
