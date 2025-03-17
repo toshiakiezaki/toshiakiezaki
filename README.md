@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Identification with our mind causes thought to become compulsive.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>Eckhart Tolle</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
