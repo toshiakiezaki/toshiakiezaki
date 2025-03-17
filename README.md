@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man is guilty of all the good he did not do. </p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>Voltaire</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
