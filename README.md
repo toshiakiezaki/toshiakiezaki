@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
