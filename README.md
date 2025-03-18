@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>Jim Rohn</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
