@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a series of choices and all we can do is make them.</p>
+<p>Tension is who you think you should be. Relaxation is who you are.</p>
 
-<p>Kamal Ravikant</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
