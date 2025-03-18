@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>So long as we are being remembered, we remain alive.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
