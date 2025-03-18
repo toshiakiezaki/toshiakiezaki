@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I want the fishing rod, not the fish.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>Yanni</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
