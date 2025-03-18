@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are interpersonal relationship problems.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>Alfred Adler</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
