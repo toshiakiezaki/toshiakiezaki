@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
 
-<p>Naval Ravikant</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
