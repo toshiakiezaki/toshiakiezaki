@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>Charles Darwin</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
