@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest fears lie in anticipation.</p>
+<p>A person hears only what they understand.</p>
 
-<p>Honore de Balzac</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
