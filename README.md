@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>Chinese Proverb</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
