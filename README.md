@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>Earl Nightingale</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
