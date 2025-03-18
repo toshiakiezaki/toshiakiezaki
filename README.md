@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>Peter A. Cohen</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
