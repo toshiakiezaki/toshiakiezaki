@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>Mark Manson</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
