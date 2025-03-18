@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
