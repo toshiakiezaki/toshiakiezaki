@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest doer must also be a great dreamer.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
