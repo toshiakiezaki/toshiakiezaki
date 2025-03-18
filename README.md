@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>Joyce Meyer</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
