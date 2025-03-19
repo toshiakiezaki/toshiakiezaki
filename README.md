@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
 <p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
