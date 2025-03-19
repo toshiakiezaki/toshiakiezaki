@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>Winston Churchill</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
