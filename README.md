@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>Osho</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
