@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
