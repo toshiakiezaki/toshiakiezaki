@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We turn not older with years but newer every day.</p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>Emily Dickinson</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
