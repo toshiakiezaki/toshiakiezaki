@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>Only the educated are free.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
