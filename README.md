@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time flies whether you are having fun or not.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>Mary Engelbreit</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
