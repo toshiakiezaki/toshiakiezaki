@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Paths are made by walking.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>Franz Kafka</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
