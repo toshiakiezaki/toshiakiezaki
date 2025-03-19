@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
 
-<p>W.P. Kinsella</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
