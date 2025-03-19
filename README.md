@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A very little key will open a very heavy door.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>Charles Dickens</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
