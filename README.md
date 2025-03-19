@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>Paths are made by walking.</p>
 
-<p>Tony Robbins</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
