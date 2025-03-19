@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that irritates us about others.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>Carl Jung</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
