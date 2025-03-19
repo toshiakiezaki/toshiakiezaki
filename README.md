@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
 
-<p>Benjamin Franklin</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
