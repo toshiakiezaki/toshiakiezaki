@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>Zig Ziglar</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
