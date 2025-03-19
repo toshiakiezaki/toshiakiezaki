@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
 <p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
