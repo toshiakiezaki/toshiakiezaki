@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Christopher McCandless</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
