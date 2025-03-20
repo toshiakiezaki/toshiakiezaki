@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life moves on and so should we.</p>
+<p>The wise man reads both books and life itself.</p>
 
-<p>Spencer Johnson</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
