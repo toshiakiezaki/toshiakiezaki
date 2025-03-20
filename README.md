@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
 
-<p>Stephen Hawking</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
