@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>It is better to learn late than never.</p>
 
-<p>Paulo Coelho</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
