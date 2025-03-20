@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise man reads both books and life itself.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>Lin Yutang</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
