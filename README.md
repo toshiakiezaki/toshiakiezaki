@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>Lao Tzu</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
