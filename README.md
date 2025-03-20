@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Richard Bach</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
