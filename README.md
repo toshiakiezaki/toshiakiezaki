@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
 
-<p>Paulo Coelho</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
