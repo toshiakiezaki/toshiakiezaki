@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>Kamal Ravikant</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
