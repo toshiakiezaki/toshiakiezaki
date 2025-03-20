@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
