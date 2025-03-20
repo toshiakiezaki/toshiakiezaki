@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>When things go wrong, don't go with them.</p>
 
-<p>Maxime Lagace</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
