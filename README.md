@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>Life moves on and so should we.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
