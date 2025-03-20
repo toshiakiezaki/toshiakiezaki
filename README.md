@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When things go wrong, don't go with them.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Elvis Presley</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
