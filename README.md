@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
 
-<p>Theodore Roosevelt</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
