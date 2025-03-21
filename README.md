@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you truly expect something to be difficult, it will be.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>Peter A. Cohen</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
