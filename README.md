@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I begin with an idea and then it becomes something else.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>Pablo Picasso</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
