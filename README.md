@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
