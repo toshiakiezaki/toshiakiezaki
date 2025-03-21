@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>When you win, say nothing, when you lose say less.</p>
 
-<p>Epictetus</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
