@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
