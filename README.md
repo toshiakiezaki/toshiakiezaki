@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you win, say nothing, when you lose say less.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>Wayne Gretzky</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
