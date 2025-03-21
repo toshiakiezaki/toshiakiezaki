@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Art of Peace begins with you.</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
