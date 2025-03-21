@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>Robert Browning</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
