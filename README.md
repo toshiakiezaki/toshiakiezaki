@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>St. Jerome</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
