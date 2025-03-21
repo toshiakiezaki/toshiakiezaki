@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Jack Kerouac</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
