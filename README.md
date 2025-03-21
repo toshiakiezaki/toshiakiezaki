@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no coming to consciousness without pain</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>Carl Jung</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
