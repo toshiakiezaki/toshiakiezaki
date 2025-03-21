@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom lies in being bold.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>Robert Frost</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
