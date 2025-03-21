@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>Roy T. Bennett</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
