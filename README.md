@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>Og Mandino</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
