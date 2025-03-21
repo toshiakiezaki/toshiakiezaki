@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lead an orchestra, you must turn your back on the crowd.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>Aristotle</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
