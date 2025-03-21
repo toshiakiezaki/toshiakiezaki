@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good by stealth, and blush to find it fame.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>Alexander Pope</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
