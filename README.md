@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little progress each day adds up to big results.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>Unknown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
