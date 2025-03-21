@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>Tony Robbins</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
