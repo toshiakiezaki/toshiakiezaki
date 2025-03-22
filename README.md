@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Nature does not hurry, yet everything is accomplished.</p>
 
-<p>Maxime Lagace</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
