@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
+<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
 
-<p>Seungsahn</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
