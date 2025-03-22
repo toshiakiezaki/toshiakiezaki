@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wherever you are, it's the place you need to be.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
 <p>Maxime Lagace</p>
 <!-- dailyquote:end -->
