@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What gets measured gets improved.</p>
+<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
 
-<p>Robin Sharma</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
