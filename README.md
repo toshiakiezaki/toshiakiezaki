@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>Norman Vincent Peale</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
