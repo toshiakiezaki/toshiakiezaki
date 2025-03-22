@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>You can't let your failures define you. You have to let your failures teach you.</p>
 
-<p>Lao Tzu</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
