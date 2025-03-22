@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>Fool me once, shame on you; fool me twice, shame on me. </p>
 
-<p>John Locke</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
