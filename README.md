@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>Paulo Coelho</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
