@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
+<p>What gets measured gets improved.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
