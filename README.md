@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The scariest moment is always just before you start. After that, things can only get better.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>Stephen King</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
