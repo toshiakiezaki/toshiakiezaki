@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>Dalai Lama</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
