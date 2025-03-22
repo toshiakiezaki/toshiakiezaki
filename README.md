@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>Henry David Thoreau</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
