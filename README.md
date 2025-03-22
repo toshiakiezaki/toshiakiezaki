@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>Mae West</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
