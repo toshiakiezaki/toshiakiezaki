@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace avoiding life.</p>
+<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
 
-<p>Virginia Woolf</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
