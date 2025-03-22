@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
