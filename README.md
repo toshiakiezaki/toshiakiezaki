@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>Chinese Proverb</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
