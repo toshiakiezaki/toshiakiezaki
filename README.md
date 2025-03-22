@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>Thomas Jefferson</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
