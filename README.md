@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>Andrew Carnegie</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
