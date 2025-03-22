@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't let your failures define you. You have to let your failures teach you.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>Barack Obama</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
