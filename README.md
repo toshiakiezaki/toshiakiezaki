@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
