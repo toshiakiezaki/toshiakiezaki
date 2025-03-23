@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>I do not seek. I find.</p>
 
-<p>Meister Eckhart</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
