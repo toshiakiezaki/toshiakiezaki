@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enlightenment is intimacy with all things.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>Dogen</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
