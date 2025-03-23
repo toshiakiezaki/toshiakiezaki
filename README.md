@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy is a commodity, execution is an art.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>Peter Drucker</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
