@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before anything else, preparation is the key to success.</p>
+<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
