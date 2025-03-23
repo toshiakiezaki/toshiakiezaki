@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>Les Brown</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
