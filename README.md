@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>Enlightenment is intimacy with all things.</p>
 
-<p>Benjamin Franklin</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
