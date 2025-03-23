@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be great is to be misunderstood.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
