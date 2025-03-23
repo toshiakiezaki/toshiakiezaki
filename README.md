@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We run to win, not just to be in the race.  </p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>Vince Lombardi</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
