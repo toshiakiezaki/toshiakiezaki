@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>C. Sean McGee</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
