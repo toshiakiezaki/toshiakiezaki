@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the dancer and you are the dance.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>Eckhart Tolle</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
