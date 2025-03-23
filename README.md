@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
