@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't explain your philosophy. Embody it.</p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>Epictetus</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
