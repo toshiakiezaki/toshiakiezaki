@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>Stephen Hawking</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
