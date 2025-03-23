@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>Robert Greene</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
