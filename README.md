@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A loving heart is the truest wisdom.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Charles Dickens</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
