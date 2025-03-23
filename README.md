@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man is made by his belief. As he believes, so he is.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>Bhagavad Gita</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
