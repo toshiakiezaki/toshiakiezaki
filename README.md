@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>To be great is to be misunderstood.</p>
 
-<p>Virginia Woolf</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
