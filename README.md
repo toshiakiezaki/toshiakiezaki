@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>T.S. Eliot</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
