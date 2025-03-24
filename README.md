@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>Harry S. Truman</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
