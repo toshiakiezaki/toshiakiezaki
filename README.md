@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>Leo Tolstoy</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
