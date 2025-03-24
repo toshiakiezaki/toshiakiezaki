@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is a treasure, but practice is the key to it.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>Lao Tzu</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
