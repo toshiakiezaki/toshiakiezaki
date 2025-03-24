@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
 
-<p>Celestine Chua</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
