@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>Eckhart Tolle</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
