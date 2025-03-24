@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best of us sometimes eat our words.  </p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>Albus Dumbledore</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
