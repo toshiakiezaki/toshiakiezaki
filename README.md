@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>Oprah Winfrey</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
