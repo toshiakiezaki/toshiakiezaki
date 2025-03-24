@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>Christopher Columbus</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
