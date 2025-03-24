@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be confident, not certain.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
