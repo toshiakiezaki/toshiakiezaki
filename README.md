@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you move beyond your fear, you feel free.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>Spencer Johnson</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
