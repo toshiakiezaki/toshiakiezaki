@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>Joyce Meyer</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
