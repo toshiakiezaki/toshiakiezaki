@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is happy who does not think himself so.</p>
+<p>Attitude is a little thing that makes a big difference.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
