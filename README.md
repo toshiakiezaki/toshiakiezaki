@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Pablo Picasso</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
