@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>Zhuangzi</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
