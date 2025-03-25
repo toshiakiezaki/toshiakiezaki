@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never spend your money before you have earned it.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Thomas Jefferson</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
