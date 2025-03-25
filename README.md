@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>Zen Proverb</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
