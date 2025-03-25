@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>Bhagavad Gita</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
