@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't settle, and don't struggle.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Naval Ravikant</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
