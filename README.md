@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
 
-<p>Mark Manson</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
