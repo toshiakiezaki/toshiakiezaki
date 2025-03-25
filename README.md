@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>Barack Obama</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
