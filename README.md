@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>Brian Tracy</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
