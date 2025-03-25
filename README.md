@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>Alfred Adler</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
