@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>Never spend your money before you have earned it.</p>
 
-<p>Andrew Carnegie</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
