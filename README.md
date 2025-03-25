@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The least deviation from truth will be multiplied later.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>Aristotle</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
