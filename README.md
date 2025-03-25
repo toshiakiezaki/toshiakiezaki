@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>Unknown</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
