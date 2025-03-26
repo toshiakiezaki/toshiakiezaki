@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>Eckhart Tolle</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
