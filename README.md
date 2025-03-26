@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>Herodotus</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
