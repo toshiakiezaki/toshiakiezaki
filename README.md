@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>Jeffrey Gitomer</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
