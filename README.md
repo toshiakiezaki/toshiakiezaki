@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
