@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never dwell on what happened. You can't change it. Move forward.</p>
+<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
 
-<p>Joan Rivers</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
