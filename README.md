@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
 
-<p>Ayn Rand</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
