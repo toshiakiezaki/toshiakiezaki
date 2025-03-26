@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have results or excuses, but not both.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
