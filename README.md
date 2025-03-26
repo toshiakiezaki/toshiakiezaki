@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</p>
+<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
 
-<p>Lao Tzu</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
