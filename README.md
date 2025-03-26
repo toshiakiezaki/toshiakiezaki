@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>Deepak Chopra</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
