@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>Betty White</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
