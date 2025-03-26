@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>Alfred Adler</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
