@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Saying nothing sometimes says the most.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>Emily Dickinson</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
