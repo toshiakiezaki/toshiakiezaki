@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lose your temper is only useful once a year.</p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>Colin R. Davis</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
