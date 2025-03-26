@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
