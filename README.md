@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Lolly Daskal</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
