@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
