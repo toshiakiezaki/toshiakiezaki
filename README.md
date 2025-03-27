@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Richard Bach</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
