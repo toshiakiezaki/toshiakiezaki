@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
 
-<p>Zen Proverb</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
