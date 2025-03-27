@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enlightenment is intimacy with all things.</p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>Dogen</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
