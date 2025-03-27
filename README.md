@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
