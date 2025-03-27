@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Alexander Pope</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
