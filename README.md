@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
 
-<p>Winston Churchill</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
