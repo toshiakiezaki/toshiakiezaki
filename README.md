@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>Les Brown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
