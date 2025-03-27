@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>Ronald Reagan</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
