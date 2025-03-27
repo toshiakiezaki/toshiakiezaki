@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>Aristophanes</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
