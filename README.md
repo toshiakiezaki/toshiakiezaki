@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>First learn the meaning of what you say, and then speak.</p>
 
-<p>George Washington</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
