@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>Oscar Wilde</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
