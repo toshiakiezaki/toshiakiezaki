@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>Lao Tzu</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
