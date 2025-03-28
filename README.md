@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of chaos lies opportunity.  </p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>Bruce Lee</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
