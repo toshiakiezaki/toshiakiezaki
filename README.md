@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
