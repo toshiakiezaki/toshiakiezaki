@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>Thomas Edison</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
