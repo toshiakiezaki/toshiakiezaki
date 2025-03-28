@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a master of change rather than a victim of change.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>Brian Tracy</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
