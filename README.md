@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>James Cameron</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
