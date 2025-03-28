@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>Napoleon Hill</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
