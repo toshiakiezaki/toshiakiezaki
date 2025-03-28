@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>Richard Bach</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
