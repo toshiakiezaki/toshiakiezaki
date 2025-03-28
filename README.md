@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Publilius Syrus</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
