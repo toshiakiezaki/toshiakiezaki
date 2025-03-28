@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>He will win who knows when to fight and when not to fight.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
