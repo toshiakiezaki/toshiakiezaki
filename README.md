@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Harry S. Truman</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
