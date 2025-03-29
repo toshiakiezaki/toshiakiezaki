@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
