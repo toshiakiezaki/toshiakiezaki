@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>There is no limitations except those we create for ourselves.</p>
 
-<p>Sun Tzu</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
