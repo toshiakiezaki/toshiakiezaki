@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no value in anything until it is finished. </p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Genghis Khan</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
