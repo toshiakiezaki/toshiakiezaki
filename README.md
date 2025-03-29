@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>Ayn Rand</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
