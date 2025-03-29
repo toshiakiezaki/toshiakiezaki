@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>Big people don't make people feel small.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
