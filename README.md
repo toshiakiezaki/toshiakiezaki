@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Socrates</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
