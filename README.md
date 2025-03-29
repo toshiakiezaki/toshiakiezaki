@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the ability, now apply yourself.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>Benjamin Mays</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
