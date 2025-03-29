@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no limitations except those we create for ourselves.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Lolly Daskal</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
