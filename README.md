@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>Joan Rivers</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
