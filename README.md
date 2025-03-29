@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>Robert Greene</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
