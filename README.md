@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Sun Tzu</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
