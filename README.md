@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>Mother Teresa</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
