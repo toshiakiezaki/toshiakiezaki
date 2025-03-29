@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Big people don't make people feel small.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>Robin Sharma</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
