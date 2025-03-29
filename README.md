@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise speak only of what they know.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
