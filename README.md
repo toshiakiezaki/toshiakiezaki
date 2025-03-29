@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember to look up at the stars and not down at your feet.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>Stephen Hawking</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
