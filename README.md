@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>Eckhart Tolle</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
