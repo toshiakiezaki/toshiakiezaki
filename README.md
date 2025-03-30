@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>Thomas Edison</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
