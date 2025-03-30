@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
