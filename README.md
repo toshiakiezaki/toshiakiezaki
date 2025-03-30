@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>Kabir</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
