@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
