@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Within every desire is the mechanics of its fulfillment.</p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>Deepak Chopra</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
