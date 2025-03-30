@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a master of change rather than a victim of change.</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
 <p>Brian Tracy</p>
 <!-- dailyquote:end -->
