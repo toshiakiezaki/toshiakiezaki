@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
 
-<p>Eric Hoffer</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
