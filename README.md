@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there's life, there's hope.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>Stephen Hawking</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
