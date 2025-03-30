@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>Henry Ford</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
