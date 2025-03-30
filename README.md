@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>Vincent van Gogh</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
