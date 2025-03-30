@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>Sigmund Freud</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
