@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Worry is a waste of emotional reserve.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>Ayn Rand</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
