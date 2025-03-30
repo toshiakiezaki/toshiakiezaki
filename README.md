@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is changed by your example, not by your opinion.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>Paulo Coelho</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
