@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The art of being wise is knowing what to overlook.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>William James</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
