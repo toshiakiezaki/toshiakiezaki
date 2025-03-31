@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>Steve Jobs</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
