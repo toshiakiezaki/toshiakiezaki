@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>Helen Keller</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
