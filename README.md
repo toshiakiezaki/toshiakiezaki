@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poverty and hardship are created by false thinking.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>Bodhidharma</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
