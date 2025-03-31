@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>Epictetus</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
