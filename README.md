@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
 
-<p>Publilius Syrus</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
