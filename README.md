@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
 
-<p>Alan Watts</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
