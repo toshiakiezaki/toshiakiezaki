@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>Virginia Woolf</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
