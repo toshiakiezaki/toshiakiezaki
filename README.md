@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>Zig Ziglar</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
