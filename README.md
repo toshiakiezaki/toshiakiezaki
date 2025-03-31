@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be happy now, without reason - or you never will be at all.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>Dan Millman</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
