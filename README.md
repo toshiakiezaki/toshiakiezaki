@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either get busy living or get busy dying.</p>
+<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
 
-<p>Stephen King</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
