@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>Jim Rohn</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
