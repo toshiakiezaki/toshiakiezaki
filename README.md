@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>William Faulkner</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
