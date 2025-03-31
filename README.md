@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>You're never too old for anything.</p>
 
-<p>Richard Bach</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
