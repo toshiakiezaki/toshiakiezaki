@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Mary Engelbreit</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
