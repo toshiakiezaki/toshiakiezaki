@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All men are equal before fish.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Herbert Hoover</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
