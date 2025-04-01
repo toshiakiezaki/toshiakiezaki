@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>The golden opportunity you are seeking is within yourself.</p>
 
-<p>Eric Hoffer</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
