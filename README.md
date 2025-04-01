@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>The clock indicates the moment...but what does eternity indicate?</p>
 
-<p>Unknown</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
