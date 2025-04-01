@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The clock indicates the moment...but what does eternity indicate?</p>
+<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
 
-<p>Walt Whitman</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
