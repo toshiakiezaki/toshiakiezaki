@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>Zig Ziglar</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
