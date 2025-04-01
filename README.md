@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Worry is a waste of emotional reserve.</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>Ayn Rand</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
