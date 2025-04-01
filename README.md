@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>Bodhidharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
