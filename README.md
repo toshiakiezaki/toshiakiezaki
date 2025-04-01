@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>Zen Proverb</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
