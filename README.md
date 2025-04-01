@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>Michael Jordan</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
