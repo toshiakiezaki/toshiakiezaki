@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not doing it is certainly the best way to not getting it.  </p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>Wayne Gretzky</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
