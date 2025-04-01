@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not how much money you make, it's how much money you keep.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
