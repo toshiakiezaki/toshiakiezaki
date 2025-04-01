@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I want the fishing rod, not the fish.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>Yanni</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
