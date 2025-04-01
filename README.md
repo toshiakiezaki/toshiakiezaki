@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Learning is a gift, even when pain is your teacher.</p>
 
-<p>Robert Browning</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
