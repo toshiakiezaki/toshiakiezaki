@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>Joyce Meyer</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
