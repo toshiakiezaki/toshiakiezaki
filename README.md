@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>Carl Jung</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
