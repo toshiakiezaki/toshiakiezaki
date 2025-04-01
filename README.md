@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a process. We are a process. The universe is a process.</p>
+<p>All men are equal before fish.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
