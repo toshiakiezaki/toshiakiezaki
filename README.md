@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Lost Time is never found again.</p>
 
-<p>Barack Obama</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
