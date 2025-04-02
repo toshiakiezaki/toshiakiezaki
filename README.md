@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>George Bernard Shaw</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
