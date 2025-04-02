@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What do we live for if not to make life less difficult for each other?</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>T.S. Eliot</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
