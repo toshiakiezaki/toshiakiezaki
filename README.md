@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
