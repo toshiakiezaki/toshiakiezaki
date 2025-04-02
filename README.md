@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>Thomas Jefferson</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
