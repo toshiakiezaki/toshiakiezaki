@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Debt is the slavery of the free.</p>
+<p>Each problem has a positive side.</p>
 
-<p>Publilius Syrus</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
