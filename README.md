@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Marcus Aurelius</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
