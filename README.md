@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Chinese Proverb</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
