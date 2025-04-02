@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>One must be deeply aware of the impermanence of the world.</p>
 
-<p>Rumi</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
