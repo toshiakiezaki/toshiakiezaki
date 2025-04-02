@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is knowing what not to fear.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>Plato</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
