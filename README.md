@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each problem has a positive side.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Og Mandino</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
