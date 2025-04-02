@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>What do we live for if not to make life less difficult for each other?</p>
 
-<p>Huang Po</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
