@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become brave by doing brave acts.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>Aristotle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
