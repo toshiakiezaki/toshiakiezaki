@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is one long process of getting tired.</p>
+<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
 
-<p>Samuel Butler</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
