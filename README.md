@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One must be deeply aware of the impermanence of the world.</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>Dogen</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
