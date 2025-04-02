@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>Mark Twain</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
