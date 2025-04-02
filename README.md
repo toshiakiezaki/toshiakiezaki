@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>Unknown</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
