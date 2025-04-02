@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy is a commodity, execution is an art.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>Peter Drucker</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
