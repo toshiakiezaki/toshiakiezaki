@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Deepak Chopra</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
