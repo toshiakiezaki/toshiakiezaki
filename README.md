@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where violence reigns, reason is weak.</p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
