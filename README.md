@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Force has no place where there is need of skill. </p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>Herodotus</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
