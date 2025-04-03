@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>Thomas Jefferson</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
