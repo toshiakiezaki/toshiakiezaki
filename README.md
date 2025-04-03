@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Get busy living, or get busy dying.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>Stephen King</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
