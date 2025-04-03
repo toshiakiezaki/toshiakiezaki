@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>Seungsahn</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
