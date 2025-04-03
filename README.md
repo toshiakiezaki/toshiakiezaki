@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>Short cuts make long delays.</p>
 
-<p>Maxime Lagace</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
