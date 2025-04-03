@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Short cuts make long delays.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>J.R.R. Tolkien</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
