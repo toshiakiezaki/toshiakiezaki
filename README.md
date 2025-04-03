@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who can make you believe absurdities can make you commit atrocities. </p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>Voltaire</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
