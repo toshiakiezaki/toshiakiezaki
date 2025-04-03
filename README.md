@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
