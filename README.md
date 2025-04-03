@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>Henry Ford</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
