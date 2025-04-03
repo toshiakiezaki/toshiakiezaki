@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>Henry David Thoreau</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
