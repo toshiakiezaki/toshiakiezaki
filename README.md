@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest room in the world is the room for improvement.</p>
+<p>For every minute you are angry you lose sixty seconds of happiness.</p>
 
-<p>Unknown</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
