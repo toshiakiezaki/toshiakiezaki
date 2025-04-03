@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>Tony Robbins</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
