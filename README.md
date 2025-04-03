@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Oscar Wilde</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
