@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>Zhuangzi</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
