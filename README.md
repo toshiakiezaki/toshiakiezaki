@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
