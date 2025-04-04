@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Elon Musk</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
