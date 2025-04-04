@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>You're always free to change your mind and choose a different future, or a different past.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
