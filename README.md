@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>Public opinion is the worst of all opinions.</p>
 
-<p>Celestine Chua</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
