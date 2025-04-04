@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
 
-<p>Zhuangzi</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
