@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>Albert Einstein</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
