@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is that it stops.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>Franz Kafka</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
