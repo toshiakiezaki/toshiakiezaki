@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A life without a cause is a life without effect.</p>
+<p>The meaning of life is that it stops.</p>
 
-<p>Paulo Coelho</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
