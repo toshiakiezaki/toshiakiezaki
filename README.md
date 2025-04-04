@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>Herbert Hoover</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
