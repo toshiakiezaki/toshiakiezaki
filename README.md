@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Quitter never wins - and - a Winner never quits.</p>
+<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
 
-<p>Napoleon Hill</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
