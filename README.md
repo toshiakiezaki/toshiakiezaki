@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>Alan Watts</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
