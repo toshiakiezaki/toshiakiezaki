@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
+<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
 
-<p>Socrates</p>
+<p>Sydney Smith</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
