@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
 
-<p>Chinese Proverb</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
