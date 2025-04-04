@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Alan Watts</p>
+<p>George Addair</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
