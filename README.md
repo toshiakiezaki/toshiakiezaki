@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day without laughter is a day wasted.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Charlie Chaplin</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
