@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion is born deaf and dumb.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>Honore de Balzac</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
