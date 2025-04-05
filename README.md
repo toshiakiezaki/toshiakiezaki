@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Josh Waitzkin</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
