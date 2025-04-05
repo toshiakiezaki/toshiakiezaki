@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember to look up at the stars and not down at your feet.</p>
+<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
 
-<p>Stephen Hawking</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
