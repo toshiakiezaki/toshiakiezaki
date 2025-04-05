@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>Paulo Coelho</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
