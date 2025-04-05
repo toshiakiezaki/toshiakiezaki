@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>Charles Darwin</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
