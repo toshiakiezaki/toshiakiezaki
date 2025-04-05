@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
 
-<p>Gabor Mate</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
