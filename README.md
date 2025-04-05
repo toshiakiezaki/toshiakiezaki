@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>George Addair</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
