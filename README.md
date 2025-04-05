@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>Margaret Mead</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
