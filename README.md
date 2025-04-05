@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
 
-<p>Laurence J. Peter</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
