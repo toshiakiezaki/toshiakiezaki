@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
 
-<p>Unknown</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
