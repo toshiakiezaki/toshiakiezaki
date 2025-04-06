@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>Zhuangzi</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
