@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The cost of leadership is self-interest.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>Simon Sinek</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
