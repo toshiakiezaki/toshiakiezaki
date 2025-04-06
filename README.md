@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>William James</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
