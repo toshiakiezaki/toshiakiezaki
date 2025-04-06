@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to see what you see.</p>
+<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
 
-<p>Ronald Reagan</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
