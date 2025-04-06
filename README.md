@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is often safer to be in chains than to be free. </p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Franz Kafka</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
