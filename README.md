@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action is the foundational key to all success.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>Pablo Picasso</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
