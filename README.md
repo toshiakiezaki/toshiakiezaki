@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is found in unlikely places.</p>
+<p>All that we see or seem is but a dream within a dream.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
