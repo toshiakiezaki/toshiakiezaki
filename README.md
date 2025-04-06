@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be polite to all, but intimate with few.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>Thomas Jefferson</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
