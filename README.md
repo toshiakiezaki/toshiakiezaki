@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Courage is found in unlikely places.</p>
 
-<p>Mark Manson</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
