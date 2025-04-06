@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never trust he who trusts everyone.</p>
+<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
