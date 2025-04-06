@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>John D. Rockefeller</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
