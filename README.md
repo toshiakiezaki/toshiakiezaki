@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
