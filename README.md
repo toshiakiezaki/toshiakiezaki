@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>Lin Yutang</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
