@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
