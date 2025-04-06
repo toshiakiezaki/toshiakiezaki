@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
 
-<p>Kahlil Gibran</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
