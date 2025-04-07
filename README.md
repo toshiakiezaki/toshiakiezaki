@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
