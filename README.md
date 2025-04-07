@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
 
-<p>Voltaire</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
