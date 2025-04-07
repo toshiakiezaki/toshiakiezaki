@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>Criss Jami</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
