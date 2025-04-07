@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life reflects your own thoughts back to you.</p>
+<p>Big people don't make people feel small.</p>
 
-<p>Napoleon Hill</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
