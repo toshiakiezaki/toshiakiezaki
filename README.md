@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>Chinese Proverb</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
