@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lost Time is never found again.</p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>Benjamin Franklin</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
