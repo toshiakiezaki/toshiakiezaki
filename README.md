@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>Walt Disney</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
