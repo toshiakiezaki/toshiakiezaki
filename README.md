@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either write something worth reading or do something worth writing.</p>
+<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
 
-<p>Benjamin Franklin</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
