@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you run the day or the day runs you.</p>
+<p>Where focus goes, energy flows.</p>
 
-<p>Jim Rohn</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
