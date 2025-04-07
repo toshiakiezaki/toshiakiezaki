@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
 
-<p>Carl Jung</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
