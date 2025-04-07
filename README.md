@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never let your memories be greater than your dreams.</p>
+<p>Lost Time is never found again.</p>
 
-<p>Doug Ivester</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
