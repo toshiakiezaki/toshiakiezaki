@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>Bob Marley</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
