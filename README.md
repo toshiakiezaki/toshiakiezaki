@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</p>
 
-<p>Jim Rohn</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
