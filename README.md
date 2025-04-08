@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
 
-<p>Margaret Mead</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
