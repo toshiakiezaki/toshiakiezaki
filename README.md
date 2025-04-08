@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>Deepak Chopra</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
