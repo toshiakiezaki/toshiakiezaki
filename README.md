@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
