@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>Herodotus</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
