@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Think and wonder, wonder and think.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Dr. Seuss</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
