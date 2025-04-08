@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>Toni Morrison</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
