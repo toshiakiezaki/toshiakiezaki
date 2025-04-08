@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are your best thing.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>Toni Morrison</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
