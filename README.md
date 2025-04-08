@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>Charles Swindoll</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
