@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Choose to be optimistic, it feels better.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>Dalai Lama</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
