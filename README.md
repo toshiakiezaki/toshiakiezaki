@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
 
-<p>Jack Butcher</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
