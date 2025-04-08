@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best mind-altering drug is the truth.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>Lily Tomlin</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
