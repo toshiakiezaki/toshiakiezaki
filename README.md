@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>John Wooden</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
