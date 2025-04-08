@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the hand that erases can write the true thing.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>Meister Eckhart</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
