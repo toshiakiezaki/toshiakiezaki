@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failing is another stepping stone to greatness.</p>
+<p>The best mind-altering drug is the truth.</p>
 
-<p>Oprah Winfrey</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
