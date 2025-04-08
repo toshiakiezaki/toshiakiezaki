@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>Naval Ravikant</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
