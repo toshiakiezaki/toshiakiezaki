@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>Alfred Adler</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
