@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>It takes a very long time to become young.</p>
 
-<p>Roger Lee</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
