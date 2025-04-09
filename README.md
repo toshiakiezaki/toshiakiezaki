@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>Celestine Chua</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
