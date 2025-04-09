@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will not walk backward in life.</p>
+<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
