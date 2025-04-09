@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is failure.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>Michael Jordan</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
