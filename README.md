@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is a treasure, but practice is the key to it.</p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>Lao Tzu</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
