@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Some of your greatest lessons come from your darkest moments.</p>
 
-<p>Napoleon Hill</p>
+<p>Roger Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
