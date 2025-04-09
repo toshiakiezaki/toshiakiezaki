@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>Elbert Hubbard</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
