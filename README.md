@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
+<p>The key to success is failure.</p>
 
-<p>Simon Sinek</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
