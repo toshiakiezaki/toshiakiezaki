@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Knowledge is a treasure, but practice is the key to it.</p>
 
-<p>Bob Proctor</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
