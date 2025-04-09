@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
 
-<p>Euripides</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
