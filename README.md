@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>I will not walk backward in life.</p>
 
-<p>John Wooden</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
