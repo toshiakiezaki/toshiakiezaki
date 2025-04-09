@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Adventure is not outside man; it is within.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>George Eliot</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
