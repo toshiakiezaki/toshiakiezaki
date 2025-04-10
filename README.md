@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
 
-<p>Christopher McCandless</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
