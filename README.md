@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>Roy T. Bennett</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
