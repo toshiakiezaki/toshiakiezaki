@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>Vincent van Gogh</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
