@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>Bhagavad Gita</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
