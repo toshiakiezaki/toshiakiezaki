@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>Lolly Daskal</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
