@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>Bhagavad Gita</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
