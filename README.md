@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tradition is the illusion of permanence. </p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>Woody Allen</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
