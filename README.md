@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It takes a very long time to become young.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>Pablo Picasso</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
