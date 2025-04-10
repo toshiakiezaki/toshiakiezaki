@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man must use what he has, not hope for what is not.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
