@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>Dale Carnegie</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
