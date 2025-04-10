@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>Deepak Chopra</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
