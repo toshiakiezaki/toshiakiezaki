@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>Judy Garland</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
