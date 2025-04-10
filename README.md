@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>Richard Bach</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
