@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>Unknown</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
