@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>Brian Tracy</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
