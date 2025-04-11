@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>Andrew Carnegie</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
