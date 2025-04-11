@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can pay the bills, I'm happy.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>Morgan Wootten</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
