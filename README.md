@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To belittle, you have to be little.</p>
+<p>There is no truth. There is only perception.</p>
 
-<p>Kahlil Gibran</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
