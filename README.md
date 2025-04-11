@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>If I can pay the bills, I'm happy.</p>
 
-<p>Robert Collier</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
