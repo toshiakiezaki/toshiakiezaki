@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>Henry Ford</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
