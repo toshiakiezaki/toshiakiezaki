@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
 
-<p>Eckhart Tolle</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
