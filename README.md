@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>Les Brown</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
