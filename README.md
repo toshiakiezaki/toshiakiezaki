@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>Oscar Wilde</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
