@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>Shunryu Suzuki</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
