@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>Anne Frank</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
