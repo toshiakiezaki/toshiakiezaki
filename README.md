@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Write to help yourself, publish to help others.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>Jack Butcher</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
