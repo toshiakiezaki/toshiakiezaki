@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no truth. There is only perception.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>Gustave Flaubert</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
