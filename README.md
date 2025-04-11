@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
