@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>Colin Powell</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
