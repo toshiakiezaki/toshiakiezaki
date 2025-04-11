@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words used to attract the dull of wit are not to be relied on.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>Huang Po</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
