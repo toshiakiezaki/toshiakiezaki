@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>Thomas Edison</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
