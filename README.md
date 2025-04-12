@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>Sigmund Freud</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
