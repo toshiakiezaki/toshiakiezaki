@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>Brian Tracy</p>
+<p>Cherie Gilderbloom</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
