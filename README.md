@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
 
-<p>Mae West</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
