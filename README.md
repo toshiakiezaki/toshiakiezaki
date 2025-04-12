@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>Maxime Lagace</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
