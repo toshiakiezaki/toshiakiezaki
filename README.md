@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe that life is worth living and your belief will help create the fact.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>William James</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
