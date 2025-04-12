@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>Most people get ahead during the time that others waste.</p>
 
-<p>Elon Musk</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
