@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>Deepak Chopra</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
