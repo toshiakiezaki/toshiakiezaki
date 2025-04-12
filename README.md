@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
+<p>You only live once, but if you do it right, once is enough.</p>
 
-<p>Charles Dickens</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
