@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people get ahead during the time that others waste.</p>
+<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
 
-<p>Henry Ford</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
