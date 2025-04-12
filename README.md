@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>Lolly Daskal</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
