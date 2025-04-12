@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>Everything is in your own heart.</p>
 
-<p>Honore de Balzac</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
