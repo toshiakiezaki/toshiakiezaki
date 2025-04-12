@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always turn a negative situation into a positive situation.</p>
+<p>Most of us will do anything to avoid facing ourselves.</p>
 
-<p>Michael Jordan</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
