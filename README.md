@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is in your own heart.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
