@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
 
-<p>Amelia Earhart</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
