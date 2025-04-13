@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>The chief enemy of creativity is good sense.</p>
 
-<p>Harry S. Truman</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
