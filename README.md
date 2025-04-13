@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of who we are is what we do with what we have.</p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>Vince Lombardi</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
