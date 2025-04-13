@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
