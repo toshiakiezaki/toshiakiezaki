@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You only live once, but if you do it right, once is enough.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Mae West</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
