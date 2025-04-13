@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>The fewer the words, the better the prayer.</p>
 
-<p>Samuel Butler</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
