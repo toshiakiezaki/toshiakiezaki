@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>Wayne Gretzky</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
