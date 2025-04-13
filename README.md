@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>Lolly Daskal</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
