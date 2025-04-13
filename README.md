@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief enemy of creativity is good sense.</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>Pablo Picasso</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
