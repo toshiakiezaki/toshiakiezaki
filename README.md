@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>Kahlil Gibran</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
