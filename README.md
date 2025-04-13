@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>Criss Jami</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
