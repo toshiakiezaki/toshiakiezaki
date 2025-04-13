@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>Sathya Sai Baba</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
