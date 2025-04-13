@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Nicolas Chamfort</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
