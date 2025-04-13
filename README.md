@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
 
-<p>D. H. Lawrence</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
