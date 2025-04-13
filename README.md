@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>W.P. Kinsella</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
