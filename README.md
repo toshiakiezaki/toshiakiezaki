@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>Maxime Lagace</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
