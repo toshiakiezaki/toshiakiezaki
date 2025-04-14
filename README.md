@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>Buddha</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
