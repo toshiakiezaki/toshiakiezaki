@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men do not attract which they want but that which they are.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>James Allen</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
