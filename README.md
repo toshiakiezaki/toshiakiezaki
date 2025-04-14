@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>Huang Po</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
