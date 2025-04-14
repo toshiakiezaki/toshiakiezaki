@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>John Wooden</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
