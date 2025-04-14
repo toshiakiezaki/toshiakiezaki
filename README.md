@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>Sigmund Freud</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
