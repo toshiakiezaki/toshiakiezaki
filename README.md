@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One's best success comes after their greatest disappointments.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
