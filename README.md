@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>Maya Angelou</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
