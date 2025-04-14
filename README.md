@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>Barack Obama</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
