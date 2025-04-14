@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't learn to do, but learn in doing.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>Samuel Butler</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
