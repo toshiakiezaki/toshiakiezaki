@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do the best you can. No one can do more than that.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>John Wooden</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
