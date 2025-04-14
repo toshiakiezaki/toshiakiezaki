@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
 
-<p>Zhuangzi</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
