@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who has ever made anything of importance was disciplined.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>Andrew Hendrixson</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
