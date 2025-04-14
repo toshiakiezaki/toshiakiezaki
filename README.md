@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>Bob Proctor</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
