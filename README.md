@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>Thomas Edison</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
