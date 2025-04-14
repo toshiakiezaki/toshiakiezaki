@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>Rumi</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
