@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Vision is the art of seeing things invisible.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>Jonathan Swift</p>
+<p>Andrew Hendrixson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
