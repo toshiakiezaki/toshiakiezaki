@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The art of being happy lies in the power of extracting happiness from common things.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
