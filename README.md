@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If light is in your heart, you will find your way home.  </p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Rumi</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
