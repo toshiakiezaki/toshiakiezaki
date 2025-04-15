@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>Elbert Hubbard</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
