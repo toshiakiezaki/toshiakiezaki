@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>Grace Coddington</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
