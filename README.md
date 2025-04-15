@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have the mind or you can have the moment.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>Naval Ravikant</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
