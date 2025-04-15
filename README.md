@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your outlook on life that counts.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>Betty White</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
