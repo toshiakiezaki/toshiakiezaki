@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
