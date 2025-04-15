@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>Audrey Hepburn</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
