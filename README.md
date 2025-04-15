@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Waste not fresh tears over old griefs.</p>
 
-<p>John Wooden</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
