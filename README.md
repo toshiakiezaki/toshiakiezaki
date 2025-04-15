@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where words fail, music speaks.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
