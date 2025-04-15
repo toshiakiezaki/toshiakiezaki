@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste not fresh tears over old griefs.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Euripides</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
