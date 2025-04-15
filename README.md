@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>Bob Dylan</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
