@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
 <p>Elon Musk</p>
 <!-- dailyquote:end -->
