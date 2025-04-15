@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
 
-<p>Elon Musk</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
