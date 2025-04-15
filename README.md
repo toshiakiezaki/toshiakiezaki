@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>Lao Tzu</p>
+<p>Grace Coddington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
