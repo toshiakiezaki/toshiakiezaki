@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
