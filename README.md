@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>Deepak Chopra</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
