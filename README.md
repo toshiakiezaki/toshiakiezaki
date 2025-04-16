@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
 
-<p>Jack London</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
