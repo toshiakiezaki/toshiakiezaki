@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>Dan Millman</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
