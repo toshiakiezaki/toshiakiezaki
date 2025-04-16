@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man is guilty of all the good he did not do. </p>
+<p>Imagination is the true magic carpet.</p>
 
-<p>Voltaire</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
