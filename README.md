@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>Steve Harvey</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
