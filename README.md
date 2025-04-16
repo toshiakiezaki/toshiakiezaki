@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
