@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>Pema Chodron</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
