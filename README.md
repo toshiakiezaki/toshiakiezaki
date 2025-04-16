@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>Earl Nightingale</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
