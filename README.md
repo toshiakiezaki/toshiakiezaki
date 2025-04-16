@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>Forever is composed of now's.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
