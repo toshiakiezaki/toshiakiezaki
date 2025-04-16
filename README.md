@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Harry S. Truman</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
