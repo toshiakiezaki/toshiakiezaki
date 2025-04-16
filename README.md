@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>Woody Allen</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
