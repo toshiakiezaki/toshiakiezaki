@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forever is composed of now's.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>Emily Dickinson</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
