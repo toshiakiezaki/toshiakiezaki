@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Few things are more deceptive than memories.</p>
+<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
