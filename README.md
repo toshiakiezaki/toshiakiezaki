@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>Laurence J. Peter</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
