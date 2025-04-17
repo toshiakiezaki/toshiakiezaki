@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is failure.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>Michael Jordan</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
