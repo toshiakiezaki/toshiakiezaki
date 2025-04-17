@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
 <p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
