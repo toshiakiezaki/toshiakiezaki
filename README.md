@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>T.S. Eliot</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
