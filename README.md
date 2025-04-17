@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
 
-<p>Dale Carnegie</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
