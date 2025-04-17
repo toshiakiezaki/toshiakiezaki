@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the mark of intelligent living.</p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
