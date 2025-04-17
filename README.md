@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>Peter Drucker</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
