@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>Martin Luther</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
