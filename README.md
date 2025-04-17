@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>Naval Ravikant</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
