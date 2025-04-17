@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
