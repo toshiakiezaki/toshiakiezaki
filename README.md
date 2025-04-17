@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>The key to success is failure.</p>
 
-<p>Roy T. Bennett</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
