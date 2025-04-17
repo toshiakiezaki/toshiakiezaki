@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>Charles Spurgeon</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
