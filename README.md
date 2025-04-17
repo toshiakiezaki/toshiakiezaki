@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
-<p>Charles Dickens</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
