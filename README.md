@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there's life, there's hope.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>Stephen Hawking</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
