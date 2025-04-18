@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>Marcus Aurelius</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
