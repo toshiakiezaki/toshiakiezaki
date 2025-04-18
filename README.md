@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
 
-<p>Sigmund Freud</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
