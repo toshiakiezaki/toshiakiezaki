@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>Success is a poor teacher.</p>
 
-<p>D. H. Lawrence</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
