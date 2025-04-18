@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
