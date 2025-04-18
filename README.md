@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
 
-<p>Naval Ravikant</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
