@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot teach a crab to walk straight.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>Aristophanes</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
