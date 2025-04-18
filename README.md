@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With the new day comes new strength and new thoughts.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
