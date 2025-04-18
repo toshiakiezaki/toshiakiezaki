@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Avoiding danger is no safer in the long run than exposure.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>Helen Keller</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
