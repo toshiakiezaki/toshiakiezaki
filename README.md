@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>Roy T. Bennett</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
