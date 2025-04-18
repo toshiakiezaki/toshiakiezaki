@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>Ronald Reagan</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
