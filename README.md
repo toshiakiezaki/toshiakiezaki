@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day passes whether you participate or not.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
