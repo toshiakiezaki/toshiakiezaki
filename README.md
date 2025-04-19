@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where words fail, music speaks.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
