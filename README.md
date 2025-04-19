@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Much learning does not teach understanding.</p>
+<p>Invisible things are the only realities.</p>
 
-<p>Heraclitus</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
