@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>Bodhidharma</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
