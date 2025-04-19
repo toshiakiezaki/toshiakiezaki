@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>Much learning does not teach understanding.</p>
 
-<p>Marcus Aurelius</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
