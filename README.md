@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Be yourself; everyone else is already taken </p>
 
-<p>Norman Vincent Peale</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
