@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Isaac Newton</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
