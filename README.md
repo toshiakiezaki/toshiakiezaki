@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Invisible things are the only realities.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
