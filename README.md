@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Abundance of knowledge does not teach men to be wise.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>Heraclitus</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
