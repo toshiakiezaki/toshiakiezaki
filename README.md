@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
 
-<p>Zen Proverb</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
