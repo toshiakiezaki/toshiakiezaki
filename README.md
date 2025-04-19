@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>Vince Lombardi</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
