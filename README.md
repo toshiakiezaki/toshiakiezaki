@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>Walt Disney</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
