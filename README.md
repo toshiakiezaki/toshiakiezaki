@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>Thomas Jefferson</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
