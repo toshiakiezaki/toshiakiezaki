@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>Robert Greene</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
