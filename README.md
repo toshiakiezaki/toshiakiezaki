@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>Unknown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
