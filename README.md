@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>Paulo Coelho</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
