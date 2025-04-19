@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be yourself; everyone else is already taken </p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>Oscar Wilde</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
