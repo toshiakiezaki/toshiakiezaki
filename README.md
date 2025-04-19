@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all here for some special reason.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>Robin Sharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
