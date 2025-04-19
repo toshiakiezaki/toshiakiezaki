@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>Og Mandino</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
