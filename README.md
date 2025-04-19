@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>Soyen Shaku</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
