@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>Eckhart Tolle</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
