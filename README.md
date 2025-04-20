@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you decide to do, make sure it makes you happy.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>Paulo Coelho</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
