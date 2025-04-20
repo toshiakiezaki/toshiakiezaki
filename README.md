@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>Lao Tzu</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
