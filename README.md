@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>Bob Proctor</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
