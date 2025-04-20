@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>D. H. Lawrence</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
