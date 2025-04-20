@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A thing must be loved before it is lovable.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
 <p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
