@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>To be alive - is Power.</p>
 
-<p>Og Mandino</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
