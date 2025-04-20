@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we know how to adapt, we end up being superior.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
