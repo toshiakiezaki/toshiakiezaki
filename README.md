@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>Deepak Chopra</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
