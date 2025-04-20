@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't get in life what you want; you get in life what you are.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>Les Brown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
