@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>Og Mandino</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
