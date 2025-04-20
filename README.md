@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Estee Lauder</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
