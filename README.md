@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>You miss 100% of the shots you don't take.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
