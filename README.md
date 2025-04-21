@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>Gilbert Chesterton</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
