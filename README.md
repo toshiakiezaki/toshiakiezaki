@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It all depends on what you choose to believe.</p>
+<p>Wit is educated insolence.</p>
 
-<p>Spencer Johnson</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
