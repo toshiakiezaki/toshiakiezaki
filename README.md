@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Less is more.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>Robert Browning</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
