@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know yourself and you will win all battles.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>Sun Tzu</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
