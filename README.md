@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
