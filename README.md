@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never was anything great achieved without danger.</p>
+<p>The sun is new each day.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
