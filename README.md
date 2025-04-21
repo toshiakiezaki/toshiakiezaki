@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Quitter never wins - and - a Winner never quits.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>Napoleon Hill</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
