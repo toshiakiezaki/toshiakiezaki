@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>Robin Sharma</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
