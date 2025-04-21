@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>Oprah Winfrey</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
