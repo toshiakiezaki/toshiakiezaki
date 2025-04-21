@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
 
-<p>William James</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
