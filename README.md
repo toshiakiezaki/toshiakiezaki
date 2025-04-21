@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sun is new each day.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>Heraclitus</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
