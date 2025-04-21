@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
