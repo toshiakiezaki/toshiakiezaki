@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can live without money, but I cannot live without love.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>Judy Garland</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
