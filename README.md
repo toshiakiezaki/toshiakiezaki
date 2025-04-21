@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Luck is a matter of preparation meeting opportunity.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>Oprah Winfrey</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
