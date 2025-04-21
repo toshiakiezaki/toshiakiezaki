@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>Robin Sharma</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
