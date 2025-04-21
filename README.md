@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>Jonathan Swift</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
