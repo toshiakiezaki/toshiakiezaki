@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
+<p>Less is more.</p>
 
-<p>Sydney Smith</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
