@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easy to discover what another has discovered before.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>Christopher Columbus</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
