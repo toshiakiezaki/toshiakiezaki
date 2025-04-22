@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.</p>
 
-<p>Unknown</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
