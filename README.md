@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace if possible, truth at all costs.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>Martin Luther</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
