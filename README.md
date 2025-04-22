@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>Naval Ravikant</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
