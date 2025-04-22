@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't bother people for help without first trying to solve the problem yourself.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>Colin Powell</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
