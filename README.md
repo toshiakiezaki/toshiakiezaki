@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything flows, nothing stands still.</p>
+<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
 
-<p>Heraclitus</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
