@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
+<p>Peace if possible, truth at all costs.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
