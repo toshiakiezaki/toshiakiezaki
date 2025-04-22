@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know the more one does the more one can do.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>Amelia Earhart</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
