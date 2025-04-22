@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Dr. Seuss</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
