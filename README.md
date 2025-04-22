@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>Jack London</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
