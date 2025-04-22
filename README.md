@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
 
-<p>Dogen</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
