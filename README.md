@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Light a candle instead of cursing the darkness.</p>
+<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
