@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>Paulo Coelho</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
