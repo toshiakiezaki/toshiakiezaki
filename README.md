@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>Hans Christian Andersen</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
