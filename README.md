@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definitions belong to the definers, not the defined.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>Toni Morrison</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
