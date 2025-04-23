@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>Marcus Aurelius</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
