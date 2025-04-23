@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
 
-<p>Thomas Jefferson</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
