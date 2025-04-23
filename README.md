@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>Do not stop thinking of life as an adventure.</p>
 
-<p>Dan Millman</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
