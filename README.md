@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You live by what you thrill to, and there's the end of it.</p>
+<p>Thinking will not overcome fear but action will. </p>
 
-<p>D. H. Lawrence</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
