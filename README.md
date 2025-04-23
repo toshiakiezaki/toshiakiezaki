@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Henry David Thoreau</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
