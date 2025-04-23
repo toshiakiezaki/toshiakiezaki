@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>Elbert Hubbard</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
