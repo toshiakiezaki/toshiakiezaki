@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
