@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way out is through.</p>
+<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
 
-<p>Robert Frost</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
