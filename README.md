@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>Ming-Dao Deng</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
