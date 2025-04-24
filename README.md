@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
