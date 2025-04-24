@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be patient and calm; no one can catch fish in anger.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>Herbert Hoover</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
