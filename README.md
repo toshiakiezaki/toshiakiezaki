@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
