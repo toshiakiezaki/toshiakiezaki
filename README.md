@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
 
-<p>Dan Millman</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
