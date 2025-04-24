@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, but verify.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Ronald Reagan</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
