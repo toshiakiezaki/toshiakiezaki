@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
 
-<p>Unknown</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
