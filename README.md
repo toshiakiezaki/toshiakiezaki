@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>Elvis Presley</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
