@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>Where we fall are the stepping-stones for our journey.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
