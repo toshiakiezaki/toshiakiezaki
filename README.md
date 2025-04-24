@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>Robin Sharma</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
