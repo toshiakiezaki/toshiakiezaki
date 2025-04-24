@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of the mind to be unconquerable.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>Seneca</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
