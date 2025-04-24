@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>Lolly Daskal</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
