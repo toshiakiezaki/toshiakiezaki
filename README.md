@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>Osho</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
