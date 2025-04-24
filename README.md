@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Kabir</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
