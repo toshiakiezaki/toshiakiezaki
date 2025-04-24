@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
+<p>Be where your enemy is not.</p>
 
-<p>William Faulkner</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
