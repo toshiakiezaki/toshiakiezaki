@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
 
-<p>Deepak Chopra</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
