@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Abundance of knowledge does not teach men to be wise.</p>
+<p>Trust, but verify.</p>
 
-<p>Heraclitus</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
