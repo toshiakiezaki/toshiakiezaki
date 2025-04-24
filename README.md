@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>Joyce Meyer</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
