@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>Dale Carnegie</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
