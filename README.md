@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>Yoko Ono</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
