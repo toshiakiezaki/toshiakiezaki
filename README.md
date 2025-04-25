@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
 <p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
