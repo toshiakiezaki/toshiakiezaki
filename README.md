@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Desire for the fruits of work must never be your motive in working.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>Bhagavad Gita</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
