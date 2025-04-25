@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>Mae West</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
