@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
 
-<p>Elon Musk</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
