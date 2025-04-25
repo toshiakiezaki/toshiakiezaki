@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Amelia Earhart</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
