@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Peter A. Cohen</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
