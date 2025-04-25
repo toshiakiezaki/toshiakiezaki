@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>Simon Sinek</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
