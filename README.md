@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
 
-<p>Judy Garland</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
