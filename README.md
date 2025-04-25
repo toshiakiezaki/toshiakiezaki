@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>Elbert Hubbard</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
