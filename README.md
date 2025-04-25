@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>A different result requires doing something different.</p>
 
-<p>Criss Jami</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
