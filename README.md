@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>Pema Chodron</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
