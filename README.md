@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
+<p>Every drop in the ocean counts. </p>
 
-<p>Colin Powell</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
