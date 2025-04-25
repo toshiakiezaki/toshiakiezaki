@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
 
-<p>Steve Maraboli</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
