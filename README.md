@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are willing to believe anything other than the truth.</p>
+<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
