@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>Judy Garland</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
