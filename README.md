@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>Robin Sharma</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
