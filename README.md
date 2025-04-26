@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way out is through.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>Robert Frost</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
