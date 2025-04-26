@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who know, do. Those that understand, teach.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>Aristotle</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
