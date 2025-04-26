@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>Gustave Flaubert</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
