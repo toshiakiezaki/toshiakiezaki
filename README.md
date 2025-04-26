@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>The only way out is through.</p>
 
-<p>John Wooden</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
