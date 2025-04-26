@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Brian Tracy</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
