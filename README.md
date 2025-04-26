@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
