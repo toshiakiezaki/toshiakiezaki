@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>Bhagavad Gita</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
