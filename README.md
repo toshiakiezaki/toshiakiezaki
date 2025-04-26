@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>Lolly Daskal</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
