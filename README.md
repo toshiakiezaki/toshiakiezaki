@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>Wayne Gretzky</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
