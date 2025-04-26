@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men trust their ears less than their eyes.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>Herodotus</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
