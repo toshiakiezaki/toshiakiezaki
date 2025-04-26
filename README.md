@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe you can and you're halfway there.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
