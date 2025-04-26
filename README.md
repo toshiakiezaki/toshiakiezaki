@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
