@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>Charles Darwin</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
