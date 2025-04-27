@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>Robert Greene</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
