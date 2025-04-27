@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>W. Clement Stone</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
