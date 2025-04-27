@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't, you must. If you must, you can.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>Tony Robbins</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
