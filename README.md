@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
 
-<p>Steve Harvey</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
