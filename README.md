@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listen to what you know instead of what you fear.</p>
+<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
 
-<p>Richard Bach</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
