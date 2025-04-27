@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Vidal Sassoon</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
