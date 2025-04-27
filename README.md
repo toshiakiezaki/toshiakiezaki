@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>Estee Lauder</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
