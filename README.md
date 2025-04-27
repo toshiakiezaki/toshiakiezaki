@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace if possible, truth at all costs.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Martin Luther</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
