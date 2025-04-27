@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
 <p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
