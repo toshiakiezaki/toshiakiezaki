@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
+<p>Peace if possible, truth at all costs.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
