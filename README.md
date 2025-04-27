@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>Simon Sinek</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
