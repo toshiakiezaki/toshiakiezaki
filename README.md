@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can laugh, I can live.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>Christopher Reeve</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
