@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The deeper the truth in a creative work, the longer it will live.  </p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>Charlie Chaplin</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
