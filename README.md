@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
