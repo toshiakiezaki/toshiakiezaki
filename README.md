@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>Vaclav Havel</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
