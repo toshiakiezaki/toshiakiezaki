@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
