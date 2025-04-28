@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
