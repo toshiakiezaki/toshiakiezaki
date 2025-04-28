@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>Barack Obama</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
