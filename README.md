@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
 
-<p>William James</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
