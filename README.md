@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>Do something worth remembering.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
