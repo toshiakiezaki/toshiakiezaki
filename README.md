@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>Naval Ravikant</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
