@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way round is through.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>Robert Frost</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
