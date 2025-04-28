@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the average of the five people you spend most time with.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Jim Rohn</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
