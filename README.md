@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you think, so shall you become. </p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Bruce Lee</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
