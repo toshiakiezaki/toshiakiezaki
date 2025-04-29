@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Teachers open the door. You enter by yourself. </p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>Chinese Proverb</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
