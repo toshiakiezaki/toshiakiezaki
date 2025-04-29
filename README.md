@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
