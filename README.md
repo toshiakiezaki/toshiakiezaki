@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>Audrey Hepburn</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
