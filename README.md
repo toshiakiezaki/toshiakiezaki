@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>Marcus Aurelius</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
