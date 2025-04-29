@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>In nature there is no alienation. Everything belongs.</p>
 
-<p>Alfred Adler</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
