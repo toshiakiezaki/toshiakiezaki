@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Short cuts make long delays.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
