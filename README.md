@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>Celestine Chua</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
