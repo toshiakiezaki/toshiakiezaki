@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
+<p>Short cuts make long delays.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
