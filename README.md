@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
+<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
 
-<p>William James</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
