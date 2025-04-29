@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
 
-<p>Seneca</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
