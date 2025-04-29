@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>Rumi</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
