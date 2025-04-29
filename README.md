@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
 
-<p>Unknown</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
