@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
