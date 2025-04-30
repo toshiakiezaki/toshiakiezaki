@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>Benjamin Mays</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
