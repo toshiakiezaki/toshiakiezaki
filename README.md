@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>James Allen</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
