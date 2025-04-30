@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
