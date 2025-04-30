@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>Earl Nightingale</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
