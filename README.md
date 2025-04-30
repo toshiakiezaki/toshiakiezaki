@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>Dalai Lama</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
