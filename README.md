@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only real obstacle in your path to a fulfilling life.</p>
+<p>You can never get enough of what you don't need to make you happy.</p>
 
-<p>Les Brown</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
