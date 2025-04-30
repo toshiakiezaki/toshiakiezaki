@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forget safety. Live where you fear to live.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>Rumi</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
