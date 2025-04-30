@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>High thoughts must have high language.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>Aristophanes</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
