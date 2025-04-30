@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing will work unless you do.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>Maya Angelou</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
