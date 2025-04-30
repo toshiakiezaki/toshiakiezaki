@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>Eric Hoffer</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
