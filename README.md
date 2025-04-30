@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>There is no path to Love. Love is the path.</p>
 
-<p>Jim Rohn</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
