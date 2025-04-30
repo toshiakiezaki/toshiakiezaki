@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>Zen Proverb</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
