@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>Wayne Dyer</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
