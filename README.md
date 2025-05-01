@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bloom where you are planted!</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>Mary Engelbreit</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
