@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>William Faulkner</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
