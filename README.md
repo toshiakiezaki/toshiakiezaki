@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>Gary Keller</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
