@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
 
-<p>Soyen Shaku</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
