@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>Robin Williams</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
