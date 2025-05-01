@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>Peter Drucker</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
