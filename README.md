@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>Zig Ziglar</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
