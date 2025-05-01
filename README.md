@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Show up even when you don't want to show up.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>Steve Harvey</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
