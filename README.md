@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To love means loving the unlovable.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
