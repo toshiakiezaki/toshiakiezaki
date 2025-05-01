@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
 
-<p>Seungsahn</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
