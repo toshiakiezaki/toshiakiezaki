@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>Judy Garland</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
