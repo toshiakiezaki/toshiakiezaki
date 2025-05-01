@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Eric Hoffer</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
