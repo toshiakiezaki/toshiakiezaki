@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>Robin Sharma</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
