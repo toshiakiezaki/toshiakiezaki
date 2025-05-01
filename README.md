@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loyal friend is worth ten thousand relatives.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>Euripides</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
