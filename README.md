@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>Chinese Proverb</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
