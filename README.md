@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't criticize what you can't understand. </p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Bob Dylan</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
