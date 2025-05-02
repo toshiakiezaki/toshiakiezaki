@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Comedy = tragedy + time.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Carol Burnett</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
