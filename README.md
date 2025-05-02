@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
