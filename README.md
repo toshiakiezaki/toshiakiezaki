@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Andrew Carnegie</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
