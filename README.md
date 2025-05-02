@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time goes from present to past.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
