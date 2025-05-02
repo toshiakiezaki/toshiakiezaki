@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>D. H. Lawrence</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
