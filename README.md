@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
