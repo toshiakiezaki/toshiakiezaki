@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Big people don't make people feel small.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>Robin Sharma</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
