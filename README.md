@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man gotta right to decide his own destiny.</p>
+<p>Comedy = tragedy + time.</p>
 
-<p>Bob Marley</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
