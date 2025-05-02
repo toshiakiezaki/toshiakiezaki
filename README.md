@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Jack Butcher</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
