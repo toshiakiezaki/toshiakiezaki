@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>Not how long, but how well you have lived is the main thing.</p>
 
-<p>Genghis Khan</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
