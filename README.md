@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>Earl Nightingale</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
