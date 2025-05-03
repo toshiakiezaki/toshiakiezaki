@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>Lolly Daskal</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
