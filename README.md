@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
