@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>Virginia Woolf</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
