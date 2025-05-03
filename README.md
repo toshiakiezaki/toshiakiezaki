@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
 
-<p>Woody Allen</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
