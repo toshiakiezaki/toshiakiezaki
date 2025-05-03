@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>Lao Tzu</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
