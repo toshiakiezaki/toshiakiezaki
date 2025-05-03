@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>Brian Tracy</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
