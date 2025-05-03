@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not how long, but how well you have lived is the main thing.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>Seneca</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
