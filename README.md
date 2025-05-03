@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
 
-<p>John Locke</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
