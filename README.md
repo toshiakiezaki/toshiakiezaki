@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>Sigmund Freud</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
