@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
