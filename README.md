@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>Brian Tracy</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
