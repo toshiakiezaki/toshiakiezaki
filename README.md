@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>Jim Rohn</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
