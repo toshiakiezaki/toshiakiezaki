@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
 
-<p>Robin Sharma</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
