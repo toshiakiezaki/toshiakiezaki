@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you chase two rabbits, you catch none.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>Confucius</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
