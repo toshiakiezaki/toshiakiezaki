@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools resist. The wise embrace.</p>
+<p>Chase your passion, not your pension. </p>
 
-<p>Maxime Lagace</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
