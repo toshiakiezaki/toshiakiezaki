@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Chinese Proverb</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
