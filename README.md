@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>John Wooden</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
