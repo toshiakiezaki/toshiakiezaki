@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>Barack Obama</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
