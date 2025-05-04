@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>Love is the energy of life.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
