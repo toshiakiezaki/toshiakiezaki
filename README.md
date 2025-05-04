@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>St. Jerome</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
