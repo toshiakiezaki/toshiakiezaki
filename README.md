@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All happiness depends on courage and work.</p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
-<p>Honore de Balzac</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
