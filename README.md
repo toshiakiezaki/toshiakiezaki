@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chase your passion, not your pension. </p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>Denis Waitley</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
