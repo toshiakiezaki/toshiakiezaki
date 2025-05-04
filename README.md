@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>Winston Churchill</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
