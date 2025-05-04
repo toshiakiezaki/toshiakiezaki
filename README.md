@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All I can do is be me, whoever that is.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>Bob Dylan</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
