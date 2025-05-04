@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>Isaac Newton</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
