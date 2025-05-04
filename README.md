@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One must be poor to know the luxury of giving.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>George Eliot</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
