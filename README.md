@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>Alfred Adler</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
