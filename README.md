@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>Brian Tracy</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
