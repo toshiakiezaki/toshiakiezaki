@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to steer the river.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Deepak Chopra</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
