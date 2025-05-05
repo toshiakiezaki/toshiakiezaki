@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>Mother Teresa</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
