@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're on earth. There's no cure for that.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>Samuel Beckett</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
