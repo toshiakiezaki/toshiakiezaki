@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>Anita Krizzan</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
