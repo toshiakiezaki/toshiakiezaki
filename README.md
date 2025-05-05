@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
+<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
 
-<p>Dan Millman</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
