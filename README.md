@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>For things to change, you have to change.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
