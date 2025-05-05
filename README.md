@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is intelligence having fun.</p>
+<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
 
-<p>Albert Einstein</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
