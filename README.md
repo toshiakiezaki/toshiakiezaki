@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can, does.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>George Bernard Shaw</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
