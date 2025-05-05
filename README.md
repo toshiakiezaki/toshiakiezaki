@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles don't block the path, they are the path.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Zen Proverb</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
