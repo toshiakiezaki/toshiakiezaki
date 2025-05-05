@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>Roy T. Bennett</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
