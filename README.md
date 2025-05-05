@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>Napoleon Hill</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
