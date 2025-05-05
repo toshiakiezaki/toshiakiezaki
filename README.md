@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man becomes rich unless he enriches others.</p>
+<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
 
-<p>Andrew Carnegie</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
