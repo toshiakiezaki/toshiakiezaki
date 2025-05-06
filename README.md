@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds are always feared by lesser minds.</p>
+<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
 
-<p>Dan Brown</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
