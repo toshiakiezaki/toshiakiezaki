@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big and dare to fail.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Norman Vaughan</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
