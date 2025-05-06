@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discontent is the first necessity of progress.</p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>Thomas Edison</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
