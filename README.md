@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>The dreamers are the saviors of the worlds.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
