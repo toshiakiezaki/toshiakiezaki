@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The giving of love is an education in itself.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
 <p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
