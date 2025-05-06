@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
