@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is doing now what you are going to be happy with later on.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>Joyce Meyer</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
