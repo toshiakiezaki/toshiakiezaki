@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Audrey Hepburn</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
