@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
