@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
 
-<p>Henry Ford</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
