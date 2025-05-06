@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>Socrates</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
