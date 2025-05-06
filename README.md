@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in your moments of decision that your destiny is shaped.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>Tony Robbins</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
