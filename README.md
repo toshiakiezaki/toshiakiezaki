@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>It is in your moments of decision that your destiny is shaped.</p>
 
-<p>Jim Rohn</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
