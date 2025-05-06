@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>For things to change, you have to change.</p>
 
-<p>Mother Teresa</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
