@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to lose than to win.  </p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>Wayne Gretzky</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
