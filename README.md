@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure is what lies ahead.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
