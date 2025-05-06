@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dreamers are the saviors of the worlds.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>James Allen</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
