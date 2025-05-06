@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
 
-<p>Richard Bach</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
