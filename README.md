@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fortunate are those who take the first steps.</p>
+<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
 
-<p>Paulo Coelho</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
