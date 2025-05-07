@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Plato</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
