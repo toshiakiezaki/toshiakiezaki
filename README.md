@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By perseverance the snail reached the ark.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>Charles Spurgeon</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
