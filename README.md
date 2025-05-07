@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>Osho</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
