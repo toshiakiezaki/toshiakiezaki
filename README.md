@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>Confucius</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
