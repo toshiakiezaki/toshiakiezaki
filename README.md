@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are illusions of the mind.</p>
+<p>Storms don't last forever.</p>
 
-<p>Eckhart Tolle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
