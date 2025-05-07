@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is nothing but a collective hunch.</p>
+<p>All problems are illusions of the mind.</p>
 
-<p>Lily Tomlin</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
