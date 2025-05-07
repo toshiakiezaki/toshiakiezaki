@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is a source of great strength.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>Lao Tzu</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
