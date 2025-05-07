@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
