@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When I let go of what I am, I become what I might be.</p>
+<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
 
-<p>Lao Tzu</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
