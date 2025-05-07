@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing like looking if you want to find something.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>J.R.R. Tolkien</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
