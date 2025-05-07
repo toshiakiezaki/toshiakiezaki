@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>Genghis Khan</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
