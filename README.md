@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>Oprah Winfrey</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
