@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>Naval Ravikant</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
