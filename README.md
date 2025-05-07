@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>George Bernard Shaw</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
