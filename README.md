@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>Silence is a source of great strength.</p>
 
-<p>Herodotus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
