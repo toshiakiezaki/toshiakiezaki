@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>Naval Ravikant</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
