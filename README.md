@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
