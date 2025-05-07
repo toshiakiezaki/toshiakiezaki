@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
 
-<p>Paulo Coelho</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
