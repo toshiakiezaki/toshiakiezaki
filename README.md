@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
+<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
 
-<p>Unknown</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
