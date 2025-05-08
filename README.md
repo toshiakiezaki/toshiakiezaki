@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>Orison Swett Marden</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
