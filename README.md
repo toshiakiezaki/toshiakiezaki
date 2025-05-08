@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>Herbert Hoover</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
