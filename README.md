@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>Marilyn Monroe</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
