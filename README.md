@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>Unknown</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
