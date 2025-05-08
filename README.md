@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A change is brought about because ordinary people do extraordinary things.</p>
+<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
 
-<p>Barack Obama</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
