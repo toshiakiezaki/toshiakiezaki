@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has the name of life, but in reality it is death.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>Heraclitus</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
