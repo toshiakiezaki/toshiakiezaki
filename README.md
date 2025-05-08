@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
 
-<p>George Bernard Shaw</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
