@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>Gilbert Chesterton</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
