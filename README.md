@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
+<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
 
-<p>Dale Carnegie</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
