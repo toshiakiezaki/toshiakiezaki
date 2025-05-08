@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We make a living by what we get, but we make a life by what we give.</p>
+<p>A change is brought about because ordinary people do extraordinary things.</p>
 
-<p>Unknown</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
