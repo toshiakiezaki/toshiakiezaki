@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>Albert Einstein</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
