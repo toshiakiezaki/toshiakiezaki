@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The few who do are the envy of the many who only watch.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>Jim Rohn</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
