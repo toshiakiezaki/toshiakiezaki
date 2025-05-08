@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
 
-<p>Robert Collier</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
