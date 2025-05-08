@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>Listen to the secret sound, the real sound, which is inside you.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
