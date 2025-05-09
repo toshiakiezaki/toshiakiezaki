@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
 
-<p>Euripides</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
