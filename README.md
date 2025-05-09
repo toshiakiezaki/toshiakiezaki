@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>Gustave Flaubert</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
