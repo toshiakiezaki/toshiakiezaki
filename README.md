@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day is an opportunity to a make a new happy ending.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>Jonathan Swift</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
