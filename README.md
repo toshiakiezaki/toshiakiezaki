@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>Nikola Tesla</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
