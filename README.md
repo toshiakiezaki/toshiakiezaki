@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Mark Twain</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
