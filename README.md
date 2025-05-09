@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>Gurbaksh Chahal</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
