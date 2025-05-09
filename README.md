@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there is no struggle, there is no strength. </p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>Oprah Winfrey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
