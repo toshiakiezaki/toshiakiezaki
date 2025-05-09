@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>Albert Einstein</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
