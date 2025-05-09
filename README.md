@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
 
-<p>George Bernard Shaw</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
