@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who avoid failure also avoid success.</p>
+<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
 
-<p>Robert Kiyosaki</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
