@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Sun Tzu</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
