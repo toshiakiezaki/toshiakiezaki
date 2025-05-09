@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Not all of us can do great things. But we can do small things with great love.</p>
 
-<p>Jim Rohn</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
