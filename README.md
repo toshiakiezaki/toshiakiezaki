@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't look back - you're not going that way.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Mary Engelbreit</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
