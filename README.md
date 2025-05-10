@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>Zen Proverb</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
