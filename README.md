@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definitions belong to the definers, not the defined.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>Toni Morrison</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
