@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all of us can do great things. But we can do small things with great love.</p>
+<p>All we have to decide is what to do with the time that is given to us.</p>
 
-<p>Mother Teresa</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
