@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The birth of the mind is the death of the senses.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>Dan Millman</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
