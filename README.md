@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Tony Robbins</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
