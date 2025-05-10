@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An investment in knowledge pays the best interest.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>Benjamin Franklin</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
