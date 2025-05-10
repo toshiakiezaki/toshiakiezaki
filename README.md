@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>Jonathan Swift</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
