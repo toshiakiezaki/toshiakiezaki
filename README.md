@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>The man who removes a mountain begins by carrying away small stones.</p>
 
-<p>Mark Manson</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
