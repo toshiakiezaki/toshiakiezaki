@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Steve Harvey</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
