@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>Alan Watts</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
