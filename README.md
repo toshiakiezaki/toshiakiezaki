@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>Ronald Reagan</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
