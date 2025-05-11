@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When something is important enough, you do it even if the odds are not in your favor.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>Elon Musk</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
