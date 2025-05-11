@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>Paulo Coelho</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
