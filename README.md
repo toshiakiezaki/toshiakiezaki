@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is peace even in the storm.</p>
+<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
 
-<p>Vincent van Gogh</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
