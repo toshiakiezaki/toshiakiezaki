@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>By words the mind is winged.</p>
 
-<p>Lao Tzu</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
