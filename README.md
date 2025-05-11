@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything worth doing is worth doing slowly.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>Mae West</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
