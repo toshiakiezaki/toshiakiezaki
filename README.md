@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>Paulo Coelho</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
