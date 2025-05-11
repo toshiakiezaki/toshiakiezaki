@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>Seneca</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
