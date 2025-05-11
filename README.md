@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>Charles Darwin</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
