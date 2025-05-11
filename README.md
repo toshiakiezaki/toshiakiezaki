@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
