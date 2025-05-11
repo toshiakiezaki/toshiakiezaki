@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By words the mind is winged.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>Aristophanes</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
