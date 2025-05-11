@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who attain the middle Dominate the whole.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
