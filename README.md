@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All power is from within and therefore under our control.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>Robert Collier</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
