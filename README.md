@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Nikola Tesla</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
