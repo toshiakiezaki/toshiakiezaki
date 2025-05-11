@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
-<p>Yanni</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
