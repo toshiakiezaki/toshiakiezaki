@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>Deepak Chopra</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
