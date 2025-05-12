@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>Napoleon Hill</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
