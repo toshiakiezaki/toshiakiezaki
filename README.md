@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only encounters in history. There are no accidents.</p>
+<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
 
-<p>Pablo Picasso</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
