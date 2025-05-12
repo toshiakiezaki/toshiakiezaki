@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
 
-<p>Albert Einstein</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
