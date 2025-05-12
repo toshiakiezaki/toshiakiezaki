@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>Tony Robbins</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
