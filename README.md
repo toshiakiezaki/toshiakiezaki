@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
 
-<p>Seneca</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
