@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion creates, addiction consumes.</p>
+<p>We think too much and feel too little.</p>
 
-<p>Gabor Mate</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
