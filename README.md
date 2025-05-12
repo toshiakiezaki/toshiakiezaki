@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Gary Keller</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
