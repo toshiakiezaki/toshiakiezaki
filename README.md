@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>Mother Teresa</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
