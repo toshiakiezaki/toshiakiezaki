@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>Unknown</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
