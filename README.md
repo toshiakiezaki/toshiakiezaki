@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>Lolly Daskal</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
