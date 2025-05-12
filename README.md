@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>Passion creates, addiction consumes.</p>
 
-<p>Dr. Seuss</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
