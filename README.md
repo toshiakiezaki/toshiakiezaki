@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The score never interested me, only the game.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>Mae West</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
