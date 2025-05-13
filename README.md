@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows how to wait need make no concessions.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
-<p>Sigmund Freud</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
