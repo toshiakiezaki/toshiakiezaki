@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when I fall do I get up again.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Vincent van Gogh</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
