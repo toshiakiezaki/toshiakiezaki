@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work is always an antidote to depression.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
