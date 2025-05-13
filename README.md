@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>Wherever you are, and whatever you do, be in love.</p>
 
-<p>Roy T. Bennett</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
