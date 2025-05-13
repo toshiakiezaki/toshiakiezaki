@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All things come into being by conflict of opposites.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>Heraclitus</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
