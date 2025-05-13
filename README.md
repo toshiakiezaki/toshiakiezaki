@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
 
-<p>Conrad Hilton</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
