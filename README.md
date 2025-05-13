@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
