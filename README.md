@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I pay attention to every minute of the day.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
 <p>Steve Harvey</p>
 <!-- dailyquote:end -->
