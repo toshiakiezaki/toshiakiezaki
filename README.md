@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>You can never get enough of what you don't need to make you happy.</p>
 
-<p>Virginia Woolf</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
