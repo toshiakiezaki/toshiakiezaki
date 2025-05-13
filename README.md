@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder the conflict, the greater the triumph. </p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>George Washington</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
