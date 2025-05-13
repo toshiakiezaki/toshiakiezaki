@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing we have to fear is fear itself.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
