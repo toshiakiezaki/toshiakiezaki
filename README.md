@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>Epictetus</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
