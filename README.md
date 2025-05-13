@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>I pay attention to every minute of the day.</p>
 
-<p>Eric Hoffer</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
