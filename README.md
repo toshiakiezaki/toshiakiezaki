@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>Maxime Lagace</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
