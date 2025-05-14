@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
