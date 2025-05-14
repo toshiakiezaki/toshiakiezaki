@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to be irreplaceable one must always be different.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>Coco Chanel</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
