@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>Find your Light; They can't love you if they can't see you.</p>
 
-<p>Socrates</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
