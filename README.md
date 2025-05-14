@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Earl Nightingale</p>
+<p>George Addair</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
