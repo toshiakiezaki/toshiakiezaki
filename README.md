@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>William James</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
