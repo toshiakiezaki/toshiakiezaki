@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who possesses most must be most afraid of loss.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
