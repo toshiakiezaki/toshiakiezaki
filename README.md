@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>Naval Ravikant</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
