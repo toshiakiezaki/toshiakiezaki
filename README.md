@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>Dan Millman</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
