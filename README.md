@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never settle for the crumbs of life.</p>
+<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
 
-<p>Og Mandino</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
