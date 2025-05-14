@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find your Light; They can't love you if they can't see you.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>Bette Midler</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
