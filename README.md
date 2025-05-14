@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot have a positive life and a negative mind.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>Joyce Meyer</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
