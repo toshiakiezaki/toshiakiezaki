@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise warrior avoids the battle.</p>
+<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
 
-<p>Sun Tzu</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
