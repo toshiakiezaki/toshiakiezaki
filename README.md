@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're on earth. There's no cure for that.</p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>Samuel Beckett</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
