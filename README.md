@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>Denis Waitley</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
