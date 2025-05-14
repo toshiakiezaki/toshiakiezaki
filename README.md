@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The river that flows in you also flows in me.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>Kabir</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
