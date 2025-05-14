@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>Eric Hoffer</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
