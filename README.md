@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>Orison Swett Marden</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
