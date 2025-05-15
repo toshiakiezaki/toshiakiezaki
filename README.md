@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first rule of business; treat others like they want to treat you.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>Charles Dickens</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
