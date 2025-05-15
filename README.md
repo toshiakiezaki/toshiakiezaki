@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature loves to hide.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>Heraclitus</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
