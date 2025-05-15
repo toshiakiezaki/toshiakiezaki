@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do the best you can. No one can do more than that.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>John Wooden</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
