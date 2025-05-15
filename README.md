@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>Andrew Carnegie</p>
+<p>Babe Ruth</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
