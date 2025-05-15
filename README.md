@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
 <p>Charles Dickens</p>
 <!-- dailyquote:end -->
