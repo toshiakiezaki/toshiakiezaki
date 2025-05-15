@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
