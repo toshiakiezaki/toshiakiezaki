@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe and you're halfway there.</p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>Harry S. Truman</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
