@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
 
-<p>Mary Engelbreit</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
