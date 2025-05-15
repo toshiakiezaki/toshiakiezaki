@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>Confidence is contagious. So is lack of confidence.</p>
 
-<p>Tony Robbins</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
