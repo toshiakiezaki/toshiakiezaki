@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>For every minute you are angry you lose sixty seconds of happiness.</p>
 
-<p>Charles Darwin</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
