@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Force has no place where there is need of skill. </p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>Herodotus</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
