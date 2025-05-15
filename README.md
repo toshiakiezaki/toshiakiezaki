@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is contagious. So is lack of confidence.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>Vince Lombardi</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
