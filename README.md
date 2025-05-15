@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>Ayn Rand</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
