@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>Nature loves to hide.</p>
 
-<p>Walt Whitman</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
