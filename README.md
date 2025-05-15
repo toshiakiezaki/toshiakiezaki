@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens in life, never lose sight of who you are.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>Yanni</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
