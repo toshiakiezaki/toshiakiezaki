@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Rumi</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
