@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>First learn the meaning of what you say, and then speak.</p>
 
-<p>Thomas Jefferson</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
