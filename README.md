@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>Amelia Earhart</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
