@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Aristotle</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
