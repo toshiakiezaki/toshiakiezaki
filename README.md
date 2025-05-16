@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>George Bernard Shaw</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
