@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>For things to change, you have to change.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
