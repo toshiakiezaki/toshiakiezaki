@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For things to change, you have to change.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Jim Rohn</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
