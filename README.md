@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>Abraham Lincoln</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
