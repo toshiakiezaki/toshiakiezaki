@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>Albert Einstein</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
