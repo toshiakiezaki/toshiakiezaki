@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>Michael Jordan</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
