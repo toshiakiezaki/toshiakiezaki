@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
