@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>Oscar Wilde</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
