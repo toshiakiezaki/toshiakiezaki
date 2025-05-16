@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>Chinese Proverb</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
