@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>Elon Musk</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
