@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>Epictetus</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
