@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>Jack Butcher</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
