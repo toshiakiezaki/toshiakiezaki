@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
 
-<p>Thomas Jefferson</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
