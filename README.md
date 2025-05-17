@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>Maxime Lagace</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
