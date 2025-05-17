@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>Henry Ford</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
