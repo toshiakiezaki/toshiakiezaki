@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>Henry Ford</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
