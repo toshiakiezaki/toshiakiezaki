@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perpetual optimism is a force multiplier.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Colin Powell</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
