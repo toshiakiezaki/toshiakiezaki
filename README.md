@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future is not a gift. It is an achievement.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
