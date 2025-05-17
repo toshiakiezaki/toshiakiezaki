@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All we have to decide is what to do with the time that is given to us.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
