@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>Don't think money does everything or you are going to end up doing everything for money.</p>
 
-<p>Jim Rohn</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
