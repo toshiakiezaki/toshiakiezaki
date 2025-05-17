@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend major time on minor things.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>Jim Rohn</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
