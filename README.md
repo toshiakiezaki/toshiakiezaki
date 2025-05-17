@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
 
-<p>Epictetus</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
