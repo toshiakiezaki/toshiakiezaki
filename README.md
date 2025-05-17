@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>Let the beauty of what you love be what you do.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
