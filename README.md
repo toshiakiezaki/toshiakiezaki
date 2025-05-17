@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let the beauty of what you love be what you do.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>Rumi</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
