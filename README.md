@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>Thomas Jefferson</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
