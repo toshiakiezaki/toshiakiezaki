@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>Dale Carnegie</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
