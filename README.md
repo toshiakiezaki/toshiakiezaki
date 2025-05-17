@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Zhuangzi</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
