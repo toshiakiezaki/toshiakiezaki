@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>Kamal Ravikant</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
