@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>Dale Carnegie</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
