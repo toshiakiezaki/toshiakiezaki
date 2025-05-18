@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>Tony Robbins</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
