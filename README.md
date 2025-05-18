@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>Steve Maraboli</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
