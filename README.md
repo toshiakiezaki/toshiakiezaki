@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
 
-<p>Harry S. Truman</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
