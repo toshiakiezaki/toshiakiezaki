@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>Michael Jordan</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
