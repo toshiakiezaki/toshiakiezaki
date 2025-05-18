@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
+<p>Still your waters.</p>
 
-<p>Naval Ravikant</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
