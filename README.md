@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>Jack London</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
