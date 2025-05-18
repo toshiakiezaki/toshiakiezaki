@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Still your waters.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>Josh Waitzkin</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
