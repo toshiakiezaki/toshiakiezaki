@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friends ask you questions; enemies question you.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>Criss Jami</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
