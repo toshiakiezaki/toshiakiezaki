@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>Will Rogers</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
