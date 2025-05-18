@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men do not attract which they want but that which they are.</p>
+<p>Passion creates, addiction consumes.</p>
 
-<p>James Allen</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
