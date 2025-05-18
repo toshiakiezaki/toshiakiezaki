@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>Socrates</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
