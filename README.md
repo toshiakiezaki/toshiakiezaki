@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>Walt Whitman</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
