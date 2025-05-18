@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion creates, addiction consumes.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>Gabor Mate</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
