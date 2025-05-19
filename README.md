@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
 
-<p>Mark Manson</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
