@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>George Bernard Shaw</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
