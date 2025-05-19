@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>Marcus Aurelius</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
