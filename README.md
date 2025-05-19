@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not do to dwell on dreams and forget to live, remember that.</p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>Albus Dumbledore</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
