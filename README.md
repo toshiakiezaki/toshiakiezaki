@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>Oprah Winfrey</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
