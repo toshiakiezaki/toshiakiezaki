@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>Roy T. Bennett</p>
+<p>Kilian Jornet</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
