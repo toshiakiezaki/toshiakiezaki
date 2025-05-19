@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>Kilian Jornet</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
