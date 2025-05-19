@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>Winston Churchill</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
