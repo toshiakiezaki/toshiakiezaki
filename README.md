@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Repetition does not transform a lie into a truth.</p>
+<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
