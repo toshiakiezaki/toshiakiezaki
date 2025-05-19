@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>Alfred Adler</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
