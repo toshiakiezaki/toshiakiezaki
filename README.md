@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
-<p>Peter Drucker</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
