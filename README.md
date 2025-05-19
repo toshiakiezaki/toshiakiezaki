@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>Paulo Coelho</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
