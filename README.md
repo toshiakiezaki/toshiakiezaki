@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is often safer to be in chains than to be free. </p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>Franz Kafka</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
