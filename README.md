@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>Orison Swett Marden</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
