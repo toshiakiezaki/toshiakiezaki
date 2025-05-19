@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day without laughter is a day wasted.</p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>Charlie Chaplin</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
