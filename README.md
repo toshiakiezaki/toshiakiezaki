@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>Unknown</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
