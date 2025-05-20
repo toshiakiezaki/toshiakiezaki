@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
+<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
 
-<p>Eckhart Tolle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
