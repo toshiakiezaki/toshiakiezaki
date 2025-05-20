@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live the moment for the moment.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>Michael Jordan</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
