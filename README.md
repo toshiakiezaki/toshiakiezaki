@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good system shortens the road to the goal. </p>
+<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
 
-<p>Orison Swett Marden</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
