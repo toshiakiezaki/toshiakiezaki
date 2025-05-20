@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>We think too much and feel too little.</p>
 
-<p>Pablo Picasso</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
