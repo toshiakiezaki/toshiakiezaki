@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is the ability to stand by an idea.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Ayn Rand</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
