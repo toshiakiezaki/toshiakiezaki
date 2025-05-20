@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We think too much and feel too little.</p>
+<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
 
-<p>Charlie Chaplin</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
