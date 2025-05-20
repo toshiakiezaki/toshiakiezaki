@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
+<p>Live the moment for the moment.</p>
 
-<p>Alan Watts</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
