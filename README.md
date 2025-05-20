@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The roots of education are bitter, but the fruit is sweet.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>Aristotle</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
