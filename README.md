@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>Jim Rohn</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
