@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
 
-<p>Tony Robbins</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
