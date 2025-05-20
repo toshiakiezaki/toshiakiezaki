@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
 
-<p>Elon Musk</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
