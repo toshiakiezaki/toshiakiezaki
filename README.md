@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can spend our whole lives escaping from the monsters of our minds.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>Pema Chodron</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
