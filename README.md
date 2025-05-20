@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
