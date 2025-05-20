@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
 
-<p>Naval Ravikant</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
