@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wealth is of the heart, not of the purse.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>Og Mandino</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
