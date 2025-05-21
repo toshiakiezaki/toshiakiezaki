@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
+<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
 
-<p>Kahlil Gibran</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
