@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Chinese Proverb</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
