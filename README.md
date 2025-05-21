@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death is not an ending. It is a transformation.</p>
+<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
 
-<p>Ming-Dao Deng</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
