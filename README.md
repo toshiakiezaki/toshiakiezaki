@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always try to be a little kinder than necessary.</p>
+<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
 
-<p>James Matthew Barrie</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
