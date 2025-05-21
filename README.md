@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>St. Jerome</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
