@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
 <p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
