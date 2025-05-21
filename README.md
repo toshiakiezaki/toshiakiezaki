@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>Colin Powell</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
