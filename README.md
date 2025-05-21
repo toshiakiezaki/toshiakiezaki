@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>Jim Rohn</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
