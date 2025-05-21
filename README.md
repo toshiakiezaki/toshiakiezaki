@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Alfred Adler</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
