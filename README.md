@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>Criss Jami</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
