@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>Paulo Coelho</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
