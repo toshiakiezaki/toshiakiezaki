@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>Pema Chodron</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
