@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Henry Ford</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
