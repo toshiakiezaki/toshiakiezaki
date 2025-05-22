@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either write something worth reading or do something worth writing.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>Benjamin Franklin</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
