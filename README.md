@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more truly artistic than to love people.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Vincent van Gogh</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
