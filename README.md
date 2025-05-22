@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>Mark Manson</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
