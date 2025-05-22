@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>Simon Sinek</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
