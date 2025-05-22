@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
+<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
 
-<p>Steve Maraboli</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
