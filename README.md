@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>Bodhidharma</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
