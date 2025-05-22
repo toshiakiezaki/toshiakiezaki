@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>Charles Swindoll</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
