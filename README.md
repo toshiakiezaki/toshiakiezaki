@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>Franz Kafka</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
