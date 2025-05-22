@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>Laurence J. Peter</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
