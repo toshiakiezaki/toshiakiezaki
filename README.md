@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>Dalai Lama</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
