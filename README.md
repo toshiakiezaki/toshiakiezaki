@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
+<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
 
-<p>Alan Watts</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
