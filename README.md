@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who wishes to fight must first count the cost.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>Sun Tzu</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
