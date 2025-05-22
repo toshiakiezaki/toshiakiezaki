@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>Chinese Proverb</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
