@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
