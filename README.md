@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To become what you are not, behave as you do not.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>T.S. Eliot</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
