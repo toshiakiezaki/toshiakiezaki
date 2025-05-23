@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
+<p>Enlightenment is intimacy with all things.</p>
 
-<p>Robin Sharma</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
