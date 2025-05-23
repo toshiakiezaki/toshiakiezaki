@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>The way out is in.</p>
 
-<p>Audrey Hepburn</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
