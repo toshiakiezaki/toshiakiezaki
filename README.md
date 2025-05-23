@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>George Bernard Shaw</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
