@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>You have the potential for greatness.</p>
 
-<p>Gustave Flaubert</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
