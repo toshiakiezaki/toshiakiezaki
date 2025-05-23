@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love the life you live, live the life you love.</p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>Bob Marley</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
