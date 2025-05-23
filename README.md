@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is the leading cause of stress among those in touch with it.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>Lily Tomlin</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
