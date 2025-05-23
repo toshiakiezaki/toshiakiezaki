@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enlightenment is intimacy with all things.</p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>Dogen</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
