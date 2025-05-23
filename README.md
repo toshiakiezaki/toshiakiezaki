@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>Laurence J. Peter</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
