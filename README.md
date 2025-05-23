@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day without laughter is a day wasted.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>Charlie Chaplin</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
