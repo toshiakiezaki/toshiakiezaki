@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>Dan Millman</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
