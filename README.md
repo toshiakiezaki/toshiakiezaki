@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find something you love and do it better than everyone else.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
