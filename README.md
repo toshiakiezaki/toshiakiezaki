@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>Bruce Lee</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
