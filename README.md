@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>With the new day comes new strength and new thoughts.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
