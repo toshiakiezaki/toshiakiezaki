@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>Walt Disney</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
