@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>An un-examined life is not worth living.</p>
 
-<p>Mae West</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
