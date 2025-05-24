@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>Epictetus</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
