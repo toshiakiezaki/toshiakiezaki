@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Rumi</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
