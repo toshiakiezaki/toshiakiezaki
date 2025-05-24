@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>Deepak Chopra</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
