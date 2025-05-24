@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>Charles Swindoll</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
