@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
 
-<p>Dalai Lama</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
