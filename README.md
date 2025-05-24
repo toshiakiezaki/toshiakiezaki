@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
+<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
 
-<p>Spencer Johnson</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
