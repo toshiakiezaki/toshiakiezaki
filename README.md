@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>Vince Lombardi</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
