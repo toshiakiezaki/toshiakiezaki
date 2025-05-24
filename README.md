@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>You can never get enough of what you don't need to make you happy.</p>
 
-<p>John Lennon</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
