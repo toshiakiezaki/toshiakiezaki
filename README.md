@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is an iceberg.</p>
+<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
 
-<p>Unknown</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
