@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
+<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
 
-<p>William James</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
