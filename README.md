@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>Men are disturbed not by things, but by the view which they take of them.</p>
 
-<p>James Allen</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
