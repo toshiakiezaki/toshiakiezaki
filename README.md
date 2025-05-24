@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>Robin Sharma</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
