@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
