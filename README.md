@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>Bob Proctor</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
