@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>Alexander Pope</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
