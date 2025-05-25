@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
 
-<p>Michael Jordan</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
