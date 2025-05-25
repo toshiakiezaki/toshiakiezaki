@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>Pablo Picasso</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
