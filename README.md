@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>Criss Jami</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
