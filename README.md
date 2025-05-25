@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Everything flows, nothing stands still.</p>
 
-<p>Bob Proctor</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
