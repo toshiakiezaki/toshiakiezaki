@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>Alexander Pope</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
