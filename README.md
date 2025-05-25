@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>Bob Proctor</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
