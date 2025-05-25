@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
