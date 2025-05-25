@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People don't care how much you know until they know how much you care.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
