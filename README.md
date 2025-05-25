@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
+<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
 
-<p>John Lennon</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
