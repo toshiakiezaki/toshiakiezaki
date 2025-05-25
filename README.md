@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>Heaven is right where you are standing.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
