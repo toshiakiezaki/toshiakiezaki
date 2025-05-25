@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
 
-<p>Zig Ziglar</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
