@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>Jack Butcher</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
