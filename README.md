@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Pablo Picasso</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
