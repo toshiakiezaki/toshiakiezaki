@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>George Bernard Shaw</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
