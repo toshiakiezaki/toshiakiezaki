@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>Lolly Daskal</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
