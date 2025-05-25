@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>William James</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
