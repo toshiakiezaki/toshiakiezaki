@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who possesses most must be most afraid of loss.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
