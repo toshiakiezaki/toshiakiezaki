@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>Helen Keller</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
