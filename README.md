@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>Seneca</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
