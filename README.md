@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
 
-<p>Harry S. Truman</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
