@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
 
-<p>Thomas Jefferson</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
