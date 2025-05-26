@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>Zig Ziglar</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
