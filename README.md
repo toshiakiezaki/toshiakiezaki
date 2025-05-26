@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world makes way for the man who knows where he is going.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
