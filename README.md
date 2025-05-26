@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>Abraham Lincoln</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
