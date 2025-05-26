@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
+<p>I succeeded by saying what everyone else is thinking.</p>
 
-<p>Plato</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
