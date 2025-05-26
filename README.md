@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>High thoughts must have high language.</p>
 
-<p>T.S. Eliot</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
