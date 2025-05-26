@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>High thoughts must have high language.</p>
+<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
 
-<p>Aristophanes</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
