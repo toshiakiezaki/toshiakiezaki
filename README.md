@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One always begins to forgive a place as soon as it's left behind.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>Charles Dickens</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
