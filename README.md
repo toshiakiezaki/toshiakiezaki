@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>Paramahansa Yogananda</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
