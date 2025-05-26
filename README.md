@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Unknown</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
