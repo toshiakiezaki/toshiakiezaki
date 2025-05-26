@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
 
-<p>Joan Rivers</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
