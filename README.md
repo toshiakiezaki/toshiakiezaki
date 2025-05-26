@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>One always begins to forgive a place as soon as it's left behind.</p>
 
-<p>Henry Ford</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
