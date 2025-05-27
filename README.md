@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
 
-<p>Colin Powell</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
