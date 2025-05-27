@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I know of only one duty, and that is to love.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>George Bernard Shaw</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
