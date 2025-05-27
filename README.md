@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can, does.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>George Bernard Shaw</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
