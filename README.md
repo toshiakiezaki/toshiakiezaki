@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
 
-<p>Kenneth Branagh</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
