@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>He who can, does.</p>
 
-<p>Unknown</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
