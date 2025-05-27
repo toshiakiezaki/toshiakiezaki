@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't argue both sides, you can't argue.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Jack Butcher</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
