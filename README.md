@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>Paulo Coelho</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
