@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>Emily Dickinson</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
