@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>Paulo Coelho</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
