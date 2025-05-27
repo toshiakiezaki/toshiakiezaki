@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go as far as you can see and you will see further.  </p>
+<p>The significance of life is living.</p>
 
-<p>Zig Ziglar</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
