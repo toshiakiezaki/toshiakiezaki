@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>Dogen</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
