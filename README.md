@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>Wayne Dyer</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
