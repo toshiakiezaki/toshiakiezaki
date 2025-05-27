@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The significance of life is living.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
