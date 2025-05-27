@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tradition is the illusion of permanence. </p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>Woody Allen</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
