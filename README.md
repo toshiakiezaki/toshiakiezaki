@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>Zhuangzi</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
