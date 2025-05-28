@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be able to forget means sanity.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>Jack London</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
