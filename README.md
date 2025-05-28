@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Obstacles don't block the path, they are the path.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>Zen Proverb</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
