@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even in the grave, all is not lost.</p>
+<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
