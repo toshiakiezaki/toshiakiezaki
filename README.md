@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
+<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
 
-<p>Les Brown</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
