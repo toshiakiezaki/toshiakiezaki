@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>Charlie Chaplin</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
