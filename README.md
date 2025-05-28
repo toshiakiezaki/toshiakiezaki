@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more acquaintances you have, the less you know them.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>Chinese Proverb</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
