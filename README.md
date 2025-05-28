@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love never keeps a man from pursuing his destiny.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>Paulo Coelho</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
