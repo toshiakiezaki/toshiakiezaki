@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
+<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
 
-<p>W. Clement Stone</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
