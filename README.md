@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>Bob Marley</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
