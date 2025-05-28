@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste not fresh tears over old griefs.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>Euripides</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
