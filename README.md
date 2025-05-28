@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Elbert Hubbard</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
