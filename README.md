@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
 
-<p>Helen Keller</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
