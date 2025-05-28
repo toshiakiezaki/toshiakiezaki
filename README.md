@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>Love never keeps a man from pursuing his destiny.</p>
 
-<p>Joyce Meyer</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
