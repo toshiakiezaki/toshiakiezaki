@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>Samuel Butler</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
