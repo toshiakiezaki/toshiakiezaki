@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>Even in the grave, all is not lost.</p>
 
-<p>Kahlil Gibran</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
