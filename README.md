@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>Roy T. Bennett</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
