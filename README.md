@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>James Matthew Barrie</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
