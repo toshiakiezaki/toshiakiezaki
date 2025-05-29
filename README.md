@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>Mark Manson</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
