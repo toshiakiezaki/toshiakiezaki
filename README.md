@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who seek the easy way do not seek the true way.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>Dogen</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
