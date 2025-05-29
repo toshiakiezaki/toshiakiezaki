@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your mind stop you.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
 <p>Steve Harvey</p>
 <!-- dailyquote:end -->
