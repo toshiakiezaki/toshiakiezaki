@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
