@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>Roy T. Bennett</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
