@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is exact correspondence with reality. </p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
