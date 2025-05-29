@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Don't let your mind stop you.</p>
 
-<p>Naval Ravikant</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
