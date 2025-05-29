@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>Avoiding failure is to avoid progress.</p>
 
-<p>Osho</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
