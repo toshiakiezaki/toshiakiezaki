@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great acts are made up of small deeds.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>Lao Tzu</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
