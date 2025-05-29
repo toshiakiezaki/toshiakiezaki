@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise man reads both books and life itself.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>Lin Yutang</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
