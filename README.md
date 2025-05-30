@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>Alan Watts</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
