@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To earn more you must learn more.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>Brian Tracy</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
