@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>Mark Manson</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
