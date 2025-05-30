@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>Ayn Rand</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
