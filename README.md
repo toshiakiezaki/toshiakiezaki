@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>Bob Dylan</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
