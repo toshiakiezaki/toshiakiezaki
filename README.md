@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
