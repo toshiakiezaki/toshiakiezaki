@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>No one can hurt you without your consent.</p>
 
-<p>Ralph Marston</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
