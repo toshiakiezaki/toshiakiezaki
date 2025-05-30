@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>Jim Rohn</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
