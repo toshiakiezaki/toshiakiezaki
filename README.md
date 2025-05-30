@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>Walt Whitman</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
