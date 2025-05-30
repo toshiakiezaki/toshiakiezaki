@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Constantly think about how you could be doing things better.</p>
+<p>Victory is always possible for the person who refuses to stop fighting.</p>
 
-<p>Elon Musk</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
