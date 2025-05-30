@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>Sun Tzu</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
