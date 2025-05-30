@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Les Brown</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
