@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>Deepak Chopra</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
