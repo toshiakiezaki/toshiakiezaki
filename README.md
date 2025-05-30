@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>Chinese Proverb</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
