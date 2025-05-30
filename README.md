@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can hurt you without your consent.</p>
+<p>Before preparing to improve the world, first look around your own home three times. </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
