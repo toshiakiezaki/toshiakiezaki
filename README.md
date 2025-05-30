@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
