@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>To earn more you must learn more.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
