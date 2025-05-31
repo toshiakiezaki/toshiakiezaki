@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>Thomas Jefferson</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
