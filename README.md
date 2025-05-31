@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>St. Jerome</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
