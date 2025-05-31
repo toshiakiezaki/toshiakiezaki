@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>Meister Eckhart</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
