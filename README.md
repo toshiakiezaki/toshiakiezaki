@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the dancer and you are the dance.</p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>Eckhart Tolle</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
