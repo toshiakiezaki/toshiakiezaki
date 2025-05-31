@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let someone elses. opinion become your reality.</p>
+<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
 
-<p>Les Brown</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
