@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>Start each day with a positive thought and a grateful heart.</p>
 
-<p>Samuel Butler</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
