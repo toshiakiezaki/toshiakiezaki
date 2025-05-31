@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
