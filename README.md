@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>Bob Proctor</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
