@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Bob Marley</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
