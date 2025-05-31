@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you know, the more you know you don't know.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>Aristotle</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
