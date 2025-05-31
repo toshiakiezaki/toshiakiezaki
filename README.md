@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>Confucius</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
