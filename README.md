@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
 
-<p>Roy T. Bennett</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
