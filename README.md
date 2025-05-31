@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>Alfred Adler</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
