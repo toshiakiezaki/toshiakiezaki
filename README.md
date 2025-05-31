@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>Rita Mae Brown</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
