@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>Helen Keller</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
