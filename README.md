@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An un-examined life is not worth living.</p>
+<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
 
-<p>Socrates</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
