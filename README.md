@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
 
-<p>Yanni</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
