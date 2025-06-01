@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
