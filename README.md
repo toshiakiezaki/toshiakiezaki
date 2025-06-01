@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A goal is a dream with a deadline.</p>
+<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
 
-<p>Napoleon Hill</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
