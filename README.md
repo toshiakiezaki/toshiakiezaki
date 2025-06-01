@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>Charles Swindoll</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
