@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>Oprah Winfrey</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
