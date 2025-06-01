@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>Herbert Hoover</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
