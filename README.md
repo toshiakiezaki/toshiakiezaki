@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>Carl Jung</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
