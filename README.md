@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want peace, you won't get it with violence.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>John Lennon</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
