@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
