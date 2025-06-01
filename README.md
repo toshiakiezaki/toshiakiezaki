@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>Seneca</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
