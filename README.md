@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>The way we feel is the direct result of what we think.</p>
 
-<p>Betty White</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
