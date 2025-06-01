@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Children are our greatest natural resource.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>Herbert Hoover</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
