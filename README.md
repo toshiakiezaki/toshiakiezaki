@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>Mary Engelbreit</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
