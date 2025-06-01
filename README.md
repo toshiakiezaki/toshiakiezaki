@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>Wayne Dyer</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
