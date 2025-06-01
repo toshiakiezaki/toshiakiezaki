@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is doing now what you are going to be happy with later on.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>Joyce Meyer</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
