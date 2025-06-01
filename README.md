@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Light a candle instead of cursing the darkness.</p>
+<p>Be curious, not judgmental.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
