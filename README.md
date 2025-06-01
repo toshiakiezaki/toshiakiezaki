@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>Robin Williams</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
