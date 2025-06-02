@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
