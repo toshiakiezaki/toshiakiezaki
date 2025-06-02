@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>Criss Jami</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
