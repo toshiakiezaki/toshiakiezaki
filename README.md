@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>Winston Churchill</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
