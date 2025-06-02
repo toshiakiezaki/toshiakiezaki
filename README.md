@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can, does.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>George Bernard Shaw</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
