@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
