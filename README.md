@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way we feel is the direct result of what we think.</p>
+<p>Sorrow is how we learn to love.</p>
 
-<p>Peter A. Cohen</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
