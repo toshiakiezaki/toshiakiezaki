@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who you are is always right.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
