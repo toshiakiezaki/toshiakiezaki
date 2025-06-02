@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>Stephen King</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
