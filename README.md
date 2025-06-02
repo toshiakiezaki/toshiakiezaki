@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>Og Mandino</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
