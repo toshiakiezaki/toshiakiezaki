@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
