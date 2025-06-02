@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life reflects your own thoughts back to you.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>Napoleon Hill</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
