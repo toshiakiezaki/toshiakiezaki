@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only normal people are the ones you don't know very well.</p>
+<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
 
-<p>Alfred Adler</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
