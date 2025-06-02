@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>He who can, does.</p>
 
-<p>Chinese Proverb</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
