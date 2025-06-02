@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The two most powerful warriors are patience and time.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>Leo Tolstoy</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
