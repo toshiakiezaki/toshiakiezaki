@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
