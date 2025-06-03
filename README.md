@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>Plato</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
