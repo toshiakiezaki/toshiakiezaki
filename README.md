@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
