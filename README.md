@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive those who have hurt you.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>Les Brown</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
