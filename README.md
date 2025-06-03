@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When one door closes another door opens. </p>
+<p>The question is not what you look at, but what you see.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
