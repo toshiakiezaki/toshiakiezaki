@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>Forgive those who have hurt you.</p>
 
-<p>Helen Keller</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
