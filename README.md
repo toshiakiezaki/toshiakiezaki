@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of difficulty lies opportunity.</p>
+<p>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</p>
 
-<p>Albert Einstein</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
