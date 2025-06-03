@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>Sydney Smith</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
