@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A day without laughter is a day wasted.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>Charlie Chaplin</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
