@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
