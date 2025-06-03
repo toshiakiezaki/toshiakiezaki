@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
 
-<p>Paulo Coelho</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
