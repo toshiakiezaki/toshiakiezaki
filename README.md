@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
 
-<p>Barack Obama</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
