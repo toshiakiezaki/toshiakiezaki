@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Small men think they are small; great men never know they are great. </p>
+<p>We are all here for some special reason.</p>
 
-<p>Chinese Proverb</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
