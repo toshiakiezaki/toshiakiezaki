@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>Bob Marley</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
