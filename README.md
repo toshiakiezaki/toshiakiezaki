@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never was anything great achieved without danger.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>Niccolo Machiavelli</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
