@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find something you love and do it better than everyone else.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
