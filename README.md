@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>Unknown</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
