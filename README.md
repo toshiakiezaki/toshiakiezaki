@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
 
-<p>Isaac Newton</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
