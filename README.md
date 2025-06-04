@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
+<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
 
-<p>Lao Tzu</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
