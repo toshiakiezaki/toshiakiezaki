@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
