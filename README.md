@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your heart is full of fertile seeds, waiting to sprout.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
