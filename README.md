@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>Conrad Hilton</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
