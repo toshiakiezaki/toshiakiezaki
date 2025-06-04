@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Richard Bach</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
