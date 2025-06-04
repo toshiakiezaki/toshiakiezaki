@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>Wayne Dyer</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
