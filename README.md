@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>Mark Manson</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
