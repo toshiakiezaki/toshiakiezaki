@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>James Allen</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
