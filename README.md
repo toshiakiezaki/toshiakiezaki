@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heaven is right where you are standing.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
