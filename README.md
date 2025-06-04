@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>Brian Tracy</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
