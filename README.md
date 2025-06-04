@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>Dogen</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
