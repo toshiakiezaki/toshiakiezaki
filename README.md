@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>Euripides</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
