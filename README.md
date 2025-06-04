@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>Man's character is his fate.</p>
 
-<p>Chinese Proverb</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
