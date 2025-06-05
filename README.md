@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
 <p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
