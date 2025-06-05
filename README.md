@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>Isaac Newton</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
