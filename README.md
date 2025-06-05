@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>The chief enemy of creativity is good sense.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
