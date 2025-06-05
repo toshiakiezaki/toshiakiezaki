@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>Albert Einstein</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
