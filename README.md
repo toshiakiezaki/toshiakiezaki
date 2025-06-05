@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>Even in the grave, all is not lost.</p>
 
-<p>Rita Mae Brown</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
