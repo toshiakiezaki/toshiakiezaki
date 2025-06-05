@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not engaging in ignorance is wisdom. </p>
+<p>Make peace with your inner turmoil.</p>
 
-<p>Bodhidharma</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
