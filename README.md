@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace with your inner turmoil.</p>
+<p>The finish line is just the beginning of a whole new race.</p>
 
 <p>Unknown</p>
 <!-- dailyquote:end -->
