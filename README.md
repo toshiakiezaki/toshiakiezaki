@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>Unknown</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
