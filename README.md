@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who wishes to fight must first count the cost.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>Sun Tzu</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
