@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>Dogen</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
