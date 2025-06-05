@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't hate the player. Change the game.</p>
+<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
 
-<p>Steve Harvey</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
