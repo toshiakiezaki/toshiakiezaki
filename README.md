@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do something worth remembering.</p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>Elvis Presley</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
