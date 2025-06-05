@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even in the grave, all is not lost.</p>
+<p>Not engaging in ignorance is wisdom. </p>
 
-<p>Edgar Allan Poe</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
