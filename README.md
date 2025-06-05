@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
