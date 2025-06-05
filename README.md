@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perpetual optimism is a force multiplier.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>Colin Powell</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
