@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is that it stops.</p>
+<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
 
-<p>Franz Kafka</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
