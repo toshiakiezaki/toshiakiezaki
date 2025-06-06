@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>Lao Tzu</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
