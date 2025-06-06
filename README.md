@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>Deepak Chopra</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
