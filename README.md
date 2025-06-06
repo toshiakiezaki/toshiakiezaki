@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be great is to be misunderstood.</p>
+<p>The meaning of life is that it stops.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
