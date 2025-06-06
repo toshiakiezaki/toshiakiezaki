@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who violates another's honor loses his own.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>Publilius Syrus</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
