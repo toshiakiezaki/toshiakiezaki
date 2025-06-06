@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>Simon Sinek</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
