@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>Paulo Coelho</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
