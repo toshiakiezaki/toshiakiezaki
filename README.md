@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>George Bernard Shaw</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
