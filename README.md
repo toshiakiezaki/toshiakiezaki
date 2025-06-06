@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>Discontent is the first necessity of progress.</p>
 
-<p>William James</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
