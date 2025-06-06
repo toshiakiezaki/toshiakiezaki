@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not as important how we start, but how we finish.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>Joyce Meyer</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
