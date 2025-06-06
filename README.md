@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>Unknown</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
