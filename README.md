@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discontent is the first necessity of progress.</p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>Thomas Edison</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
