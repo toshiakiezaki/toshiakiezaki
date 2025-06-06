@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find something you love and do it better than everyone else.</p>
+<p>In nature there is no alienation. Everything belongs.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
