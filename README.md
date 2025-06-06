@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>No one has ever become poor by giving.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
