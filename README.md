@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
