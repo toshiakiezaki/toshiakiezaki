@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only encounters in history. There are no accidents.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>Pablo Picasso</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
