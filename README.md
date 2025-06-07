@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>Peace begins with a smile.</p>
 
-<p>Og Mandino</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
