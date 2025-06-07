@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For fast-acting relief try slowing down.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>Lily Tomlin</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
