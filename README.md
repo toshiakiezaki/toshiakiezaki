@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>Confucius</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
