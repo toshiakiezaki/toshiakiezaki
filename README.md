@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a question and how we live it is our answer.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>Gary Keller</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
