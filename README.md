@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>Chinese Proverb</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
