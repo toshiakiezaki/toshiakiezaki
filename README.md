@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will not walk backward in life.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
