@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's just a bad day, not a bad life.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Mary Engelbreit</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
