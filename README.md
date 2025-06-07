@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only defense against the world is a thorough knowledge of it.</p>
+<p>It's just a bad day, not a bad life.</p>
 
-<p>John Locke</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
