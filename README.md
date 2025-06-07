@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>T.S. Eliot</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
