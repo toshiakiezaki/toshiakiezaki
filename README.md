@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
+<p>The only defense against the world is a thorough knowledge of it.</p>
 
-<p>Audrey Hepburn</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
