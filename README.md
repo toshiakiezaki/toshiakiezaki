@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you run the day or the day runs you.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
 <p>Jim Rohn</p>
 <!-- dailyquote:end -->
