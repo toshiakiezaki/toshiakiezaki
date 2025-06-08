@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
 
-<p>Conrad Hilton</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
