@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>There are no ordinary moments.</p>
 
-<p>Jim Rohn</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
