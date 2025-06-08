@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great loves too must be endured.</p>
+<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
 
-<p>Coco Chanel</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
