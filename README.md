@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>Maya Angelou</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
