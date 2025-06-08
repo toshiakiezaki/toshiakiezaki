@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you done it, it ain't bragging.</p>
+<p>Open your mind before your mouth.</p>
 
-<p>Walt Whitman</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
