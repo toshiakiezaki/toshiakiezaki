@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We create the world and ourselves;</p>
+<p>A leader is one who knows the way, goes the way, and shows the way.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
