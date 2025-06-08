@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 
-<p>Criss Jami</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
