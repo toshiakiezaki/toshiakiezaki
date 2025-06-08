@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
+<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
 
-<p>Thomas Edison</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
