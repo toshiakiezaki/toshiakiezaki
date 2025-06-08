@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>Circumstances rule men; men do not rule circumstances. </p>
 
-<p>Unknown</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
