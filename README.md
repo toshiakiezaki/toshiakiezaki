@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Champions keep playing until they get it right.</p>
+<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
 
-<p>Billie Jean King</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
