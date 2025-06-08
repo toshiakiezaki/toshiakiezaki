@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>Sigmund Freud</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
