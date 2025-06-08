@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>Og Mandino</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
