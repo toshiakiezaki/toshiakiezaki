@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Open your mind before your mouth.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>Aristophanes</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
