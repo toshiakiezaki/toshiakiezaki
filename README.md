@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no ordinary moments.</p>
+<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
 
-<p>Dan Millman</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
