@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>Morgan Wootten</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
