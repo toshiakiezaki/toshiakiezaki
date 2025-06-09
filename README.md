@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>Voltaire</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
