@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>Kamal Ravikant</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
