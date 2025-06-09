@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
 
-<p>Winston Churchill</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
