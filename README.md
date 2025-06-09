@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>Huang Po</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
