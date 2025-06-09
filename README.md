@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>Steve Harvey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
