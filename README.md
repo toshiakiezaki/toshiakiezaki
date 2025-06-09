@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>Unknown</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
