@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
+<p>The more we have the less we own.</p>
 
-<p>Barack Obama</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
