@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>Gustave Flaubert</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
