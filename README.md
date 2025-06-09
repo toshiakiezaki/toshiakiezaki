@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>Jim Rohn</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
