@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life happens in the river, not the shore.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>Maxime Lagace</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
