@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>Ming-Dao Deng</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
