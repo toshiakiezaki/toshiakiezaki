@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>Deepak Chopra</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
