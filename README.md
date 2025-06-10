@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Rumi</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
