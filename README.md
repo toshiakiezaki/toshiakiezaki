@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>Gary Keller</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
