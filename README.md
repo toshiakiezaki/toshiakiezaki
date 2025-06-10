@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>Criss Jami</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
