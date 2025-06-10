@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Alan Watts</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
