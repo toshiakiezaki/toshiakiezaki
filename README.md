@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>George Bernard Shaw</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
