@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a balance of holding on and letting go.</p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>Rumi</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
