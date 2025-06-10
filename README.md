@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>Voltaire</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
