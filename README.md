@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>Mark Manson</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
