@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a good animal, true to your instincts.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>D. H. Lawrence</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
