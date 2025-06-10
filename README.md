@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time stays long enough for anyone who will use it.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
