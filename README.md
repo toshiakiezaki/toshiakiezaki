@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
-<p>Barack Obama</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
