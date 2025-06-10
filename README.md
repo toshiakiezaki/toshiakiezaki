@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>John Lennon</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
