@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>George Bernard Shaw</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
