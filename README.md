@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>Alan Watts</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
