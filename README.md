@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Charlie Chaplin</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
