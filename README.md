@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>Better to have, and not need, than to need, and not have.</p>
 
-<p>Wayne Dyer</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
