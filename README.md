@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to have, and not need, than to need, and not have.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>Franz Kafka</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
