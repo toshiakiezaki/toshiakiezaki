@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>Roy T. Bennett</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
