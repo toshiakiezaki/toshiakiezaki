@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>Beverly Sills</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
