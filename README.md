@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>Beverly Sills</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
