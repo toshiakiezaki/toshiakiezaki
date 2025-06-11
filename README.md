@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
 
-<p>Criss Jami</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
