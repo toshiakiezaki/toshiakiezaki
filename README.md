@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>Lao Tzu</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
