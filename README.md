@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good system shortens the road to the goal. </p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>Orison Swett Marden</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
