@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>Celestine Chua</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
