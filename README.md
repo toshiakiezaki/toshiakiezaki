@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>Gustave Flaubert</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
