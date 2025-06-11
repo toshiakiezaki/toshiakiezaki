@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
