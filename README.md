@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
