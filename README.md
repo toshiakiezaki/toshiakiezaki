@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing external to you has any power over you.</p>
+<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
