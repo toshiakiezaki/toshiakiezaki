@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>You'll see it when you believe it. </p>
 
-<p>Tony Robbins</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
