@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>Pema Chodron</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
