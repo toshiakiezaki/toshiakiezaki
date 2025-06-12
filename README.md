@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All wealth is the product of labor.</p>
+<p>If you can't explain it simply, you don't understand it well enough.</p>
 
-<p>John Locke</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
