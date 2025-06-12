@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
+<p>Open your mind before your mouth.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
