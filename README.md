@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>Eric Hoffer</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
