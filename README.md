@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We win by helping each other win.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>Jack Butcher</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
