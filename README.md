@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>Charles Dickens</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
