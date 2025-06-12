@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll see it when you believe it. </p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>Wayne Dyer</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
