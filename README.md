@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>Lack of emotion causes lack of progress and lack of motivation.</p>
 
-<p>Albert Einstein</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
