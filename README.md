@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
