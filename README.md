@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When I let go of what I am, I become what I might be.</p>
+<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
 
-<p>Lao Tzu</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
