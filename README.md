@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the average of the five people you spend the most time with.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>Jim Rohn</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
