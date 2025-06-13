@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>Dale Carnegie</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
