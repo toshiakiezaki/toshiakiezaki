@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>Deepak Chopra</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
