@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
