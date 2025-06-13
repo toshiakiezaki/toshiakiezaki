@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>Virginia Woolf</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
