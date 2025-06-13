@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
 
-<p>Alan Watts</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
