@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>Aristotle</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
