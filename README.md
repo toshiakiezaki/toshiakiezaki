@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
