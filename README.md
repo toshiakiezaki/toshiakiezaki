@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>I'm an optimist by choice not by stupidity.</p>
 
-<p>Osho</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
