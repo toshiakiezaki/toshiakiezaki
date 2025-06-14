@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
 
-<p>Michael Jordan</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
