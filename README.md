@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Children are our greatest natural resource.</p>
+<p>Facts are the enemy of truth. </p>
 
-<p>Herbert Hoover</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
