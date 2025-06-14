@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>A.A. Milne</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
