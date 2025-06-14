@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where violence reigns, reason is weak.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>Nicolas Chamfort</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
