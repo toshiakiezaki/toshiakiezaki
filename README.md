@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>Robert Greene</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
