@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>Dogen</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
