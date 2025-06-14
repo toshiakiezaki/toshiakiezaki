@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
