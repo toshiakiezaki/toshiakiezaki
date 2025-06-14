@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>Stephen Hawking</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
