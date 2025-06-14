@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>You may delay, but time will not.</p>
 
-<p>Celestine Chua</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
