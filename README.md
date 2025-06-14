@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no value in anything until it is finished. </p>
+<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
 
-<p>Genghis Khan</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
