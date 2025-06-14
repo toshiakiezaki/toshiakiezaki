@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before anything else, preparation is the key to success.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
