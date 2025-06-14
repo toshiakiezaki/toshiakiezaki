@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Vision is the art of seeing things invisible.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>Jonathan Swift</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
