@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>Eric Hoffer</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
