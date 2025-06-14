@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>Andrew Carnegie</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
