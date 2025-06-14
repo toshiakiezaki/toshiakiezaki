@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let each man exercise the art he knows.</p>
+<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
 
-<p>Aristophanes</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
