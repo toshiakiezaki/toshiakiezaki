@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Henry David Thoreau</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
