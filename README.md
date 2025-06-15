@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
 
-<p>Gary Keller</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
