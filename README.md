@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is always right to do what is right.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
