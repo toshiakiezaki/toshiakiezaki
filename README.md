@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
 
-<p>Robert Kiyosaki</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
