@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
