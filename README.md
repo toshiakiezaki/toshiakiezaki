@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>Eckhart Tolle</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
