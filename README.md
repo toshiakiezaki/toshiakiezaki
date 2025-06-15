@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>Elbert Hubbard</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
