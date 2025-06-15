@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time stays long enough for anyone who will use it.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>Leonardo da Vinci</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
