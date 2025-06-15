@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>Bob Proctor</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
