@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The farther backward you can look, the farther forward you are likely to see.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>Winston Churchill</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
