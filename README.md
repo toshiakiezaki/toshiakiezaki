@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>The sweetest pleasure arises from difficulties overcome.</p>
 
-<p>Colin Powell</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
