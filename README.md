@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>Denis Waitley</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
