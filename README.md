@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>Colin Powell</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
