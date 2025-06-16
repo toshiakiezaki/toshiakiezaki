@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>Orison Swett Marden</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
