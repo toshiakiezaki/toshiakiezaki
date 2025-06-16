@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
 
-<p>James Allen</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
