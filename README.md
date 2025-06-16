@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>Mark Twain</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
