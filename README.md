@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>Unknown</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
