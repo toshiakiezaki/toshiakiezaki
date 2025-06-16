@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>Winston Churchill</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
