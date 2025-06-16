@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we know how to adapt, we end up being superior.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
