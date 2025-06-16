@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
 
-<p>Winston Churchill</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
