@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>Confucius</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
