@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>Whenever people agree with me I always feel I must be wrong.</p>
 
-<p>Chinese Proverb</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
