@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words without actions are the assassins of idealism.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>Herbert Hoover</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
