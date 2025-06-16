@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
