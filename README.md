@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of chaos lies opportunity.  </p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>Bruce Lee</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
