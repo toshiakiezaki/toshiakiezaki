@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Relax. Nothing is under control.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>Adi Da Samraj</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
