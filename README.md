@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>Jonathan Swift</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
