@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>W. Clement Stone</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
