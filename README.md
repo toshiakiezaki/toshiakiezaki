@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's more to life than being a passenger.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>Amelia Earhart</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
