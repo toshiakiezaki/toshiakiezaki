@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
 
-<p>Simon Sinek</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
