@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>Celestine Chua</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
