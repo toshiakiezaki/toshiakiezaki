@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>Success is achieved and maintained by those who try and keep trying. </p>
 
-<p>Maxime Lagace</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
