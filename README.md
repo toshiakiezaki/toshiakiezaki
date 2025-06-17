@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we value things, the less we value ourselves.  </p>
+<p>Fools resist. The wise embrace.</p>
 
-<p>Bruce Lee</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
