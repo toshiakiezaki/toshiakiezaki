@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
