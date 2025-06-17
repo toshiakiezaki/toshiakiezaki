@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>Publilius Syrus</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
