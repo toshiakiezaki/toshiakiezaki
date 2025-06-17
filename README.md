@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not why the addiction but why the pain.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>Gabor Mate</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
