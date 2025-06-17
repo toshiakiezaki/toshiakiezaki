@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>It is better to learn late than never.</p>
 
-<p>Naval Ravikant</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
