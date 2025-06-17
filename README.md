@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>Margaret Mead</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
