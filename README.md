@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are clothes that thoughts wear</p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>Samuel Butler</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
