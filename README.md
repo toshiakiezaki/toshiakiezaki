@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>Zen Proverb</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
