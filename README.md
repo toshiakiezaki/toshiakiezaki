@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>Tony Robbins</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
