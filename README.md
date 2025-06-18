@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
