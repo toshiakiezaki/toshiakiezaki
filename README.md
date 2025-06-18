@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>William Faulkner</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
