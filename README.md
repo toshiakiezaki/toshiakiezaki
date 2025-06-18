@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your spirit is the true shield.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
