@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you try to impress, the more peaceful you can be.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>Maxime Lagace</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
