@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>Og Mandino</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
