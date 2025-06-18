@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>Deepak Chopra</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
