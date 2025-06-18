@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>Napoleon Hill</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
