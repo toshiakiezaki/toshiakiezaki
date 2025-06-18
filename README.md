@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>Thomas Edison</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
