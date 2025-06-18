@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a difference between giving directions and giving direction.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>Simon Sinek</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
