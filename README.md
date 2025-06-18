@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>Charles Dickens</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
