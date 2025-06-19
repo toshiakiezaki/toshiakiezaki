@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to carry a positive action, we must develop here a positive vision.</p>
+<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
 
-<p>Dalai Lama</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
