@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>Looking after my health today gives me a better hope for tomorrow. </p>
 
-<p>Henry David Thoreau</p>
+<p>Anne Wilson Schaef</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
