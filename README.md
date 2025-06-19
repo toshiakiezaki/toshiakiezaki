@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens, always be yourself.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>Dale Carnegie</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
