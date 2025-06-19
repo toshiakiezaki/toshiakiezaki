@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>Lolly Daskal</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
