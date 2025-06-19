@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either get busy living or get busy dying.</p>
+<p>In order to carry a positive action, we must develop here a positive vision.</p>
 
-<p>Stephen King</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
