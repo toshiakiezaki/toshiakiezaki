@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Anne Wilson Schaef</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
