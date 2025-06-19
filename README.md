@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
