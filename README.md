@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>What are we doing here, that is the question.</p>
 
-<p>Confucius</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
