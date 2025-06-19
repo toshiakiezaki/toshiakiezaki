@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>Charles Swindoll</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
