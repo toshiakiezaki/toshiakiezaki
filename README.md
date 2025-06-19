@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
+<p>Your very silence shows you agree.</p>
 
-<p>Socrates</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
