@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
 
-<p>Peter Drucker</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
