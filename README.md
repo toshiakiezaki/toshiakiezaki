@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
