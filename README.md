@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
 
-<p>Aristotle</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
