@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>Dalai Lama</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
