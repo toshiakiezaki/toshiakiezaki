@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
+<p>Be yourself; everyone else is already taken.</p>
 
-<p>Steve Harvey</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
