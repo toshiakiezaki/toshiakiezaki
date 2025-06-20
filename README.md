@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is failure.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>Michael Jordan</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
