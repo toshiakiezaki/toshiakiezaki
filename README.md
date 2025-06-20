@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Lying can never save us from another lie.</p>
 
-<p>Seneca</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
