@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing like looking if you want to find something.</p>
+<p>A leader leads by example, not by force.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
