@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>Epictetus</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
