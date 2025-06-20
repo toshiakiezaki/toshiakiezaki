@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to give up the good to go for the great.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>John D. Rockefeller</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
