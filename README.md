@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
 
-<p>Sun Tzu</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
