@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality means doing it right when no one is looking.</p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>Henry Ford</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
