@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who hesitates is a damned fool.</p>
+<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
 
-<p>Mae West</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
