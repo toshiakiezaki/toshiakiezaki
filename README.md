@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
