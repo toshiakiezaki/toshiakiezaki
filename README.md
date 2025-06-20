@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The constant assertion of belief is an indication of fear.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
