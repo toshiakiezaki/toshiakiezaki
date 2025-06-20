@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
