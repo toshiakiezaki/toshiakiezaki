@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>Lao Tzu</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
