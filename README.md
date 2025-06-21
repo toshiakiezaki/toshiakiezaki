@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>St. Jerome</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
