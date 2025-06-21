@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be yourself; everyone else is already taken.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>Oscar Wilde</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
