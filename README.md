@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fortunate are those who take the first steps.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>Paulo Coelho</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
