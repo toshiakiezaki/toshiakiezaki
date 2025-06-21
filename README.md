@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>Bob Marley</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
