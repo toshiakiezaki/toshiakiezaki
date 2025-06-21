@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is a poor teacher.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
