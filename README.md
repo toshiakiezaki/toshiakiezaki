@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>Chinese Proverb</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
