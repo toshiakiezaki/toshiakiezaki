@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>Thomas Jefferson</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
