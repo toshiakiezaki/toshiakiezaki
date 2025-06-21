@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>Success is a poor teacher.</p>
 
-<p>Margaret Mead</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
