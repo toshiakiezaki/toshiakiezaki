@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>Henry Ward Beecher</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
