@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>Jim Rohn</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
