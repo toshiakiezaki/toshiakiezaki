@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>To find yourself, think for yourself.</p>
 
-<p>Maya Angelou</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
