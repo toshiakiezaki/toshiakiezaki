@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>Mother Teresa</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
