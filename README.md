@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy when you can, and endure when you must.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
