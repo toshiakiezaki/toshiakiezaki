@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
