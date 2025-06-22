@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
 
-<p>Dan Millman</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
