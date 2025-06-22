@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>Rita Mae Brown</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
