@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>Thomas Jefferson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
