@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One must be deeply aware of the impermanence of the world.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>Dogen</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
