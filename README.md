@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>Alexander Pope</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
