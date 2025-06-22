@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>By words the mind is winged.</p>
 
-<p>Albert Einstein</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
