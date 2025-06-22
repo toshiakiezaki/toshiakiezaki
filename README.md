@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>Chinese Proverb</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
