@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By words the mind is winged.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>Aristophanes</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
