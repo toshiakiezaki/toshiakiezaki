@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always turn a negative situation into a positive situation.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>Michael Jordan</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
