@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>Ayn Rand</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
