@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quiet people have the loudest minds.</p>
+<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
 
-<p>Stephen Hawking</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
