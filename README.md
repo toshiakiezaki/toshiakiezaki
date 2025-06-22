@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>Herman Melville</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
