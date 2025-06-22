@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>Criss Jami</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
