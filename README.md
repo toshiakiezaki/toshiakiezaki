@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you do today can improve all your tomorrows.</p>
+<p>One must be deeply aware of the impermanence of the world.</p>
 
-<p>Ralph Marston</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
