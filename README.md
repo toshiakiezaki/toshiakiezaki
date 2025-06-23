@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>Oprah Winfrey</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
