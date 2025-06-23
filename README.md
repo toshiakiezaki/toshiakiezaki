@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul is neither born, and nor does it die.</p>
+<p>Most of us will do anything to avoid facing ourselves.</p>
 
-<p>Bhagavad Gita</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
