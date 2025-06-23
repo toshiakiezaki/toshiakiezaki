@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
 
-<p>Bodhidharma</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
