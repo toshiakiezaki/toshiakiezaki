@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
+<p>The soul is neither born, and nor does it die.</p>
 
-<p>Voltaire</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
