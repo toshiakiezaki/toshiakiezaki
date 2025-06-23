@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
 
-<p>Jim Rohn</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
