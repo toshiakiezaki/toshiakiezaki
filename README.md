@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>Lolly Daskal</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
