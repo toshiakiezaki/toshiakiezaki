@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see yourself as prosperous, you will be.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>Robert Collier</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
