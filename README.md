@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
+<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
 
-<p>Miguel de Cervantes</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
