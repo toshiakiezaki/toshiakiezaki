@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
