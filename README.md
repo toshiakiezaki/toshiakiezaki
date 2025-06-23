@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no way to happiness - happiness is the way.</p>
+<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
