@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If light is in your heart, you will find your way home.  </p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>Rumi</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
