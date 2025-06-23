@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Steve Maraboli</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
