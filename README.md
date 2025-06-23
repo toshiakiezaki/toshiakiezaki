@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definitions belong to the definers, not the defined.</p>
+<p>A leader leads by example, not by force.</p>
 
-<p>Toni Morrison</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
