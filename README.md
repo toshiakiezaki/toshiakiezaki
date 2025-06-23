@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
