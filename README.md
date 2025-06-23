@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
