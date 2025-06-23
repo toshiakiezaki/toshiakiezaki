@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader leads by example, not by force.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>Sun Tzu</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
