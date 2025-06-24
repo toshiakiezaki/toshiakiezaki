@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
