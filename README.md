@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence comes from crossing thresholds.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>Kamal Ravikant</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
