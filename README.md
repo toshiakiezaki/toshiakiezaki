@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>Oprah Winfrey</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
