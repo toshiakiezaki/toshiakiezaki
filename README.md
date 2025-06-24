@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>Brian Tracy</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
