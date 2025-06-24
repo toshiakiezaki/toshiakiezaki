@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>Dr. Seuss</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
