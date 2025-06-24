@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>I live by letting things happen.</p>
 
-<p>Christopher McCandless</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
