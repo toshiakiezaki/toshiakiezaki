@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None but ourselves can free our minds.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>Bob Marley</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
