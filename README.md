@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>Kahlil Gibran</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
