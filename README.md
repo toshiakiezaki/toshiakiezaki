@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
 
-<p>Denis Waitley</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
