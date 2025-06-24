@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>Alan Watts</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
