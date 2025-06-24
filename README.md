@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
