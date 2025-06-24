@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
+<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
 
-<p>Brian Tracy</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
