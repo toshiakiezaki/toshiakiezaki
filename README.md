@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
