@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
