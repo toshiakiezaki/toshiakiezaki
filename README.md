@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Thomas Jefferson</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
