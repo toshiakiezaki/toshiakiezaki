@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>Dogen</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
