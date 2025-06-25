@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
+<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
 
-<p>Bhagavad Gita</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
