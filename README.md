@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
