@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>Shunryu Suzuki</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
