@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
