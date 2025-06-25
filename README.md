@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>Leo Tolstoy</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
