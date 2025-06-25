@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life would be tragic if it weren't funny.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>Stephen Hawking</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
