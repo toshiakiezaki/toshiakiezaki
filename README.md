@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace begins with a smile.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>Mother Teresa</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
