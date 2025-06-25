@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
 
-<p>Richard Bach</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
