@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Criss Jami</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
