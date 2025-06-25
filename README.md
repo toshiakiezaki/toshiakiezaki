@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>Peace begins with a smile.</p>
 
-<p>Audrey Hepburn</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
