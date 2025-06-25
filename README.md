@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either write something worth reading or do something worth writing.</p>
+<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
 
-<p>Benjamin Franklin</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
