@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>Spencer Johnson</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
