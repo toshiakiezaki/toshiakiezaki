@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>The road to success is always under construction..</p>
 
-<p>Unknown</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
