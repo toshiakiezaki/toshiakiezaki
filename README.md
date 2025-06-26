@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>Kamal Ravikant</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
