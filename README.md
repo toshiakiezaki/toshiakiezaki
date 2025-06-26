@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Alan Watts</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
