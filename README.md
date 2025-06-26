@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sadness is but a wall between two gardens.</p>
+<p>If you care about someone enough, you'll always be there for them no matter what.</p>
 
-<p>Kahlil Gibran</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
