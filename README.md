@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>George Eliot</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
