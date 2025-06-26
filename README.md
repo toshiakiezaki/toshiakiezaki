@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>Judy Garland</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
