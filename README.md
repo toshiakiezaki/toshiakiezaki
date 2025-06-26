@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The road to success is always under construction..</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>Lily Tomlin</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
