@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
+<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
 
-<p>Roy T. Bennett</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
