@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>Marilyn Monroe</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
