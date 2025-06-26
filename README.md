@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
 
-<p>Herbert Hoover</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
