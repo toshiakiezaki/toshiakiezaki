@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>Jack London</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
