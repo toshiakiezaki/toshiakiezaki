@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
+<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
 
-<p>Steve Maraboli</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
