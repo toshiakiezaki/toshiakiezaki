@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>Maxime Lagace</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
