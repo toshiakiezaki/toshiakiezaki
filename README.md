@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>Robert Greene</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
