@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you care about someone enough, you'll always be there for them no matter what.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>Roy T. Bennett</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
