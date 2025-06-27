@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>Dan Millman</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
