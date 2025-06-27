@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Criss Jami</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
