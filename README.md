@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.</p>
+<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
 
-<p>Henry David Thoreau</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
