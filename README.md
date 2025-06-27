@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no limitations except those we create for ourselves.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>Lolly Daskal</p>
+<p>G.I. Gurdjieff</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
