@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>Michael Jordan</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
