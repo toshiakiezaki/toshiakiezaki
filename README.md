@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Common sense is not so common. </p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>Voltaire</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
