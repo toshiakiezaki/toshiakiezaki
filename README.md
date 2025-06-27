@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Walk slowly but never walk backward.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>Unknown</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
