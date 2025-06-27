@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
