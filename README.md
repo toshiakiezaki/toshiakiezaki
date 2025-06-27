@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
