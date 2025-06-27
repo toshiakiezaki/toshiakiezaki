@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
