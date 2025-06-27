@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>Oprah Winfrey</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
