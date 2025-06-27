@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Common sense is not so common. </p>
 
-<p>Chinese Proverb</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
