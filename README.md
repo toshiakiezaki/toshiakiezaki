@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>Deepak Chopra</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
