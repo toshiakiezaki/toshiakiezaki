@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>G.I. Gurdjieff</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
