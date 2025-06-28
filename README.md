@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is but one dream flowing into another.</p>
+<p>Rest and be kind, you don't have to prove anything.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
