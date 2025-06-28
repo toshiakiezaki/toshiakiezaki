@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Harry S. Truman</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
