@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>Isaac Newton</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
