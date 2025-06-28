@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>You may delay, but time will not.</p>
 
-<p>Sun Tzu</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
