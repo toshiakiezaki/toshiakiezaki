@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>Barack Obama</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
