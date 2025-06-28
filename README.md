@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do it with passion, or not at all.</p>
+<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
 
-<p>Rosa Nouchette Carey</p>
+<p>W. Clement Stone</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
