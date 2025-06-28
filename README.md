@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
