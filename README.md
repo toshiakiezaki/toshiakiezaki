@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lying can never save us from another lie.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>Vaclav Havel</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
