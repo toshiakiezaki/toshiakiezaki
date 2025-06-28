@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who is untrue to his own cause cannot command the respect of others.</p>
+<p>Leadership starts at the top.</p>
 
-<p>Albert Einstein</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
