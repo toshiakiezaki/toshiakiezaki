@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>Henry Ford</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
