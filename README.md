@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>Martin Luther</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
