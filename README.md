@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>Steve Harvey</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
