@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you love yourself, life loves you back.</p>
+<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
 
-<p>Kamal Ravikant</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
