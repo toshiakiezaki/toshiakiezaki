@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>Napoleon Hill</p>
+<p>Rosa Nouchette Carey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
