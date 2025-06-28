@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may delay, but time will not.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Benjamin Franklin</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
