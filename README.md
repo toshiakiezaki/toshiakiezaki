@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leadership starts at the top.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>Morgan Wootten</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
