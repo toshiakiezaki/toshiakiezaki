@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Charlie Chaplin</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
