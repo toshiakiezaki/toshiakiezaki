@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>Andrew Carnegie</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
