@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>Maxime Lagace</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
