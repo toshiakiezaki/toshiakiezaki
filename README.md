@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Teachers open the door. You enter by yourself. </p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>Chinese Proverb</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
