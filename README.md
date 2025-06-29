@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>Bette Midler</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
