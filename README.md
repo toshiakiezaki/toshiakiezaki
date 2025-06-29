@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The scariest monsters are the ones that lurk within our souls.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
