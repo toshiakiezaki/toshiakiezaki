@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A needle is not sharp at both ends. </p>
+<p>The scariest monsters are the ones that lurk within our souls.</p>
 
-<p>Chinese Proverb</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
