@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>Roy T. Bennett</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
