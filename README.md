@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>Dan Millman</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
