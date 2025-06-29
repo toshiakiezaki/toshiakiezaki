@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know yourself and you will win all battles.</p>
+<p>Teachers open the door. You enter by yourself. </p>
 
-<p>Sun Tzu</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
