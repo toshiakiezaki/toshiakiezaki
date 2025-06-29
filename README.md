@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
+<p>Know yourself and you will win all battles.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
