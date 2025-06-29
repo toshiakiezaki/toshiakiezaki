@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>Wayne Dyer</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
