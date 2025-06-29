@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who never made a mistake never tried anything new.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>Albert Einstein</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
