@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future is no more uncertain than the present.</p>
+<p>Know yourself and you will win all battles.</p>
 
-<p>Walt Whitman</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
