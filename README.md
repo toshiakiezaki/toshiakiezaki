@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>Charles Spurgeon</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
