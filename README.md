@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
 
-<p>Elvis Presley</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
