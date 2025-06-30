@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
 
-<p>Lolly Daskal</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
