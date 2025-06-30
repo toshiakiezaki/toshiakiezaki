@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
 
-<p>Jack Kerouac</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
