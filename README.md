@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>Joyce Meyer</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
