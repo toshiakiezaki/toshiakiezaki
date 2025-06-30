@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>Henry Ford</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
