@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>Norman Vincent Peale</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
