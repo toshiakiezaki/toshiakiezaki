@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
 
-<p>Carol Burnett</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
