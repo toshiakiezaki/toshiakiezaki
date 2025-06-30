@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's more to life than being a passenger.</p>
+<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
 
-<p>Amelia Earhart</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
