@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are illusions of the mind.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Eckhart Tolle</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
