@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>Paulo Coelho</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
