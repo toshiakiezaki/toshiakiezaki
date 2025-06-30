@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>Oscar Wilde</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
