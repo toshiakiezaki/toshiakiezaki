@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
+<p>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</p>
 
-<p>Nikola Tesla</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
