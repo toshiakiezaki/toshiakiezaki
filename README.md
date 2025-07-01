@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never trust he who trusts everyone.</p>
+<p>The man who removes a mountain begins by carrying away small stones.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
