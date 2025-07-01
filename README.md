@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forever is composed of now's.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>Emily Dickinson</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
