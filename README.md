@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>Zig Ziglar</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
