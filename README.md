@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can, does.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>George Bernard Shaw</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
