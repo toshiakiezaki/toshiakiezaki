@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are people who have money and people who are rich.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>Coco Chanel</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
