@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no shortcuts to any place worth going.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>Beverly Sills</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
