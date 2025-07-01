@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who hesitates is a damned fool.</p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>Mae West</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
