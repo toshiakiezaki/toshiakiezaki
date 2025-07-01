@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>Pablo Picasso</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
