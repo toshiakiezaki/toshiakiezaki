@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Forever is composed of now's.</p>
 
-<p>Eric Hoffer</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
