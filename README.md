@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>Vince Lombardi</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
