@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>Bob Proctor</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
