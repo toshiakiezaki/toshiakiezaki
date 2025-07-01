@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By changing nothing, nothing changes.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>Celestine Chua</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
