@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The number one cause of failure is the fear of failure.</p>
+<p>You will succeed because most people are lazy.</p>
 
-<p>Steve Harvey</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
