@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>Dogen</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
