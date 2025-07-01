@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>Peace if possible, truth at all costs.</p>
 
-<p>William Faulkner</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
