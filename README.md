@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not do to dwell on dreams and forget to live, remember that.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>Albus Dumbledore</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
