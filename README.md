@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is often safer to be in chains than to be free. </p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>Franz Kafka</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
