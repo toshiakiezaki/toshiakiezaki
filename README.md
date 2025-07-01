@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your spirit is the true shield.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
