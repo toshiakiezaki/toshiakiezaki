@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>Estee Lauder</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
