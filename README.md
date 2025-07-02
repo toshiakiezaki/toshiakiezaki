@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work harder on yourself than you do on your job.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>Jim Rohn</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
