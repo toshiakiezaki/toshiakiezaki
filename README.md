@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>The more something scares you, the more you should do it.</p>
 
-<p>George Eliot</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
