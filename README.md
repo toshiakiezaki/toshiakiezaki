@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>Seungsahn</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
