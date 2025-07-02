@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature is pleased with simplicity. And nature is no dummy.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>Isaac Newton</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
