@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
