@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>Brian Tracy</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
