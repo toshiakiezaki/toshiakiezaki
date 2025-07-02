@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>The enemy is a very good teacher.</p>
 
-<p>Confucius</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
