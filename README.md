@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is to contribute in some way to making things better.</p>
+<p>Little by little, one travels far.</p>
 
-<p>Robert F. Kennedy</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
