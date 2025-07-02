@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>Roy T. Bennett</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
