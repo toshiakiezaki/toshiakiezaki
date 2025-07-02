@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>Richard Bach</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
