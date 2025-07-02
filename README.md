@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The pain of parting is nothing to the joy of meeting again.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Charles Dickens</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
