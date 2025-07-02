@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>The road to success and the road to failure are almost exactly the same.</p>
 
-<p>Barack Obama</p>
+<p>Colin R. Davis</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
