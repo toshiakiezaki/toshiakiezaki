@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do to others what you would not like them to do to you. </p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>Confucius</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
