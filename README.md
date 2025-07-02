@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little by little, one travels far.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
