@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>Lolly Daskal</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
