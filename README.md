@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>Albert Einstein</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
