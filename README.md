@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>Kabir</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
