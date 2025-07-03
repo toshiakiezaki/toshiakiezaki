@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>Bob Proctor</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
