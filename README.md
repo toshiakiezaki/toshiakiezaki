@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>Richard Bach</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
