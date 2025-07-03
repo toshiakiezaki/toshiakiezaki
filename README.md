@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A path is made by walking on it.</p>
+<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
 
-<p>Zhuangzi</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
