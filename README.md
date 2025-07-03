@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>Elbert Hubbard</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
