@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Jack London</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
