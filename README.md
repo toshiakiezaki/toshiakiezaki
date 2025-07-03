@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Chinese Proverb</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
