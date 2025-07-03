@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>Robin Sharma</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
