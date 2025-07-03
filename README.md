@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Learning never exhausts the mind. </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
