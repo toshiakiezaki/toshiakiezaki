@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
+<p>A path is made by walking on it.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
