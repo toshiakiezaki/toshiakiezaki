@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>Dale Carnegie</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
