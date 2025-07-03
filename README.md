@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>Seneca</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
