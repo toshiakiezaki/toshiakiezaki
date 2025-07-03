@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can, you should, and if you're brave enough to start, you will.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>Stephen King</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
