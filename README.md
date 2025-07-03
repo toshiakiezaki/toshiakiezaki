@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you change what you believe, you change what you do.</p>
+<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
 
-<p>Spencer Johnson</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
