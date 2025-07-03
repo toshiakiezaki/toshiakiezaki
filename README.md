@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>George Bernard Shaw</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
