@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go for it now. The future is promised to no one. </p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>Wayne Dyer</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
