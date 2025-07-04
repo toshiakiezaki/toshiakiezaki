@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real meditation is how you live your life.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
