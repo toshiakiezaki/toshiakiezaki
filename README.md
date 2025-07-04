@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature loves to hide.</p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>Heraclitus</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
