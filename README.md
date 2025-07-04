@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>Chinese Proverb</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
