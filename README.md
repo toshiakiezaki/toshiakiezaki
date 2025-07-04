@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>Josh Waitzkin</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
