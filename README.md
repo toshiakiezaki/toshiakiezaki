@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who never made a mistake never tried anything new.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>Albert Einstein</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
