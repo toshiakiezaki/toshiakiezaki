@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>Lao Tzu</p>
+<p>Kenji Miyazawa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
