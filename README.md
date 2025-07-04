@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Robin Sharma</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
