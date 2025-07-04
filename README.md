@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
 
-<p>John Lennon</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
