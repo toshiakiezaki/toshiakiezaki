@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Receive without pride, let go without attachment.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>Marcus Aurelius</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
