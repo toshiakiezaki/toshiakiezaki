@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>Charles Darwin</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
