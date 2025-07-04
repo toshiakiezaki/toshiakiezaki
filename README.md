@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all of us can do great things. But we can do small things with great love.</p>
+<p>We love the things we love for what they are.</p>
 
-<p>Mother Teresa</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
