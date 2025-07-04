@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>Not all of us can do great things. But we can do small things with great love.</p>
 
-<p>Steve Maraboli</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
