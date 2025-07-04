@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you win, say nothing, when you lose say less.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>Wayne Gretzky</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
