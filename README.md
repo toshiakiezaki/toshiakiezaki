@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no shortcuts to any place worth going. </p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>Beverly Sills</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
