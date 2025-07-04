@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>Brian Tracy</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
