@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>Nature loves to hide.</p>
 
-<p>Confucius</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
