@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your spirit is the true shield.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
