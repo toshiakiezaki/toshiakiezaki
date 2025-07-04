@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>Spencer Johnson</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
