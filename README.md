@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>Grace Coddington</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
