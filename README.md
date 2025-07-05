@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A loving heart is the truest wisdom.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>Charles Dickens</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
