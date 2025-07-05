@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even a hare will bite when it is cornered. </p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>Chinese Proverb</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
