@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not regret the past. Look to the future.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>Soyen Shaku</p>
+<p>Grace Coddington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
