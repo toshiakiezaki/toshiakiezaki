@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Boldness makes even the smallest animal dangerous.</p>
 
-<p>Christopher Reeve</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
