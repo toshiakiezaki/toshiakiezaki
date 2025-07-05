@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>Unknown</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
