@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
