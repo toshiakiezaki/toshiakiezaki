@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enjoy when you can, and endure when you must.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
