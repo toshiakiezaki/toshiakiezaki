@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>Tony Robbins</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
