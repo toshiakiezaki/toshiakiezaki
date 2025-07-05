@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intense love does not measure, it just gives.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>Mother Teresa</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
