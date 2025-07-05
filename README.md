@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
 
-<p>Oscar Wilde</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
