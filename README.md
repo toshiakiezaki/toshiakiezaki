@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>Oprah Winfrey</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
