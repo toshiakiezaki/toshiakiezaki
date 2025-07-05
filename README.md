@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>The universe doesn't allow perfection.</p>
 
-<p>Dan Brown</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
