@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>Every failure brings with it the seed of an equivalent success.</p>
 
-<p>Peter Drucker</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
