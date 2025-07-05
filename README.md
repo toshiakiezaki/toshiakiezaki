@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>Chinese Proverb</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
