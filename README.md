@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>You win more from losing than winning.</p>
 
-<p>Robert Greene</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
