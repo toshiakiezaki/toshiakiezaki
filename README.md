@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>Robert F. Kennedy</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
