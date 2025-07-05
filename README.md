@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A good system shortens the road to the goal. </p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>Orison Swett Marden</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
