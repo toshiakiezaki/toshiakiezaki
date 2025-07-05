@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You win more from losing than winning.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>Morgan Wootten</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
