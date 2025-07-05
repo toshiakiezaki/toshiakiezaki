@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't hate the player. Change the game.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>Steve Harvey</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
