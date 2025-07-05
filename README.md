@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest miracle is to be alive.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
