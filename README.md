@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>Napoleon Hill</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
