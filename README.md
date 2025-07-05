@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't allow perfection.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>Stephen Hawking</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
