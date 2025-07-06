@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.</p>
+<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
