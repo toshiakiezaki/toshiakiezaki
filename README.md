@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>Shunryu Suzuki</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
