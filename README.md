@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The pursuit of mastery bears gifts. </p>
+<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
 
-<p>Gary Keller</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
