@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>Zig Ziglar</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
