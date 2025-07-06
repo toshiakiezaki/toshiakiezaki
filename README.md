@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are today where your thoughts have brought you.</p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>James Allen</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
