@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is only real when shared.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>Christopher McCandless</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
