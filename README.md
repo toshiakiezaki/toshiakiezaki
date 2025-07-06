@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
 <p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
