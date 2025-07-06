@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>Vincent van Gogh</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
