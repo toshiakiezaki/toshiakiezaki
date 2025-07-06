@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>Orison Swett Marden</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
