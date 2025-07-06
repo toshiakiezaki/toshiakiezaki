@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
