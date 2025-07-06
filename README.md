@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>Voltaire</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
