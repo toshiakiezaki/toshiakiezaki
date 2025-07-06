@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
 
-<p>Deepak Chopra</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
