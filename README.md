@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no next time. It's now or never.</p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>Celestine Chua</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
