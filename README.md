@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Distant water does not put out a nearby fire.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>Chinese Proverb</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
