@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
 
-<p>Albert Einstein</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
