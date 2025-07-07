@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>Jim Rohn</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
