@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>Vaclav Havel</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
