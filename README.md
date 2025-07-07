@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>Samuel Beckett</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
