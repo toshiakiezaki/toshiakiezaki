@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
 
-<p>Brian Tracy</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
