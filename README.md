@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>Morihei Ueshiba</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
