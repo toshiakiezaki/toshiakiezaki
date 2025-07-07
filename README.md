@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Get busy living, or get busy dying.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>Stephen King</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
