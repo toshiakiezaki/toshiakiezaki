@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>Robin Sharma</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
