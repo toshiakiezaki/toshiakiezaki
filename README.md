@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
