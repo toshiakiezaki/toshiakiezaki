@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Worry is a waste of emotional reserve.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>Ayn Rand</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
