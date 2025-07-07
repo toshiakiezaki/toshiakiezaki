@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Charlie Chaplin</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
