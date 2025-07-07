@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one returns from a long journey the same person they were before.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>Zen Proverb</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
