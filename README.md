@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one returns from a long journey the same person they were before.</p>
+<p>Sometimes adversity is what you need to face in order to become successful.</p>
 
-<p>Zen Proverb</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
