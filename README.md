@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
