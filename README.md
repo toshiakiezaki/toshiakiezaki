@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>Robin Sharma</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
