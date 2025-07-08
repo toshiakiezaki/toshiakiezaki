@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>Les Brown</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
