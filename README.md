@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>Isaac Newton</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
