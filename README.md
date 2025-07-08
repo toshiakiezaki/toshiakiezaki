@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not about what it is, it's about what it can become.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>Dr. Seuss</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
