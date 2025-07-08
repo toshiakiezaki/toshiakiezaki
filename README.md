@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your life-but only if you make it so.</p>
+<p>Learn from the rejection and turn it into an opportunity!</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
