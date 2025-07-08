@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For things to change, you have to change.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>Jim Rohn</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
