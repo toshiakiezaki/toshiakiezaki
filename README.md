@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To do great work one must be very idle as well as very industrious.</p>
+<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
 
-<p>Samuel Butler</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
