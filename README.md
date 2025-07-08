@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>Samuel Butler</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
