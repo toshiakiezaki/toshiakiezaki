@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>Elvis Presley</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
