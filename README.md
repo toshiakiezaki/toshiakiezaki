@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>Kahlil Gibran</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
