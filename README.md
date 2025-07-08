@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>Zig Ziglar</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
