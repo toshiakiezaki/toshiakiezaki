@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We suffer more often in imagination than in reality.  </p>
+<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
 
-<p>Seneca</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
