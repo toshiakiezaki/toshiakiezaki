@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time stays long enough for anyone who will use it.</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
