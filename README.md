@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living life in style also means living a life of balance.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>Jim Rohn</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
