@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
 
-<p>Brian Tracy</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
