@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>Woody Allen</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
