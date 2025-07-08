@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>Zen Proverb</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
