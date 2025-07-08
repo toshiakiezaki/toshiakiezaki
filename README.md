@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
