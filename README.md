@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're responsible for everything that happens to us.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>Yanni</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
