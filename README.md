@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the absence of judgment.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>Dalai Lama</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
