@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>Ronald Reagan</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
