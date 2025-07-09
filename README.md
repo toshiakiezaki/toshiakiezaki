@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>Winston Churchill</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
