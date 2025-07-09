@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
 
-<p>Eckhart Tolle</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
