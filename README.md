@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>Do not look for a sanctuary in anyone except your self.</p>
 
-<p>Mother Teresa</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
