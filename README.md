@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>Virginia Woolf</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
