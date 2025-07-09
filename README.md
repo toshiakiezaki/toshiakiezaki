@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>Tony Robbins</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
