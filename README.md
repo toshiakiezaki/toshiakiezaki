@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Love is the absence of judgment.</p>
 
-<p>Og Mandino</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
