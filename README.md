@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>Wayne Dyer</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
