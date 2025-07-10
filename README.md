@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
