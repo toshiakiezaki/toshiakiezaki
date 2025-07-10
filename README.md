@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Productize your perspective.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>Jack Butcher</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
