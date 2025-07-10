@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I persist long enough I will win.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>Og Mandino</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
