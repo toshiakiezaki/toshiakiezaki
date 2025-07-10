@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Brian Tracy</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
