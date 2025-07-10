@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>A real friend is one who walks in when the rest of the world walks out.</p>
 
-<p>Deepak Chopra</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
