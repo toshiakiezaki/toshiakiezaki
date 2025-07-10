@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is more real than nothing.</p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>Samuel Beckett</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
