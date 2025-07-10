@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>Mother Teresa</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
