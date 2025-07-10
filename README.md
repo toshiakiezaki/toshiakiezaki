@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>Robin Sharma</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
