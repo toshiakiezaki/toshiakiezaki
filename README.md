@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>Zig Ziglar</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
