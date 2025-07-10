@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>Pema Chodron</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
