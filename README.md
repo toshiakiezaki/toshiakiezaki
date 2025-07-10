@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A real friend is one who walks in when the rest of the world walks out.</p>
+<p>Confidence is the greatest friend.</p>
 
-<p>Unknown</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
