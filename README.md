@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>Robert Greene</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
