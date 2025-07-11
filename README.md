@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Og Mandino</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
