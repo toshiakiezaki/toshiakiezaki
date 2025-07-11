@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart that gives, gathers.</p>
+<p>We are all here for some special reason.</p>
 
-<p>Lao Tzu</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
