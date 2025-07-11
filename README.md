@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the expression of one's values.</p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>Ayn Rand</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
