@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more we value things, the less we value ourselves.  </p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>Bruce Lee</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
