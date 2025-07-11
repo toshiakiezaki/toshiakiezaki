@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
