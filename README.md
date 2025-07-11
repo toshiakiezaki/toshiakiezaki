@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>Jim Rohn</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
