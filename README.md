@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>The heart that gives, gathers.</p>
 
-<p>Napoleon Hill</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
