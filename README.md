@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>Eckhart Tolle</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
