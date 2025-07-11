@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
 
-<p>Unknown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
