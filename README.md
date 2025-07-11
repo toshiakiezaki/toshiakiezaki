@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all here for some special reason.</p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>Robin Sharma</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
