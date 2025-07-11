@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>Oprah Winfrey</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
