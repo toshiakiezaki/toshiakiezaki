@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
