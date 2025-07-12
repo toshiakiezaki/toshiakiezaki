@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>He that can have patience can have what he will.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
