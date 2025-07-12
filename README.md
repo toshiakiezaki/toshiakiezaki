@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
