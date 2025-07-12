@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>For things to change, you have to change.</p>
 
-<p>Naval Ravikant</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
