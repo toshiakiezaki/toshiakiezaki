@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For things to change, you have to change.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>Jim Rohn</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
