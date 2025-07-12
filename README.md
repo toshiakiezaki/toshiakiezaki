@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>Spencer Johnson</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
