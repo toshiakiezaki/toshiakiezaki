@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Eckhart Tolle</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
