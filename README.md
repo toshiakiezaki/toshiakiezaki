@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>Life is ours to be spent, not to be saved. </p>
 
-<p>Jiddu Krishnamurti</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
