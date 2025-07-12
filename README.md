@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never to suffer would never to have been blessed.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
