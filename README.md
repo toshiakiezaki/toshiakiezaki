@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot have a positive life and a negative mind.</p>
+<p>The more we have the less we own.</p>
 
-<p>Joyce Meyer</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
