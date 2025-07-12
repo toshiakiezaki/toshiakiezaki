@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is a source of great strength.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>Lao Tzu</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
