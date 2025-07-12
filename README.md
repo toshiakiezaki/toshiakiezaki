@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He that can have patience can have what he will.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>Benjamin Franklin</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
