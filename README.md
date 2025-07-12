@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>Jim Rohn</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
