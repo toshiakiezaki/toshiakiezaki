@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>Eric Hoffer</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
