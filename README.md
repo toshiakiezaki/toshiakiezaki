@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is ours to be spent, not to be saved. </p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>D. H. Lawrence</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
