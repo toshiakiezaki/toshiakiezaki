@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
