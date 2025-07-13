@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your next step is simple. You are the first domino.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Gary Keller</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
