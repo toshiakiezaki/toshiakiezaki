@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>Og Mandino</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
