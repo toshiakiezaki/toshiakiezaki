@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>Estee Lauder</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
