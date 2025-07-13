@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is destiny.</p>
+<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
 
-<p>Heraclitus</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
