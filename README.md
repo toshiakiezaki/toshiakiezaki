@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>Steve Jobs</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
