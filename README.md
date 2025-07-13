@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>Yoko Ono</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
