@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
+<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
 
-<p>Gary Keller</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
