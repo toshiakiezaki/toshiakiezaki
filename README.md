@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where words fail, music speaks.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
