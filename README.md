@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>Buddha</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
