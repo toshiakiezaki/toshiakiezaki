@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>George Washington</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
