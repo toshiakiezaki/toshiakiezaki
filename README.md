@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
 
-<p>W.P. Kinsella</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
