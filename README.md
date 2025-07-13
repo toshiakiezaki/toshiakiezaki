@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is simply what our feelings do to us.</p>
+<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
 
-<p>Honore de Balzac</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
