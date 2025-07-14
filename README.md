@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
 
-<p>Abraham Lincoln</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
