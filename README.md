@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
 
-<p>Steve Harvey</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
