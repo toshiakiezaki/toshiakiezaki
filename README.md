@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>Lao Tzu</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
