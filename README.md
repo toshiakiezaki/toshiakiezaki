@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>Genghis Khan</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
