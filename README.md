@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>Betty White</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
