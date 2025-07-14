@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are today where your thoughts have brought you.</p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>James Allen</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
