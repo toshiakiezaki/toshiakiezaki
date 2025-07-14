@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be willing to be a beginner every single morning.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>Meister Eckhart</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
