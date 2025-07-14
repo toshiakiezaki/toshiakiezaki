@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>George Eliot</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
