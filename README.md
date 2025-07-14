@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only be afraid of what you think you know.</p>
+<p>Every drop in the ocean counts. </p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
