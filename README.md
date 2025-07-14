@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>Henry Ford</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
