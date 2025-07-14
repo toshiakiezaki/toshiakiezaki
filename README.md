@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>Deepak Chopra</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
