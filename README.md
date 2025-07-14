@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intense love does not measure, it just gives.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>Mother Teresa</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
