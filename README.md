@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything begins with an idea.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>Earl Nightingale</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
