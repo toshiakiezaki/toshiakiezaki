@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Let the beauty of what you love be what you do.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>Rumi</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
