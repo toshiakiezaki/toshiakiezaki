@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Write to help yourself, publish to help others.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>Jack Butcher</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
