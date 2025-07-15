@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>Zen Proverb</p>
+<p>Norman Vaughan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
