@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>Roy T. Bennett</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
