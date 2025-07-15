@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>Jack Butcher</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
