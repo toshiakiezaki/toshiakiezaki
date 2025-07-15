@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>T.S. Eliot</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
