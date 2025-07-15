@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
