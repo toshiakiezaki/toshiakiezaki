@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>Yanni</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
