@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Write to help yourself, publish to help others.</p>
 
-<p>Lao Tzu</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
