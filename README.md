@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>Naval Ravikant</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
