@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sun shines upon good and bad alike.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
