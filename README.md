@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big and dare to fail.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>Norman Vaughan</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
