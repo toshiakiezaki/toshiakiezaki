@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>Deepak Chopra</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
