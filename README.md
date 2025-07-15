@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of chaos lies opportunity.  </p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>Bruce Lee</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
