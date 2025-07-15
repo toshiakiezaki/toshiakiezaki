@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't imagine it, you can't have it.</p>
+<p>Let the beauty of what you love be what you do.</p>
 
-<p>Toni Morrison</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
