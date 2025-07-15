@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>Kahlil Gibran</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
