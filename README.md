@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you quit once it becomes a habit.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>Michael Jordan</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
