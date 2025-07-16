@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
