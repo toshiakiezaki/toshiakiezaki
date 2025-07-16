@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>Paulo Coelho</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
