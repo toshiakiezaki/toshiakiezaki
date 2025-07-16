@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>Naval Ravikant</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
