@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>Jim Rohn</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
