@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have as much laughter as you have faith.</p>
+<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
 
-<p>Martin Luther</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
