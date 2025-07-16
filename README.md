@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ability is a poor man's wealth.</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>John Wooden</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
