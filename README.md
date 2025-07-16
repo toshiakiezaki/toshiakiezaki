@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>Publilius Syrus</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
