@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't hate the player. Change the game.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>Steve Harvey</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
