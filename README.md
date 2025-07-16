@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>Yoko Ono</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
