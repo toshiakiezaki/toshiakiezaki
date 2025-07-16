@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>Eric Hoffer</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
