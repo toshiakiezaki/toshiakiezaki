@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The merit of all things lies in their difficulty.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>Alexandre Dumas</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
