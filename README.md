@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>John D. Rockefeller</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
