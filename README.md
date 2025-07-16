@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A golden cage is still just a cage.</p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>Anita Krizzan</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
