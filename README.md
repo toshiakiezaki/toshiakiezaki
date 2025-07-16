@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>Voltaire</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
