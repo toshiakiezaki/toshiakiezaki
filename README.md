@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>Zig Ziglar</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
