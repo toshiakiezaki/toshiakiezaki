@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
