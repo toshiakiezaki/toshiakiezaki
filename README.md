@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perpetual optimism is a force multiplier.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>Colin Powell</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
