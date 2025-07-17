@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know the rules well, so you can break them effectively.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>Dalai Lama</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
