@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>Henry Ford</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
