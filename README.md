@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
 
-<p>Robert Greene</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
