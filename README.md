@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>Kamal Ravikant</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
