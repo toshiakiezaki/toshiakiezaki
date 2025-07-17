@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>Unknown</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
