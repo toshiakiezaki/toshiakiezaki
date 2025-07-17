@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>Steve Jobs</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
