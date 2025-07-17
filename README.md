@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>In nature there is no alienation. Everything belongs.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
