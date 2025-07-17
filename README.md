@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>Alexander Pope</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
