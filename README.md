@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man should fear never beginning to live.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>Marcus Aurelius</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
