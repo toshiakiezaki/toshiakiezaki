@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>Unknown</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
