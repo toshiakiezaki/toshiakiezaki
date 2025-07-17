@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't what you do, but how you do it.</p>
+<p>Difficult roads often lead to beautiful destinations.</p>
 
-<p>John Wooden</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
