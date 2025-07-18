@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
 
-<p>Oprah Winfrey</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
