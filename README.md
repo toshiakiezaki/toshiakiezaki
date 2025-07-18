@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>Zig Ziglar</p>
+<p>Billie Jean King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
