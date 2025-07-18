@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
 
-<p>Unknown</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
