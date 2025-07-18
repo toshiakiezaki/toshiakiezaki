@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
 
-<p>Dogen</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
