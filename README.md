@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>Wayne Dyer</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
