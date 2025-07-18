@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where does a thought go when it's forgotten?</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>Sigmund Freud</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
