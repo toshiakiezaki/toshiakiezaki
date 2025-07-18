@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Thomas Edison</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
