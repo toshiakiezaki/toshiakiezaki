@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is changed by your example, not by your opinion.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>Paulo Coelho</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
