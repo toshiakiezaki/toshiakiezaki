@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your stand today. On this spot. On this day.</p>
+<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
