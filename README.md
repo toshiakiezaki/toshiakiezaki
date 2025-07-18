@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way of success is the way of continuous pursuit of knowledge.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>Napoleon Hill</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
