@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>Robert Collier</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
