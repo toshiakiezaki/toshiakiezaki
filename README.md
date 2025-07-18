@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
