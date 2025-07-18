@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>Spencer Johnson</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
