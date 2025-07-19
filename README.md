@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>Billie Jean King</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
