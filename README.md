@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are never too old to become younger.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Mae West</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
