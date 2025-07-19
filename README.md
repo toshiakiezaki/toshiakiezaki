@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>Zig Ziglar</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
