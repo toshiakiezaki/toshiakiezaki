@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>A clear conscience is the sure sign of a bad memory.</p>
 
-<p>Criss Jami</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
