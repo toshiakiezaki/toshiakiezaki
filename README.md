@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>Richard Bach</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
