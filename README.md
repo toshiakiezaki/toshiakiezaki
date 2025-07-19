@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>The health of nations is more important than the wealth of nations.</p>
 
-<p>Marcus Aurelius</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
