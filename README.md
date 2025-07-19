@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>You are never too old to become younger.</p>
 
-<p>Mark Twain</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
