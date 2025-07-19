@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to be looked over than overlooked.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>Mae West</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
