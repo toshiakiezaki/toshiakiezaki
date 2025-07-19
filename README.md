@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
