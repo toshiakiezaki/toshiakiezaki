@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>Maxime Lagace</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
