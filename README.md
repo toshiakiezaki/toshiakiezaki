@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>Virginia Woolf</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
