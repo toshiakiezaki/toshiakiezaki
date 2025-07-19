@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is not a lover who does not love forever.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>Euripides</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
