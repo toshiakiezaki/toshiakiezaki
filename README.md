@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>Robin Sharma</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
