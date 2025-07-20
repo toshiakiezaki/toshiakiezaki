@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>Brian Tracy</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
