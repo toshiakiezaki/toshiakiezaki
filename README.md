@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Gary Keller</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
