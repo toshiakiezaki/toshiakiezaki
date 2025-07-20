@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>Thomas Edison</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
