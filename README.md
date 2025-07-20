@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
