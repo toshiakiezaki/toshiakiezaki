@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>Amelia Earhart</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
