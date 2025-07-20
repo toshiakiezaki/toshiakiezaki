@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>Chinese Proverb</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
