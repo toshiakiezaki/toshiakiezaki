@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>Yanni</p>
+<p>Cherralea Morgen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
