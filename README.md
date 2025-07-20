@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>Go for it now. The future is promised to no one. </p>
 
-<p>Sun Tzu</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
