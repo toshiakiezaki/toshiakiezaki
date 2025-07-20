@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>Elvis Presley</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
