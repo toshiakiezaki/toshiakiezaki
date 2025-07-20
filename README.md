@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
 <p>Gary Keller</p>
 <!-- dailyquote:end -->
