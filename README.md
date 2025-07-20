@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>Richard Bach</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
