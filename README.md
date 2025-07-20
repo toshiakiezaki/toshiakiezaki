@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
 
-<p>Henry David Thoreau</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
