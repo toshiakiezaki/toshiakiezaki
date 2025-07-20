@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>Kahlil Gibran</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
