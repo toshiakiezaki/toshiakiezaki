@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
 
-<p>Colin Powell</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
