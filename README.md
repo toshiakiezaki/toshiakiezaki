@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
 <p>Chinese Proverb</p>
 <!-- dailyquote:end -->
