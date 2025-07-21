@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Colin Powell</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
