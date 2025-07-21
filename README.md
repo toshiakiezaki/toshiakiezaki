@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I persist long enough I will win.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Og Mandino</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
