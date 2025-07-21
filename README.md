@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>Hope is a waking dream.</p>
 
-<p>Zig Ziglar</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
