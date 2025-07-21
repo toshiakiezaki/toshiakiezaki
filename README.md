@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>James Allen</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
