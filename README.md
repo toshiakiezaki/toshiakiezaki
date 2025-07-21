@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather die on my feet than live on my knees.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>Euripides</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
