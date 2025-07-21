@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To some degree, you control your life by controlling your time.</p>
+<p>I would rather die on my feet than live on my knees.</p>
 
-<p>Conrad Hilton</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
