@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the ability, now apply yourself.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>Benjamin Mays</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
