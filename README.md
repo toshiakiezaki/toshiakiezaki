@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope is a waking dream.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>Aristotle</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
