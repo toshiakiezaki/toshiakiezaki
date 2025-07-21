@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
 
-<p>Carl Jung</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
