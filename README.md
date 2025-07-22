@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>We win by helping each other win.</p>
 
 <p>Jack Butcher</p>
 <!-- dailyquote:end -->
