@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>Dogen</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
