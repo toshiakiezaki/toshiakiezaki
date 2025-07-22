@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>Henry Ford</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
