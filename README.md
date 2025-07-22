@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
 
-<p>Publilius Syrus</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
