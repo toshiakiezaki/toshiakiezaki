@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Be - don't try to become </p>
 
-<p>Zen Proverb</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
