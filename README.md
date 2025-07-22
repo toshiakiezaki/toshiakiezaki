@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to keep breaking your heart until it opens.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>Rumi</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
