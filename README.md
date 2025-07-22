@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to be irreplaceable one must always be different.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>Coco Chanel</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
