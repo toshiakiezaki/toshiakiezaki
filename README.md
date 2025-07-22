@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>Laurence J. Peter</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
