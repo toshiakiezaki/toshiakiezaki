@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>Sigmund Freud</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
