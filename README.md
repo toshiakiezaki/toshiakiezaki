@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Each problem has a positive side.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
