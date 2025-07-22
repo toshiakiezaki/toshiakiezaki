@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each problem has a positive side.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>Og Mandino</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
