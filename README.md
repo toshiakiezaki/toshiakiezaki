@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We win by helping each other win.</p>
+<p>When you reach the top of the mountain, keep climbing. </p>
 
-<p>Jack Butcher</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
