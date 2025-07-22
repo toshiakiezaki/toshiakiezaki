@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>Mark Manson</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
