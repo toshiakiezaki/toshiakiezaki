@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>Robert Collier</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
