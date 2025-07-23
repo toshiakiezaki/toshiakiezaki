@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>William Faulkner</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
