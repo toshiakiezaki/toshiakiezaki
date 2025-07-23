@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are your best thing.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>Toni Morrison</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
