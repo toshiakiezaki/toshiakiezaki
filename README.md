@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you run the day or the day runs you.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>Jim Rohn</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
