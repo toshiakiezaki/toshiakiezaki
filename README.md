@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>The heart that gives, gathers.</p>
 
-<p>Shahir Zag</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
