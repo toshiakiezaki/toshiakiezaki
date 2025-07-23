@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>Richard Bach</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
