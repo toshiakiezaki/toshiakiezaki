@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One's best success comes after their greatest disappointments.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
