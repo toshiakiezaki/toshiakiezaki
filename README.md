@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>Robert Greene</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
