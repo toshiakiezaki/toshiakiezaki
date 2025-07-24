@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>Dan Brown</p>
+<p>A.A. Milne</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
