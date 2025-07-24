@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>Roy T. Bennett</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
