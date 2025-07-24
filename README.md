@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>Bob Dylan</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
