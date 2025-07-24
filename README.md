@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't blame others. it won't make you a better person.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>Lolly Daskal</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
