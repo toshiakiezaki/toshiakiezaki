@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>Vaclav Havel</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
