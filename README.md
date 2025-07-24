@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>William Faulkner</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
