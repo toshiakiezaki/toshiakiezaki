@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>Euripides</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
