@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be calm is the highest achievement of the self.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>Zen Proverb</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
