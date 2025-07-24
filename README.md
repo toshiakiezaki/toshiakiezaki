@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do to others what you would not like them to do to you. </p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>Confucius</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
