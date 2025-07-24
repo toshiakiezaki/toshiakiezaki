@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>Richard Bach</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
