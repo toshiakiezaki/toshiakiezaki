@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't argue both sides, you can't argue.</p>
+<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
 
-<p>Jack Butcher</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
