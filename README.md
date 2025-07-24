@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>Steve Jobs</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
