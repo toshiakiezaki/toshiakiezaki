@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there's life, there's hope.</p>
+<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
 
-<p>Stephen Hawking</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
