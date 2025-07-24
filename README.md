@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>A.A. Milne</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
