@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>Brian Tracy</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
