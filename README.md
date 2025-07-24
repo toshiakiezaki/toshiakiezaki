@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
