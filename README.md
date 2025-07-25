@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>Huang Po</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
