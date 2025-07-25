@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>Dalai Lama</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
