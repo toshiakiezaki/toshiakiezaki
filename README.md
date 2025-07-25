@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise man reads both books and life itself.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>Lin Yutang</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
