@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Jeffrey Gitomer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
