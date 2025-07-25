@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>Eckhart Tolle</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
