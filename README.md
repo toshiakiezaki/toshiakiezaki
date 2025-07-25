@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Carl Jung</p>
+<p>George Addair</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
