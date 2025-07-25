@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
 
-<p>George Eliot</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
