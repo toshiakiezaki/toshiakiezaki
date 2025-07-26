@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>George Addair</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
