@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>Steve Harvey</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
