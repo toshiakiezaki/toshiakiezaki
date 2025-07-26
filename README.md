@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best way to understanding is a few good examples.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>Isaac Newton</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
