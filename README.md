@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>Elon Musk</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
