@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>Dan Millman</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
