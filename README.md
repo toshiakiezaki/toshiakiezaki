@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't look back - you're not going that way.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>Mary Engelbreit</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
