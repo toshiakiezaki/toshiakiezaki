@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deeds will not be less valiant because they are upraised.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
