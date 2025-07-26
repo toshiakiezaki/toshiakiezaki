@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>Thomas Jefferson</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
