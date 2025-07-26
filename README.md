@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
+<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
 
-<p>Kahlil Gibran</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
