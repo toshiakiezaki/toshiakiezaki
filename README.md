@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
 
-<p>George Bernard Shaw</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
