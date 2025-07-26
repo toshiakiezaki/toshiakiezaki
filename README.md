@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
