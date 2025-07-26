@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>Confucius</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
