@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Motivation gets you going and habit gets you there.  </p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>Zig Ziglar</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
