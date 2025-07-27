@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>Og Mandino</p>
+<p>Babe Ruth</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
