@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>Roy T. Bennett</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
