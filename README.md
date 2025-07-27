@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>The person who is his own master cannot tolerate another boss. </p>
 
-<p>Sathya Sai Baba</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
