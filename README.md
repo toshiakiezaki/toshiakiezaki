@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>Unknown</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
