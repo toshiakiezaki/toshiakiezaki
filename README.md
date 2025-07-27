@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>Emily Dickinson</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
