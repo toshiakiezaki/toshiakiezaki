@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing will work unless you do.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Maya Angelou</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
