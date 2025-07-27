@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>Rumi</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
