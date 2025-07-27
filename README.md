@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>Jim Rohn</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
