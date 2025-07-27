@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>Christopher Reeve</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
