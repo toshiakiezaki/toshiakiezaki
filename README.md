@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Will Rogers</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
