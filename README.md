@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
 
-<p>Gilbert Chesterton</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
