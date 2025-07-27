@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stress happens when the mind resists what is.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Dan Millman</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
