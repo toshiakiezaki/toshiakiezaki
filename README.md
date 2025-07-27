@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>Barack Obama</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
