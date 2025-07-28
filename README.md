@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The cost of leadership is self-interest.</p>
+<p>Keep your friends close, and your enemies closer.</p>
 
-<p>Simon Sinek</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
