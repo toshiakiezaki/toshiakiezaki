@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Truth is exact correspondence with reality. </p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
