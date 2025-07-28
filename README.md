@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>Steve Maraboli</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
