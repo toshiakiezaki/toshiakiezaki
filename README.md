@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
+<p>Make failure your teacher, not your undertaker.  </p>
 
-<p>Dogen</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
