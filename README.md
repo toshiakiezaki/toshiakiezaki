@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You change the world by being yourself.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>Yoko Ono</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
