@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Before you can see the Light, you have to deal with the darkness.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>Dan Millman</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
