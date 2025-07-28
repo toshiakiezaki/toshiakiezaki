@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give so much away people insist on paying you.</p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>Jack Butcher</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
