@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do something worth remembering.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>Elvis Presley</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
