@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything worth doing is worth doing slowly.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>Mae West</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
