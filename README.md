@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Charles Dickens</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
