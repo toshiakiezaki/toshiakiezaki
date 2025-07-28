@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your friends close, and your enemies closer.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>Sun Tzu</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
