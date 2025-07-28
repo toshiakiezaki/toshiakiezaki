@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live simply, expect little, give much.</p>
+<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
