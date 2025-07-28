@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go for it now. The future is promised to no one.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Wayne Dyer</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
