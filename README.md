@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
