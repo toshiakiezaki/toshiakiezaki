@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fortunate are those who take the first steps.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>Paulo Coelho</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
