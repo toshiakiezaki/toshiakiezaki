@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All cruelty springs from weakness.  </p>
+<p>Truth is exact correspondence with reality. </p>
 
-<p>Seneca</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
