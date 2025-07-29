@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>Barack Obama</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
