@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
+<p>One never does wrong by doing right.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
