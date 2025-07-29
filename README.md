@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>Samuel Beckett</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
