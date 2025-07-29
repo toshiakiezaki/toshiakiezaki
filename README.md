@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human happiness and moral duty are inseparably connected. </p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>George Washington</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
