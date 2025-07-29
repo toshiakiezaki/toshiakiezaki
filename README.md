@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>Elvis Presley</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
