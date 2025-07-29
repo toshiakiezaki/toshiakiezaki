@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can start changing our world for the better daily, no matter how small the action.</p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>Nelson Mandela</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
