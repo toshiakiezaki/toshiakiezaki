@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
+<p>We love the things we love for what they are.</p>
 
-<p>James Allen</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
