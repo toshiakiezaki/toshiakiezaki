@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>Dr. Seuss</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
