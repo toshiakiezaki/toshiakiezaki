@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>Dance first. Think later. It's the natural order.</p>
 
-<p>Joyce Meyer</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
