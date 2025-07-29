@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>Colin Powell</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
