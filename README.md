@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>Estee Lauder</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
