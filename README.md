@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>Henry Ford</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
