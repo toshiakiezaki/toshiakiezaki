@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunities multiply as they are seized.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>Sun Tzu</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
