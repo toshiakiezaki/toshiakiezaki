@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>Ralph Marston</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
