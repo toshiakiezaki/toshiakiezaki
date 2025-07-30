@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>Do something worth remembering.</p>
 
-<p>Albert Einstein</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
