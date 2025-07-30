@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>Lao Tzu</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
