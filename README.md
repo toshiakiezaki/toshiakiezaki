@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>There are no ordinary moments.</p>
 
-<p>Albus Dumbledore</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
