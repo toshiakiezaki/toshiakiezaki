@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>Amelia Earhart</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
