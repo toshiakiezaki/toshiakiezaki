@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Soyen Shaku</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
