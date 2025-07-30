@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is little success where there is little laughter.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>Andrew Carnegie</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
