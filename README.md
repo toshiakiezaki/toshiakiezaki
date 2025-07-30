@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is a treasure, but practice is the key to it.</p>
+<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
 
-<p>Lao Tzu</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
