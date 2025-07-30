@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>Alexander Pope</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
