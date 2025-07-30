@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>Albert Einstein</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
