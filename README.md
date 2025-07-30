@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who fails to plan, plans to fail.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>Unknown</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
