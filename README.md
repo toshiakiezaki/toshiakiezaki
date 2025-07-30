@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>Epictetus</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
