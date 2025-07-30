@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your dream has to be bigger than your fear.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>Steve Harvey</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
