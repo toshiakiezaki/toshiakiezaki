@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
+<p>Knowledge is a treasure, but practice is the key to it.</p>
 
-<p>Robin Sharma</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
