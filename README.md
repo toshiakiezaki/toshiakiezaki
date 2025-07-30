@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growth comes at the point of resistance.</p>
+<p>The sun is new each day.</p>
 
-<p>Josh Waitzkin</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
