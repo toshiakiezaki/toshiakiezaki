@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>Tony Robbins</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
