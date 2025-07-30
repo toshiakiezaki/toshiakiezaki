@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is the life of purpose.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>Robin Sharma</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
