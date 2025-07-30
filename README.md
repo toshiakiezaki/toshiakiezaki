@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest miracle is to be alive.</p>
+<p>There is little success where there is little laughter.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
