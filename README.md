@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no ordinary moments.</p>
+<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
 
-<p>Dan Millman</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
