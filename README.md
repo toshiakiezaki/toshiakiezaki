@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From error to error one discovers the entire truth.</p>
+<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
 
-<p>Sigmund Freud</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
