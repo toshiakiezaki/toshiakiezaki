@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>Beverly Sills</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
