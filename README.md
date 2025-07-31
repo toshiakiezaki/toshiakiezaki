@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>Celestine Chua</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
