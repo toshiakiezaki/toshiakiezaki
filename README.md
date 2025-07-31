@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>Roy T. Bennett</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
