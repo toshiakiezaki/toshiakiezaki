@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>Laurence J. Peter</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
