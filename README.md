@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
 
-<p>Dogen</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
