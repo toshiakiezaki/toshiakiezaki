@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is free who is not master of himself.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>Epictetus</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
