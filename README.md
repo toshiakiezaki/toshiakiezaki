@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody's life is either rewarding or an example.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Tony Robbins</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
