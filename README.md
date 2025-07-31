@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>You may delay, but time will not.</p>
 
-<p>Roy T. Bennett</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
