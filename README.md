@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>Simon Sinek</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
