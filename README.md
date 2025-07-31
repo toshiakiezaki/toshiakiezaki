@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>Elon Musk</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
