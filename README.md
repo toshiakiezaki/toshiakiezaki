@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
