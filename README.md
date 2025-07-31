@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
