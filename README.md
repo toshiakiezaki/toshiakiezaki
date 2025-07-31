@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The few who do are the envy of the many who only watch.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Jim Rohn</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
