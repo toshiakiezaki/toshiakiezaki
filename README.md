@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
+<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
 
-<p>Heraclitus</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
