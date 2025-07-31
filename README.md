@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The birth of the mind is the death of the senses.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>Dan Millman</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
