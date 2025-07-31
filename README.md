@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may delay, but time will not.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>Benjamin Franklin</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
