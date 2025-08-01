@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>George Bernard Shaw</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
