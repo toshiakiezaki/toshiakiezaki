@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the touchstones of our characters.</p>
+<p>To be able to forget means sanity.</p>
 
-<p>Henry David Thoreau</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
