@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>Amelia Earhart</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
