@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whoever is happy will make others happy too.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>Anne Frank</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
