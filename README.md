@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>Roy T. Bennett</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
