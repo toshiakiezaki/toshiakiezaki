@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your next step is simple. You are the first domino.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>Gary Keller</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
