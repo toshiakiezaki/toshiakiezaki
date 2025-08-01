@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>Chinese Proverb</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
