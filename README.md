@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>Charles Swindoll</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
