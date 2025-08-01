@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Robin Sharma</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
