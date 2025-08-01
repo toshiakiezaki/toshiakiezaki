@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to give up the good to go for the great.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>John D. Rockefeller</p>
+<p>Deepam Chaterjee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
