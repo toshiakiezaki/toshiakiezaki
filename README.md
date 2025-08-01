@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What have you done today to make someone else happy?</p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>Deepam Chaterjee</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
