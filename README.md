@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>Bhagavad Gita</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
