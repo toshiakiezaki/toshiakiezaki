@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>Mark Manson</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
