@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
 
-<p>Jim Rohn</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
