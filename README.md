@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
 
-<p>Dogen</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
