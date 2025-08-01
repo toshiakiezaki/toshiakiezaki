@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>Ronald Reagan</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
