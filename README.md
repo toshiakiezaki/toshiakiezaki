@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
+<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
 
-<p>Lin Yutang</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
