@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>Earl Nightingale</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
