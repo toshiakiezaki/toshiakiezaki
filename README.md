@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To every action there is always opposed an equal reaction.</p>
+<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
 
-<p>Isaac Newton</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
