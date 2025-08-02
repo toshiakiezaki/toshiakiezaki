@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
 
-<p>Jim Rohn</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
