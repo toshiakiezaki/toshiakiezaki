@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>Chinese Proverb</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
