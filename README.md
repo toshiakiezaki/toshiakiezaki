@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is knowing what not to fear.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>Plato</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
