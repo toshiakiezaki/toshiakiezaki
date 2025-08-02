@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>Mother Teresa</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
