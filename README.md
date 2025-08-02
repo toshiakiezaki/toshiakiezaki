@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>Andrew Carnegie</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
