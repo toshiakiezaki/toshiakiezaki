@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>Lao Tzu</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
