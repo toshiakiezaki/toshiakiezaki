@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Bruce Lee</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
