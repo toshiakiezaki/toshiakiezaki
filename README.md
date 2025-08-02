@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All our dreams can come true, if we have the courage to pursue them.</p>
+<p>To get angry is like to revenge yourself for the guilt of others.</p>
 
-<p>Walt Disney</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
