@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Winning isn't always championships.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>Michael Jordan</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
