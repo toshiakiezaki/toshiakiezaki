@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freedom itself demands discomfort.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>Mark Manson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
