@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>Unknown</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
