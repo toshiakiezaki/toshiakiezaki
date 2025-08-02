@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
