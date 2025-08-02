@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To get angry is like to revenge yourself for the guilt of others.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>Jonathan Swift</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
