@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>Steve Harvey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
