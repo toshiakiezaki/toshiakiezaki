@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be approximately right rather than exactly wrong.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>John Tukey</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
