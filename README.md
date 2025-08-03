@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>Charles Spurgeon</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
