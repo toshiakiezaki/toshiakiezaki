@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man should fear never beginning to live.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>Marcus Aurelius</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
