@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>Les Brown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
