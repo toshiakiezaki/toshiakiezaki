@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
 
-<p>Earl Nightingale</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
