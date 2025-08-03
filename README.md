@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>Jack Butcher</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
