@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>Roy T. Bennett</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
