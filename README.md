@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
 
-<p>Richard Bach</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
