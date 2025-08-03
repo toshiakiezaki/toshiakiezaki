@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>Lao Tzu</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
