@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
 
-<p>Robin Williams</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
