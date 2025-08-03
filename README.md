@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>Napoleon Hill</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
