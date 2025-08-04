@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot find peace by avoiding life.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>Virginia Woolf</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
