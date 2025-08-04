@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>Ayn Rand</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
