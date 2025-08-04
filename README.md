@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>Winston Churchill</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
