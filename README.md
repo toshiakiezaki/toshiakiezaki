@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
+<p>To perceive is to suffer.</p>
 
-<p>Huang Po</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
