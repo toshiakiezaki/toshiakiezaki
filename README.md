@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person who does not read is no better than one cannot read.</p>
+<p>Happiness is only real, when shared.</p>
 
-<p>Earl Nightingale</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
