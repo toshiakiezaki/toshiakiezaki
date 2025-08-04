@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>Children are our greatest natural resource.</p>
 
-<p>Eric Hoffer</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
