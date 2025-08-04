@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>Unknown</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
