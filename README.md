@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
