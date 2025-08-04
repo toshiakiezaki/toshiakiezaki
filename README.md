@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe and you're halfway there.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>Harry S. Truman</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
