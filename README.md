@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>T.S. Eliot</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
