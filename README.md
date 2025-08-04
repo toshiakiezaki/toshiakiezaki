@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>Zen Proverb</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
