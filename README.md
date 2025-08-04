@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
 
-<p>Peter Drucker</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
