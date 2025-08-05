@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>Thomas Jefferson</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
