@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of chaos lies opportunity.  </p>
+<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
 
-<p>Bruce Lee</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
