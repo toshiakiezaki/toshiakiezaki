@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>Dalai Lama</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
