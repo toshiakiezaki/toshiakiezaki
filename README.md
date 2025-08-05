@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>Buddha</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
