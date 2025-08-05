@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
 
-<p>Abraham Lincoln</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
