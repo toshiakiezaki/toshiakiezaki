@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Each problem has a positive side.</p>
 
-<p>Lao Tzu</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
