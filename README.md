@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
