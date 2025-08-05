@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Integrity is the ability to stand by an idea.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>Ayn Rand</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
