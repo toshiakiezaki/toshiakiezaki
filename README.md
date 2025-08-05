@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>Unknown</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
