@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
