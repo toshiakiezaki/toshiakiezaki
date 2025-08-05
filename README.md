@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>Steve Harvey</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
