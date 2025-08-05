@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>John Lennon</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
