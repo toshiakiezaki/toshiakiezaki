@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
 
-<p>Confucius</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
