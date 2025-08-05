@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>James Allen</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
