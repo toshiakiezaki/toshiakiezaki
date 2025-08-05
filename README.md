@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each problem has a positive side.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>Og Mandino</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
