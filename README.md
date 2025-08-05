@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>Earl Nightingale</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
