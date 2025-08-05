@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>Wayne Dyer</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
