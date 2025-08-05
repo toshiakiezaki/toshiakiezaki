@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>Thomas Jefferson</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
