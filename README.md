@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to be walked over, you have to be lying down.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>Celestine Chua</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
