@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
