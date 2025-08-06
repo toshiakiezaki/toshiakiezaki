@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Richard Bach</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
