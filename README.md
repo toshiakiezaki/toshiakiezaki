@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As you love yourself, life loves you back.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>Kamal Ravikant</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
