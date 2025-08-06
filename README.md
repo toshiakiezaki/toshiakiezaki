@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>Barack Obama</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
