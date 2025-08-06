@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Through discipline comes freedom.</p>
+<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
 
-<p>Aristotle</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
