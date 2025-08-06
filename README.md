@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>Zen Proverb</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
