@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rest in reason; move in passion.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>Kahlil Gibran</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
