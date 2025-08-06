@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
 
-<p>Naval Ravikant</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
