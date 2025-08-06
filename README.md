@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Through discipline comes freedom.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
