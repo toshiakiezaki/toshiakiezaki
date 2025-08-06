@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>Barack Obama</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
