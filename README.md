@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>Bhagavad Gita</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
