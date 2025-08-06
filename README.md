@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>Dan Millman</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
