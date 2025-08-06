@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>Criss Jami</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
