@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
 
-<p>Morihei Ueshiba</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
