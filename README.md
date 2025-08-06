@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a balance of holding on and letting go.</p>
+<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
 
-<p>Rumi</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
