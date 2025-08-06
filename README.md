@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The destiny of man is in his own soul. </p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>Herodotus</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
