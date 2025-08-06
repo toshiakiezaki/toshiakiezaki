@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>Rumi</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
