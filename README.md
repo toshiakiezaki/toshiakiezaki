@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If light is in your heart, you will find your way home.  </p>
+<p>Life is a balance of holding on and letting go.</p>
 
 <p>Rumi</p>
 <!-- dailyquote:end -->
