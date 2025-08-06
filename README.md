@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
+<p>Rest in reason; move in passion.</p>
 
-<p>Og Mandino</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
