@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creativity is intelligence having fun.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>Albert Einstein</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
