@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Insanity: doing the same thing over and over again and expecting different results.</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>Albert Einstein</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
