@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>Albus Dumbledore</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
