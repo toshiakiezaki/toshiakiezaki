@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is destiny.</p>
+<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
 
-<p>Heraclitus</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
