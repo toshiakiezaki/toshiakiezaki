@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>Dan Millman</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
