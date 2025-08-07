@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when I fall do I get up again.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>Vincent van Gogh</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
