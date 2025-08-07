@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>Franz Kafka</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
