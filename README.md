@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
