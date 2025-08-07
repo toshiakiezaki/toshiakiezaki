@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to be walked over, you have to be lying down.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>Celestine Chua</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
