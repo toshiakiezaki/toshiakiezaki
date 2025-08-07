@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>Samuel Butler</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
