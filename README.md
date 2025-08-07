@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to be looked over than overlooked.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>Mae West</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
