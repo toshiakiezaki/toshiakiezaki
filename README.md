@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot have a positive life and a negative mind.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>Joyce Meyer</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
