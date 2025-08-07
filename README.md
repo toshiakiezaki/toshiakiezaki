@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>Tony Robbins</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
