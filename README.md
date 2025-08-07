@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know the rules well, so you can break them effectively.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>Dalai Lama</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
