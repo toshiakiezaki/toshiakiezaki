@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
