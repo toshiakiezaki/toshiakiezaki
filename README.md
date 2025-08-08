@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>Beverly Sills</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
