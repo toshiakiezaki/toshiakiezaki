@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where focus goes, energy flows.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>Tony Robbins</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
