@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>Unknown</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
