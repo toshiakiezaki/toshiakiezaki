@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>Where focus goes, energy flows.</p>
 
-<p>Marcus Aurelius</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
