@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>Samuel Butler</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
