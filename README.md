@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>Voltaire</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
