@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be calm is the highest achievement of the self.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>Zen Proverb</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
