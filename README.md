@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True prayer has no set form.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
