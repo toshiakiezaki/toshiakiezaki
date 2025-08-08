@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>Bob Marley</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
