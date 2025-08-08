@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Joyce Meyer</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
