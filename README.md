@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>Stephen Hawking</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
