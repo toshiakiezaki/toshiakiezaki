@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of getting ahead is getting started.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>Mark Twain</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
