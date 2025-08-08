@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
 
-<p>Unknown</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
