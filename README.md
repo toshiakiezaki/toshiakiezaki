@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>Beverly Sills</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
