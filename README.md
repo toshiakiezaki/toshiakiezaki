@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
 
-<p>C. Sean McGee</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
