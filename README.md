@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>Og Mandino</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
