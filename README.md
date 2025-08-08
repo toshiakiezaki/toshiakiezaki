@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>Unknown</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
