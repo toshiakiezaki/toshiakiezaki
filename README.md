@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>Jack London</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
