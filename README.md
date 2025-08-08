@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>Napoleon Hill</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
