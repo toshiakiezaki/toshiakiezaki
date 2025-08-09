@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>George Bernard Shaw</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
