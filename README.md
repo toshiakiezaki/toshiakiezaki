@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>The wise man reads both books and life itself.</p>
 
-<p>Roy T. Bennett</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
