@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>Kahlil Gibran</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
