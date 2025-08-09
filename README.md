@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only encounters in history. There are no accidents.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>Pablo Picasso</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
