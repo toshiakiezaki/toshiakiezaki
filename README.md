@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>Peace if possible, truth at all costs.</p>
 
-<p>Les Brown</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
