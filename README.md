@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>Miguel de Cervantes</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
