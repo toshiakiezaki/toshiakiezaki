@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>Alexander Pope</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
