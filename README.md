@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>Audrey Hepburn</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
