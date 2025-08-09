@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>Zen Proverb</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
