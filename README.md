@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart wants what it wants. There's no logic. </p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>Woody Allen</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
