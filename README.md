@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
