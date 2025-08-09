@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
 
-<p>Seungsahn</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
