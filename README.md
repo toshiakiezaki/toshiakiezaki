@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>Seungsahn</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
