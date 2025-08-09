@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the behavior of others destroy your inner peace.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>Dalai Lama</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
