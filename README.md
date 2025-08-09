@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you truly expect something to be difficult, it will be.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>Peter A. Cohen</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
