@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
