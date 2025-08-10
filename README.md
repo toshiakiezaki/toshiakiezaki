@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can, you should, and if you're brave enough to start, you will.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>Stephen King</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
