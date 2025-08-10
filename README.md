@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The temptation to give up is strongest just before victory.</p>
+<p>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</p>
 
-<p>Zen Proverb</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
