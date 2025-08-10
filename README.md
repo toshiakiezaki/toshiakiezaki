@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
 
-<p>Dalai Lama</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
