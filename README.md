@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's no coming to consciousness without pain</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>Carl Jung</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
