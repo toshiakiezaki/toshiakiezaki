@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>Ralph Marston</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
