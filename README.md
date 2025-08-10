@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best answer to anger is silence.</p>
+<p>The temptation to give up is strongest just before victory.</p>
 
-<p>Marcus Aurelius</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
