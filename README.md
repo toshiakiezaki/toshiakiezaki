@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>Harry S. Truman</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
