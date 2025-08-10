@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>Confucius</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
