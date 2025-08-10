@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Dan Millman</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
