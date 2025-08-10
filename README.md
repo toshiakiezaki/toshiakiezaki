@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
 
-<p>Lao Tzu</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
