@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>Norman Vincent Peale</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
