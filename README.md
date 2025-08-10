@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Winston Churchill</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
