@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>When one door closes another door opens. </p>
 
-<p>Steve Maraboli</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
