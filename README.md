@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
