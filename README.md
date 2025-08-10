@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When one door closes another door opens. </p>
+<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
 
-<p>Alexander Graham Bell</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
