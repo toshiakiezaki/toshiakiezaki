@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>Honore de Balzac</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
