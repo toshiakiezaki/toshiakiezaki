@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make your stand today. On this spot. On this day.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
