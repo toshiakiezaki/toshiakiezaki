@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
 
-<p>Les Brown</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
