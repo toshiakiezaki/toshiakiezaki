@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows best knows how little he knows.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>Thomas Jefferson</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
