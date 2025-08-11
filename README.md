@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>Joyce Meyer</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
