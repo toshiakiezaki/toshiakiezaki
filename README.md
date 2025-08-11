@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>Maxime Lagace</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
