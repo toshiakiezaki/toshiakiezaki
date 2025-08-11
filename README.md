@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
