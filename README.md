@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't criticize what you can't understand. </p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>Bob Dylan</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
