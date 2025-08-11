@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Showing off is the fool's idea of glory. </p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>Bruce Lee</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
