@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>Learn from the rejection and turn it into an opportunity!</p>
 
-<p>Charles Dickens</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
