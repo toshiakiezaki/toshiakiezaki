@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
