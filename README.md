@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>The final mystery is oneself.</p>
 
-<p>Mary Engelbreit</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
