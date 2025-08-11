@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Seek not the good in external things;seek it in yourselves.</p>
+<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
 
-<p>Epictetus</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
