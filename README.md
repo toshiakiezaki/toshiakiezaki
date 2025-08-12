@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The journey is what brings us happiness not the destination.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>Dan Millman</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
