@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>Will Rogers</p>
+<p>Charles Darwin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
