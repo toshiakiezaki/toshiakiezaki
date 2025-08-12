@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who knows best knows how little he knows.</p>
+<p>Wit is educated insolence.</p>
 
-<p>Thomas Jefferson</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
