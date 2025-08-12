@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>Adi Da Samraj</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
