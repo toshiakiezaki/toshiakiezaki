@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
 
-<p>Og Mandino</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
