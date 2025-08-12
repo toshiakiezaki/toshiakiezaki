@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Imagination is the true magic carpet.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
