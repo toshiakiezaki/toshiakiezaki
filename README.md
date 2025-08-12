@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Art is the signature of civilizations. </p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>Beverly Sills</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
