@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Choose to be optimistic, it feels better.</p>
+<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
 
-<p>Dalai Lama</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
