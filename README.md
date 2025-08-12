@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
+<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
 
-<p>Tony Robbins</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
