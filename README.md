@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>Mahatma Gandhi</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
