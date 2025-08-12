@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
