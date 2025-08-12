@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Robert Greene</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
