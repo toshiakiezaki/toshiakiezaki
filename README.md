@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>Christopher Reeve</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
