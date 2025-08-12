@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>If I love myself I love you. If I love you I love myself.</p>
 
-<p>John Eliot</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
