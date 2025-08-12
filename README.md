@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
 
-<p>Audrey Hepburn</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
