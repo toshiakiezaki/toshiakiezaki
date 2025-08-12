@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>Charles Darwin</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
