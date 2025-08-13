@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to keep breaking your heart until it opens.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>Rumi</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
