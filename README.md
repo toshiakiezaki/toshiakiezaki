@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only difference between success and failure is the ability to take action.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
