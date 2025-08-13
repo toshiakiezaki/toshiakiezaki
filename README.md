@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
