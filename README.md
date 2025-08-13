@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wit is educated insolence.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>Aristotle</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
