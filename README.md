@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>Steve Harvey</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
