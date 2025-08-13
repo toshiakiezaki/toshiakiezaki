@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
