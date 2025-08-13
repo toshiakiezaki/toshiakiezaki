@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>Gary Keller</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
