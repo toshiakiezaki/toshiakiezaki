@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>James Allen</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
