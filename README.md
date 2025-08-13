@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>Wayne Gretzky</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
