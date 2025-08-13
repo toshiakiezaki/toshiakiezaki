@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
