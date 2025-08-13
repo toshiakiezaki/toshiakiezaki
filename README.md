@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>Og Mandino</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
