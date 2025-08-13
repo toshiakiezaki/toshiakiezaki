@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness must be grown in one's own garden.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>Mary Engelbreit</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
