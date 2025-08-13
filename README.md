@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>Judy Garland</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
