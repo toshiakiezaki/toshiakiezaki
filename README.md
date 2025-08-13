@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give so much away people insist on paying you.</p>
+<p>You win more from losing than winning.</p>
 
-<p>Jack Butcher</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
