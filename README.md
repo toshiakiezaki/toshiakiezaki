@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>Richard Bach</p>
+<p>Bette Midler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
