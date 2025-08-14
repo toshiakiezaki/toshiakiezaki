@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>Carl Jung</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
