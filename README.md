@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't program yourself, life will program you.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>Les Brown</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
