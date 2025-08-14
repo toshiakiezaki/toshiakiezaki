@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>Unknown</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
