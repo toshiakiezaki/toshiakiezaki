@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>Maya Angelou</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
