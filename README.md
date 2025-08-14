@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is only real when shared.</p>
+<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 
-<p>Christopher McCandless</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
