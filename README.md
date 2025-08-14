@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fishing is much more than fish.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>Herbert Hoover</p>
+<p>Yoko Ono</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
