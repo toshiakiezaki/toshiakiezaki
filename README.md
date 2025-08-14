@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>The grass is greener where you water it.</p>
 
-<p>Wayne Dyer</p>
+<p>Neil Barringham</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
