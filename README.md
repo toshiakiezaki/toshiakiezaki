@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>Unknown</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
