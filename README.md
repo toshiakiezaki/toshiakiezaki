@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>Niccolo Machiavelli</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
