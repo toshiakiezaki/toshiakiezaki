@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</p>
 
-<p>Paulo Coelho</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
