@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>Lolly Daskal</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
