@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
 
-<p>Yoko Ono</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
