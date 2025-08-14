@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>Happiness is only real when shared.</p>
 
-<p>Bette Midler</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
