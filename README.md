@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The grass is greener where you water it.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>Neil Barringham</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
