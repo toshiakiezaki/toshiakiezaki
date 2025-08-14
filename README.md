@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>Zhuangzi</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
