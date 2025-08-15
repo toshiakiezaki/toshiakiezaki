@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limits in your life are those that you set yourself.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>Celestine Chua</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
