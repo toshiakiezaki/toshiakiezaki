@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>Ronald Reagan</p>
+<p>C. Sean McGee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
