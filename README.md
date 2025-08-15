@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The prettiest eyes have cried the most.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>Unknown</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
