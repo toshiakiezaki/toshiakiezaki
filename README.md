@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>Michael Jordan</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
