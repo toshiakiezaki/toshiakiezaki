@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>You will succeed because most people are lazy.</p>
 
-<p>C. Sean McGee</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
