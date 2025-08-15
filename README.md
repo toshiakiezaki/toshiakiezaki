@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who attain the middle Dominate the whole.</p>
+<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
