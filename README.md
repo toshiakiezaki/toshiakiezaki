@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>Steve Harvey</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
