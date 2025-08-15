@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>Samuel Butler</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
