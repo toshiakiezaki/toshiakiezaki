@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>Seneca</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
