@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Kahlil Gibran</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
