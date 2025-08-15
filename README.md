@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>Barack Obama</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
