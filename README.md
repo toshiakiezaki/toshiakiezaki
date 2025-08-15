@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise speak only of what they know.</p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
 
-<p>J.R.R. Tolkien</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
