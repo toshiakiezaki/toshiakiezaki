@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>Bhagavad Gita</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
