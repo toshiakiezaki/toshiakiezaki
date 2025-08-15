@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>Zhuangzi</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
