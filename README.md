@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
