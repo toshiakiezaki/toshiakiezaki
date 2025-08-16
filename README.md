@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
 
-<p>Celestine Chua</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
