@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>If you need inspiration, don't do it.</p>
 
 <p>Elon Musk</p>
 <!-- dailyquote:end -->
