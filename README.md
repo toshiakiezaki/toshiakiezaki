@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>Thomas Jefferson</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
