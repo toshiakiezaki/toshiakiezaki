@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>Conrad Hilton</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
