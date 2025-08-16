@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>Brian Tracy</p>
+<p>Soren Kierkegaard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
