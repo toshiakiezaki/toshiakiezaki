@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing endures but change.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>Heraclitus</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
