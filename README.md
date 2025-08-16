@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We run to win, not just to be in the race.  </p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>Vince Lombardi</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
