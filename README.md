@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>Lao Tzu</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
