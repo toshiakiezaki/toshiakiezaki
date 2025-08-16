@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you need inspiration, don't do it.</p>
+<p>Nature does not hurry, yet everything is accomplished.</p>
 
-<p>Elon Musk</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
