@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
 
-<p>Oprah Winfrey</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
