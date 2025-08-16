@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words, once they are printed, have a life of their own.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>Carol Burnett</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
