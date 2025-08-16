@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love is the energy of life.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>Robert Browning</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
