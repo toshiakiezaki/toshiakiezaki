@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The two most important days in your life are the day you are born and the day you find out why.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Mark Twain</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
