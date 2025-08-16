@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anxiety is the dizziness of freedom.</p>
+<p>Love is the energy of life.</p>
 
-<p>Soren Kierkegaard</p>
+<p>Robert Browning</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
