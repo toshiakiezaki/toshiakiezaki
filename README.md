@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Nothing endures but change.</p>
 
-<p>Alan Watts</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
