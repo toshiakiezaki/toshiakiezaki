@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people get ahead during the time that others waste.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>Henry Ford</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
