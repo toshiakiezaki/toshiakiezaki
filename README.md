@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the root is strong, the fruit is sweet.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>Bob Marley</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
