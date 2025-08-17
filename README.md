@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
+<p>Confidence breeds beauty.  </p>
 
-<p>Charlie Chaplin</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
