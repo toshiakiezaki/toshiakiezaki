@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Optimism, when applied to your life, develops strength and peace within you.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
