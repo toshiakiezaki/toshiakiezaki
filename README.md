@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
 
-<p>Lin Yutang</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
