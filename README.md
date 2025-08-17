@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>Amelia Earhart</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
