@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>Roy T. Bennett</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
