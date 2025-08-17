@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>Rumi</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
