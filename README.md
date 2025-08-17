@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
