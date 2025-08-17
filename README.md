@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are people who have money and people who are rich.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>Coco Chanel</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
