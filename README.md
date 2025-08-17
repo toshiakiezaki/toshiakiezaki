@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Most people get ahead during the time that others waste.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
