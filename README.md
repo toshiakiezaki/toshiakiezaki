@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence breeds beauty.  </p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>Estee Lauder</p>
+<p>Shahir Zag</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
