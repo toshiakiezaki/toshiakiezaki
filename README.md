@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust, like the soul, never returns once it is gone.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>Publilius Syrus</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
