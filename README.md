@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>Zen Proverb</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
