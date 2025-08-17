@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
