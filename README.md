@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
 
-<p>Criss Jami</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
