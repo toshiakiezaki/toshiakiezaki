@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only normal people are the ones you don't know very well.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>Alfred Adler</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
