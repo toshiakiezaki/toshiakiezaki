@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Helen Keller</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
