@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>Deepak Chopra</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
