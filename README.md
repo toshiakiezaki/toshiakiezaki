@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>Deepak Chopra</p>
+<p>John Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
