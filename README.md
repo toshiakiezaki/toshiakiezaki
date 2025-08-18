@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>Colin Powell</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
