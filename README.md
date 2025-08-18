@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>It is well known that those who do not trust themselves never trust others.</p>
 
-<p>Pema Chodron</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
