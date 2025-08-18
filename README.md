@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>Roy T. Bennett</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
