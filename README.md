@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Be happy now, without reason - or you never will be at all.</p>
 
-<p>Chinese Proverb</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
