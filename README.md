@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either get busy living or get busy dying.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>Stephen King</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
