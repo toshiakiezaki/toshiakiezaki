@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
 
-<p>Carl Jung</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
