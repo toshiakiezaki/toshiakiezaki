@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>Alfred Adler</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
