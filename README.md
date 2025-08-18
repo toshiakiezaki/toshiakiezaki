@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>John Eliot</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
