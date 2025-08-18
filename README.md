@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens, always be yourself.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Dale Carnegie</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
