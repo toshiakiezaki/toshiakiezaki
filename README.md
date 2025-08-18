@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>Margaret Mead</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
