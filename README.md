@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
