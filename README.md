@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>Oprah Winfrey</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
