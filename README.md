@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
 
-<p>Eckhart Tolle</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
