@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who realize their folly are not true fools.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>Zhuangzi</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
