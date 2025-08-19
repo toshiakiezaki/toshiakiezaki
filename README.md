@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>Martin Luther</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
