@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>Genghis Khan</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
