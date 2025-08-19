@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Pema Chodron</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
