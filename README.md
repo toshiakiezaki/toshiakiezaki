@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want something new, you have to stop doing something old.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>Peter Drucker</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
