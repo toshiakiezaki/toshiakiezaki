@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man is happy who does not think himself so.</p>
+<p>It does not matter how slowly you go so long as you do not stop.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
