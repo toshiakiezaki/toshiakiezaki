@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>Epictetus</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
