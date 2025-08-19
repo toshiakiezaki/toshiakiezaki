@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>Maxime Lagace</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
