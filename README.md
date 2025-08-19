@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
 
-<p>Confucius</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
