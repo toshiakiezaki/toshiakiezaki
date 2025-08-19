@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>Samuel Beckett</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
