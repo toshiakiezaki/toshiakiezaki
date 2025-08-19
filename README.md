@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At every moment where language can't go, that's your mind.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>Bodhidharma</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
