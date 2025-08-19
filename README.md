@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>D. H. Lawrence</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
