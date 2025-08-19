@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>Les Brown</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
