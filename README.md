@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
 
-<p>Conrad Hilton</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
