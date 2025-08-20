@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>Lao Tzu</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
