@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
