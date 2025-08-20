@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The cost of leadership is self-interest.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>Simon Sinek</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
