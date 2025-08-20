@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
