@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will not walk backward in life.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
