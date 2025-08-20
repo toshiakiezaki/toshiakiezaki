@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>Ralph Marston</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
