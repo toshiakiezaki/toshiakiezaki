@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>Pablo Picasso</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
