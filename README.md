@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discontent is the first necessity of progress.</p>
+<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
 
-<p>Thomas Edison</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
