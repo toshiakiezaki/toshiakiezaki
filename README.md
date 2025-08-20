@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>Harry S. Truman</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
