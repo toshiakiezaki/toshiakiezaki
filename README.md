@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>Robert Frost</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
