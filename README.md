@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
