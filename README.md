@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
