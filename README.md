@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>Unknown</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
