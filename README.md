@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>Joyce Meyer</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
