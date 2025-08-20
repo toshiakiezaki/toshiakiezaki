@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wealth is the product of man's capacity to think.</p>
+<p>Failure is the highway to success.</p>
 
-<p>Ayn Rand</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
