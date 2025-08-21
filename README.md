@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be approximately right rather than exactly wrong.</p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>John Tukey</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
