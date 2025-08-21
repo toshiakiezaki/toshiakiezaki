@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
 
-<p>Ralph Marston</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
