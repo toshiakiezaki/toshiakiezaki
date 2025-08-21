@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
