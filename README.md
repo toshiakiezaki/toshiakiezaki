@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Maxime Lagace</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
