@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>Sonia Ricotti</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
