@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only people without problems are those in cemeteries.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>Tony Robbins</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
