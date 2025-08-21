@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
