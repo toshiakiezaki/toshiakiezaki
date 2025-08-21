@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>Leo Tolstoy</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
