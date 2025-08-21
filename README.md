@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>Alexandre Dumas</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
