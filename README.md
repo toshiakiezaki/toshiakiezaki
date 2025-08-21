@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>The only people without problems are those in cemeteries.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
