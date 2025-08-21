@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Abraham Lincoln</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
