@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>Criss Jami</p>
+<p>John Tukey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
