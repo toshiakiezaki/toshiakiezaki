@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
