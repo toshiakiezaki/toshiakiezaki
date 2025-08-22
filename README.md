@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
