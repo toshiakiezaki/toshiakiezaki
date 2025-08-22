@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>Voltaire</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
