@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Even in the grave, all is not lost.</p>
 
-<p>Pema Chodron</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
