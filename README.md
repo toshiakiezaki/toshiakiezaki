@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>Don't think money does everything or you are going to end up doing everything for money.</p>
 
-<p>Dalai Lama</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
