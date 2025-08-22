@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>Lin Yutang</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
