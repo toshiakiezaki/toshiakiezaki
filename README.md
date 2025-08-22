@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Oscar Wilde</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
