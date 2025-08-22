@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>Michael Jordan</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
