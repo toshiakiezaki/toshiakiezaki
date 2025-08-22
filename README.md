@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>Socrates</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
