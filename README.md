@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>Herbert Hoover</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
