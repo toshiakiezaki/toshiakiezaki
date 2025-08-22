@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
 
-<p>Audrey Hepburn</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
