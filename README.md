@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even in the grave, all is not lost.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>Edgar Allan Poe</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
