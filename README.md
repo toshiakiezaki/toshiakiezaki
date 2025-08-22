@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>Coco Chanel</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
