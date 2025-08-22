@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>Joyce Meyer</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
