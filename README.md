@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>Criss Jami</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
