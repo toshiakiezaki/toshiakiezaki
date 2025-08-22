@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>Deepak Chopra</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
