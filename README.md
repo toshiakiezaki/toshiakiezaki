@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is action.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>Brian Tracy</p>
+<p>Michael Jordan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
