@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>Bob Dylan</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
