@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>Simon Sinek</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
