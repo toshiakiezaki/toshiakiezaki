@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Unknown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
