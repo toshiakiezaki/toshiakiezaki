@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>Carl Jung</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
