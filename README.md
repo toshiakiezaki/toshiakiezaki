@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
 
-<p>Paulo Coelho</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
