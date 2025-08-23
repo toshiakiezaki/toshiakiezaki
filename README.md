@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Wayne Dyer</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
