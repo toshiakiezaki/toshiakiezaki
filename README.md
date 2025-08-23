@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather die on my feet than live on my knees.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>Euripides</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
