@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>Tony Robbins</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
