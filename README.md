@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
 
-<p>Joan Rivers</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
