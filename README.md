@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>Roy T. Bennett</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
