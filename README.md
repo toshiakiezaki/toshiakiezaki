@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>Henry Ford</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
