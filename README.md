@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
 
-<p>Pablo Picasso</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
