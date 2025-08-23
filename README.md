@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>Franz Kafka</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
