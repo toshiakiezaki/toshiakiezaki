@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your outlook on life that counts.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>Betty White</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
