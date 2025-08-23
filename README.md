@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Begin at once to live, and count each separate day as a separate life.  </p>
+<p>The less you respond to negative people, the more positive your life will become.</p>
 
-<p>Seneca</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
