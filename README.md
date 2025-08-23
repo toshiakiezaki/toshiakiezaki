@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
+<p>I would rather die on my feet than live on my knees.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
