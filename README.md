@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>Joan Rivers</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
