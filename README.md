@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
