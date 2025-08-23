@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>Colin Powell</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
