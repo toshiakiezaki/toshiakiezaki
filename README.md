@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
 
-<p>Herbert Hoover</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
