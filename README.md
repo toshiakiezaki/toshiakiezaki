@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The few who do are the envy of the many who only watch.</p>
+<p>I'm an optimist by choice not by stupidity.</p>
 
-<p>Jim Rohn</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
