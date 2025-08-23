@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All happiness depends on courage and work.</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>Honore de Balzac</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
