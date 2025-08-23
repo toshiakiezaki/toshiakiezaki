@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>Yanni</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
