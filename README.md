@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Eighty percent of success is showing up. </p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>Woody Allen</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
