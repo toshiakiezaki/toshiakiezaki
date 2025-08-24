@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>Vaclav Havel</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
