@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The essence of the Way is detachment.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>Bodhidharma</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
