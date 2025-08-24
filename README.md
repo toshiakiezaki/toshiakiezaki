@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>I'd rather welcome change than cling to the past.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
