@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
+<p>Everything flows, nothing stands still.</p>
 
-<p>Dr. Seuss</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
