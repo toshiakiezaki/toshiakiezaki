@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>Being a good example is the best form of service.</p>
 
-<p>Barack Obama</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
