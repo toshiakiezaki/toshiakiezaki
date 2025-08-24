@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Someday death will take us to another star.</p>
 
-<p>Mark Twain</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
