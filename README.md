@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I'd rather welcome change than cling to the past.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
