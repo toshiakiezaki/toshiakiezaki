@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Someday death will take us to another star.</p>
+<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
 
-<p>Vincent van Gogh</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
