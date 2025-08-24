@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not as important how we start, but how we finish.</p>
+<p>Eighty percent of success is showing up. </p>
 
-<p>Joyce Meyer</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
