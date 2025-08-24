@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
 
-<p>Aristotle</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
