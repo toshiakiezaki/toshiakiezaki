@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>Kahlil Gibran</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
