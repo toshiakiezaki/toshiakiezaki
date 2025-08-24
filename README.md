@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>Les Brown</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
