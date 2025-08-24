@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>To earn more you must learn more.</p>
 
-<p>Dalai Lama</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
