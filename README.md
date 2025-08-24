@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>Oprah Winfrey</p>
+<p>James Matthew Barrie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
