@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
 
-<p>Isaac Newton</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
