@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>Brian Tracy</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
