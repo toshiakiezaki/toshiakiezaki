@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>Colin Powell</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
