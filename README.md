@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>Eleanor Roosevelt</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
