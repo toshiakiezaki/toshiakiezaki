@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can live without money, but I cannot live without love.</p>
+<p>If you can't explain it simply, you don't understand it well enough.</p>
 
-<p>Judy Garland</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
