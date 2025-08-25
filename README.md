@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>Albert Einstein</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
