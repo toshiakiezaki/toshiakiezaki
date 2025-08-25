@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>Seneca</p>
+<p>Judy Garland</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
