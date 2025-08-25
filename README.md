@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge is a treasure, but practice is the key to it.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>Lao Tzu</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
