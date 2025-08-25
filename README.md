@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who avoid failure also avoid success.</p>
+<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
 
-<p>Robert Kiyosaki</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
