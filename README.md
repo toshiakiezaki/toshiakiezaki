@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heart is what separates the good from the great.</p>
+<p>Knowledge is a treasure, but practice is the key to it.</p>
 
-<p>Michael Jordan</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
