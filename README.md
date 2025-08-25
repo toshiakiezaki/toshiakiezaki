@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>Colin Powell</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
