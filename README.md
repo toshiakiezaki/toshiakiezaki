@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>Alexander Pope</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
