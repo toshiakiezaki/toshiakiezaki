@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The great use of life is to spend it for something that will outlast it.</p>
+<p>People who avoid failure also avoid success.</p>
 
-<p>William James</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
