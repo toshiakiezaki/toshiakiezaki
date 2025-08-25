@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No matter what happens in life, never lose sight of who you are.</p>
+<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
 
-<p>Yanni</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
