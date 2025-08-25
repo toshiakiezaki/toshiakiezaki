@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>The great use of life is to spend it for something that will outlast it.</p>
 
-<p>Unknown</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
