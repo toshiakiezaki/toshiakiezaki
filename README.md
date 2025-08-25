@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Begin at once to live, and count each separate day as a separate life.  </p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>Seneca</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
