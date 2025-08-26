@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>Earl Nightingale</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
