@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To find yourself, think for yourself.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>Socrates</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
