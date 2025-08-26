@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>Dogen</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
