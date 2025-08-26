@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you chase two rabbits, you catch none.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>Confucius</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
