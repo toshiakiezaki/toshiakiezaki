@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>Pablo Picasso</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
