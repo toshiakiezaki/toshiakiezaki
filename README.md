@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>W.P. Kinsella</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
