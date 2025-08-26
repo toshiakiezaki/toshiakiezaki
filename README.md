@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>Helen Keller</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
