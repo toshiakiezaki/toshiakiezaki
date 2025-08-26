@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
