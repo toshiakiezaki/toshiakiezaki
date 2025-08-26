@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One always begins to forgive a place as soon as it's left behind.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>Charles Dickens</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
