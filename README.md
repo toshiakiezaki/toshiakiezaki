@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>To find yourself, think for yourself.</p>
 
-<p>Albus Dumbledore</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
