@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
 
-<p>Og Mandino</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
