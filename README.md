@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>Believe in one thing too much and you have no room for new ideas.  </p>
 
-<p>Virginia Woolf</p>
+<p>Ray Bradbury</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
