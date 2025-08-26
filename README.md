@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is doing now what you are going to be happy with later on.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>Joyce Meyer</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
