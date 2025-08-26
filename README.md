@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>Zen Proverb</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
