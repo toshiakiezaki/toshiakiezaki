@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only defense against the world is a thorough knowledge of it.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>John Locke</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
