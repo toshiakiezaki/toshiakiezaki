@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>There's no next time. It's now or never.</p>
 
-<p>Ray Bradbury</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
