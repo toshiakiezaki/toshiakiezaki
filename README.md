@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.</p>
 
-<p>Henry Ford</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
