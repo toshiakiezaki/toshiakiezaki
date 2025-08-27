@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>Christopher Columbus</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
