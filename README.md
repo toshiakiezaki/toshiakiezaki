@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Pablo Picasso</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
