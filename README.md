@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>Jack Butcher</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
