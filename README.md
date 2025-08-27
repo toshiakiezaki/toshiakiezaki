@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>Jack Butcher</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
