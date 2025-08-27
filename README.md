@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>Tony Robbins</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
