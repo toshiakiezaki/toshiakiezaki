@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>Thomas Edison</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
