@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>Steve Maraboli</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
