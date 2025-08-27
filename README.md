@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Belief creates the actual fact.</p>
 
-<p>Virginia Woolf</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
