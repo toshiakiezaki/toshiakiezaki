@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
+<p>Cleverness is not wisdom.</p>
 
-<p>Aristotle</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
