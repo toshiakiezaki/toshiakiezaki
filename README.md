@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
 
-<p>Benjamin Franklin</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
