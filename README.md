@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
 
-<p>Margaret Mead</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
