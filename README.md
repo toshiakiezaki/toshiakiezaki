@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cleverness is not wisdom.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>Euripides</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
