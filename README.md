@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>Lolly Daskal</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
