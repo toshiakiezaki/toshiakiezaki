@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>A leader leads by example, not by force.</p>
 
-<p>Jim Rohn</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
