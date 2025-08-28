@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be of use to the world is the only way to be happy.</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
