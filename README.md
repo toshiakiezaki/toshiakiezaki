@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>Nelson Mandela</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
