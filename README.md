@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
 
-<p>Kahlil Gibran</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
