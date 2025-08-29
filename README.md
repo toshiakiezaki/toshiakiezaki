@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>Dalai Lama</p>
+<p>Robert Collier</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
