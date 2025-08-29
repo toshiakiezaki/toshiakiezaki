@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>Albert Einstein</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
