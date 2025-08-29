@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time goes from present to past.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>Shunryu Suzuki</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
