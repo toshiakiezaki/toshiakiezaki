@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>Bob Dylan</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
