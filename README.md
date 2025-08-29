@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>Colin Powell</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
