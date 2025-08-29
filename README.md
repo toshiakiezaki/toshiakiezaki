@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
-<p>Nikola Tesla</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
