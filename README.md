@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>Brian Tracy</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
