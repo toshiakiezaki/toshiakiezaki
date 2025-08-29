@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>Ralph Marston</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
