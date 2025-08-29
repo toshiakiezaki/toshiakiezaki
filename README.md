@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All power is from within and therefore under our control.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>Robert Collier</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
