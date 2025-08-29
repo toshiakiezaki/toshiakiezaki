@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Robin Williams</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
