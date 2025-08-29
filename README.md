@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fool sees himself as another, but a wise man sees others as himself.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>Dogen</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
