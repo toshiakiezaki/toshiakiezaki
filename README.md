@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A leader leads by example, not by force.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>Sun Tzu</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
