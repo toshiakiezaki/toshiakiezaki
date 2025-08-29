@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
 
-<p>Napoleon Hill</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
