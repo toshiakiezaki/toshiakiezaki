@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>Time goes from present to past.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
