@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>A leader leads by example, not by force.</p>
 
-<p>Robert Greene</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
