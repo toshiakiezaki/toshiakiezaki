@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>Failure is an option, fear is not.</p>
 
-<p>Confucius</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
