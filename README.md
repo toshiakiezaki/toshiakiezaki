@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>Celestine Chua</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
