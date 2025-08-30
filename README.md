@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living life in style also means living a life of balance.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>Jim Rohn</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
