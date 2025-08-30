@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>Benjamin Franklin</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
