@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of getting ahead is getting started.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>Mark Twain</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
