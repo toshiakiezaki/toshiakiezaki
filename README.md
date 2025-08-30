@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future is not a gift. It is an achievement.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
