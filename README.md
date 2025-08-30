@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>D. H. Lawrence</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
