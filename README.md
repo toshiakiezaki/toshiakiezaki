@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>To perceive is to suffer.</p>
 
 <p>Aristotle</p>
 <!-- dailyquote:end -->
