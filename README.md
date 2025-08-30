@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>Elon Musk</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
