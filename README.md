@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
 
-<p>Henry David Thoreau</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
