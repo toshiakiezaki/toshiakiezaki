@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To perceive is to suffer.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>Aristotle</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
