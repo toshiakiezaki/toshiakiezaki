@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>Herbert Hoover</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
