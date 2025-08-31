@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>The ones who are crazy enough to think they can change the world, are the ones that do.</p>
 
-<p>William James</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
