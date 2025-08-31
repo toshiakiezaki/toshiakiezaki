@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One small positive thought can change your whole day.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>Zig Ziglar</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
