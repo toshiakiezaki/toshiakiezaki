@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A loving heart is the truest wisdom.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>Charles Dickens</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
