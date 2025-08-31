@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
