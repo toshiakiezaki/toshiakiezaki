@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is changed by your example, not by your opinion.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>Paulo Coelho</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
