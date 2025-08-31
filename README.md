@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>Steve Jobs</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
