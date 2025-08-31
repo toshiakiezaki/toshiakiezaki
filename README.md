@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>You win more from losing than winning.</p>
 
-<p>Maxime Lagace</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
