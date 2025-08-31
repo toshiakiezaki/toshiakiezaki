@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Common sense is not so common. </p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
