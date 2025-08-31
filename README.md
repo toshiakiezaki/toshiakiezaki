@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>Mark Manson</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
