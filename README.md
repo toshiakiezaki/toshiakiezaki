@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>Eric Hoffer</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
