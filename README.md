@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>Albert Einstein</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
