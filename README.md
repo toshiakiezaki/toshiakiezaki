@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You win more from losing than winning.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>Morgan Wootten</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
