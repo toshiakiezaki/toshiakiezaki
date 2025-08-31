@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nature is pleased with simplicity. And nature is no dummy.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>Isaac Newton</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
