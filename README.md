@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Common sense is not so common. </p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>Voltaire</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
