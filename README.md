@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>Spencer Johnson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
