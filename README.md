@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>Robin Williams</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
