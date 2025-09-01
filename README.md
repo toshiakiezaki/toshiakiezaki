@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give so much away people insist on paying you.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>Jack Butcher</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
