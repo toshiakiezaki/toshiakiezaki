@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
 
-<p>Thomas Jefferson</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
