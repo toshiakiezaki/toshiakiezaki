@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>Unknown</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
