@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
 
-<p>Herodotus</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
