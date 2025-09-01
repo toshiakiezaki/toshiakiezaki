@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be polite to all, but intimate with few.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>Thomas Jefferson</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
