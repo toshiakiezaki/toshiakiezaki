@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
 
-<p>Celestine Chua</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
