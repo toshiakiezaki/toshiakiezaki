@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Receive without complaint, Work with fate.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>Ming-Dao Deng</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
