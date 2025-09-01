@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>George Bernard Shaw</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
