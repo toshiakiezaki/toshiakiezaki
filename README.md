@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Waste no more time arguing about what a good man should be. Be one.</p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>Marcus Aurelius</p>
+<p>Jack Kerouac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
