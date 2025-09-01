@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Few things are more deceptive than memories.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
