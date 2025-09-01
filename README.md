@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is within the reach of just about everyone.</p>
+<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
 
-<p>Lolly Daskal</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
