@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
