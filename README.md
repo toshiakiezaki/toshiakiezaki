@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only encounters in history. There are no accidents.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>Pablo Picasso</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
