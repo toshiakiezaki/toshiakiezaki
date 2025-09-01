@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>Eckhart Tolle</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
