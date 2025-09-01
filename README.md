@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Carol Burnett</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
