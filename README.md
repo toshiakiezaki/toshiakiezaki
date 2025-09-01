@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>Every day do something that will inch you closer to a better tomorrow.</p>
 
-<p>Harry S. Truman</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
