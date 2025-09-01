@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
 
-<p>Roy T. Bennett</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
