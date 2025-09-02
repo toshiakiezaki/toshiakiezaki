@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
+<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
 
-<p>Tony Robbins</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
