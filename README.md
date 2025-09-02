@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>Plato</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
