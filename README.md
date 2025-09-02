@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>Ayn Rand</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
