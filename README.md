@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>Wayne Gretzky</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
