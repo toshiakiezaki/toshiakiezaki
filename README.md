@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>I've always lived in the moment.</p>
 
-<p>Genghis Khan</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
