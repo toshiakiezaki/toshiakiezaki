@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The essence of the Way is detachment.</p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>Bodhidharma</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
