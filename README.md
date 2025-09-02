@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
-<p>Aristotle</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
