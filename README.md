@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most important things are the hardest to say.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>Stephen King</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
