@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not fear failure but rather fear not trying.</p>
+<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
 
-<p>Roy T. Bennett</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
