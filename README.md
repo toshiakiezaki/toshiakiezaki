@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
+<p>The only lost cause is one we give up on before we enter the struggle.</p>
 
-<p>Jack Kerouac</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
