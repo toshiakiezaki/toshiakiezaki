@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person is only by the thoughts that he chooses.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>James Allen</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
