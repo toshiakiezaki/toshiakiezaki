@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
 
-<p>Albert Einstein</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
