@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>Richard Bach</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
