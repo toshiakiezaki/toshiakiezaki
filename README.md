@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is far easier to start something than it is to finish it.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>Amelia Earhart</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
