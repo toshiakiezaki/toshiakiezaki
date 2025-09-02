@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace with your inner turmoil.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>Unknown</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
