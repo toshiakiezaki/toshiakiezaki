@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not all those who wander are lost.</p>
+<p>The most important things are the hardest to say.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
