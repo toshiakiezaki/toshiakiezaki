@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>Henry Ford</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
