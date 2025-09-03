@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great discovery was ever made without a bold guess. </p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>Isaac Newton</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
