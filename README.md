@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>Jim Rohn</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
