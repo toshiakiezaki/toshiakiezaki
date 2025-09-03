@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>Dan Millman</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
