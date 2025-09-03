@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>When one door closes another door opens. </p>
 
-<p>Soyen Shaku</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
