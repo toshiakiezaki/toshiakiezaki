@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>Chinese Proverb</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
