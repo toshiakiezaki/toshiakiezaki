@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>Billie Jean King</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
