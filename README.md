@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>Publilius Syrus</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
