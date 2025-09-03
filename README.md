@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>Lin Yutang</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
