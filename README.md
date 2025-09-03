@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
 
-<p>Jack Butcher</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
