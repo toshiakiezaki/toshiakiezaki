@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>Elbert Hubbard</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
