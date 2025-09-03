@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cease striving. Then there will be transformation.</p>
+<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
 
-<p>Zhuangzi</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
