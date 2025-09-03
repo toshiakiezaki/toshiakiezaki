@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Helen Keller</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
