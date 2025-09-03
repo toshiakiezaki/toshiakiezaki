@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
