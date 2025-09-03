@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can laugh, I can live.</p>
+<p>No great discovery was ever made without a bold guess. </p>
 
-<p>Christopher Reeve</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
