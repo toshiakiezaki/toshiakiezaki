@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never given a dream without also being given the power to make it true.</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>Richard Bach</p>
+<p>Soyen Shaku</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
