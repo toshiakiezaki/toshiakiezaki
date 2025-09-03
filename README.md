@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Forever is composed of now's.</p>
+<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
 
-<p>Emily Dickinson</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
