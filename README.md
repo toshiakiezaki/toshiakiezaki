@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>Tony Robbins</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
