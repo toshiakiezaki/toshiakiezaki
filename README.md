@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The pain of parting is nothing to the joy of meeting again.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>Charles Dickens</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
