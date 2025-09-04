@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
