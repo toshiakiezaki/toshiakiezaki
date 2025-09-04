@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>Ray Bradbury</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
