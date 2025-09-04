@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>Epictetus</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
