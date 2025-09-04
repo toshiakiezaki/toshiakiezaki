@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Naval Ravikant</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
