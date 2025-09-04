@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>Sun Tzu</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
