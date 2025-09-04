@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>Peter Drucker</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
