@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.</p>
 
-<p>Betty White</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
