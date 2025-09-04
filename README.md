@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>It's not what you've got; it's what you do that makes the difference.</p>
 
-<p>Bob Proctor</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
