@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never trust he who trusts everyone.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
