@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We run to win, not just to be in the race.  </p>
+<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
 
-<p>Vince Lombardi</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
