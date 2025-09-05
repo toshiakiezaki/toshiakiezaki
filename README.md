@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Eckhart Tolle</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
