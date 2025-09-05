@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>Richard Bach</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
