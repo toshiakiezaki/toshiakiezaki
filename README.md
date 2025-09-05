@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
 
-<p>Lolly Daskal</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
