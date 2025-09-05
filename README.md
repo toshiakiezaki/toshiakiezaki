@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
+<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
 
-<p>Kahlil Gibran</p>
+<p>Benjamin Mays</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
