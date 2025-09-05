@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
 
-<p>Jim Rohn</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
