@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more truly artistic than to love people.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>Vincent van Gogh</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
