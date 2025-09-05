@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>Shunryu Suzuki</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
