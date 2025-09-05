@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I dream my painting and I paint my dream.</p>
+<p>If you have only one smile in you give it to the people you love.</p>
 
-<p>Vincent van Gogh</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
