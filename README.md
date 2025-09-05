@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>Socrates</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
