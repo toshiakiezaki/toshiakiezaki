@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
 <p>Jim Rohn</p>
 <!-- dailyquote:end -->
