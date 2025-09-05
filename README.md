@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
