@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where words fail, music speaks.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
