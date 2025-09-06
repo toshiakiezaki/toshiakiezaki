@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is done in the world is done by hope.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>Martin Luther</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
