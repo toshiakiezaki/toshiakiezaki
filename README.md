@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>Epictetus</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
