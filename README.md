@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men do not attract which they want but that which they are.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>James Allen</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
