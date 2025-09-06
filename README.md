@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>Roy T. Bennett</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
