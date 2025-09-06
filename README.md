@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I will not walk backward in life.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
