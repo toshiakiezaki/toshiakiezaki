@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wish it were easier, wish you were better.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>Jim Rohn</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
