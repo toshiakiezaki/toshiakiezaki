@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>Jiddu Krishnamurti</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
