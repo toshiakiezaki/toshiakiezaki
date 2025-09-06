@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>Steve Maraboli</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
