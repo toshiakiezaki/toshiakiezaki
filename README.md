@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>Roy T. Bennett</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
