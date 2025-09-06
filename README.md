@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
