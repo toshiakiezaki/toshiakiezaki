@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>Martin Luther</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
