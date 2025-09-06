@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You make your own luck if you stay at it long enough.</p>
+<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
 
-<p>Naval Ravikant</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
