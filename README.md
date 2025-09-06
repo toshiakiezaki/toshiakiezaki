@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The destiny of man is in his own soul. </p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>Herodotus</p>
+<p>John Carmack</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
