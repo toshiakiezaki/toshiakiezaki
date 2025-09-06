@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We run to win, not just to be in the race.  </p>
+<p>I will not walk backward in life.</p>
 
-<p>Vince Lombardi</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
