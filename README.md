@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Roy T. Bennett</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
