@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>Dan Millman</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
