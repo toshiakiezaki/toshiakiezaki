@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
 <p>Yanni</p>
 <!-- dailyquote:end -->
