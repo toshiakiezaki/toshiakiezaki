@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>Norman Vincent Peale</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
