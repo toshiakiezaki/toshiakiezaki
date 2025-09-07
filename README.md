@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>Sigmund Freud</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
