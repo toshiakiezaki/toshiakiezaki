@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>Steve Harvey</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
