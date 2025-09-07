@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>Aristotle</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
