@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Only Thing That Is Constant Is Change</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>Heraclitus</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
