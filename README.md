@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
 
-<p>Gustave Flaubert</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
