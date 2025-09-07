@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>Harry S. Truman</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
