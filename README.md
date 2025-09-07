@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
 
-<p>Mark Twain</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
