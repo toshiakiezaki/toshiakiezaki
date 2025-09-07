@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way out is in.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
