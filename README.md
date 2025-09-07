@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>Og Mandino</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
