@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Reality is nothing but a collective hunch.</p>
+<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
 
-<p>Lily Tomlin</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
