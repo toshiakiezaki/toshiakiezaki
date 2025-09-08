@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wit is educated insolence.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>Aristotle</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
