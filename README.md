@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A crisis is an opportunity riding the dangerous wind.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>Chinese Proverb</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
