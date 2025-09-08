@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>Og Mandino</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
