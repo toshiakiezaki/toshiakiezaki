@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stumble over something that's behind you.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>Steve Harvey</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
