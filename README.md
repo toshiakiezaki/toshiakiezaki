@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
+<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
