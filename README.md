@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>Theodore Roosevelt</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
