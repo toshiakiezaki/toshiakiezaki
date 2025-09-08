@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>Roy T. Bennett</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
