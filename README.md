@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>Norman Vincent Peale</p>
+<p>Charles Swindoll</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
