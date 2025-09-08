@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When your intuition is strong, follow it.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>Lolly Daskal</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
