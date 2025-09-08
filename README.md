@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
