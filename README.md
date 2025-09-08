@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>Wit is educated insolence.</p>
 
-<p>Anne Frank</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
