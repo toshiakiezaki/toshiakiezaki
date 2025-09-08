@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Faults are yours to fix, not to curse.</p>
 
-<p>Henry David Thoreau</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
