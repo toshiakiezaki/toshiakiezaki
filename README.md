@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
