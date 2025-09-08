@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>Emily Dickinson</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
