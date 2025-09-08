@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faults are yours to fix, not to curse.</p>
+<p>All men are equal before fish.</p>
 
-<p>Colin Powell</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
