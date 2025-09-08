@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Wayne Dyer</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
