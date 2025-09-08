@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>Charles Swindoll</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
