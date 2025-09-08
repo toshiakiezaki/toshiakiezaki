@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every day is an opportunity to a make a new happy ending.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>Jonathan Swift</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
