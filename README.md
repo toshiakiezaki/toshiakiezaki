@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>Kamal Ravikant</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
