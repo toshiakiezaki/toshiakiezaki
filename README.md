@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see yourself as prosperous, you will be.</p>
+<p>Every moment is a fresh beginning.</p>
 
-<p>Robert Collier</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
