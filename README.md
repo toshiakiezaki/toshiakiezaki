@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Celestine Chua</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
