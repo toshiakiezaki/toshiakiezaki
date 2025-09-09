@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>Henry David Thoreau</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
