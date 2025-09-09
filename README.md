@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To love means loving the unlovable.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
