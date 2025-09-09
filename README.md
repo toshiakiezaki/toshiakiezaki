@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Kabir</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
