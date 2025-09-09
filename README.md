@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Dan Millman</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
