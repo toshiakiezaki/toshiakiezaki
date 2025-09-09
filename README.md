@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
 
-<p>Colin Powell</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
