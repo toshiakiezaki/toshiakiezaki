@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>Celestine Chua</p>
+<p>Gilbert Chesterton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
