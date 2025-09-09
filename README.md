@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
