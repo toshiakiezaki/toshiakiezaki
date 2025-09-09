@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
