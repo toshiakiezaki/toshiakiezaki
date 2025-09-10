@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>Eric Hoffer</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
