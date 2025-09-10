@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to live until you die.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>Dan Millman</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
