@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>Better to live until you die.</p>
 
-<p>Tony Robbins</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
