@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A golden cage is still just a cage.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>Anita Krizzan</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
