@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>Dan Millman</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
