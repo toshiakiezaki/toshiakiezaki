@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Audrey Hepburn</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
