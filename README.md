@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>Zen Proverb</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
