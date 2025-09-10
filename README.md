@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
