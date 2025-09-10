@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>George Bernard Shaw</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
