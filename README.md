@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>Pablo Picasso</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
