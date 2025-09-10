@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
 
-<p>Joan Rivers</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
