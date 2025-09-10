@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the middle of difficulty lies opportunity.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>Albert Einstein</p>
+<p>Peter A. Cohen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
