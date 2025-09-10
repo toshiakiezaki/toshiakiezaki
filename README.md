@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Jonathan Swift</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
