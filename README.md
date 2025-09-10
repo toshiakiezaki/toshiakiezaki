@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>Eric Hoffer</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
