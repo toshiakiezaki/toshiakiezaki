@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>Peter A. Cohen</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
