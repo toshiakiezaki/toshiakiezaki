@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>Maxime Lagace</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
