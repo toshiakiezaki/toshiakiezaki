@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>Pablo Picasso</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
