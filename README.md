@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>Still your waters.</p>
 
-<p>Ralph Marston</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
