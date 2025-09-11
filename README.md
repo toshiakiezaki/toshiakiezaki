@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>Joan Rivers</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
