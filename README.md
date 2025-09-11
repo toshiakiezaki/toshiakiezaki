@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I admire those who do good and expect nothing in return.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>Roy T. Bennett</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
