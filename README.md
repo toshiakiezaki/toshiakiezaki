@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope is a waking dream.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Aristotle</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
