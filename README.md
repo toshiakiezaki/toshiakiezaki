@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>Vince Lombardi</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
