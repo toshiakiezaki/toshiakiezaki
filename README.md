@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>Euripides</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
