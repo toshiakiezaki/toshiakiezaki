@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your setback is just a setup for a comeback.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>Steve Harvey</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
