@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>You become stronger with every problem you face and every obstacle you overcome.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
