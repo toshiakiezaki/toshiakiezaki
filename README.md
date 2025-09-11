@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is the price that life exacts for granting peace.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>Amelia Earhart</p>
+<p>Joan Rivers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
