@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>Bhagavad Gita</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
