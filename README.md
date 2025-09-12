@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stumble over something that's behind you.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Steve Harvey</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
