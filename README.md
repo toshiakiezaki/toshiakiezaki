@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day provides it's own gifts.</p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>Marcus Aurelius</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
