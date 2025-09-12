@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>Brian Tracy</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
