@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>Unknown</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
