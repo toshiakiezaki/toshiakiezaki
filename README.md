@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>Amelia Earhart</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
