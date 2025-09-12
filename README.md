@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>Martin Luther</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
