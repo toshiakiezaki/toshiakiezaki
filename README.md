@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no truth. There is only perception.</p>
+<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-<p>Gustave Flaubert</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
