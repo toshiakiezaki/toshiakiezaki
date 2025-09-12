@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
