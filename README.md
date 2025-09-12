@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is never too late to be what you might have been.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>George Eliot</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
