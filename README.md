@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>Roy T. Bennett</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
