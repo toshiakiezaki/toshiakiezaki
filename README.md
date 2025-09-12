@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you resist, persists.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>Carl Jung</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
