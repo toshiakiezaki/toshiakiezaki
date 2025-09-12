@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>Audrey Hepburn</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
