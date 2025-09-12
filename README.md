@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>Eric Hoffer</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
