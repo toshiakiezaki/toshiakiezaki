@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your past does not equal your future.</p>
+<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
 
-<p>Tony Robbins</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
