@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>It's just a bad day, not a bad life.</p>
 
-<p>Plato</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
