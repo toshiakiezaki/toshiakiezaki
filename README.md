@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Know the rules well, so you can break them effectively.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>Dalai Lama</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
