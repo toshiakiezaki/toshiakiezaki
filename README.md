@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's just a bad day, not a bad life.</p>
+<p>Live your life and forget your age.</p>
 
-<p>Mary Engelbreit</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
