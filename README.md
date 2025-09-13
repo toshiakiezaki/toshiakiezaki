@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>Josh Waitzkin</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
