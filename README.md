@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>Mary Engelbreit</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
