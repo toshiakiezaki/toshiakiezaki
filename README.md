@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
