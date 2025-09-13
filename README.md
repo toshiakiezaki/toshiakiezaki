@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live your life and forget your age.</p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
