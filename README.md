@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men trust their ears less than their eyes.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>Herodotus</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
