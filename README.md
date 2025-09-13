@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>Mark Manson</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
