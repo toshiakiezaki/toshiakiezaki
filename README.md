@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
