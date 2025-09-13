@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>Criss Jami</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
