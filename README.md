@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>Pablo Picasso</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
