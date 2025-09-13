@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>A fall into a ditch makes you wiser.</p>
 
-<p>Mark Manson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
