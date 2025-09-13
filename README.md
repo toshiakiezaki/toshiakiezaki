@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must cultivate our garden. </p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>Voltaire</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
