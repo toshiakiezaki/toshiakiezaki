@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>Henry Ford</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
