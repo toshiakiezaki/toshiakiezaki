@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
 
-<p>Lolly Daskal</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
