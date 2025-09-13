@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>We must cultivate our garden. </p>
 
-<p>Christopher McCandless</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
