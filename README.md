@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the love you make. It's the love you give. </p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>Nikola Tesla</p>
+<p>Hans Christian Andersen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
