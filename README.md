@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>Mark Manson</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
