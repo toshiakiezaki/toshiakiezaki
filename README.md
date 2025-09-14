@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We need a backbone, not a wishbone.</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Joyce Meyer</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
