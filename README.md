@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
