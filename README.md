@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>Aristotle</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
