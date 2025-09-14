@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be of use to the world is the only way to be happy.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>Hans Christian Andersen</p>
+<p>Franklin D. Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
