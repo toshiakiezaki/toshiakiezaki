@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
 
-<p>Grace Coddington</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
