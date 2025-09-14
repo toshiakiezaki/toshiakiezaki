@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Grace Coddington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
