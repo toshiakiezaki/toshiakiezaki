@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way out is in.</p>
+<p>Absence makes the heart grow fonder.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
