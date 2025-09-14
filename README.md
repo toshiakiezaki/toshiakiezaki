@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>Brian Tracy</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
