@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>William James</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
