@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>Epictetus</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
