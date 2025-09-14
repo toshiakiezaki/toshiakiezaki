@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>Dan Millman</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
