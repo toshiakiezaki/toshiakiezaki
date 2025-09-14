@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absence makes the heart grow fonder.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
