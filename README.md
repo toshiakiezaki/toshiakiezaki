@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>John Wooden</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
