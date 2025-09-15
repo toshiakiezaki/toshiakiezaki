@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>Marcus Aurelius</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
