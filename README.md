@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Make failure your teacher, not your undertaker.  </p>
 
-<p>Og Mandino</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
