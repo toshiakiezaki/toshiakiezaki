@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>Be yourself; everyone else is already taken </p>
 
-<p>Osho</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
