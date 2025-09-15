@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Make failure your teacher, not your undertaker.  </p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>Zig Ziglar</p>
+<p>Dr. Seuss</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
