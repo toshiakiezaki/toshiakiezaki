@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Give so much away people insist on paying you.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>Jack Butcher</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
