@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
 
-<p>Alexander Pope</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
