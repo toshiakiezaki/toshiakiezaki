@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To the world you may be one person; but to one person you may be the world.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>Dr. Seuss</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
