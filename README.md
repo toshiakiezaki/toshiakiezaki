@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The past has no power over the present moment. </p>
+<p>Discipline yourself, and others won't need to.</p>
 
-<p>Eckhart Tolle</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
