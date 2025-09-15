@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline yourself, and others won't need to.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>John Wooden</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
