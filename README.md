@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be yourself; everyone else is already taken </p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>Oscar Wilde</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
