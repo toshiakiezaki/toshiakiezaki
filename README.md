@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>Steve Harvey</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
