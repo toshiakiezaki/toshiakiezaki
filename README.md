@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
 
-<p>Dan Millman</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
