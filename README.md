@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when I fall do I get up again.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>Vincent van Gogh</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
