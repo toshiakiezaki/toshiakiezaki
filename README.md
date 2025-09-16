@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>Elvis Presley</p>
+<p>Meister Eckhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
