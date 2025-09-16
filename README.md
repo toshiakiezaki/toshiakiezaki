@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
 
-<p>Vidal Sassoon</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
