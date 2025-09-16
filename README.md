@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>Estee Lauder</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
