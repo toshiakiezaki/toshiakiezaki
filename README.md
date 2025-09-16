@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>Mark Twain</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
