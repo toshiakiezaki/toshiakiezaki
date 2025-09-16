@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is in the darkness that one finds the light.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>Meister Eckhart</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
