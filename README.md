@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The Art of Peace begins with you.</p>
+<p>There is no path to Happiness. Happiness is the path.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
