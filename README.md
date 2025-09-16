@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
