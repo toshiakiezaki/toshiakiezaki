@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools resist. The wise embrace.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>Maxime Lagace</p>
+<p>Bob Proctor</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
