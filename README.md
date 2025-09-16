@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are only encounters in history. There are no accidents.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>Pablo Picasso</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
