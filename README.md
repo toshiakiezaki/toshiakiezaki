@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Epictetus</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
