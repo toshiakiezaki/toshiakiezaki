@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>Ming-Dao Deng</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
