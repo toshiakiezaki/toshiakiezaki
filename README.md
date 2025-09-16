@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>Ronald Reagan</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
