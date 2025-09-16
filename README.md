@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>Bob Proctor</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
