@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
 
-<p>Celestine Chua</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
