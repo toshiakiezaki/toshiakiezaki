@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>W. Clement Stone</p>
+<p>Stephen Hawking</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
