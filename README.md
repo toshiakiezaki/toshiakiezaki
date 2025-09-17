@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>Lolly Daskal</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
