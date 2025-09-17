@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisest men follow their own direction.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>Euripides</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
