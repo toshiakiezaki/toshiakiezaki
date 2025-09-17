@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>Chinese Proverb</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
