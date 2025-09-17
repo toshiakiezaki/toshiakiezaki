@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>Tony Robbins</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
