@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>James Allen</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
