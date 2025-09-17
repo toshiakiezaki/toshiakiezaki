@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>Emily Dickinson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
