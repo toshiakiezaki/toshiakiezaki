@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>Jack London</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
