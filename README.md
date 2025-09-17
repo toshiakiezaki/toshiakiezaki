@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
+<p>Excellence is not an exception, it is a prevailing attitude.</p>
 
-<p>Bhagavad Gita</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
