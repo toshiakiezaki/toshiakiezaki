@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One must be poor to know the luxury of giving.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>George Eliot</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
