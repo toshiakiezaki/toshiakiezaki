@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>Colin Powell</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
