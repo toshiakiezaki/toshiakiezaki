@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Alone we can do so little; together we can do so much.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>Helen Keller</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
