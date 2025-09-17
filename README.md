@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes things become possible if we want them bad enough.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>T.S. Eliot</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
