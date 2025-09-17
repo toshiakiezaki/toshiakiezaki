@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>Benjamin Franklin</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
