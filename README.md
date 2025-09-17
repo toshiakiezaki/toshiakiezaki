@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
