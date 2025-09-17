@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>The question is not what you look at, but what you see.</p>
 
-<p>Lao Tzu</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
