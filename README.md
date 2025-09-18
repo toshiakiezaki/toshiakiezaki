@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>Leo Tolstoy</p>
+<p>Gabor Mate</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
