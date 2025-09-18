@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To become what you are not, behave as you do not.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>T.S. Eliot</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
