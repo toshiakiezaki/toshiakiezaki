@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Rumi</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
