@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>Chinese Proverb</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
