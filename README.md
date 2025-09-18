@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>Roy T. Bennett</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
