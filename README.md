@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not why the addiction but why the pain.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>Gabor Mate</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
