@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>Naval Ravikant</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
