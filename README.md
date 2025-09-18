@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>Euripides</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
