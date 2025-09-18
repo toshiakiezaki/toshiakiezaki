@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>Dudley Field Malone</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
