@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only the educated are free.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>Epictetus</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
