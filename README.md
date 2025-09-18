@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>Naval Ravikant</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
