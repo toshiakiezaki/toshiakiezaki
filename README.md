@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To love means loving the unlovable.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
