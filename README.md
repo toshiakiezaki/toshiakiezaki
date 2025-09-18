@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
+<p>Only the educated are free.</p>
 
-<p>Judy Garland</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
