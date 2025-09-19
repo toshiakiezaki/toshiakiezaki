@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>Samuel Butler</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
