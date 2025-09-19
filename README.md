@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Alexander Pope</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
