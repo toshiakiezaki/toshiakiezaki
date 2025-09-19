@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one has ever become poor by giving.</p>
+<p>Whatever satisfies the soul is truth.</p>
 
-<p>Anne Frank</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
