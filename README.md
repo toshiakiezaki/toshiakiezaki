@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Adi Da Samraj</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
