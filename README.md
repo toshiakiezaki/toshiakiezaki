@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>Unknown</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
