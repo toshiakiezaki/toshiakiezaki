@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>Unknown</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
