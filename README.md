@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>Epictetus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
