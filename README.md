@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
 
-<p>Steve Harvey</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
