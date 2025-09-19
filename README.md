@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
 
-<p>Naval Ravikant</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
