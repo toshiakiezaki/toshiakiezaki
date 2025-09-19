@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>The health of nations is more important than the wealth of nations.</p>
 
-<p>Robert F. Kennedy</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
