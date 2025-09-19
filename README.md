@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>Beverly Sills</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
