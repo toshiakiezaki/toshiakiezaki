@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever satisfies the soul is truth.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>Walt Whitman</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
