@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When I let go of what I am, I become what I might be.</p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>Lao Tzu</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
