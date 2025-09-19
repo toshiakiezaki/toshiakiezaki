@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>Alexandre Dumas</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
