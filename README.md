@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our view of the world is truly shaped by what we decide to hear.</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>William James</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
