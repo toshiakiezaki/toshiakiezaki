@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>Kamal Ravikant</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
