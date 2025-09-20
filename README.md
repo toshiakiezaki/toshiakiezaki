@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>The real meditation is how you live your life.</p>
 
-<p>Lao Tzu</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
