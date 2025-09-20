@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>Niccolo Machiavelli</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
