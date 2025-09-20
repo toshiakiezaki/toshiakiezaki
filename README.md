@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>The only lost cause is one we give up on before we enter the struggle.</p>
 
-<p>Robert Greene</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
