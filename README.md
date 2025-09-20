@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</p>
+<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
