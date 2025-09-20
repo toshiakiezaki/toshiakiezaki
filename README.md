@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>Andrew Carnegie</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
