@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real meditation is how you live your life.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
