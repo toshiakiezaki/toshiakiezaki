@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>Rumi</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
