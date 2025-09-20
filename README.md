@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've made a mistake, it's better just to laugh at it.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>Zen Proverb</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
