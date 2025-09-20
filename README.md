@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By perseverance the snail reached the ark.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>Charles Spurgeon</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
