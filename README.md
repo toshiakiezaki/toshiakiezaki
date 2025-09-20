@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your very silence shows you agree.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>Euripides</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
