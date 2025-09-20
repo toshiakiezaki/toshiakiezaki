@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>Charles Dickens</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
