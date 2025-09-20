@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
