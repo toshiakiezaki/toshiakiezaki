@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>Voltaire</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
