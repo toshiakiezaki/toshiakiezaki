@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>Wayne Dyer</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
