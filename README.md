@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To become what you are not, behave as you do not.</p>
+<p>Who you are is always right.</p>
 
-<p>T.S. Eliot</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
