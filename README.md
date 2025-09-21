@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can pay the bills, I'm happy.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>Morgan Wootten</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
