@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
 
-<p>Tony Robbins</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
