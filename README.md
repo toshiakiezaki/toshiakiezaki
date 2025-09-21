@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>James Allen</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
