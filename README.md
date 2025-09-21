@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
 
-<p>Steve Harvey</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
