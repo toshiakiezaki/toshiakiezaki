@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
 
-<p>Eric Hoffer</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
