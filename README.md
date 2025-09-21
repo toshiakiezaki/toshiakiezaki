@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never given a dream without also being given the power to make it true.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>Richard Bach</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
