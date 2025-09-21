@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only time you run out of chances is when you stop taking them.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>Unknown</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
