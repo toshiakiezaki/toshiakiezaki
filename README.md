@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>Steve Harvey</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
