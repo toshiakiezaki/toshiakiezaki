@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
 
-<p>Dogen</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
