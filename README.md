@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>If I can pay the bills, I'm happy.</p>
 
-<p>Roy T. Bennett</p>
+<p>Morgan Wootten</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
