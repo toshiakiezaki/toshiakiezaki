@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Quality means doing it right when no one is looking.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>Henry Ford</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
