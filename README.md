@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>David Brinkley</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
