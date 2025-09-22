@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
+<p>Where focus goes, energy flows.</p>
 
-<p>Bob Marley</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
