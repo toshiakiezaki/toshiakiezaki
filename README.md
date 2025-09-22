@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>Margaret Mead</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
