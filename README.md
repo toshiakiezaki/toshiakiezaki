@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>Les Brown</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
