@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never spend your money before you have earned it.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>Thomas Jefferson</p>
+<p>Will Rogers</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
