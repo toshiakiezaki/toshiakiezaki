@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who know, do. Those that understand, teach.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>Aristotle</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
