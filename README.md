@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is an option, fear is not.</p>
+<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
 
-<p>James Cameron</p>
+<p>David Brinkley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
