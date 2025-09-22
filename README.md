@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>Jim Rohn</p>
+<p>Paramahansa Yogananda</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
