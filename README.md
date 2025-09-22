@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>Will Rogers</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
