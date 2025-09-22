@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>The only lost cause is one we give up on before we enter the struggle.</p>
 
-<p>John Lennon</p>
+<p>Vaclav Havel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
