@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little progress each day adds up to big results.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>Unknown</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
