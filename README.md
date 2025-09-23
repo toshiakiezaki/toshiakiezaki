@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
