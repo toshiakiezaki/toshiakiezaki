@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
 
-<p>Peter Drucker</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
