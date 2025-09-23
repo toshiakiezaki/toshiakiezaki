@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
