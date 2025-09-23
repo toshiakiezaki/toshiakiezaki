@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person who does not read is no better than one cannot read.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>Earl Nightingale</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
