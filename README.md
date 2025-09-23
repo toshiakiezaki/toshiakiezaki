@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Vision is the art of seeing things invisible.</p>
+<p>Never argue with ignorance. It only leads to frustration.</p>
 
-<p>Jonathan Swift</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
