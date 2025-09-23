@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Bob Dylan</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
