@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise man reads both books and life itself.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>Lin Yutang</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
