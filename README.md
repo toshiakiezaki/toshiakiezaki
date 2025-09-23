@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One never does wrong by doing right.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
