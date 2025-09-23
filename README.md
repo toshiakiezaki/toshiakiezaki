@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're on earth. There's no cure for that.</p>
+<p>One never does wrong by doing right.</p>
 
-<p>Samuel Beckett</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
