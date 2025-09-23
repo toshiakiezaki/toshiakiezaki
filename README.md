@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Thinking will not overcome fear but action will. </p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>W. Clement Stone</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
