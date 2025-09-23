@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
 <p>Beverly Sills</p>
 <!-- dailyquote:end -->
