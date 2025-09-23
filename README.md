@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
 
-<p>Winston Churchill</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
