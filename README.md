@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future depends on what you do today. </p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
