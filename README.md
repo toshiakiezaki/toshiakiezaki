@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>Lolly Daskal</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
