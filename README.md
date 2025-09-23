@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By changing nothing, nothing changes.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>Celestine Chua</p>
+<p>Samuel Beckett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
