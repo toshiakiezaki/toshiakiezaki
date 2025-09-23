@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>Sun Tzu</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
