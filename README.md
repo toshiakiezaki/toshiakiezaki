@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>The time is always right to do what is right.</p>
 
-<p>Bruce Lee</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
