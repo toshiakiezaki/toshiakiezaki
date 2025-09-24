@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I defeat my enemies when I make them my friends.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>Dalai Lama</p>
+<p>Martin Luther</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
