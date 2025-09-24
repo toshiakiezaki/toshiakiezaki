@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>Eric Hoffer</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
