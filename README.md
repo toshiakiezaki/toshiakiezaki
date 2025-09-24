@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Gilbert Chesterton</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
