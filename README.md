@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>Elon Musk</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
