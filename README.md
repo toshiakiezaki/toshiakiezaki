@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>Martin Luther</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
