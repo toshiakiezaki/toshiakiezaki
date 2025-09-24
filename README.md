@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True prayer has no set form.</p>
+<p>Be where your enemy is not.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
