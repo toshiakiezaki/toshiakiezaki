@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want more luck, take more chances.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>Brian Tracy</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
