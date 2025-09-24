@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>Tension is who you think you should be. Relaxation is who you are.</p>
 
-<p>Sigmund Freud</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
