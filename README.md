@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
+<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
 
-<p>Joan Rivers</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
