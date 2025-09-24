@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
 
-<p>Richard Bach</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
