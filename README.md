@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The time is always right to do what is right.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
