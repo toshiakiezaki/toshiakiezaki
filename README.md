@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Without the confidence, nothing can be accomplished.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
