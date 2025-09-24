@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freeing oneself from words is liberation. </p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>Bodhidharma</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
