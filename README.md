@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes adversity is what you need to face in order to become successful.</p>
+<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
 
-<p>Zig Ziglar</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
