@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>Henry David Thoreau</p>
+<p>Toni Morrison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
