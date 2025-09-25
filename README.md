@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In order to be irreplaceable one must always be different.</p>
+<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
 
-<p>Coco Chanel</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
