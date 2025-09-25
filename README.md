@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is one long process of getting tired.</p>
+<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
 
-<p>Samuel Butler</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
