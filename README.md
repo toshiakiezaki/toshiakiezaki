@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A clear conscience never fears midnight knocking.</p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>Chinese Proverb</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
