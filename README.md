@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>Bhagavad Gita</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
