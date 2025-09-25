@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>Christopher Reeve</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
