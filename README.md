@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Correct what you can. Learn from what you can't.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>Toni Morrison</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
