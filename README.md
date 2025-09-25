@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>Jack London</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
