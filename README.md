@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>Barack Obama</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
