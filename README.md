@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>Spencer Johnson</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
