@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>Colin Powell</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
