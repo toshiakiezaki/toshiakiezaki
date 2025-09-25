@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The past has no power over the present moment. </p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>Eckhart Tolle</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
