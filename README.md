@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>Barack Obama</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
