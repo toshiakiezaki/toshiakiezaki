@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>Benjamin Franklin</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
