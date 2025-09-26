@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no sadder sight than a young pessimist.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>Mark Twain</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
