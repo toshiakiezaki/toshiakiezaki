@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Confidence is what you have before you understand the problem.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>Woody Allen</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
