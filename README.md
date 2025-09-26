@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>James Allen</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
