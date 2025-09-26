@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>Roy T. Bennett</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
