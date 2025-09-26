@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>Winners are not people who never fail, but people who never quit.</p>
 
-<p>Og Mandino</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
