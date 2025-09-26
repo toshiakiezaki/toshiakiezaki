@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>Aristophanes</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
