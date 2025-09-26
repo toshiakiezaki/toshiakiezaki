@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>Wayne Dyer</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
