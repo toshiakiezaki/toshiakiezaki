@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>Bob Marley</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
