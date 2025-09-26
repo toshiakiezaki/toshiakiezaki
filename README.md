@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I learned the value of hard work by working hard. </p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>Margaret Mead</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
