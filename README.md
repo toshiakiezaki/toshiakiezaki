@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>Man's character is his fate.</p>
 
-<p>Robin Williams</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
