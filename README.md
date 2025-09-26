@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great deeds are usually wrought at great risks.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>Herodotus</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
