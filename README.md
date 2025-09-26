@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we know how to adapt, we end up being superior.</p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
