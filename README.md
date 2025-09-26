@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>Winston Churchill</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
