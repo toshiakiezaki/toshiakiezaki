@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What people need and what they want may be very different.</p>
+<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
 
-<p>Elbert Hubbard</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
