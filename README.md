@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Charles Spurgeon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
