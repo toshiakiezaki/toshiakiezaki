@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>Aristotle</p>
+<p>Abraham Lincoln</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
