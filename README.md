@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
 
-<p>Robin Sharma</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
