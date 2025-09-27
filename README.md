@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
 
-<p>Abraham Lincoln</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
