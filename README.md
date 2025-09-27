@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>Bruce Lee</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
