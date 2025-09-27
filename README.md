@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>Tony Robbins</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
