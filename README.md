@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>Zen Proverb</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
