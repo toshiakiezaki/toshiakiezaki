@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>Andrew Carnegie</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
