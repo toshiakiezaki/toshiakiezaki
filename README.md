@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>Will Rogers</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
