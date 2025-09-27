@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great acts are made up of small deeds.</p>
+<p>Discontent is the first necessity of progress.</p>
 
-<p>Lao Tzu</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
