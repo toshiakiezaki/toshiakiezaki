@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>Voltaire</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
