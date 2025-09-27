@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When something is important enough, you do it even if the odds are not in your favor.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>Elon Musk</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
