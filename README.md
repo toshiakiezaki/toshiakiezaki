@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Cease striving. Then there will be transformation.</p>
+<p>What people need and what they want may be very different.</p>
 
-<p>Zhuangzi</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
