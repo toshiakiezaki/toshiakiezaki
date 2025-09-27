@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>Isaac Newton</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
