@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you stop questioning, you stop learning.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>Lolly Daskal</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
