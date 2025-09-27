@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>Samuel Butler</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
