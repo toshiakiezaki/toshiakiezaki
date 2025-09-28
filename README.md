@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>Anything you may hold firmly in your imagination can be yours.</p>
 
-<p>Mary Engelbreit</p>
+<p>William James</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
