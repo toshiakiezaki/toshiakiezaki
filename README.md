@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>Winston Churchill</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
