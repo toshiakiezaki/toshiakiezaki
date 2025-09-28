@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I persist long enough I will win.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>Og Mandino</p>
+<p>Anita Krizzan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
