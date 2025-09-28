@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>Robin Sharma</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
