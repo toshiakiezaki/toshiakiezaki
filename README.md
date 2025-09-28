@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>Lin Yutang</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
