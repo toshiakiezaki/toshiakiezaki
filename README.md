@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A golden cage is still just a cage.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>Anita Krizzan</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
