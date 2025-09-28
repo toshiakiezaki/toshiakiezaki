@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can have results or excuses, but not both.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
