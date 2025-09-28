@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The more I want to get something done, the less I call it work.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>Richard Bach</p>
+<p>Charlie Chaplin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
