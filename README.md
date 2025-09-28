@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>Henry Ford</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
