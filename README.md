@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
+<p>I've always lived in the moment.</p>
 
-<p>Socrates</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
