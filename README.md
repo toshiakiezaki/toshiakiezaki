@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Stop being a prisoner of your past. Become the architect of your future.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
