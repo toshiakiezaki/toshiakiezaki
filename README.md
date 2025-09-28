@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For all evils there are two remedies - time and silence.</p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>Alexandre Dumas</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
