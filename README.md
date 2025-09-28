@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Being wrong brings the opportunity for growth.</p>
+<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
 
-<p>Mark Manson</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
