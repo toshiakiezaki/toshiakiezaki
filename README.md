@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We become brave by doing brave acts.</p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>Aristotle</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
