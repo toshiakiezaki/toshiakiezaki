@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only way to 'find out if it will work out' is to do it.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>Simon Sinek</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
