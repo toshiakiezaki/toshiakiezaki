@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>Ayn Rand</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
