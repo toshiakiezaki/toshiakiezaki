@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
+<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
 
-<p>Gustave Flaubert</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
