@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Maya Angelou</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
