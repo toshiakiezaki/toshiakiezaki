@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>Albert Einstein</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
