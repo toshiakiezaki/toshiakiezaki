@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>Jack Butcher</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
