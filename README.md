@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
