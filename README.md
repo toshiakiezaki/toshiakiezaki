@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>Carl Jung</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
