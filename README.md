@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Gustave Flaubert</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
