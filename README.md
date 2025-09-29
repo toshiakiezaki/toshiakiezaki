@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your success and happiness lie in you.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>Helen Keller</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
