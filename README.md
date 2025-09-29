@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>Jeffrey Gitomer</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
