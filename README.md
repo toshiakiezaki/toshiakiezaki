@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>Lao Tzu</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
