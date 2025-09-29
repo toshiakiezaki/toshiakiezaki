@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The essence of the Way is detachment.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>Bodhidharma</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
