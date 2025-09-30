@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>Criss Jami</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
