@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>True love stories never have endings.</p>
 
-<p>Albus Dumbledore</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
