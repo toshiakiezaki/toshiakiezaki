@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>What you seek is seeking you.</p>
 
-<p>Dalai Lama</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
