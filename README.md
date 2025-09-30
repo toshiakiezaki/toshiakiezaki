@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>Genius is patience.</p>
 
-<p>Earl Nightingale</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
