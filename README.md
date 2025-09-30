@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All wealth is the product of labor.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>John Locke</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
