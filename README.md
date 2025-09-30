@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big. Start small. But most of all, start.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>Simon Sinek</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
