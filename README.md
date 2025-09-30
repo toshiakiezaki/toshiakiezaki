@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>George Bernard Shaw</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
