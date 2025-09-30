@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>Eric Hoffer</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
