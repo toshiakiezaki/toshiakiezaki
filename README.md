@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is little success where there is little laughter.</p>
+<p>The most important things are the hardest to say.</p>
 
-<p>Andrew Carnegie</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
