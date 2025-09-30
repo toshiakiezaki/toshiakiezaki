@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>Jim Rohn</p>
+<p>St. Jerome</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
