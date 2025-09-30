@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>Euripides</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
