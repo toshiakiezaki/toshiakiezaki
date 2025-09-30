@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>Elvis Presley</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
