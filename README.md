@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
 
-<p>Robin Sharma</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
