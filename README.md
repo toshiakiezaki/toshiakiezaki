@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men trust their ears less than their eyes.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>Herodotus</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
