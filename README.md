@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
 
-<p>Criss Jami</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
