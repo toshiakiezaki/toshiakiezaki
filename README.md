@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>Celestine Chua</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
