@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True love stories never have endings.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>Richard Bach</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
