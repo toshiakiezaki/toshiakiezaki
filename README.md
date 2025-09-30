@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>Steve Maraboli</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
