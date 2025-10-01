@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live simply, expect little, give much.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
