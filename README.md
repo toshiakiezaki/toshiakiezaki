@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
 
-<p>Kahlil Gibran</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
