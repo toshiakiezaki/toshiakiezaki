@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To find yourself, think for yourself.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>Socrates</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
