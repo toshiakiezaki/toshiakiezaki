@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>People who avoid failure also avoid success.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
