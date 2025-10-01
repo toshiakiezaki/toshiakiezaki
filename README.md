@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't settle, and don't struggle.</p>
+<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
 
-<p>Naval Ravikant</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
