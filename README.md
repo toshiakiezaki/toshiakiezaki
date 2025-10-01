@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Relax. Nothing is under control.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>Adi Da Samraj</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
