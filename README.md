@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The impossible can always be broken down into possibilities.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>Unknown</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
