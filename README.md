@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>Joan Rivers</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
