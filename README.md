@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one has ever become poor by giving.</p>
+<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
 
-<p>Anne Frank</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
