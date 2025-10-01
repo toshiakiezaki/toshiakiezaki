@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.</p>
 
-<p>John D. Rockefeller</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
