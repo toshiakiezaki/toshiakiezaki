@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People who avoid failure also avoid success.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>Robert Kiyosaki</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
