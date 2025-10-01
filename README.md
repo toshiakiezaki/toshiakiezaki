@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>To find yourself, think for yourself.</p>
 
-<p>Criss Jami</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
