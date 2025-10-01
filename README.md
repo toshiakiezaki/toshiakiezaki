@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>Ralph Marston</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
