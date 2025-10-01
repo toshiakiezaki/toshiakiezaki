@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>Woody Allen</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
