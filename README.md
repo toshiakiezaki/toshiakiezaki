@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>Oscar Wilde</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
