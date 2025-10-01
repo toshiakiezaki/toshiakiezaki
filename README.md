@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is peace even in the storm.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>Vincent van Gogh</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
