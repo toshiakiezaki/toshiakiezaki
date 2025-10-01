@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>Ralph Marston</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
