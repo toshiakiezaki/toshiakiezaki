@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>Lolly Daskal</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
