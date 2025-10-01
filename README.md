@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
