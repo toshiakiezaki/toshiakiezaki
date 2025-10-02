@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
-<p>Paulo Coelho</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
