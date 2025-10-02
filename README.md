@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>Darkness is the absence of light.</p>
 
-<p>Brian Tracy</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
