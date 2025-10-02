@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Darkness is the absence of light.</p>
+<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
 
 <p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
