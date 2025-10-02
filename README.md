@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>Socrates</p>
+<p>Christopher McCandless</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
