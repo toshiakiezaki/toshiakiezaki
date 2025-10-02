@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>Les Brown</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
