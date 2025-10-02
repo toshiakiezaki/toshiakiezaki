@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the change that you want to see in the world.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
