@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>Richard Bach</p>
+<p>Walt Disney</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
