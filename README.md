@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>Robin Williams</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
