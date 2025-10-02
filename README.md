@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>Mother Teresa</p>
+<p>Conrad Hilton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
