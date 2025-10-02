@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>Marcus Aurelius</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
