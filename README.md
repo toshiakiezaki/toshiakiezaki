@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
