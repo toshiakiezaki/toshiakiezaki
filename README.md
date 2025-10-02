@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>Brian Tracy</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
