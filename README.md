@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conflict cannot survive without your participation. </p>
+<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
 
-<p>Wayne Dyer</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
