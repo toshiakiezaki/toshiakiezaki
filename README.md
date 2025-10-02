@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life's too mysterious to take too serious.</p>
+<p>What you resist, persists.</p>
 
-<p>Mary Engelbreit</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
