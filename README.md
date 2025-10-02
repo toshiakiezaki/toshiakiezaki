@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>Walt Disney</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
