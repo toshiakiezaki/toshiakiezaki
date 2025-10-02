@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
+<p>Conflict cannot survive without your participation. </p>
 
-<p>Kamal Ravikant</p>
+<p>Wayne Dyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
