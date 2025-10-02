@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>Mark Twain</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
