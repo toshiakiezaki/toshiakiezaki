@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>Life's too mysterious to take too serious.</p>
 
-<p>Barack Obama</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
