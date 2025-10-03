@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you chase two rabbits, you catch none.</p>
+<p>A man is literally what he thinks.</p>
 
-<p>Confucius</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
