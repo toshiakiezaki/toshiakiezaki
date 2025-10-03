@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>Unknown</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
