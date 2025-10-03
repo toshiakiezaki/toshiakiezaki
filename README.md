@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>Roy T. Bennett</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
