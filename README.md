@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
 
-<p>George Bernard Shaw</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
