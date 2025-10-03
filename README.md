@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>All know the way; few actually walk it. </p>
 
-<p>Winston Churchill</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
