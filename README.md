@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is literally what he thinks.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>James Allen</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
