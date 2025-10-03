@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We all give up great expectations along the way.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
