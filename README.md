@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All know the way; few actually walk it. </p>
+<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
 
-<p>Bodhidharma</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
