@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe you can and you're halfway there.</p>
+<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Winston Churchill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
