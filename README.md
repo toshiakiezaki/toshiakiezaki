@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
 
-<p>Henry David Thoreau</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
