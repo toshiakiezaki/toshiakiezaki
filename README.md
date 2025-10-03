@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either you run the day or the day runs you.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>Jim Rohn</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
