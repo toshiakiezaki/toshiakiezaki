@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one returns from a long journey the same person they were before.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>Zen Proverb</p>
+<p>Alexander Graham Bell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
