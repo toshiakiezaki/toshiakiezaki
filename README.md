@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>Herbert Hoover</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
