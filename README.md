@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either get busy living or get busy dying.</p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>Stephen King</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
