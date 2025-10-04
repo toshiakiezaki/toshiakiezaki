@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>The meaning of life is that it stops.</p>
 
-<p>Eric Hoffer</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
