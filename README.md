@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everyday is a second chance.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>Unknown</p>
+<p>Oscar Wilde</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
