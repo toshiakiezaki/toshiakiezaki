@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>Buddha</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
