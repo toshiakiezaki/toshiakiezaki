@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothes thoughts wear.</p>
+<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
 
-<p>Samuel Beckett</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
