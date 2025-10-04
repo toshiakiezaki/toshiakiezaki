@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The meaning of life is that it stops.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>Franz Kafka</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
