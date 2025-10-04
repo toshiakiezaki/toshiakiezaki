@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>The sweetest pleasure arises from difficulties overcome.</p>
 
-<p>Tony Robbins</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
