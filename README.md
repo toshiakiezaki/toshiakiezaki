@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>T.S. Eliot</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
