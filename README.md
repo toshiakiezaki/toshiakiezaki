@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do one thing every day that scares you.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
