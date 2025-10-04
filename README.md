@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>Euripides</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
