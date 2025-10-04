@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>Albert Einstein</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
