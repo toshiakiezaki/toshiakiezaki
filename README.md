@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only thing new in the world is the history you do not know.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>Harry S. Truman</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
