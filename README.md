@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>Emily Dickinson</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
