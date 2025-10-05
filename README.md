@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
 
-<p>Audrey Hepburn</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
