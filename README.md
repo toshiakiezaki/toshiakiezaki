@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>Shunryu Suzuki</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
