@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>Eric Hoffer</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
