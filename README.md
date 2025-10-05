@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>Criss Jami</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
