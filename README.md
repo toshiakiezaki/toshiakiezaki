@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>Amelia Earhart</p>
+<p>Eric Hoffer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
