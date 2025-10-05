@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For fast-acting relief try slowing down.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>Lily Tomlin</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
