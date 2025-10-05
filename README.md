@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>Zen Proverb</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
