@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Either write something worth reading or do something worth writing.</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>Benjamin Franklin</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
