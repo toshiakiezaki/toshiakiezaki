@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>Unknown</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
