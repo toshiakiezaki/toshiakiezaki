@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>Lao Tzu</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
