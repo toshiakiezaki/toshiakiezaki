@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>Thomas Edison</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
