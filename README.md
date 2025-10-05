@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where there is anger, there is always pain underneath.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>Eckhart Tolle</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
