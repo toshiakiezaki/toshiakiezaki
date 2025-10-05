@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The few who do are the envy of the many who only watch.</p>
+<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
 
-<p>Jim Rohn</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
