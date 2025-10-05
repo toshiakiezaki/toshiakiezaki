@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>Earl Nightingale</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
