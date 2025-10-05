@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even a hare will bite when it is cornered. </p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>Chinese Proverb</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
