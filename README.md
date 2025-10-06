@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
 
-<p>Chinese Proverb</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
