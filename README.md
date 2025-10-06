@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
 
-<p>Barack Obama</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
