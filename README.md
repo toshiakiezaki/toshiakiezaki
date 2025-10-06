@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>Charles Dickens</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
