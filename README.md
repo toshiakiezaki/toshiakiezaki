@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>Tony Robbins</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
