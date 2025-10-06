@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>Yanni</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
