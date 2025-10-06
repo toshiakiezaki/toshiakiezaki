@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never whine, never complain, never try to justify yourself.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>Robert Greene</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
