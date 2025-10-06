@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sun is new each day.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>Heraclitus</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
