@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>Helen Keller</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
