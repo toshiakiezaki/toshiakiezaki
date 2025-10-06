@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little impatience will spoil great plans.</p>
+<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
 
-<p>Chinese Proverb</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
