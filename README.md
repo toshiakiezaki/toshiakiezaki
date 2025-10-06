@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>Eric Hoffer</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
