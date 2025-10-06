@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
