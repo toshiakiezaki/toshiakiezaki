@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better late than never.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>Spencer Johnson</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
