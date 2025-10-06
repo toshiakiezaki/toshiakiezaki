@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
+<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
