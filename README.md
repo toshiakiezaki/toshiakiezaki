@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
 
-<p>Robert Kiyosaki</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
