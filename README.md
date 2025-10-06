@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Better late than never.</p>
 
-<p>Robin Sharma</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
