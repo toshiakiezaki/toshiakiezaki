@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>Socrates</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
