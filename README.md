@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>Spencer Johnson</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
