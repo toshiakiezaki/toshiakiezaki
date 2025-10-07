@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>Osho</p>
+<p>Christopher Columbus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
