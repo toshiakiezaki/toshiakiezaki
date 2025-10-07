@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Estee Lauder</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
