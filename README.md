@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>Charles Dickens</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
