@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Strategy is a commodity, execution is an art.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>Peter Drucker</p>
+<p>Cherie Gilderbloom</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
