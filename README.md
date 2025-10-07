@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>Lao Tzu</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
