@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
 
-<p>Christopher Columbus</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
