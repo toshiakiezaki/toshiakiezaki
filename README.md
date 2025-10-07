@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>Ronald Reagan</p>
+<p>Peter Drucker</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
