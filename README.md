@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>Vincent van Gogh</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
