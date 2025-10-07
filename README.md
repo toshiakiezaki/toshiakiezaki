@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best dreams happen when you're awake.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>Cherie Gilderbloom</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
