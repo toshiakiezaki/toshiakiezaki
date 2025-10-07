@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Robert Kiyosaki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
