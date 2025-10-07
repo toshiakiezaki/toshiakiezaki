@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>Zhuangzi</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
