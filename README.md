@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>Peter Drucker</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
