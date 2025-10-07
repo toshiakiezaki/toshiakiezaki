@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>Barack Obama</p>
+<p>Ronald Reagan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
