@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>Heraclitus</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
