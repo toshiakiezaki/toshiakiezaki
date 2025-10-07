@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>Chinese Proverb</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
