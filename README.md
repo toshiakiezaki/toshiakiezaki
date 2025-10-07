@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody's life is either rewarding or an example.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>Tony Robbins</p>
+<p>Zhuangzi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
