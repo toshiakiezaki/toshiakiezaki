@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>Estee Lauder</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
