@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>No man becomes rich unless he enriches others.</p>
 
-<p>Maxime Lagace</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
