@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>Og Mandino</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
