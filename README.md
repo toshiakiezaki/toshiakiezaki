@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>Alfred Adler</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
