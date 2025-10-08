@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Aristophanes</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
