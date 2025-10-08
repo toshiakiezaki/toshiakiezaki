@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No man becomes rich unless he enriches others.</p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>Andrew Carnegie</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
