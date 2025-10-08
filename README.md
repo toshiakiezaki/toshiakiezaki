@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>None but ourselves can free our minds.</p>
+<p>If you put water into a cup, it becomes the cup.</p>
 
-<p>Bob Marley</p>
+<p>Bruce Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
