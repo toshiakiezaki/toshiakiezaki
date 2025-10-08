@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fall into a ditch makes you wiser.</p>
+<p>The clock indicates the moment...but what does eternity indicate?</p>
 
-<p>Chinese Proverb</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
