@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>Jim Rohn</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
