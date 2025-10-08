@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>Albert Einstein</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
