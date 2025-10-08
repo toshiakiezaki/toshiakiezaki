@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>Stephen Hawking</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
