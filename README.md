@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>Paramahansa Yogananda</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
