@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>Don't wait for the right opportunity: create it.</p>
 
-<p>Marilyn Monroe</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
