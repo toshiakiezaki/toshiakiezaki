@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>Stephen King</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
