@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>Pablo Picasso</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
