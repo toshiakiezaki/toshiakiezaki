@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are shaped and fashioned by what we love.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
