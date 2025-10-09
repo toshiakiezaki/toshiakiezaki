@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are today where your thoughts have brought you.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>James Allen</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
