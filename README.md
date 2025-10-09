@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>Robert Frost</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
