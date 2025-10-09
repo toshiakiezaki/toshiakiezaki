@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>Voltaire</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
