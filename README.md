@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>Robert Greene</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
