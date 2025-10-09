@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am not the outcome. I am never the result. I am only the effort.</p>
+<p>Men are equal; it is not birth but virtue that makes the difference.</p>
 
-<p>Kamal Ravikant</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
