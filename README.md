@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who hesitates is a damned fool.</p>
+<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
 
-<p>Mae West</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
