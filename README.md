@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The reward of suffering is experience.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>Harry S. Truman</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
