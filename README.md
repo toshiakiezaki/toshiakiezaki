@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most effective way to do it, is to do it.</p>
+<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
 
-<p>Amelia Earhart</p>
+<p>Robert Frost</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
