@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No snowflake ever falls in the wrong place.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>Zen Proverb</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
