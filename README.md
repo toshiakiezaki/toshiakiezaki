@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>The reward of suffering is experience.</p>
 
-<p>Mary Engelbreit</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
