@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>Stephen King</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
