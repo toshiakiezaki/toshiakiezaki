@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>Celestine Chua</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
