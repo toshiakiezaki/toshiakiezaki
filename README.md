@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At every moment where language can't go, that's your mind.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>Bodhidharma</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
