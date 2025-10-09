@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first principle of success is desire.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>Robert Collier</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
