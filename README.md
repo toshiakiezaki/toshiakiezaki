@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Trust thyself: every heart vibrates to that iron string.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>F. Scott Fitzgerald</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
