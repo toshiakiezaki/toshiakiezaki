@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 
-<p>Zig Ziglar</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
