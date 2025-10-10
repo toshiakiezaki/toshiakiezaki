@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the noise of others opinions drown out your inner voice.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>Steve Jobs</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
