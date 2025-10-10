@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
 
-<p>Maxime Lagace</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
