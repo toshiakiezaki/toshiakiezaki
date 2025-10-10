@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>We should not look back unless it is to derive useful lessons from past errors.</p>
 
-<p>Colin Powell</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
