@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I begin with an idea and then it becomes something else.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>Pablo Picasso</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
