@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't go forward and backwards at the same time.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>Steve Harvey</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
