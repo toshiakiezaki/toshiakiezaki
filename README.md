@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>Pema Chodron</p>
+<p>Steve Jobs</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
