@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>Henry Ford</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
