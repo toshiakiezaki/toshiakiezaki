@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
