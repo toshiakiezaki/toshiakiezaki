@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>George Washington</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
