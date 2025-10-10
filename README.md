@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How you think is as important as as what you think.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>Unknown</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
