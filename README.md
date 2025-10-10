@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>From morning till night, we should never rely on a single thing.</p>
 
-<p>Joyce Meyer</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
