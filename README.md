@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
