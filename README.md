@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love the life you live, live the life you love.</p>
+<p>The wiser you get, the less you care to look like a fool.</p>
 
-<p>Bob Marley</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
