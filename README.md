@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>The best fighter is never angry.</p>
 
-<p>Roy T. Bennett</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
