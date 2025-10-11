@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Alexander Pope</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
