@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't allow perfection.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>Stephen Hawking</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
