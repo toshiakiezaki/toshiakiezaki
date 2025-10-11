@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Vision is the art of seeing things invisible.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>Jonathan Swift</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
