@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
 
 <p>Napoleon Hill</p>
 <!-- dailyquote:end -->
