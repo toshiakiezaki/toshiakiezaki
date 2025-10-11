@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Words are the clothes thoughts wear.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>Samuel Beckett</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
