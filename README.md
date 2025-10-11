@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Vincent van Gogh</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
