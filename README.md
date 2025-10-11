@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
 
-<p>Elvis Presley</p>
+<p>Alexander Pope</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
