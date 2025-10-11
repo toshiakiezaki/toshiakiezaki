@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>Mary Engelbreit</p>
+<p>Jonathan Swift</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
