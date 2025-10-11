@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be polite to all, but intimate with few.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>Thomas Jefferson</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
