@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>An un-examined life is not worth living.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
