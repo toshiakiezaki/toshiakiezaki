@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Chop your own wood and it will warm you twice. </p>
+<p>To lead the people, walk behind them.</p>
 
-<p>Henry Ford</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
