@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your outlook on life that counts.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>Betty White</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
