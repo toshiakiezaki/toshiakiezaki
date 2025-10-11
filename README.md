@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best fighter is never angry.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>Lao Tzu</p>
+<p>Thomas Jefferson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
