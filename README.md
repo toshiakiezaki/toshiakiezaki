@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>Paulo Coelho</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
