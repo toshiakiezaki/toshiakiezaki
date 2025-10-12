@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A little progress each day adds up to big results.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>Unknown</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
