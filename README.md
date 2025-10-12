@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>Nelson Mandela</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
