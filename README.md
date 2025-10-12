@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>Herodotus</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
