@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>Elon Musk</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
