@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>Napoleon Hill</p>
+<p>Nelson Mandela</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
