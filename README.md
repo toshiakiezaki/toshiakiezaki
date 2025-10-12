@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>Fiction is the truth inside the lie.</p>
 
-<p>Mae West</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
