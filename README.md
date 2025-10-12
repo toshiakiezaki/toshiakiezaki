@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>Wayne Dyer</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
