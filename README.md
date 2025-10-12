@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>Roy T. Bennett</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
