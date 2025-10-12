@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>Les Brown</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
