@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>Pema Chodron</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
