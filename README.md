@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>Denis Waitley</p>
+<p>Yanni</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
