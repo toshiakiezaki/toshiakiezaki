@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>Unknown</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
