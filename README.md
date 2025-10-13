@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>Alan Watts</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
