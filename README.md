@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>Yanni</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
