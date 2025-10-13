@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be confident, not certain.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
