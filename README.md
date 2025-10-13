@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be the change that you want to see in the world.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
