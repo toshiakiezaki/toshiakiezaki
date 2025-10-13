@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>Sometimes you have to travel a long way to find what is near.</p>
 
-<p>Albert Einstein</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
