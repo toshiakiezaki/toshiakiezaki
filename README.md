@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Where does a thought go when it's forgotten?</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Sigmund Freud</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
