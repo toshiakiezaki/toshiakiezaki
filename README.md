@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The most wasted day of all is that on which we have not laughed.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>Nicolas Chamfort</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
