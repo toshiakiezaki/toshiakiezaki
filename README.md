@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>Virginia Woolf</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
