@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>Les Brown</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
