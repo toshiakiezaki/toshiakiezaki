@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The harder you work, the harder it is to surrender.</p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>Vince Lombardi</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
