@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>Charles Dickens</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
