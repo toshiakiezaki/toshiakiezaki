@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>Paulo Coelho</p>
+<p>Sigmund Freud</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
