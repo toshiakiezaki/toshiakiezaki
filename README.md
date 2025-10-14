@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>Les Brown</p>
+<p>Confucius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
