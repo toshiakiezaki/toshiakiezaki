@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
