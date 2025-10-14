@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>Paulo Coelho</p>
+<p>Mahatma Gandhi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
