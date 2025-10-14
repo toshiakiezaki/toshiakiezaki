@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
 
-<p>Plato</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
