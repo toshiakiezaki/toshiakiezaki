@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>Bhagavad Gita</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
