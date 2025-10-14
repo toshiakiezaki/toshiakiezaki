@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>Mahatma Gandhi</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
