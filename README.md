@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>How you think is as important as as what you think.</p>
 
-<p>Les Brown</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
