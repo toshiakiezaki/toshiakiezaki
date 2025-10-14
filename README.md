@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>Jack London</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
