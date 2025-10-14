@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
+<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
 
-<p>Jack Kerouac</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
