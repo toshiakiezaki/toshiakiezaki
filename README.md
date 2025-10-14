@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</p>
 
-<p>Sun Tzu</p>
+<p>William Faulkner</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
