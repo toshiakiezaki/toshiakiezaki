@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
 
-<p>Chinese Proverb</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
