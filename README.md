@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How you think is as important as as what you think.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>Unknown</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
