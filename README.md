@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>Walt Whitman</p>
+<p>Lily Tomlin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
