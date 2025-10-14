@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>One's best success comes after their greatest disappointments.</p>
 
-<p>Les Brown</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
