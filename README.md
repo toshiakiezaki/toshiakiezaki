@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>Pema Chodron</p>
+<p>Audrey Hepburn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
