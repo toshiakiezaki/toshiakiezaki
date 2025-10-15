@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best thing to hold onto in life is each other.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>Audrey Hepburn</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
