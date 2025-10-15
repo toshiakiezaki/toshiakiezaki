@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>Naval Ravikant</p>
+<p>Pema Chodron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
