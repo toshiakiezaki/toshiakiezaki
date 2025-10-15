@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>Yanni</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
