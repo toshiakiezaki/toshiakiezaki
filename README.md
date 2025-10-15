@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>Jack London</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
