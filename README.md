@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One's best success comes after their greatest disappointments.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
