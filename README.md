@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
