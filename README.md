@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The secret of getting ahead is getting started.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>Mark Twain</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
