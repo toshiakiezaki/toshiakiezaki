@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
-<p>Eckhart Tolle</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
