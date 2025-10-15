@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>Steve Harvey</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
