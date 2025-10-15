@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sadness is but a wall between two gardens.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>Kahlil Gibran</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
