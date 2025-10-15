@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>Vincent van Gogh</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
