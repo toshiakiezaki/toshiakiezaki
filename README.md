@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We turn not older with years but newer every day.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>Emily Dickinson</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
