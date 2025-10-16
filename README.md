@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>Napoleon Hill</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
