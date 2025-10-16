@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are shaped and fashioned by what we love.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
