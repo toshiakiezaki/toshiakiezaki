@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
 
-<p>Spencer Johnson</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
