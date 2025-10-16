@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A person hears only what they understand.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>J.R.R. Tolkien</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
