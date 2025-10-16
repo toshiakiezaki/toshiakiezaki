@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>Human happiness and moral duty are inseparably connected. </p>
 
-<p>Jon Kabat-Zinn</p>
+<p>George Washington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
