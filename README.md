@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>Tony Robbins</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
