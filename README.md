@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
 
-<p>Unknown</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
