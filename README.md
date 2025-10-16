@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In life you need either inspiration or desperation.</p>
+<p>A person hears only what they understand.</p>
 
-<p>Tony Robbins</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
