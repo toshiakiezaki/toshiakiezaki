@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise speak only of what they know.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
