@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Mark Manson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
