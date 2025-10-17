@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Sonia Ricotti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
