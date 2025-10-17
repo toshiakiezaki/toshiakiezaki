@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>Zen Proverb</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
