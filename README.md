@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>Henry David Thoreau</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
