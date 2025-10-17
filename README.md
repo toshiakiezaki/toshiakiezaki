@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Live the moment for the moment.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>Michael Jordan</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
