@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing external to you has any power over you.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
