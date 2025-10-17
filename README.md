@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>Alexandre Dumas</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
