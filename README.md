@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>It's always to soon to quit!</p>
 
-<p>Epictetus</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
