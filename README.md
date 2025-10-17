@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The river that flows in you also flows in me.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>Kabir</p>
+<p>Leo Tolstoy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
