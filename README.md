@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>Naval Ravikant</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
