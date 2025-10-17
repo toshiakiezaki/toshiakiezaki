@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you win, say nothing, when you lose say less.</p>
+<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
 
-<p>Wayne Gretzky</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
