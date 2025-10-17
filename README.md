@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>Isaac Newton</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
