@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>Confucius</p>
+<p>Isaac Newton</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
