@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunity comes when you continually push forward.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>Sonia Ricotti</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
