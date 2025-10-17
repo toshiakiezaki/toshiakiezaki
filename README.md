@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>Elbert Hubbard</p>
+<p>Vince Lombardi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
