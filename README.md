@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wise learn many things from their enemies.</p>
+<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
 
-<p>Aristophanes</p>
+<p>Henry David Thoreau</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
