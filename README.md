@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Conquer the devils with a little thing called love.</p>
+<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
 
-<p>Bob Marley</p>
+<p>Ayn Rand</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
