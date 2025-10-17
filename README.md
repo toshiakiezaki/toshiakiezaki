@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>Marilyn Monroe</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
