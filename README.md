@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>When you win, say nothing, when you lose say less.</p>
 
-<p>Vince Lombardi</p>
+<p>Wayne Gretzky</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
