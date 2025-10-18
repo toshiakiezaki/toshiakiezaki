@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>Bob Proctor</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
