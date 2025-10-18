@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A Penny Saved is a Penny Earned</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>Benjamin Franklin</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
