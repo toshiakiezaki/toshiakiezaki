@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>The mind is the limit.</p>
 
-<p>Bob Marley</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
