@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>Publilius Syrus</p>
+<p>Tony Robbins</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
