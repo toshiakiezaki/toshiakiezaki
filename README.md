@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
+<p>Greatness comes from living with purpose and passion.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
