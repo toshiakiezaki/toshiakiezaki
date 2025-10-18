@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mind is the limit.</p>
+<p>The past has no power over the present moment. </p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
