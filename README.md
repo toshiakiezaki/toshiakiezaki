@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
 
-<p>Beverly Sills</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
