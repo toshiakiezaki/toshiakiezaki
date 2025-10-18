@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>Tony Robbins</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
