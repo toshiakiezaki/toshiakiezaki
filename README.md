@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>Dan Millman</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
