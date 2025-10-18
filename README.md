@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>Imagination is the true magic carpet.</p>
 
-<p>Barack Obama</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
