@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you decide to do, make sure it makes you happy.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>Paulo Coelho</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
