@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smile, breathe and go slowly.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
