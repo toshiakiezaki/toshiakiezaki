@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>Mae West</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
