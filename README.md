@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>George Bernard Shaw</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
