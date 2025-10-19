@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>Naval Ravikant</p>
+<p>James Cameron</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
