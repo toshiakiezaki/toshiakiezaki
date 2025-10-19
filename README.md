@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
+<p>Life is ours to be spent, not to be saved. </p>
 
-<p>Carl Jung</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
