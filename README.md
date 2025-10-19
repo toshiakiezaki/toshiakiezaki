@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Perpetual optimism is a force multiplier.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>Colin Powell</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
