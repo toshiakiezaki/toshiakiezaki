@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>Dan Brown</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
