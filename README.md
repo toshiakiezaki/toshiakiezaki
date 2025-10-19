@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody by your side ain't on your side.</p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>Steve Harvey</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
