@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never too old for anything.</p>
+<p>It's your outlook on life that counts.</p>
 
 <p>Betty White</p>
 <!-- dailyquote:end -->
