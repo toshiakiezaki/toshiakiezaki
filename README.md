@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Curiosity is the most powerful thing you own.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>James Cameron</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
