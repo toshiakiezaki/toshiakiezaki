@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>The person who is his own master cannot tolerate another boss. </p>
 
-<p>Charles Dickens</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
