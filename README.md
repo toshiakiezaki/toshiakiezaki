@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>Kenneth Branagh</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
