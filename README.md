@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is ours to be spent, not to be saved. </p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>D. H. Lawrence</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
