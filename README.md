@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>Chinese Proverb</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
