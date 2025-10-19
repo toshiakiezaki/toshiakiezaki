@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's your outlook on life that counts.</p>
+<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
 
-<p>Betty White</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
