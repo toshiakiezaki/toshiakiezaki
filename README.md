@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>Colin Powell</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
