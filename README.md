@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>By perseverance the snail reached the ark.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>Charles Spurgeon</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
