@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>Ralph Marston</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
