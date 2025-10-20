@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Children are our greatest natural resource.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>Herbert Hoover</p>
+<p>Christopher Reeve</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
