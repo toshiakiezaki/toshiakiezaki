@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
+<p>Children are our greatest natural resource.</p>
 
-<p>Zig Ziglar</p>
+<p>Herbert Hoover</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
