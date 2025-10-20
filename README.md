@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You get in life what you have the courage to ask for.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>Oprah Winfrey</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
