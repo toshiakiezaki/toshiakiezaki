@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Once you choose hope, anything's possible.</p>
+<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
 
-<p>Christopher Reeve</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
