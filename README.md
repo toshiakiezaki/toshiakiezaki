@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be brave enough to suck at something new.</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>Unknown</p>
+<p>Robert F. Kennedy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
