@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
 
-<p>Vincent van Gogh</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
