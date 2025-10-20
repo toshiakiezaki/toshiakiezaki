@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>Criss Jami</p>
+<p>John Lennon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
