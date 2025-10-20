@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>Maya Angelou</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
