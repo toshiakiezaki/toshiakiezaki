@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>Robert Collier</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
