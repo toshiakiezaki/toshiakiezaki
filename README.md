@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Fools resist. The wise embrace.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
