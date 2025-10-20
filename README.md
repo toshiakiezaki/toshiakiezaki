@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Create each day anew.</p>
+<p>Be brave enough to suck at something new.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
