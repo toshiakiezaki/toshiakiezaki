@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day provides it's own gifts.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>Marcus Aurelius</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
