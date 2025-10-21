@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>Chinese Proverb</p>
+<p>Norman Vaughan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
