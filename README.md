@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The great use of life is to spend it for something that will outlast it.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>William James</p>
+<p>Charles Dickens</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
