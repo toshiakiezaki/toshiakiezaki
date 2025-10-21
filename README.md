@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Believe you can and you're halfway there.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
