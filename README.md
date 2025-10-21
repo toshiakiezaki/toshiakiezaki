@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
 
-<p>Lolly Daskal</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
