@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
 
-<p>Charles Dickens</p>
+<p>Pablo Picasso</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
