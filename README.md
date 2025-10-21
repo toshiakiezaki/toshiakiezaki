@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>Harry S. Truman</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
