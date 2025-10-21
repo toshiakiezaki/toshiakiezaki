@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
+<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
 
-<p>Lin Yutang</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
