@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Within every desire is the mechanics of its fulfillment.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>Deepak Chopra</p>
+<p>Adi Da Samraj</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
