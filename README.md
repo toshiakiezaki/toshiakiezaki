@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
+<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
 
-<p>Robin Sharma</p>
+<p>Sathya Sai Baba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
