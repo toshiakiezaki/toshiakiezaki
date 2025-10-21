@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judge a man by his questions rather than his answers.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>Voltaire</p>
+<p>Lolly Daskal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
