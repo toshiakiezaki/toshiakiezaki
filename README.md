@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>Lolly Daskal</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
