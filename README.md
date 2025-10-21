@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>Sathya Sai Baba</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
