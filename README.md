@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The birth of the mind is the death of the senses.</p>
+<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
 
-<p>Dan Millman</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
