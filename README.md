@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Voltaire</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
