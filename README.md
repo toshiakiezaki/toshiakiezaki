@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dream big and dare to fail.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>Norman Vaughan</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
