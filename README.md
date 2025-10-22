@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
 
-<p>Robin Sharma</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
