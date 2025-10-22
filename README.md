@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>Adi Da Samraj</p>
+<p>Bob Marley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
