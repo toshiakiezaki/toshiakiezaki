@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>Kamal Ravikant</p>
+<p>Norman Vincent Peale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
