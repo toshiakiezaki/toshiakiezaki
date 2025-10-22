@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
+<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
 
-<p>Voltaire</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
