@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not fear failure but rather fear not trying.</p>
+<p>There is nothing more frightful than ignorance in action.</p>
 
-<p>Roy T. Bennett</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
