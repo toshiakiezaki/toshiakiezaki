@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>Kamal Ravikant</p>
+<p>Napoleon Hill</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
