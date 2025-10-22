@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Kamal Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
