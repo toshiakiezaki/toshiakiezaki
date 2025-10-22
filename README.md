@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Henry Ford</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
