@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>Dr. Seuss</p>
+<p>Amelia Earhart</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
