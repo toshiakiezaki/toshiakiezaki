@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
