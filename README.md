@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
 <p>Criss Jami</p>
 <!-- dailyquote:end -->
