@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You know the more one does the more one can do.</p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>Amelia Earhart</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
