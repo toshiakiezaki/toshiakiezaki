@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>Alexander Graham Bell</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
