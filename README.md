@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>Ralph Marston</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
