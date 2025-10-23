@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A fear of weakness only strengthens weakness.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>Criss Jami</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
