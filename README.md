@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Kenneth Branagh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
