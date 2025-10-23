@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>Steve Harvey</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
