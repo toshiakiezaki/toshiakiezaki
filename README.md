@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
