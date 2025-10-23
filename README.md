@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The destiny of man is in his own soul. </p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>Herodotus</p>
+<p>Genghis Khan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
