@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man is literally what he thinks.</p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>James Allen</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
