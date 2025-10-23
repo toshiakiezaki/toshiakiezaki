@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
 
-<p>F. Scott Fitzgerald</p>
+<p>Epictetus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
