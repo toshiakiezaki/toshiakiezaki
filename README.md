@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>Marcus Aurelius</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
