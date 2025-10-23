@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Silence is a source of great strength.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>Lao Tzu</p>
+<p>Joyce Meyer</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
