@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>A man is literally what he thinks.</p>
 
-<p>Wayne Dyer</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
