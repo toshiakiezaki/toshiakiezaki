@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>Robert Greene</p>
+<p>Plato</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
