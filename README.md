@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>Gary Keller</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
