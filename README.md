@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes things become possible if we want them bad enough.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>T.S. Eliot</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
