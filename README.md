@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>Epictetus</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
