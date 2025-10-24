@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is the power of the mind to be unconquerable.</p>
+<p>Little minds have little worries, big minds have no time for worries.</p>
 
-<p>Seneca</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
