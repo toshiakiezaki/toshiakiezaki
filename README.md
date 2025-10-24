@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowledge isn't power until it is applied.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>Dale Carnegie</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
