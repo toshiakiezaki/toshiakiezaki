@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
 
-<p>Alfred Adler</p>
+<p>Socrates</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
