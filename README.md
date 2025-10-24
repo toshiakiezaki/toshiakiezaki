@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>You're never too old for anything.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Betty White</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
