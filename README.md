@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're never too old for anything.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Betty White</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
