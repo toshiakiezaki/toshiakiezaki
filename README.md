@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
