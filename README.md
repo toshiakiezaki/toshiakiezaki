@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>Christopher Reeve</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
