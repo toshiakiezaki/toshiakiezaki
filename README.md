@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who know, do. Those that understand, teach.</p>
+<p>The only defense against the world is a thorough knowledge of it.</p>
 
-<p>Aristotle</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
