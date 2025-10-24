@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>Steve Jobs</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
