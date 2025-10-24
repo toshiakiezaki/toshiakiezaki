@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>Dalai Lama</p>
+<p>Anne Frank</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
