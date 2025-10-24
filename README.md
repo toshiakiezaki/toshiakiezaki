@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only defense against the world is a thorough knowledge of it.</p>
+<p>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</p>
 
-<p>John Locke</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
