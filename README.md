@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you put water into a cup, it becomes the cup.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>Bruce Lee</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
