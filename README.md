@@ -23,7 +23,7 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
 <p>Aristotle</p>
 <!-- dailyquote:end -->
