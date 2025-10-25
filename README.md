@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>Nothing can dim the light which shines from within.</p>
 
-<p>Vincent van Gogh</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
