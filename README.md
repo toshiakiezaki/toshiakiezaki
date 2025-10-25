@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Not how long, but how well you have lived is the main thing.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>Seneca</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
