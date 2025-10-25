@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>To be alive - is Power.</p>
 
-<p>Mark Manson</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
