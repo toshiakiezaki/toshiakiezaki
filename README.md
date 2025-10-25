@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>Roger Lee</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
