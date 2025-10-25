@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To be alive - is Power.</p>
+<p>To be able to forget means sanity.</p>
 
-<p>Emily Dickinson</p>
+<p>Jack London</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
