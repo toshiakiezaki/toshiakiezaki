@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The purpose of life is the expansion of happiness.</p>
+<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
 
-<p>Deepak Chopra</p>
+<p>Barack Obama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
