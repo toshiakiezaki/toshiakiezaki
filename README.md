@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
+<p>Some of your greatest lessons come from your darkest moments.</p>
 
-<p>Steve Jobs</p>
+<p>Roger Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
