@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Friendship is like money, easier made than kept.</p>
+<p>Fools read fast. Geniuses reread.</p>
 
-<p>Samuel Butler</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
