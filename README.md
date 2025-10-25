@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>Orison Swett Marden</p>
+<p>Simon Sinek</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
