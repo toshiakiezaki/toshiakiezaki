@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>Steve Harvey</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
