@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
 
-<p>Ralph Marston</p>
+<p>Albus Dumbledore</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
