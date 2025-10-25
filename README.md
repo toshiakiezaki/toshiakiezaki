@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>Stephen Hawking</p>
+<p>Gurbaksh Chahal</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
