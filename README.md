@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>Not how long, but how well you have lived is the main thing.</p>
 
-<p>Gurbaksh Chahal</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
