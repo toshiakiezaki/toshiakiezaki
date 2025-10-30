@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Miguel de Cervantes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
