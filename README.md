@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>Miguel de Cervantes</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
