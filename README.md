@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
