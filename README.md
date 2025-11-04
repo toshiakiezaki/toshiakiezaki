@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>Kahlil Gibran</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
