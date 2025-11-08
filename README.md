@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
+<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
 
-<p>Josh Waitzkin</p>
+<p>John D. Rockefeller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
