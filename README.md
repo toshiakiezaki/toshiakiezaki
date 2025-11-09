@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
-<p>John D. Rockefeller</p>
+<p>Ming-Dao Deng</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
