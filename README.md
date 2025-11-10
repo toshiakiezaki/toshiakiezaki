@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>Ming-Dao Deng</p>
+<p>Grace Coddington</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
