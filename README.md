@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Enlightenment is intimacy with all things.</p>
 
-<p>Grace Coddington</p>
+<p>Dogen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
