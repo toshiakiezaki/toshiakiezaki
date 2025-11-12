@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Enlightenment is intimacy with all things.</p>
+<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
 
-<p>Dogen</p>
+<p>T.S. Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
