@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>T.S. Eliot</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
