@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>The scariest monsters are the ones that lurk within our souls.</p>
 
-<p>Brian Tracy</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
