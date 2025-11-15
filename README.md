@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The scariest monsters are the ones that lurk within our souls.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>Edgar Allan Poe</p>
+<p>Zig Ziglar</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
