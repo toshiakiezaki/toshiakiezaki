@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
 
-<p>Zig Ziglar</p>
+<p>Coco Chanel</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
