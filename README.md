@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
 
-<p>Coco Chanel</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
