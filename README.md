@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Circumstances rule men; men do not rule circumstances. </p>
 
-<p>Franklin D. Roosevelt</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
