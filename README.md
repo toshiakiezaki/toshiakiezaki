@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Circumstances rule men; men do not rule circumstances. </p>
+<p>The only defense against the world is a thorough knowledge of it.</p>
 
-<p>Herodotus</p>
+<p>John Locke</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
