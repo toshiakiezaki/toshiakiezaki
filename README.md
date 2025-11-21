@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only defense against the world is a thorough knowledge of it.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>John Locke</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
