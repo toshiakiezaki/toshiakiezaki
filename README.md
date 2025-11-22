@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't spend major time on minor things.</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>Jim Rohn</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
