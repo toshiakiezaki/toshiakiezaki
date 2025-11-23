@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>The significance of life is living.</p>
 
-<p>Roy T. Bennett</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
