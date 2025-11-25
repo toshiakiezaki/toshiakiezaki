@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>Pema Chodron</p>
+<p>Woody Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
