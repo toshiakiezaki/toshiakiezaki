@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The heart wants what it wants. There's no logic. </p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>Woody Allen</p>
+<p>Eckhart Tolle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
