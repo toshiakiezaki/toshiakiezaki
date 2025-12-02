@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
+<p>Every poem should remind the reader that they are going to die.</p>
 
-<p>Jack London</p>
+<p>Edgar Allan Poe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
