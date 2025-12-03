@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>Edgar Allan Poe</p>
+<p>Alfred Adler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
