@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
+<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
 
-<p>Alfred Adler</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
