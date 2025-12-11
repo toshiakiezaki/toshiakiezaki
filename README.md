@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Smile, breathe and go slowly.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
