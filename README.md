@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>On the other side of the clouds is a bright blue sky.</p>
 
-<p>Richard Bach</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
