@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest fears lie in anticipation.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Honore de Balzac</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
