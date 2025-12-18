@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
