@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't imagine it, you can't have it.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>Toni Morrison</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
