@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>Celestine Chua</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
