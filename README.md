@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>Roy T. Bennett</p>
+<p>Deepak Chopra</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
