@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>Deepak Chopra</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
