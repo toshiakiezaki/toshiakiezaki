@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do what you can, with what you have, where you are.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Robert Greene</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
