@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>Robert Greene</p>
+<p>Theodore Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
