@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>Theodore Roosevelt</p>
+<p>Niccolo Machiavelli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
