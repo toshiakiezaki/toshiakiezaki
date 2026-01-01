@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>John Wooden</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
