@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>James Matthew Barrie</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
