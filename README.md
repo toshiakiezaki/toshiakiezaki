@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The reward of suffering is experience.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>Harry S. Truman</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
