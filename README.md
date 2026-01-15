@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Realistic people do not accomplish extraordinary things.</p>
+<p>For every minute you are angry you lose sixty seconds of happiness.</p>
 
-<p>John Eliot</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
