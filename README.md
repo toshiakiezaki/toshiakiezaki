@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>Jack Kerouac</p>
+<p>Alan Watts</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
