@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>Alan Watts</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
