@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>Nothing endures but change.</p>
 
-<p>Aristotle</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
