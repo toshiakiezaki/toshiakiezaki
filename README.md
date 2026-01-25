@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Keep your friends close, and your enemies closer.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>Sun Tzu</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
