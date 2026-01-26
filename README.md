@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We turn not older with years but newer every day.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>Emily Dickinson</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
