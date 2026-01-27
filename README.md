@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>Maxime Lagace</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
