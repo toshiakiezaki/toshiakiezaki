@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>Robin Sharma</p>
+<p>Celestine Chua</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
