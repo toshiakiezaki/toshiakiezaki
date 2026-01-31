@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
+<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
 
-<p>Celestine Chua</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
