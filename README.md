@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
+<p>Faults are yours to fix, not to curse.</p>
 
-<p>Mark Twain</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
