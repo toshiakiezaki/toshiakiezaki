@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Faults are yours to fix, not to curse.</p>
+<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
 
-<p>Colin Powell</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
