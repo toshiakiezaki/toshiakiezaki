@@ -6,7 +6,7 @@
 
 ### $ whoami_
 
-- :computer: I'm currently working at Pismo as a Staff Software Engineer 
+- :computer: I'm currently working at Car IQ as a Senior Software Engineer 
 - :house: I'm from Brazil, and willing to live abroad sometime in the future
 - :hourglass_flowing_sand: I have been working with software development since 2006
 - :family_man_woman_boy_boy: I like to play with my kids in my spare time and watch series and movies with my wife
