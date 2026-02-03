@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>Unknown</p>
+<p>Virginia Woolf</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
