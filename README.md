@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>Virginia Woolf</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
