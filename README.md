@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>If you can't explain it simply, you don't understand it well enough.</p>
 
-<p>Marcus Aurelius</p>
+<p>Albert Einstein</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
