@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>Thich Nhat Hanh</p>
+<p>Laurence J. Peter</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
