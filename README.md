@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>Laurence J. Peter</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
