@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>Earl Nightingale</p>
+<p>Alexandre Dumas</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
