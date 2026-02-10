@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
 
-<p>Alexandre Dumas</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
