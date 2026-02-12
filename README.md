@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>Pema Chodron</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
