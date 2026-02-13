@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The world is changed by your example, not by your opinion.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>Paulo Coelho</p>
+<p>Franz Kafka</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
