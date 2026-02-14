@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are free, and that is why you are lost. </p>
+<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
 
-<p>Franz Kafka</p>
+<p>Arnold Schwarzenegger</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
