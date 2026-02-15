@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
+<p>Leadership is solving problems</p>
 
-<p>Arnold Schwarzenegger</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
