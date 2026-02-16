@@ -16,8 +16,8 @@
 ### $ stats_[^1]
 
 <a href="https://github.com/toshiakiezaki">
-  <img height="225" src="https://helio-github-stats.vercel.app/api?username=toshiakiezaki&custom_title=GitHub+Stats&theme=transparent&title_color=006AFF&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&hide_border=true&locale=en&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" style="height: 225px" />
-  <img height="225" src="https://helio-github-stats.vercel.app/api/top-langs?username=toshiakiezaki&layout=normal&stats_format=percentages&theme=transparent&title_color=006AFF&text_color=434d58&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=c,c%2B%2B,cmake,html,swift,objective-c" style="height: 225px" />
+  <img height="200" src="https://helio-github-stats.vercel.app/api?username=toshiakiezaki&custom_title=GitHub+Stats&theme=transparent&title_color=006AFF&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&hide_border=true&locale=en&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" style="height: 200px" />
+  <img height="200" src="https://helio-github-stats.vercel.app/api/top-langs?username=toshiakiezaki&layout=normal&stats_format=percentages&theme=transparent&title_color=006AFF&text_color=434d58&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=c,c%2B%2B,cmake,html,swift,objective-c" style="height: 200px" />
 </a>
 
 ### $ dailyquote_
