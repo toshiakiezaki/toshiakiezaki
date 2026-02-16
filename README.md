@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Leadership is solving problems</p>
+<p>Courage Is a Love Affair with the Unknown</p>
 
-<p>Colin Powell</p>
+<p>Osho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
