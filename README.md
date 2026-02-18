@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can't imagine it, you can't have it.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>Toni Morrison</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
