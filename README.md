@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>Sun Tzu</p>
+<p>Huang Po</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
