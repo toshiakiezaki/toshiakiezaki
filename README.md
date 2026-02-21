@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The healthiest response to life is joy.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>Deepak Chopra</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
