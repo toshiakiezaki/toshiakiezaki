@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>Jim Rohn</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
