@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>Betty White</p>
+<p>Seneca</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
