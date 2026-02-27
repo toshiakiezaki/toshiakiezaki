@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>Herodotus</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
