@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>Roy T. Bennett</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
