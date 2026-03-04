@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>All problems are illusions of the mind.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>Eckhart Tolle</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
