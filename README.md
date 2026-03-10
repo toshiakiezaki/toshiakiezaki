@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>Unknown</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
