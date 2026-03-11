@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
 
-<p>Buddha</p>
+<p>Stephen King</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
