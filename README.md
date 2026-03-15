@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fools resist. The wise embrace.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>Maxime Lagace</p>
+<p>W.P. Kinsella</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
