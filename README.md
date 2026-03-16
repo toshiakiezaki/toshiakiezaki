@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>W.P. Kinsella</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
