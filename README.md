@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>Oprah Winfrey</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
