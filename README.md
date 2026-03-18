@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you can see it in your mind, you can hold it in your mind.</p>
+<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
 
-<p>Steve Harvey</p>
+<p>Sun Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
