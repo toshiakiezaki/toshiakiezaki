@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>The real meditation is how you live your life.</p>
 
-<p>Sun Tzu</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
