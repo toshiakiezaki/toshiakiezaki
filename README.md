@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The real meditation is how you live your life.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Henry Ward Beecher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
