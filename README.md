@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Thomas Edison</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
