@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
+<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
 
-<p>Thomas Edison</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
