@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Fear does not have any special power unless you empower it by submitting to it.</p>
 
-<p>Criss Jami</p>
+<p>Les Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
