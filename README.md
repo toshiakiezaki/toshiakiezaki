@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>Les Brown</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
