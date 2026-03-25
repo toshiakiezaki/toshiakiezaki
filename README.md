@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>Robin Sharma</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
