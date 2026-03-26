@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be a master of change rather than a victim of change.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>Brian Tracy</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
