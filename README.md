@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We must learn to live together as brothers or perish together as fools.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
