@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>Marcus Aurelius</p>
+<p>Harry S. Truman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
