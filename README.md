@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>Harry S. Truman</p>
+<p>Herodotus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
