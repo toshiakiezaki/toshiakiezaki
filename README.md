@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>At every moment where language can't go, that's your mind.</p>
+<p>There is peace even in the storm.</p>
 
-<p>Bodhidharma</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
