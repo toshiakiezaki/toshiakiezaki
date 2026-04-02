@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants to go fast. The soul needs to go slow.</p>
+<p>For every minute you are angry you lose sixty seconds of happiness.</p>
 
-<p>Maxime Lagace</p>
+<p>Ralph Waldo Emerson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
