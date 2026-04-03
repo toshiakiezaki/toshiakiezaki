@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>If anything is worth doing, do it with all your heart.</p>
 
-<p>Ralph Waldo Emerson</p>
+<p>Buddha</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
