@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>Buddha</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
