@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>Zig Ziglar</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
