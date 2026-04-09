@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>The quality of your life is determined by the quality of your thoughts.</p>
 
-<p>Thomas Edison</p>
+<p>Unknown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
