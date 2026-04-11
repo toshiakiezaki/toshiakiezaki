@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>Alexandre Dumas</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
