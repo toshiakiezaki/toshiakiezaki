@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Nature does not hurry, yet everything is accomplished.</p>
 
-<p>Tony Robbins</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
