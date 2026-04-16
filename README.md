@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>Unknown</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
