@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
