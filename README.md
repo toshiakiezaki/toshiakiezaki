@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Passion creates, addiction consumes.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>Gabor Mate</p>
+<p>Earl Nightingale</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
