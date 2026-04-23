@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>Earl Nightingale</p>
+<p>Honore de Balzac</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
