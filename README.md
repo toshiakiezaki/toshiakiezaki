@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>Honore de Balzac</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
