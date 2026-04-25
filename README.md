@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The giving of love is an education in itself.</p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>D. H. Lawrence</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
