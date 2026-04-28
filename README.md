@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>Kenji Miyazawa</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
