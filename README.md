@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Your dream has to be bigger than your fear.</p>
+<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
 
-<p>Steve Harvey</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
