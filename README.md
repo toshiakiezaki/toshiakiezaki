@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>Nicolas Chamfort</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
