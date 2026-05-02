@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>Steve Harvey</p>
+<p>Seungsahn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
