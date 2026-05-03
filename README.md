@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>Seungsahn</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
