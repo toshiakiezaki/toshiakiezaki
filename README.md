@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Show up even when you don't want to show up.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>Steve Harvey</p>
+<p>Martin Luther King, Jr.</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
