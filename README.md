@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>Martin Luther King, Jr.</p>
+<p>Kabir</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
