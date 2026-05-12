@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>Unknown</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
