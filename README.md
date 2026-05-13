@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>Marcus Aurelius</p>
+<p>Elvis Presley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
