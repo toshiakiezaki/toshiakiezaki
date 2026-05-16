@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
+<p>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</p>
 
-<p>Wayne Gretzky</p>
+<p>Andrew Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
