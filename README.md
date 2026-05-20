@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>To earn more you must learn more.</p>
 
-<p>Henry David Thoreau</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
