@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To earn more you must learn more.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>Brian Tracy</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
