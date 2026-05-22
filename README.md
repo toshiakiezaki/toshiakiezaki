@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You make your own luck if you stay at it long enough.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>Naval Ravikant</p>
+<p>Herman Melville</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
