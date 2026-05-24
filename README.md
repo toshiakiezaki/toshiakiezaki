@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Better to live until you die.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>Dan Millman</p>
+<p>Denis Waitley</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
