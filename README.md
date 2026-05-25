@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>Denis Waitley</p>
+<p>Jack Butcher</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
