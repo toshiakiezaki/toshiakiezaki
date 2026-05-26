@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>Jack Butcher</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
