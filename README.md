@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>One loyal friend is worth ten thousand relatives.</p>
 
-<p>Dalai Lama</p>
+<p>Euripides</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
