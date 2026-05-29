@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One loyal friend is worth ten thousand relatives.</p>
+<p>You are never too old to become younger.</p>
 
-<p>Euripides</p>
+<p>Mae West</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
