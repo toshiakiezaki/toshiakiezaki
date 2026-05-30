@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are never too old to become younger.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had.</p>
 
-<p>Mae West</p>
+<p>Margaret Mead</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
