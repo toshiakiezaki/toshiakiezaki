@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I was wise enough to never grow up while fooling most people into believing I had.</p>
+<p>The road to success is always under construction.</p>
 
-<p>Margaret Mead</p>
+<p>Steve Harvey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
