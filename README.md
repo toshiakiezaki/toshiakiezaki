@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>Martin Luther</p>
+<p>Samuel Butler</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
