@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>Zen Proverb</p>
+<p>Shunryu Suzuki</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
