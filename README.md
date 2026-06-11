@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>Small men think they are small; great men never know they are great.</p>
 
-<p>Dr. Seuss</p>
+<p>Chinese Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
