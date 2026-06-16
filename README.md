@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you move beyond your fear, you feel free.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>Spencer Johnson</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
