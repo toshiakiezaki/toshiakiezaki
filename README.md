@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>Lao Tzu</p>
+<p>Heraclitus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
