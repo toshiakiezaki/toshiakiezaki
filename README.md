@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>Heraclitus</p>
+<p>Vincent van Gogh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
