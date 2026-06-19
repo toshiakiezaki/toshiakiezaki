@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>I dream my painting and I paint my dream.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>Vincent van Gogh</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
