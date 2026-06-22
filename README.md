@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't hate the player. Change the game.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>Steve Harvey</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
