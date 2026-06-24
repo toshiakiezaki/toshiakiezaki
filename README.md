@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We need never be ashamed of our tears.</p>
+<p>Art is the signature of civilizations.</p>
 
-<p>Charles Dickens</p>
+<p>Beverly Sills</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
