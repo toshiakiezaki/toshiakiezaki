@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>Socrates</p>
+<p>Jim Rohn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
