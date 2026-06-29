@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Each day provides it's own gifts.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>Marcus Aurelius</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
