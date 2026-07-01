@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>Earl Nightingale</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
