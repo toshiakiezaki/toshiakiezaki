@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>Mary Engelbreit</p>
+<p>Spencer Johnson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
