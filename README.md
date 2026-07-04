@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>Giving back involves a certain amount of giving up.</p>
 
-<p>Yoko Ono</p>
+<p>Colin Powell</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
