@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Opportunities multiply as they are seized.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>Sun Tzu</p>
+<p>Benjamin Franklin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
