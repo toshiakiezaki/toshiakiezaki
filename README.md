@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>An investment in knowledge pays the best interest.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>Benjamin Franklin</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
