@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It doesn't matter where you are coming from. All that matters is where you are going.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>Brian Tracy</p>
+<p>Steve Maraboli</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
