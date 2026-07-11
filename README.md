@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>Do not save what is left after spending, but spend what is left after saving.</p>
 
-<p>Steve Maraboli</p>
+<p>Warren Buffett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
