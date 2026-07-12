@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not save what is left after spending, but spend what is left after saving.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>Warren Buffett</p>
+<p>Carlos Ruiz Zafon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
