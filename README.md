@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>Carlos Ruiz Zafon</p>
+<p>Mark Twain</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
