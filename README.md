@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>High thoughts must have high language.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>Aristophanes</p>
+<p>Maxime Lagace</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
