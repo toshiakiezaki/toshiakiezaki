@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>Maxime Lagace</p>
+<p>George Eliot</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
