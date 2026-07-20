@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>Conrad Hilton</p>
+<p>Mother Teresa</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
