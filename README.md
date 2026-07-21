@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>Mother Teresa</p>
+<p>Robin Williams</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
