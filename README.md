@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>Robin Williams</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
