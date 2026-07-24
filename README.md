@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>Henry Ward Beecher</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
