@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You can live a whole life time never being awake.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>Dan Millman</p>
+<p>Criss Jami</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
