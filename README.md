@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>W.P. Kinsella</p>
+<p>Lin Yutang</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
