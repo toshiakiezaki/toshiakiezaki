@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>Lin Yutang</p>
+<p>Leonardo da Vinci</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
