@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>He who possesses most must be most afraid of loss.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>Leonardo da Vinci</p>
+<p>John Wooden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
