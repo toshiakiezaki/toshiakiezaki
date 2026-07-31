@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
 
-<p>John Wooden</p>
+<p>Gary Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
