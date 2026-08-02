@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limit to our realization of tomorrow will be our doubts of today.</p>
+<p>A man sees in the world what he carries in his heart.</p>
 
-<p>Colin R. Davis</p>
+<p>Johann Wolfgang von Goethe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
