@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>A man sees in the world what he carries in his heart.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Oprah Winfrey</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
