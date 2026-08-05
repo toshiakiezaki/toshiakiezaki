@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>Celestine Chua</p>
+<p>Eleanor Roosevelt</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
