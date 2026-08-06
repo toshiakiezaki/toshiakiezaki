@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>Eleanor Roosevelt</p>
+<p>Brian Tracy</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
