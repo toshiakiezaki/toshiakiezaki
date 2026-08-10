@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The sweetest pleasure arises from difficulties overcome.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>Publilius Syrus</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
