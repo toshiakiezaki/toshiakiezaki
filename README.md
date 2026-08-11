@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Men do not attract which they want but that which they are.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>James Allen</p>
+<p>Publilius Syrus</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
