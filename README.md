@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To do two things at once is to do neither.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>Publilius Syrus</p>
+<p>Nicolas Chamfort</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
