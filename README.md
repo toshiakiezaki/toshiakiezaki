@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Courage is found in unlikely places.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>J.R.R. Tolkien</p>
+<p>Jiddu Krishnamurti</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
