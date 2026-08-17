@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Mistakes are always forgivable, if one has the courage to admit them.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>Bruce Lee</p>
+<p>Elbert Hubbard</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
