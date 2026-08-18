@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>Nothing is particularly hard if you divide it into small jobs.</p>
 
-<p>Elbert Hubbard</p>
+<p>Henry Ford</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
