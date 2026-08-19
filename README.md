@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Nothing is particularly hard if you divide it into small jobs.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>Henry Ford</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
