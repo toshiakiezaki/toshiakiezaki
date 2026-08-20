@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>Bob Dylan</p>
+<p>Marilyn Monroe</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
