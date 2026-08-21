@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>The energy of the mind is the essence of life.</p>
 
-<p>Marilyn Monroe</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
