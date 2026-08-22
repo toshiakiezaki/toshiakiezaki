@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The energy of the mind is the essence of life.</p>
+<p>The only limit to our realization of tomorrow will be our doubts of today.</p>
 
-<p>Aristotle</p>
+<p>Colin R. Davis</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
