@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The only limit to our realization of tomorrow will be our doubts of today.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>Colin R. Davis</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
