@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>Ralph Marston</p>
+<p>Aristophanes</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
