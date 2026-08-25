@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>It's not the love you make. It's the love you give.</p>
 
-<p>Aristophanes</p>
+<p>Nikola Tesla</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
