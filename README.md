@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's not the love you make. It's the love you give.</p>
+<p>When there is nothing to do, do nothing.</p>
 
-<p>Nikola Tesla</p>
+<p>Warren Buffett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
