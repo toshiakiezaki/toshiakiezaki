@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When there is nothing to do, do nothing.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>Warren Buffett</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
