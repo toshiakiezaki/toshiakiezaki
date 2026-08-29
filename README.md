@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>Norman Vincent Peale</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
