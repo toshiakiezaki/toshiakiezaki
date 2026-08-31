@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
 
-<p>Yanni</p>
+<p>Zen Proverb</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
