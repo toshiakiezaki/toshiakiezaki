@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>Zen Proverb</p>
+<p>Og Mandino</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
