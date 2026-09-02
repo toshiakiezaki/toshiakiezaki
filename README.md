@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
+<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
 
-<p>Og Mandino</p>
+<p>Dale Carnegie</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
