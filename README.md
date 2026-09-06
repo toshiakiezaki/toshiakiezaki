@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To lead the people, walk behind them.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.</p>
 
-<p>Lao Tzu</p>
+<p>Kahlil Gibran</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
