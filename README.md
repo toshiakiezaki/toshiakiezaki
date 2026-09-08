@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>T.S. Eliot</p>
+<p>Carol Burnett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
