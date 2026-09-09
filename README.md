@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>Carol Burnett</p>
+<p>Maya Angelou</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
