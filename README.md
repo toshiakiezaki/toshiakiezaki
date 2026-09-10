@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>Maya Angelou</p>
+<p>Thich Nhat Hanh</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
