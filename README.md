@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>In the practice of tolerance, one's enemy is the best teacher.</p>
 
-<p>Dogen</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
