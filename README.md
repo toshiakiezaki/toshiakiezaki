@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Decide what your truth is. Then live it.</p>
+<p>One of the keys to happiness is a bad memory.</p>
 
-<p>Kamal Ravikant</p>
+<p>Rita Mae Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
