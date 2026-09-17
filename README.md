@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>One of the keys to happiness is a bad memory.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>Rita Mae Brown</p>
+<p>Norman Vaughan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
