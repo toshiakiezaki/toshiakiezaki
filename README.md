@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>Kamal Ravikant</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
