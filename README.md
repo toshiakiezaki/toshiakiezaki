@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
+<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
 
-<p>Steve Maraboli</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
