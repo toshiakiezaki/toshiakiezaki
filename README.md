@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>Naval Ravikant</p>
+<p>Jon Kabat-Zinn</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
