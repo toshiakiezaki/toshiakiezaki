@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
