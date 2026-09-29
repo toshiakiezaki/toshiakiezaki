@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>Jon Kabat-Zinn</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
