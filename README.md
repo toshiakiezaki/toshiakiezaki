@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>Freeing oneself from words is liberation.</p>
 
-<p>Marcus Aurelius</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
