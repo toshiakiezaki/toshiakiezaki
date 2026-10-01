@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Freeing oneself from words is liberation.</p>
+<p>Whatever you like to do, make it a hobby and whatever the world likes to do, make it a business.</p>
 
-<p>Bodhidharma</p>
+<p>Warren Buffett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
