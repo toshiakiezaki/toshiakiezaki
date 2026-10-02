@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Whatever you like to do, make it a hobby and whatever the world likes to do, make it a business.</p>
+<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
 
-<p>Warren Buffett</p>
+<p>Dan Millman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
