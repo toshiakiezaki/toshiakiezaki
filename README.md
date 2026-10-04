@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>Thomas Jefferson</p>
+<p>Mary Engelbreit</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
