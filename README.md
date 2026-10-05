@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heal the past, live the present, dream the future.</p>
+<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
 
-<p>Mary Engelbreit</p>
+<p>Marcus Aurelius</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
