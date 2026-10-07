@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Time stays long enough for anyone who will use it.</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>Leonardo da Vinci</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
