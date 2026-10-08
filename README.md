@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Listen to what you know instead of what you fear.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>Richard Bach</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
