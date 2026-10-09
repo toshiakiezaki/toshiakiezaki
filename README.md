@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Constantly think about how you could be doing things better.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>Elon Musk</p>
+<p>Richard Bach</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
