@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>Stephen Hawking</p>
+<p>James Allen</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
