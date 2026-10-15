@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>John Wooden</p>
+<p>Dan Brown</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
