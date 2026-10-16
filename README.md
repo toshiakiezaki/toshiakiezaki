@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>Some of your greatest lessons come from your darkest moments.</p>
 
-<p>Dan Brown</p>
+<p>Roger Lee</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
