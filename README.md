@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>Johann Wolfgang von Goethe</p>
+<p>Josh Waitzkin</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
