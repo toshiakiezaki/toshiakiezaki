@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>Josh Waitzkin</p>
+<p>Naval Ravikant</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
