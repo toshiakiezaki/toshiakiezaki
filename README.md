@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>Helen Keller</p>
+<p>Aristotle</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
