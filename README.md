@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>Life is a balance of holding on and letting go.</p>
 
-<p>Roy T. Bennett</p>
+<p>Rumi</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
