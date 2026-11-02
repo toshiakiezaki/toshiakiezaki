@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>James Allen</p>
+<p>Helen Keller</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
