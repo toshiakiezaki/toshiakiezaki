@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Life is either a daring adventure, or nothing.</p>
+<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
 
-<p>Helen Keller</p>
+<p>Bhagavad Gita</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
