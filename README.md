@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>Bhagavad Gita</p>
+<p>Dalai Lama</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
