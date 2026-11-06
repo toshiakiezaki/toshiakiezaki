@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>To perceive is to suffer.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>Aristotle</p>
+<p>Bodhidharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
