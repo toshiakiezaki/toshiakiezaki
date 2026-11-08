@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You have as much laughter as you have faith.</p>
+<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
 
-<p>Martin Luther</p>
+<p>Orison Swett Marden</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
