@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>Orison Swett Marden</p>
+<p>Bob Dylan</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
