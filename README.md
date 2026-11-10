@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
 
-<p>Bob Dylan</p>
+<p>Emily Dickinson</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
