@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>Take good advice, make sure it is good advice, then do it your way.</p>
 
-<p>Emily Dickinson</p>
+<p>Vidal Sassoon</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
