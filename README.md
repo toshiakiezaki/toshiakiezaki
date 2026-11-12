@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Take good advice, make sure it is good advice, then do it your way.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>Vidal Sassoon</p>
+<p>Roy T. Bennett</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
