@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>Roy T. Bennett</p>
+<p>Carl Jung</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
