@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>Carl Jung</p>
+<p>Elon Musk</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
