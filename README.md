@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>Elon Musk</p>
+<p>Walt Whitman</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
