@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Simplicity is the glory of expression.</p>
+<p>Big people don't make people feel small.</p>
 
-<p>Walt Whitman</p>
+<p>Robin Sharma</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
