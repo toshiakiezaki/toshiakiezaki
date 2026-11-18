@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</p>
 
-<p>Steve Harvey</p>
+<p>Lao Tzu</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
