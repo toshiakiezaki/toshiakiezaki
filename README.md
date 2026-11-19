@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>Lao Tzu</p>
+<p>Colin R. Davis</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
