@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>Heaven is right where you are standing.</p>
 
-<p>Anita Krizzan</p>
+<p>Morihei Ueshiba</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
