@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>Heaven is right where you are standing.</p>
+<p>You are what you believe yourself to be.</p>
 
-<p>Morihei Ueshiba</p>
+<p>Paulo Coelho</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
