@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>You are what you believe yourself to be.</p>
+<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
 
-<p>Paulo Coelho</p>
+<p>Ralph Marston</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
