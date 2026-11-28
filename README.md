@@ -23,9 +23,9 @@
 ### $ dailyquote_
 
 <!-- dailyquote:start -->
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>Franz Kafka</p>
+<p>George Bernard Shaw</p>
 <!-- dailyquote:end -->
 
 [^1]: Showing data only from public repositories
